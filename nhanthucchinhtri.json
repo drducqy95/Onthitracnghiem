@@ -1,6 +1,6 @@
 {
-   "NHAN_THUC_CHINH_TRI_2025": {
-        "P1": {
+   "Nhận thức chính trị": {
+        "Nhận thức chính trị phân 1": {
             "1": {
                 "1": "Là vũ khí sắc bén trong xây dựng và chỉnh đốn đảng vô sản.",
                 "2": "Là công cụ giúp Đảng “là đạo đức, là văn minh”.",
@@ -811,7 +811,7 @@
                 "A": "D",
                 "Q": "Theo Văn kiện Đại hội XIII của Đảng, cần phát huy cao nhất sức mạnh tổng hợp của lực lượng nào sau đây để bảo vệ Tổ quốc?"
             },
-            "name": "PHẦN 1"
+            "name": "Nhận thức chính trị phần 1"
         },
         "P2": {
             "1": {
@@ -1627,7 +1627,7 @@
                 "A": "E",
                 "Q": "Nghị quyết số 71-NQ/TW của Bộ Chính trị về đột phá phát triển giáo dục và đào tạo xác định tầm nhìn đến năm 2045 gồm những nội dung nào?"
             },
-            "name": "PHẦN 2"
+            "name": "Nhận thức chính trị phần 2"
         },
         "P3": {
             "1": {
@@ -2430,7 +2430,7 @@
                 "A": "B",
                 "Q": "Nghị quyết số 3488-NQ/QUTW, ngày 29/01/2025 của Quân ủy Trung ương nhấn mạnh rằng an ninh mạng, an ninh dữ liệu và an toàn thông tin là?"
             },
-            "name": "PHẦN 3"
+            "name": "Nhận thức chính trị phần 3"
         },
         "P4": {
             "1": {
@@ -3237,7 +3237,8 @@
                 "A": "B",
                 "Q": "Theo Thông tư số 122/2024/TT-BQP về thực hiện dân chủ ở cơ sở trong QĐND Việt Nam, số lượng thành viên Ban Thanh tra nhân dân được bầu gồm bao nhiêu người?"
             },
-            "name": "PHẦN 4"
+            "name": "Nhận thức chính trị phần 4"
         }
     }
 }
+
