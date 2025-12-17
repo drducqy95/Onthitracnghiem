@@ -1,0 +1,1607 @@
+{
+    "BENH_HOC_NOI_KHOA_2018": {
+        "AM3": {
+            "1": {
+                "1": "Bóng mờ tròn; giống viêm phổi; xẹp phổi; hạch rốn phổi, trung thất",
+                "2": "Bóng mờ tròn; xẹp phổi; hạch rốn phổi, trung thất; tràn dịch màng phổi",
+                "3": "Bóng mờ tròn; giống viêm phổi; xẹp phổi; tràn dịch màng phổi",
+                "4": "Bóng mờ tròn; giống viêm phổi; xẹp phổi; hạch rốn phổi, trung thất; Tràn dịch màng phổi",
+                "A": "D",
+                "Q": "Các hình ảnh tổn thương trên Xquang phổi chuẩn trong ung thư phổi gồm:"
+            },
+            "2": {
+                "1": "Chẩn đoán xác định bệnh, nguyên nhân và thể bệnh ",
+                "2": "Chẩn đoán xác định bệnh, thể bệnh và mức độ bệnh ",
+                "3": "Chẩn đoán xác định bệnh, nguyên nhân, mức độ bệnh và thể bệnh ",
+                "4": "Chẩn đoán xác định bệnh, nguyên nhân, mức độ bệnh, biến chứng và thể bệnh",
+                "A": "B",
+                "Q": "Giá trị của chụp cắt lớp vi tính trong giãn phế quản:"
+            },
+            "3": {
+                "1": "Định hướng chẩn đoán bệnh, thể bệnh, giai đoạn bệnh và biến chứng của bệnh",
+                "2": "Định hướng chẩn đoán bệnh, thể bệnh và giai đoạn bệnh",
+                "3": "Định hướng chẩn đoán bệnh, thể bệnh, giai đoạn bệnh, mức độ tổn thương và biến chứng của bệnh",
+                "4": "Định hướng chẩn đoán bệnh, giai đoạn bệnh và mức độ tổn thương",
+                "A": "C",
+                "Q": "Giá trị của Xquang phổi chuẩn trong lao phổi:"
+            },
+            "4": {
+                "1": "Tổn thương vùng giữa và dưới phổi; hạch rốn phổi, trung thất",
+                "2": "Tổn thương vùng cao và giữa phổi; hạch rốn phổi, trung thất",
+                "3": "Tổn thương vùng cao và phía sau phổi; hạch rốn phổi, trung thất",
+                "4": "Tổn thương vùng giữa và phía sau của phổi; hạch rốn phổi, trung thất",
+                "A": "A",
+                "Q": "Đặc điểm chính của hình ảnh Xquang phổi chuẩn trong lao phổi tiên phát là:"
+            },
+            "5": {
+                "1": "Tổn thương vùng cao của phổi; tổn thương mạn tính và khu trú 1 vùng",
+                "2": "Tổn thương vùng cao và phía sau của phổi; tổn thương mạn tính, có hang và nhiều vùng của phổi",
+                "3": "Tổn thương vùng cao của phổi; tổn thương mạn tính, có hang và khu trú 1 vùng",
+                "4": "Tổn thương vùng cao của phổi; tổn thương mạn tính, có hang và thay đổi nhanh sau điều trị đặc hiệu.",
+                "A": "B",
+                "Q": "Đặc điểm chính của hình ảnh Xquang phổi chuẩn trong lao phổi hậu tiên phát là:"
+            },
+            "6": {
+                "1": "Chẩn đoán xác định tràn dịch màng phổi, chẩn đoán mức độ dịch và nguyên nhân của tràn dịch màng phổi",
+                "2": "Chẩn đoán xác định tràn dịch màng phổi và nguyên nhân của tràn dịch màng phổi",
+                "3": "Chẩn đoán xác định tràn dịch màng phổi, chẩn đoán tính chất dịch và nguyên nhân của tràn dịch màng phổi",
+                "4": "Chẩn đoán xác định tràn dịch màng phổi, chẩn đoán thể tràn dịch và nguyên nhân của tràn dịch màng phổi",
+                "A": "B",
+                "Q": "Chỉ định chọc dịch màng phổi chẩn đoán bao gồm:"
+            },
+            "7": {
+                "1": "Điều trị triệu chứng và điều trị biến chứngcủa tràn dịch màng phổi",
+                "2": "Điều trị triệu chứng và điều trị nguyên nhâncủa tràn dịch màng phổi",
+                "3": "Điều trị nguyên nhânvà biến chứng của tràn dịch màng phổi",
+                "4": "Điều trị triệu chứng, điều trị nguyên nhân và điều trị biến chứngcủa tràn dịch màng phổi",
+                "A": "A",
+                "Q": "Chỉ định chọc dịch màng phổi điều trị bao gồm:"
+            },
+            "8": {
+                "1": "Rối loạn đông, chảy máu và có bệnh hô hấp, tim mạch nặng",
+                "2": "Rối loạn đông, chảy máu và suy hô hấp, loạn nhịp tim",
+                "3": "Rối loạn đông, chảy máu và suy tim, suy thận",
+                "4": "Rối loạn đông, chảy máu và suy hô hấp nặng, nhồi máu cơ tim trên 6 tháng",
+                "A": "A",
+                "Q": "Chống chỉ định chính của chọc dịch màng phổi bao gồm:"
+            },
+            "9": {
+                "1": "Sốc màng phổi, chảy máu và nhiễm trùng màng phổi",
+                "2": "Sốc màng phổi, chảy máu và tràn máu màng phổi ",
+                "3": "Sốc màng phổi, chảy máu và tràn khí màng phổi",
+                "4": "Sốc màng phổi, chảy máu,tràn khí và nhiễm trùng màng phổi",
+                "A": "D",
+                "Q": "Tai biến hay gặp của chọc dịch màng phổi bao gồm:"
+            },
+            "10": {
+                "1": "Xét nghiệm sinh hó tế bào và cấy khuẩn",
+                "2": "Xét nghiệm sinh hóa, tế bào và vi sinh",
+                "3": "Xét nghiệm protein, LDH, số lượng tế bào và cấy khuẩn",
+                "4": "Xét nghiệm protein, LDH, số lượng tế bào và cấy khuẩn",
+                "A": "B",
+                "Q": "Xét nghiệm chính của dịch màng phổi gồm:"
+            },
+            "11": {
+                "1": "Tính chất vật lý (màu, tỷ trọng), xét nghiệm protein và số lượng tế bào dịch màng phổi",
+                "2": "Tính chất vật lý (màu, tỷ trọng), xét nghiệm sinh hóa và công thức tế bào dịch màng phổi",
+                "3": "Tỷ trọng, xét nghiệm sinh hóa, số lượng và công thức tế bào dịch màng phổi",
+                "4": "Tính chất vật lý (màu, tỷ trọng), xét nghiệm sinh hóa và số lượng tế bào dịch màng phổi",
+                "A": "D",
+                "Q": "Các nhóm tiêu chuẩn đánh giá dịch thấm và dịch tiết màng phổi gồm:"
+            },
+            "12": {
+                "1": "Protein <30g/l, LDH>200u/l, phản ứng rivalta (-)",
+                "2": "Protein <30g/l, LDH<200u/l, phản ứng rivalta (-)",
+                "3": "Protein >30g/l, LDH>200u/l, phản ứng rivalta (-)",
+                "4": "Protein >30g/l, LDH<200u/l, phản ứng rivalta (-)",
+                "A": "B",
+                "Q": "Tiêu chuẩn xét nghiệm sinh hóa đánh giá dịch thấm màng phổi gồm:"
+            },
+            "13": {
+                "1": "Protein ≥30g/l, LDH<200u/l, phản ứng rivalta (+)",
+                "2": "Protein ≥30g/l, LDH≥200u/l, phản ứng rivalta (+)",
+                "3": "Protein <30g/l, LDH≥200u/l, phản ứng rivalta (+)",
+                "4": "Protein <30g/l, LDH<200u/l, phản ứng rivalta (+)",
+                "A": "B",
+                "Q": "Tiêu chuẩn xét nghiệm sinh hóa đánh giá dịch tiết màng phổi gồm:"
+            },
+            "14": {
+                "1": "Chẩn đoán xác định tràn khí màng phổi và nguyên nhân của tràn khí màng phổi",
+                "2": "Chẩn đoán xác định tràn khí màng phổi và điều trị tràn khí màng phổi ",
+                "3": "Chẩn đoán xác định tràn khí màng phổi, đánh giá thể và điều trị tràn khí màng phổi ",
+                "4": "Chẩn đoán xác định tràn khí màng phổi và đánh giá thể tràn khí màng phổi ",
+                "A": "C",
+                "Q": "Mục đích chọc khí màng phổi là:"
+            },
+            "15": {
+                "1": "Sốc màng phổi, chảy máu, tràn khí dưới da và nhiễm trùng màng phổi",
+                "2": "Sốc màng phổi, chảy máu và nhiễm trùng màng phổi",
+                "3": "Sốc màng phổi, tràn khí dưới da và nhiễm trùng màng phổi",
+                "4": "Chảy máu,tràn khí dưới da và nhiễm trùng màng phổi",
+                "A": "A",
+                "Q": "Tai biến hay gặp của chọc khí màng phổi bao gồm:"
+            },
+            "16": {
+                "1": "Xét nghiệm tế bào và cấy khuẩn",
+                "2": "Xét nghiệm tế bào và vi sinh",
+                "3": "Xét nghiệm số lượng tế bào và cấy khuẩn",
+                "4": "Xét nghiệm tế bào ung thư và cấy khuẩn",
+                "A": "B",
+                "Q": "Các loại xét nghiệm chính của đờm gồm:"
+            },
+            "17": {
+                "1": "Xét nghiệm soi trực tiếp tìm AFB, cấy BK và PCR",
+                "2": "Xét nghiệm soi trực tiếp tìm BK, cấy BK và PCR",
+                "3": "Xét nghiệm soi trực tiếp tìm AFB, cấy BK và xét nghiệm sinh học phân tử (PCR, genexpert…)",
+                "4": "Xét nghiệm soi trực tiếp tìm AFB, cấy BK và genexpert",
+                "A": "C",
+                "Q": "Xét nghiệm vi sinh chẩn đoán lao gồm:"
+            },
+            "18": {
+                "1": "Đánh giá tình trạng nhiễm lao và chẩn đoán bệnh lao",
+                "2": "Đánh giá tình trạng nhiễm lao và định hướng chẩn đoán lao ngoài phổi",
+                "3": "Đánh giá tình trạng nhiễm lao và định hướng chẩn đoán bệnh lao",
+                "4": "Đánh giá tình trạng nhiễm lao và định hướng chẩn đoán lao phổi",
+                "A": "C",
+                "Q": "Giá trị của phản ứng Mantoux:"
+            },
+            "19": {
+                "1": "Nhiễm HIV/AIDS, suy dinh dưỡng, tuổi già, mắc các bệnh mạn tính",
+                "2": "Nhiễm HIV/AIDS, suy dinh dưỡng, trẻ em, mắc các bệnh mạn tính",
+                "3": "Nhiễm HIV/AIDS, béo phì, tuổi già, mắc các bệnh mạn tính",
+                "4": "Nhiễm HIV/AIDS, đã tiêm BCG, tuổi già, mắc các bệnh mạn tính",
+                "A": "A",
+                "Q": "Phản ứng Mantoux âm tính giả trong các trường hợp sau:"
+            },
+            "20": {
+                "1": "Đường kính quầng đỏ ≥ 10mm ",
+                "2": "Đường kính cục sẩn ≥5mm",
+                "3": "Đường kính quầng đỏ ≥ 5mm",
+                "4": "Đường kính cục sẩn ≥ 10mm",
+                "A": "D",
+                "Q": "Kết quả phản ứng Mantoux dương tính ở người cơ địa bình thường là:"
+            },
+            "21": {
+                "1": "Xác định các thể rối loạn thông khí phổi và đánh giá đáp ứng điều trị một số bệnh hô hấp",
+                "2": "Xác định các thể, mức độ rối loạn thông khí phổi và đánh giá đáp ứng điều trị một số bệnh hô hấp",
+                "3": "Xác định sớm các thể rối loạn thông khí phổi và đánh giá đáp ứng điều trị một số bệnh hô hấp",
+                "4": "Xác định loại, mức độ rối loạn thông khí tắc nghẽn và đánh giá đáp ứng điều trị một số bệnh hô hấp",
+                "A": "D",
+                "Q": "Chỉ định chính của thăm dò chức năng hô hấp:"
+            },
+            "22": {
+                "1": "Các thể tích, các dung tích và các chỉ số",
+                "2": "Các thể tích động, các dung tích và các chỉ số",
+                "3": "Các thể tích tĩnh, các dung tích và các lưu lượng",
+                "4": "Các thể tích, các dung tích và các lưu lượng",
+                "A": "D",
+                "Q": "Các nhóm chỉ tiêu thông khí phổi bao gồm:"
+            },
+            "23": {
+                "1": "RV, CV",
+                "2": "RV, FRC",
+                "3": "RV, TLC",
+                "4": "RV, CV, TLC",
+                "A": "A",
+                "Q": "Các thể tích tĩnh của phổi gồm:"
+            },
+            "24": {
+                "1": "Vt, IRV, FVC",
+                "2": "Vt, IRV, ERV, FVC",
+                "3": "Vt, IRV, ERV",
+                "4": "Vt, IRV, ERV, FRC",
+                "A": "C",
+                "Q": "Các thể tích động của phổi gồm:"
+            },
+            "25": {
+                "1": "FEV1, FEF25, FEF50, FEF75, PEF",
+                "2": "FEV1, FEF25, FEF50, FEF75",
+                "3": "FEV1, FEF25, FEF25%-75%, FEF75",
+                "4": "FEV1, FEF25, FEF25%-75%, FEF75, PEF",
+                "A": "D",
+                "Q": "Các lưu lượng của phổi gồm:"
+            },
+            "26": {
+                "1": "FEV1/ FVC",
+                "2": "FEV1/VC",
+                "3": "FEV1/TLC",
+                "4": "FEV1/ FRC",
+                "A": "B",
+                "Q": "Chỉ số Tiffeneau là:"
+            },
+            "27": {
+                "1": "FEV1/ FVC",
+                "2": "FEV1/VC",
+                "3": "FEV1/TLC",
+                "4": "FEV1/ FRC",
+                "A": "A",
+                "Q": "Chỉ số Gaensler là:"
+            },
+            "28": {
+                "1": "Yếu tố cá thể và hút thuốc",
+                "2": "Yếu tố cá thể và môi trường",
+                "3": "Yếu tố môi trường và hút thuốc",
+                "4": "Yếu tố cá thể, môi trường và hút thuốc",
+                "A": "D",
+                "Q": "Các yếu tố chính ảnh hường đến giá trị các chỉ tiêu thông khí phổi là:"
+            },
+            "29": {
+                "1": "Chiều cao, cân nặng và giới tính",
+                "2": "Chiều cao, cân nặng, tuổi và giới tính",
+                "3": "Chiều cao, cân nặng, tuổi, giới tính và chủng tộc",
+                "4": "Chiều cao, cân nặng, giới tính và chủng tộc",
+                "A": "C",
+                "Q": "Yếu tố các thể chính ảnh hường đến giá trị các chỉ tiêu thông khí phổi là:"
+            },
+            "30": {
+                "1": "Là giá trị lý tưởng (bình thường) chung cho mọi cá thể cho mỗi thông số chức năng hô hấp",
+                "2": "Là giá trị lý tưởng (bình thường) chung cho mọi cá thể cho tất cả các thông số chức năng hô hấp",
+                "3": "Là giá trị lý tưởng (bình thường) của từng cá thể cho tất cả các thông số chức năng hô hấp",
+                "4": "Là giá trị lý tưởng (bình thường) của từng cá thể cho mỗi thông số chức năng hô hấp",
+                "A": "D",
+                "Q": "Số lý thuyết trong đánh giá các thông số chức năng hô hấp là:"
+            },
+            "31": {
+                "1": "FEV1 ≥80% số lý thuyết, FVC ≥80% số lý thuyết, tỷ lệ FEV1/FVC <70%",
+                "2": "FEV1 ≥80% số lý thuyết, FVC <80% số lý thuyết, tỷ lệ FEV1/FVC ≥70%",
+                "3": "FEV1 ≥80% số lý thuyết, FVC ≥80% số lý thuyết, tỷ lệ FEV1/FVC ≥70%",
+                "4": "FEV1 <80% số lý thuyết, FVC ≥80% số lý thuyết, tỷ lệ FEV1/FVC ≥70%",
+                "A": "C",
+                "Q": "Tiêu chuẩn đánh giá thông khí phổi bình thường:"
+            },
+            "32": {
+                "1": "FEV1 ≥80% số lý thuyết, FVC <80% số lý thuyết, tỷ lệ FEV1/FVC <70%",
+                "2": "FEV1 <80% số lý thuyết, FVC <80% số lý thuyết, tỷ lệ FEV1/FVC ≥70%",
+                "3": "FEV1 <80% số lý thuyết, FVC ≥80% số lý thuyết, tỷ lệ FEV1/FVC ≥70%",
+                "4": "FEV1 <80% số lý thuyết, FVC ≥80% số lý thuyết, tỷ lệ FEV1/FVC <70%",
+                "A": "D",
+                "Q": "Tiêu chuẩn rối loạn thông khí tắc nghẽn:"
+            },
+            "33": {
+                "1": "Bệnh phổi tắc nghẽn mạn tính, hen phế quản, giãn phế quản, xơ phổi",
+                "2": "Bệnh phổi tắc nghẽn mạn tính, hen phế quản, bệnh phổi kẽ, xơ phổi",
+                "3": "Bệnh phổi tắc nghẽn mạn tính, hen phế quản, giãn phế quản, viêm tiểu phế quản",
+                "4": "Bệnh phổi tắc nghẽn mạn tính, hen phế quản, giãn phế quản, bệnh phổi kẽ",
+                "A": "C",
+                "Q": "Tiêu chuẩn đánh giá thông khí tắc nghẽn:"
+            },
+            "34": {
+                "1": "FEV1 ≥80% số lý thuyết, FVC <80% số lý thuyết, tỷ lệ FEV1/FVC ≥70%",
+                "2": "FEV1 <80% số lý thuyết, FVC <80% số lý thuyết, tỷ lệ FEV1/FVC ≥70%",
+                "3": "FEV1 <80% số lý thuyết, FVC ≥80% số lý thuyết, tỷ lệ FEV1/FVC ≥70%",
+                "4": "FEV1 <80% số lý thuyết, FVC ≥80% số lý thuyết, tỷ lệ FEV1/FVC <70%",
+                "A": "A",
+                "Q": "Tiêu chuẩn rối loạn thông khí hạn chế:"
+            },
+            "35": {
+                "1": "Bệnh phổi kẽ, xơ phổi, bệnh bụi phổi và tràn dịch màng phổi",
+                "2": "Bệnh phổi kẽ, xơ phổi, bệnh phổi tắc nghẽn và tràn dịch màng phổi",
+                "3": "Bệnh phổi kẽ, xơ phổi, bệnh bụi phổi và bệnh phổi tắc nghẽn",
+                "4": "Bệnh phổi kẽ, bệnh phổi tắc nghẽn, bệnh bụi phổi và tràn dịch màng phổi",
+                "A": "A",
+                "Q": "Nguyên nhân chính của rối loạn thông khí hạn chế:"
+            },
+            "36": {
+                "1": "FEV1 ≥80% số lý thuyết, FVC <80% số lý thuyết, tỷ lệ FEV1/FVC ≥70%",
+                "2": "FEV1 <80% số lý thuyết, FVC <80% số lý thuyết, tỷ lệ FEV1/FVC ≤70%",
+                "3": "FEV1 <80% số lý thuyết, FVC ≥80% số lý thuyết, tỷ lệ FEV1/FVC ≥70%",
+                "4": "FEV1 <80% số lý thuyết, FVC ≥80% số lý thuyết, tỷ lệ FEV1/FVC <70%",
+                "A": "B",
+                "Q": "Tiêu chuẩn rối loạn thông khí hỗn hợp:"
+            },
+            "37": {
+                "1": "Bệnh phổi kẽ nặng, bệnh phổi tắc nghẽn mạn tính và tràn dịch màng phổi",
+                "2": "Bệnh phổi kẽ nặng, bệnh phổi tắc nghẽn mạn tính ở giai đoạn muộn",
+                "3": "Bệnh phổi kẽ nặng, bệnh phổi tắc nghẽn mạn tính ở giai đoạn muộn hoặc tràn dịch màng phổi",
+                "4": "Bệnh phổi kẽ ở giai đoạn sớm, bệnh phổi tắc nghẽn mạn tính ở giai đoạn muộn hoặc kết hợp với tràn dịch màng phổi",
+                "A": "C",
+                "Q": "Nguyên nhân chính của rối loạn thông khí hỗn hợp:"
+            },
+            "38": {
+                "1": "FEV1 sau test tăng ≥12% số lý thuyết hoặc tăng ≥200ml",
+                "2": "FEV1 sau test tăng ≥12% số lý thuyết hoặc tăng ≥300ml",
+                "3": "FEV1 sau test tăng ≥20% số lý thuyết hoặc tăng ≥200ml",
+                "4": "FEV1 sau test tăng ≥20% số lý thuyết hoặc tăng ≥300ml",
+                "A": "A",
+                "Q": "Tiêu chuẩn test hồi phục phế quản dương tính:"
+            },
+            "39": {
+                "1": "Chẩn đoán định hướng suy hô hấp và thiếu ô xy",
+                "2": "Chẩn đoán xác định suy hô hấp và thiếu ô xy",
+                "3": "Chẩn đoán xác định suy hô hấp, các thể suy hô hấp và rối loạn thăng bằng kiềm toan",
+                "4": "Chẩn đoán xác định suy hô hấp và các thể suy hô hấp",
+                "A": "C",
+                "Q": "Giá trị của xét nghiệm khí máu động mạch trong chẩn đoán suy hô hấp là:"
+            },
+            "40": {
+                "1": "PaO2<60mmHg, PaCO2 tăng",
+                "2": "PaO2<60mmHg, PaCO2 bình thường",
+                "3": "PaO2<60mmHg, PaCO2 bình thường hoặc tăng",
+                "4": "PaO2<60mmHg, PaCO2 tăng, pH giảm",
+                "A": "C",
+                "Q": "Tiêu chuẩn khí máu động mạch của suy hô hấp là:"
+            },
+            "41": {
+                "1": "Mờ thuần nhất 1 thùy hay phân thùy phổi",
+                "2": "Mờ thuần nhất 1 thùy phổi, có hình ảnh phế quản hơi",
+                "3": "Mờ thuần nhất 1 thùy phổi, kéo rãnh lien thùy",
+                "4": "Mờ không thuần nhất 1 thùy, có hình ảnh phế quản hơi",
+                "A": "B",
+                "Q": "Hình ảnh x-quang phổi chuẩn của viêm phổi phế cầu:  "
+            },
+            "42": {
+                "1": "Tổn thương mờ rải rác 1 bên phổi, có hình ảnh bóng khí",
+                "2": "Tổn thương mờ rải rác 2 bên phổi, không có hang",
+                "3": "Tổn thương mờ rải rác 2 bên phổi, có hình ảnh bóng khí",
+                "4": "Tổn thương mờ rải rác 2 bên phổi, có hình ảnh bóng khí, tổn thương di chuyển nhanh.",
+                "A": "D",
+                "Q": "Hình ảnh x-quang phổi chuẩn của viêm phổi tụ cầu: "
+            },
+            "43": {
+                "1": "Nốt mờ đậm cả 2 bên phổi, có hang",
+                "2": "Nốt mờ nhạt tỏa ra từ rốn phổi",
+                "3": "Hình ảnh lưới nốt tỏa ra từ 2 rốn phổi",
+                "4": "Hình ảnh nốt mờ nhạt tỏa ra từ 2 rốn phổi, có hang",
+                "A": "B",
+                "Q": "Hình ảnh x-quang chuẩn của viêm phổi liên cầu: "
+            },
+            "44": {
+                "1": "Nốt mờ nhạt rải từ dưới lên trên",
+                "2": "Nốt mờ đậm rải từ dưới lên trên",
+                "3": "Nốt mờ đậm rải từ trên xuống dưới",
+                "4": "Nốt mờ nhạt rải từ trên xuống dưới ",
+                "A": "D",
+                "Q": "Hình ảnh x-quang lao phổi tản mạn: "
+            },
+            "45": {
+                "1": "Nốt mờ nhạt, rải từ trên xuống dưới",
+                "2": "Nốt mờ đậm rải từ dưới lên trên",
+                "3": "Nốt mờ đậm rải từ trên xuống dưới",
+                "4": "Nốt mờ nhạt rải từ dưới lên trên",
+                "A": "B",
+                "Q": "Hình ảnh x-quang K phổi thứ phát: "
+            },
+            "46": {
+                "1": "Hình ảnh đám mờ một bên phổi",
+                "2": "Hình ảnh nốt đậm chủ yếu 2 nền phổi",
+                "3": "Hình ảnh đám mờ 2 nền phổi",
+                "4": "Hình ảnh lưới nốt chủ yếu 2 nền phổi ",
+                "A": "D",
+                "Q": "Hình ảnh x-quang chuẩn của viêm phổi do virus: "
+            },
+            "47": {
+                "1": "Đám mờ bờ không rõ, có phs hủy",
+                "2": "Đám mờ không rõ bờ, đa cung",
+                "3": "Đám mờ rõ bờ, đa cung, có múi, có tua.",
+                "4": "Đám mờ, không thuần nhất, có phá hủy",
+                "A": "C",
+                "Q": "Hình ảnh x-quang chuẩn của K phế quản: "
+            },
+            "48": {
+                "1": "Phổi tăng sáng, đỉnh phổi tròn, khoang gian sườn giãn, vòm hoành hạ thấp",
+                "2": "Phổi mờ, khoang gian sườn giãn, vòm hoành hạ thấp",
+                "3": "Phổi tăng sáng, mất vân phổi, khoang gian sườn giãn, vòm hoành thấp",
+                "4": "Phổi mờ, khoang gian sườn giãn, đẩy tim và trung thất",
+                "A": "A",
+                "Q": "Hình ảnh x-quang chuẩn của khí phế thũng: "
+            },
+            "49": {
+                "1": "Rốn phổi đậm, tăng sinh mạch máu",
+                "2": "Hình ảnh Xquang Phổi bình thường",
+                "3": "Nhiều đám mờ cả 2 bên phổi",
+                "4": "Hình ảnh phổi bẩn",
+                "A": "B",
+                "Q": "Hình ảnh x-quang chuẩn của viêm phế quản cấp: "
+            },
+            "50": {
+                "1": "Hình ảnh Xquang Phổi bình thường",
+                "2": "Dày thành phế quản, tăng sinh mạch máu, nốt mờ xung quanh phế quản",
+                "3": "Rốn phổi đậm, rộng",
+                "4": "Nhiều đám mờ cả 2 phổi",
+                "A": "B",
+                "Q": "Hình ảnh x-quang chuẩn của viêm phế quản mạn: "
+            },
+            "51": {
+                "1": "Phổi tăng sáng, mất vân phổi, có đường viền màng phổi tạng",
+                "2": "Phổi tăng sáng, vòm hoành hạ thấp, rốn phổi đậm",
+                "3": "Phổi mờ, đẩy tim và trung thất",
+                "4": "Mất vân phổi, phổi tăng sáng, giãn khoang gian sườn",
+                "A": "A",
+                "Q": "Hình ảnh x-quang chuẩn của tràn khí màng phổi: "
+            },
+            "52": {
+                "1": "Mờ đậm thuần nhất nền phổi, mất góc sườn hoành, kéo khoang gian sườn",
+                "2": "Mờ đậm thuần nhất nền phổi, mất góc sườn hoành, đẩy tim và trung thất, giãn khoang gian sườn",
+                "3": "Mờ đậm nền phổi, kéo khoang gian sườn, không đẩy tim và trung thất",
+                "4": "Mờ không thuần nhất nền phổi, mất góc sườn hoành, đẩy tim và trung thất",
+                "A": "B",
+                "Q": "Hình ảnh x-quang chuẩn của tràn dịch màng phổi thể tự do:"
+            },
+            "53": {
+                "1": "Xquang phổi bình thường",
+                "2": "Phổi tăng sáng, đỉnh phổi tròn, giãn khoang gian sườn, vòm hoành hạ thấp. ",
+                "3": "Phổi tăng sáng, đỉnh phổi tròn, giãn khoang gian sườn, tim to",
+                "4": "Phổi tăng sáng, 2 rốn phổi đậm",
+                "A": "B",
+                "Q": "Hình ảnh x-quang phổi chuẩn hen phế quản trong cơn:"
+            },
+            "54": {
+                "1": "Xquang phổi bình thường",
+                "2": "Phổi tăng sáng, 2 rốn phổi đậm",
+                "3": "Phổi tăng sáng, vòm hoành hạ thấp",
+                "4": "Nhiều nốt mờ 2 phổi, rốn phổi to, đậm",
+                "A": "A",
+                "Q": "Hình ảnh x-quang phổi chuẩn của hen phế quản ngoài cơn:"
+            },
+            "55": {
+                "1": "Hình ảnh phổi bẩn",
+                "2": "Hình ảnh giãn phổi",
+                "3": "Hình ảnh ruột bánh mì",
+                "4": "Hình ảnh kính mờ",
+                "A": "C",
+                "Q": "Hình ảnh x-quang phổi chuẩn của giãn phế quản thể ướt: "
+            },
+            "56": {
+                "1": "Khối mờ không rõ bờ, đa cung, có hang",
+                "2": "Khối mờ rõ bờ, có mức khí nước",
+                "3": "Khối mờ không thuần nhất có hang",
+                "4": "Đám mờ không thuần nhất, có mức khí nước",
+                "A": "B",
+                "Q": "Hình ảnh x-quang chuẩn của áp xe phổi: "
+            },
+            "57": {
+                "1": "Hình ảnh màng phổi sáng ở trên, mờ ở dưới, có mức khí-nước",
+                "2": "Hình ảnh màng phổi tăng sáng, mất vân phổi, có đường viền màng phổi tạng",
+                "3": "Mờ đậm thuần nhất nền phổi, đẩy tim và trung thất",
+                "4": "Khối mờ thuần nhất, có mức khí-nước",
+                "A": "A",
+                "Q": "Hình ảnh x-quang chuẩn của tràn khí-tràn dịch khoang màng phổi: "
+            },
+            "58": {
+                "1": "Mờ đậm thuần nhất, có hang",
+                "2": "Mờ không thuần nhất đỉnh và dưới đòn, có hang, lan tràn",
+                "3": "Mờ tương đối thuần nhất đỉnh và dưới đòn",
+                "4": "Mờ thuần nhất đỉnh phổi, kéo khí quản",
+                "A": "B",
+                "Q": "Hình ảnh Xquang chuẩn của lao phổi thể thâm nhiễm: "
+            },
+            "59": {
+                "1": "Mờ đậm thuần nhất, có hang xơ, kéo tổ chức xung quanh, có nốt lan tràn, có dày dính màng phổi",
+                "2": "Mờ thuần nhất, có hang",
+                "3": "Mờ không thuần nhất, có hang",
+                "4": "Nhiều đám mờ 2 phổi, có hang",
+                "A": "A",
+                "Q": "Hình ảnh x-quang chuẩn của lao xơ hang: "
+            },
+            "60": {
+                "1": "Mờ đậm thuần nhất, co kéo xung quanh",
+                "2": "Thùy phổi thu hẹp thể tích, co kéo xung quanh",
+                "3": "Mờ đậm thuần nhất, co kéo xung quanh, có phá hủy",
+                "4": "Mờ không thuần nhất, có phá hủy, kéo rãnh liên thùy bé",
+                "A": "B",
+                "Q": "Hình ảnh x-quang chuẩn của xẹp phổi: "
+            },
+            "61": {
+                "1": "Đo thông khí  phổi, test hồi phục phế quản",
+                "2": "Đo thông khí phổi, test kích thích phế quản ",
+                "3": "Đo thông khí phổi, test dị nguyên",
+                "4": "Chức năng hô hấp, xét nghiệm IgE",
+                "A": "A",
+                "Q": "Chẩn đoán xác định hen phế quản trong cơn dựa vào: "
+            },
+            "62": {
+                "1": "Lâm sàng",
+                "2": "Chụp cắt lớp vi tính độ phân giải cao( HRCT)",
+                "3": "Thông khí phổi",
+                "4": "X-quang chuẩn",
+                "A": "B",
+                "Q": "Chẩn đoán xác định giãn phế quản dựa vào: "
+            },
+            "63": {
+                "1": "A.Lâm sàng",
+                "2": "B.X-quang",
+                "3": "C.Thông khí phổi",
+                "4": "Cắt lớp vi tính lồng ngực",
+                "A": "C",
+                "Q": "Chẩn đoán xác định COPD bằng: "
+            },
+            "64": {
+                "1": "Hội chứng nhiễm trùng cấp, hội chứng phế quản",
+                "2": "Hội chứng nhiễm trùng cấp, viêm long đường hô hấp, hội chứng phế quản",
+                "3": "Hội chứng nhiễm trùng cấp, hội chứng phế quản, X-quang phổi bình thường",
+                "4": "Hội chứng nhiễm trùng cấp + ho khạc đờm + hội chứng đông đặc",
+                "A": "C",
+                "Q": "Tiêu chuẩn chẩn đoán  viêm phế quản cấp: "
+            },
+            "65": {
+                "1": "Ho khạc đờm kéo dài, có hội chứng phế quản",
+                "2": "Ho khạc > 2 tuần,  Xquang phổi: có hình ảnh rốn phổi đậm",
+                "3": "Ho khạc đờm ≥  3 tháng/năm, ít nhất 2 năm liên tiếp + hội  chứng phế quản + X-quang: hình ảnh phổi bẩn, Rối loạn TKTN.",
+                "4": "Ho khạc đờm kéo dài + HC phế quản, Xquang phổi có nhiều đám mờ",
+                "A": "C",
+                "Q": "Tiêu chuẩn chẩn đoán viêm phế quản mạn tính: "
+            },
+            "66": {
+                "1": "Liên quan yếu tố dị ứng",
+                "2": "Liên quan đến nhiễm trùng",
+                "3": "Liên quan đến gắng sức",
+                "4": "Liên quan đến yếu tố gia đình",
+                "A": "B",
+                "Q": "Hen phế quản nội lai thường liên quan tới : "
+            },
+            "67": {
+                "1": "A.Liên quan đến dị ứng",
+                "2": "B.Liên quan đến nhiễm trùng",
+                "3": "C.Liên quan đến gắng sức",
+                "4": "Liên quan yếu tố gia đình",
+                "A": "A",
+                "Q": "Hen phế quản ngoại lai thường liên quan tới: "
+            },
+            "68": {
+                "1": "Khó thở 2 thì, nhanh, nông",
+                "2": "Khó thở khi hít vào",
+                "3": "Khó thở thì thở ra, khó thở chậm, rít, tái diễn có chu kỳ.",
+                "4": "Khó thở nhanh, nông",
+                "A": "C",
+                "Q": "Đặc điểm khó thở trong hen phế quản: "
+            },
+            "69": {
+                "1": "Rối loạn thông khí hạn chế",
+                "2": "Rối loạn thông khí tắc nghẽn không hồi phục",
+                "3": "Rối loạn thông khí hỗn hợp",
+                "4": "Rối loạn thông khí tắc nghẽn có hồi phục hoàn toàn",
+                "A": "D",
+                "Q": "Rối loạn thông khí phổi trong  hen phế quản là: "
+            },
+            "70": {
+                "1": "Nhóm Xanthin, nhóm kích thích β2, nhóm kháng cholinergic",
+                "2": "Nhóm Xanthin, nhóm corticoid, nhóm kích thích β2",
+                "3": "Nhóm Xanthin, nhóm corticoid, nhóm kích thích hô hấp",
+                "4": "Nhóm Kích thích β2, nhóm corticoid",
+                "A": "A",
+                "Q": "Các nhóm thuốc giãn phế quản: "
+            },
+            "71": {
+                "1": "Ho máu có đuôi khái huyết",
+                "2": "Ho máu buổi sáng, sẫm màu",
+                "3": "Ho máu tái diễn, không có đuôi ho máu",
+                "4": "Ho máu màu hồng",
+                "A": "C",
+                "Q": "Đặc điểm ho máu trong giãn phế quản thể khô: "
+            },
+            "72": {
+                "1": "Giãn phế quản bẩm sinh, mắc phải",
+                "2": "Giãn phế quản khu trú, lan tỏa",
+                "3": "Giãn phế quản ống, hình túi",
+                "4": "Giãn phế quản 1 bên, 2 bên",
+                "A": "A",
+                "Q": "Phân loại giãn phế quản theo căn nguyên: "
+            },
+            "73": {
+                "1": "Khó thở 2 thì, nhanh nông",
+                "2": "Khó thở thì thở ra",
+                "3": "Khó thở thường xuyên, tăng dần theo thời gian",
+                "4": "Khó thở chậm, rít",
+                "A": "C",
+                "Q": "Đặc điểm khó thở trong COPD: "
+            },
+            "74": {
+                "1": "Rối loạn thông khí hạn chế",
+                "2": "Rối loạn thông khí tắc nghẽn",
+                "3": "Rối loạn thông khí tắc nghẽn hồi phục",
+                "4": "Rối loạn thông khí tắc nghẽn không hồi phục hoàn toàn",
+                "A": "D",
+                "Q": "Đặc điểm rối loạn thông khí phổi của COPD: "
+            },
+            "75": {
+                "1": "Chẩn đoán COPD",
+                "2": "Chẩn đoán phân biệt COPD và hen phế quản",
+                "3": "Chẩn đoán hen phế quản",
+                "4": "Chẩn đoán hen phế quản ngoại lai",
+                "A": "B",
+                "Q": "Ý nghĩa test hồi phục phế quản: "
+            },
+            "76": {
+                "1": "Căng giãn phổi",
+                "2": "Phổi bẩn",
+                "3": "Phổi bẩn + căn giãn phổi",
+                "4": "Bóng tim to + căng giãn phổi",
+                "A": "C",
+                "Q": "Hình ảnh chủ yếu của X-quang phổi chuẩn trong bệnh phổi tắc nghẽn mạn tính gồm: "
+            },
+            "77": {
+                "1": "Hen phế quản",
+                "2": "Viêm phế quản cấp",
+                "3": "Viêm phổi",
+                "4": "COPD",
+                "A": "D",
+                "Q": "Thiếu hụt α1-antitrypsin bẩm sinh có thể gặp trong: "
+            },
+            "78": {
+                "1": "COPD týp PP",
+                "2": "COPD týp BB",
+                "3": "Hen phế quản",
+                "4": "Giãn phế quản",
+                "A": "A",
+                "Q": "Khó thở, môi hồng gặp trong bệnh: "
+            },
+            "79": {
+                "1": "COPD týp PP",
+                "2": "COPD týp BB",
+                "3": "Hen phế quản",
+                "4": "Viêm phế quản mạn",
+                "A": "B",
+                "Q": "Phù, tím thường gặp trong bệnh: "
+            },
+            "80": {
+                "1": "Khó thở tăng",
+                "2": "Khó thở dai dẳng",
+                "3": "Khó thở kéo dài dùng thuốc cắt cơn ít có kết quả",
+                "4": "Khó thở kéo dài trên 24 giờ, các thuốc cắt cơn thông thường  không kết quả, có thể suy hô hấp hoặc suy tim cấp, đê dọa tính mạng bệnh nhân.",
+                "A": "D",
+                "Q": "Hen ác tính là cơn hen: "
+            },
+            "81": {
+                "1": "Tổn thương ở phổi; tổn thương ở phế quản; các nguyên nhân khác.",
+                "2": "Tổn thương phổi; nguyên nhân tim mạch; các nguyên nhân khác.",
+                "3": "Tổn thương phổi – phế quản; nguyên nhân tim mạch; các nguyên nhân khác.",
+                "4": "Tổn thương bệnh lí ở phổi; tổn thương bệnh lí ngoài phổi.",
+                "A": "C",
+                "Q": "Nguyên nhân ho ra máu gồm: "
+            },
+            "82": {
+                "1": "Lao phổi; ung thư phế quản; viêm phế quản mạn; giãn phế quản.",
+                "2": "Lao phổi; ung thư phế quản; giãn phế quản; nhiễm khuẩn phổi phế quản, apxe ",
+                "3": "Lao phổi; ung thư phế quản; giãn phế quản; viêm phổi vi rút.",
+                "4": "Lao phổi; ung thư phế quản; giãn phế quản; viêm phổi kẽ.",
+                "A": "B",
+                "Q": "Các bệnh lí ở phổi hay gây ho ra máu gồm: "
+            },
+            "83": {
+                "1": "Tổng lượng máu ho ra trong vòng 24 giờ < 30 ml..",
+                "2": "Tổng lượng máu ho ra trong vòng 24 giờ < 50 ml.",
+                "3": "Tổng lượng máu ho ra trong vòng 24 giờ < 100 ml.",
+                "4": "Tổng lượng máu ho ra trong vòng 24 giờ < 150 ml.",
+                "A": "B",
+                "Q": "Ho ra máu mức độ nhẹ là: "
+            },
+            "84": {
+                "1": "Tổng lượng máu ho ra trong vòng 24 giờ  > 30 ml và ≤ 50 ml.",
+                "2": "Tổng lượng máu ho ra trong vòng 24 giờ  > 50 ml và  ≤ 150 ml.",
+                "3": "Tổng lượng máu ho ra trong vòng 24 giờ  ≥ 50 ml và  < 200 ml.",
+                "4": "Tổng lượng máu ho ra trong vòng 24 giờ  > 100 ml và  ≤ 200 ml.",
+                "A": "C",
+                "Q": "Ho ra máu mức độ trung bình là: "
+            },
+            "85": {
+                "1": "Tổng lượng máu ho ra trong vòng 24 giờ  ≥ 50 ml.",
+                "2": "Tổng lượng máu ho ra trong vòng 24 giờ  ≥ 100 ml.",
+                "3": "Tổng lượng máu ho ra trong vòng 24 giờ  ≥ 200 ml.",
+                "4": "Tổng lượng máu ho ra trong vòng 24 giờ  ≥ 150 ml.",
+                "A": "C",
+                "Q": "Ho ra máu mức độ nặng là: "
+            },
+            "86": {
+                "1": "Bất động, an thần, cầm máu, giảm ho, kháng sinh và điều trị căn nguyên.  ",
+                "2": "Bất động, giảm ho, an thần, cầm máu và điều trị căn nguyên.",
+                "3": "Bất động, an thần, cầm máu, kháng sinh và điều trị căn nguyên.",
+                "4": "Bất động, cầm máu, kháng sinh phòng và điều trị căn nguyên.",
+                "A": "A",
+                "Q": "Nguyên tắc chung xử trí ho ra máu gồm: "
+            },
+            "87": {
+                "1": "Bất động; nằm nghiêng về bên tổn thương; theo dõi lượng máu ho ra/ 24 giờ; ăn lỏng, nguội.",
+                "2": "Bất động; nằm nghiêng về bên lành; theo dõi lượng máu ho ra/24 giờ; cho ăn lỏng, nguội.",
+                "3": "Bất động tại giường; khi ho máu nằm nghiêng về bên phổi tổn thương; theo dõi số lượng máu ho ra trong 12 giờ đầu; cho ăn chế độ lỏng, nguội. ",
+                "4": "Bất động; nằm nghiêng về bên tổn thương; theo dõi lượng máu ho ra/24 giờ; ăn theo yêu cầu.",
+                "A": "A",
+                "Q": "Chế độ hộ lí cho bệnh nhân ho ra máu: "
+            },
+            "88": {
+                "1": "Aminazin; Gacdenal; Morphin.",
+                "2": "Gacdenal; Morphin; Pipolphen.",
+                "3": "Aminazin; Morphin; Pipolphen. ",
+                "4": "Aminazin; Gacdenal; Pipolphen.",
+                "A": "D",
+                "Q": "Hỗn hợp thuốc Cocktailytic điều trị bệnh nhân ho ra máu gồm: "
+            },
+            "89": {
+                "1": "Tinh chất hậu yên; VitaminK; thuốc đông y; truyền máu.",
+                "2": "Thuốc Hemocaprol; Tinh chất hậu yên; truyền máu.",
+                "3": "Tinh chất hậu yên; Transamin; thuốc đông y; thuốc tác động đến đông máu",
+                "4": "Tinh chất hậu yên; thuốc tác động đến đông máu; thuốc đông y; truyền máu.",
+                "A": "D",
+                "Q": "Thuốc cầm máu điều trị bệnh nhân ho ra máu gồm: "
+            },
+            "90": {
+                "1": "Thuốc co mạch; truyền máu tươi cùng nhóm.",
+                "2": "Truyền máu tươi cùng nhóm; gây tắc động mạch phế quản; phẫu thuật cấp cứu.",
+                "3": "Thuốc co mạch; truyền máu tươi cùng nhóm; gây tắc động mạch phế quản. ",
+                "4": "Thuốc co mạch; phẫu thuật cấp cứu.",
+                "A": "B",
+                "Q": "Biện pháp tiếp theo, khi điều trị thuốc cầm máu không hiệu quả là: "
+            },
+            "91": {
+                "1": "Khó thở kéo dài 4-5 giờ; điều trị thuốc thông thường đáp ứng chậm.",
+                "2": "Khó thở  kéo dài 1- 3 giờ; điều trị thuốc thông thường tiến triển chậm; người bệnh đã có suy hô hấp mạn trước đó.",
+                "3": "Khó thở nặng kéo dài > 24 giờ; điều trị thuốc thông thường không kết quả, suy hô hấp cấp.",
+                "4": "Khó thở kéo dài 4-5 giờ; ở người bệnh bị hen đã có biến chứng tâm phế mạn.",
+                "A": "C",
+                "Q": "Cơn hen phế quản ác tính (cấp tính nặng) là: "
+            },
+            "92": {
+                "1": "Tiền sử đã điều trị ở hồi sức vì bệnh hen; không tuân thủ điều trị; ngừng Corticoid đột ngột. ",
+                "2": "Bệnh hen lâu năm; tuân thủ điều trị kém; giảm liều Corticoid.",
+                "3": "Bị hen dị ứng ; không tuân thủ điều trị ; giảm liều Corticoid.",
+                "4": "Bệnh hen lâu năm; điều trị dự phòng hen không đều; ngừng Corticoid đột ngột; ",
+                "A": "A",
+                "Q": "Các yếu tố nguy cơ của hen ác tính (cấp tính nặng) gồm: "
+            },
+            "93": {
+                "1": "Đáp ứng với chủ vận β2-Adrenergic; phải dùng β2-Adrenergic với chẹn Cholinergic, corticoid.  ",
+                "2": "Đáp ứng với chủ vận β2-Adrenergic; phải dùng nhiều corticoid.",
+                "3": "Xuất hiện nhiều và dài ngày hơn; ít đáp ứng với chủ vận β2-Adrenergic; phải dùng nhiều β2-Adrenergic, corticoid; PEF dao động > 20% số lý thuyết.  ",
+                "4": "Đáp ứng kém với β2-Adrenergic; phải dùng nhiều β2-Adrenergic, corticoid; PEF dao động ít.",
+                "A": "C",
+                "Q": "Các dấu hiệu báo động hen cấp tính nặng) khi khó thở:  "
+            },
+            "94": {
+                "1": "Tần số thở 25-30 lần/1’; tần số tim > 90 ck/; PaO2 < 70%.",
+                "2": "Kích thích, tím tái; tần số thở 25-30 lần/1’; tần số tim > 120 ck/1, PaO2 < 55%.",
+                "3": "Tần số thở 25-30 lần/1’; tần số tim > 110 ck/1’, PaO2 < 70%.",
+                "4": "Tần số thở 25 lần/1’, tần số tim > 100 ck/1’; PaO2 < 80%.",
+                "A": "B",
+                "Q": "Dấu hiệu nặng của hen phế quản ác tính (cấp tính nặng) là:  "
+            },
+            "95": {
+                "1": "Lú lẫn; huyết áp hạ; RRFN giảm; Pa02 < 70%.",
+                "2": "Lú lẫn; huyết áp thấp; RRFN giảm; Pa02 < 60%.",
+                "3": "kích thích; mạch quay khó bắt; RRFN giảm; Pa02 < 80%.",
+                "4": "Hôn mê; ngừng thở; trụy tim mạch; Pa02 < 50%.",
+                "A": "D",
+                "Q": "Các dấu hiệu đe dọa tính mạng ở bệnh nhân hen phế quản ác tính: "
+            },
+            "96": {
+                "1": "Thở Oxy lưu lượng 1 – 2 lít/ phút. ",
+                "2": "Thở Oxy lưu lượng 4 – 6 lít/ phút.",
+                "3": "Thở Oxy lưu lượng 2 – 3 lít/ phút.",
+                "4": "Thở Oxy lưu lượng 6 – 8 lít/ phút.",
+                "A": "B",
+                "Q": "Hen phế quản ác tính (cấp tính nặng) thở Oxy lưu lượng: "
+            },
+            "97": {
+                "1": "Kích thích β2 Adrenergic; kích thích Cholinergic; nhóm Methylxanthin.",
+                "2": "Kích thích β2 Adrenergic; chẹn Cholinergic; nhóm Methylxanthin.",
+                "3": "Chẹn β2 Adrenergic; kích thích Cholinergic; nhóm Methylxanthin.",
+                "4": "Chẹn β2 Adrenergic; chẹn Cholinergic; nhóm Methylxanthin.",
+                "A": "B",
+                "Q": "Thuốc giãn phế quản gồm các nhóm: "
+            },
+            "98": {
+                "1": "Methylprednisolon truyền tĩnh mạch liều 2 mg/ Kg thể trọng/ 24 giờ.",
+                "2": "Methylprednisolon truyền tĩnh mạch liều 3 mg/ Kg thể trọng/ 24 giờ.",
+                "3": "Methylprednisolon truyền tĩnh mạch liều 4 mg/ Kg thể trọng/ 24 giờ.",
+                "4": "Methylprednisolon truyền tĩnh mạch liều 5 mg/ Kg thể trọng/ 24 giờ.",
+                "A": "C",
+                "Q": "Hen phế quản ác tính (cấp tính nặng) dùng liều Corticoid là:  "
+            },
+            "99": {
+                "1": "Salbutamol khí dung 5 mg/ lần lặp lại sau mỗi 3 giờ.",
+                "2": "Salbutamol khí dung 5 mg/ lần lặp lại sau mỗi 4 giờ.",
+                "3": "Salbutamol khí dung 5 mg/ lần lặp lại sau mỗi 6 giờ.",
+                "4": "Salbutamol khí dung 5 mg/ lần lặp lại sau mỗi 8 giờ.",
+                "A": "B",
+                "Q": "Hen phế quản ác tính (cấp tính nặng) liều Salbutamol khí dung là: "
+            },
+            "100": {
+                "1": "Truyền Diaphylin liều có thể là: 500 mg – 750 mg/ 24 giờ.",
+                "2": "Truyền Diaphylin liều có thể là: 500 mg – 1000 mg/ 24 giờ.",
+                "3": "Truyền Diaphylin liều có thể là: 750 mg – 1000 mg/ 24 giờ.",
+                "4": "Truyền Diaphylin liều có thể là: 750 mg – 1500 mg/ 24 giờ.",
+                "A": "D",
+                "Q": "Điều trị hen phế quản ác tính (cấp tính nặng) liều Diaphylin là: "
+            },
+            "101": {
+                "1": "Vi khuẩn, Nấm, Virus.",
+                "2": "Giun sán, Vi khuẩn, Vi khuẩn không điển hình.",
+                "3": "Virus, Vi khuẩn không điển hình, Vi khuẩn.",
+                "4": "Amip, Vi khuẩn, Virus hô hấp.",
+                "A": "C",
+                "Q": "Nguyên nhân vi sinh của viêm phổi cấp tính là: "
+            },
+            "102": {
+                "1": "Viêm phổi điển hình, viêm phổi cộng đồng, viêm phổi bệnh viện.",
+                "2": "Viêm phổi ở người suy giảm miễn dịch, viêm phổi bệnh viện, viêm phổi cộng đồng.",
+                "3": "Viêm phổi không điển hình, viêm phổi cộng đồng, viêm phổi liên quan đến thở máy.",
+                "4": "Viêm phổi bệnh viện, viêm phổi điển hình, viêm phổi ở người suy giảm miễn dịch.",
+                "A": "B",
+                "Q": "Phân loại lâm sàng của viêm phổi cấp tính gồm: "
+            },
+            "103": {
+                "1": "Neisseria meningitidis; Vi khuẩn Gram âm; Moraxella catarhalis.",
+                "2": "Moraxella catarhalis; Mycoplasma; Neisseria meningitidis. ",
+                "3": "Vi khuẩn Gram âm; Neisseria meningitidis; Hemophylus influenzae. ",
+                "4": "Streptococcus pneumoniae; Hemophylus influenzae; Staphylococcus aureus, vi khuẩn Gram âm.",
+                "A": "D",
+                "Q": "Các vi khuẩn hay gây viêm phổi cấp tính đầy đủ là: "
+            },
+            "104": {
+                "1": "Hội chứng nhiễm trùng cấp tính; đông đặc; Xquang phổi có tổn thương mới .  ",
+                "2": "Hội chứng nhiễm trùng mạn tính; hội chứng đông đặc co kéo, Xquang phổi mờ không thuần nhất",
+                "3": "Hội chứng nhiễm trùng  bán cấp tính; Hội chứng hang; Xquang có hình ảnh xẹp phổi.",
+                "4": "Hội chứng nhiễm trùng; Hội chứng ba giảm, Xquang phổi có tổn thương mới.",
+                "A": "A",
+                "Q": "Chẩn đoán viêm phổi cấp tính mắc phải ở cộng đồng dựa vào: "
+            },
+            "105": {
+                "1": "Hạ sốt; bù nước điện giải; kháng sinh; trợ tim mạch; điều trị biến chứng .",
+                "2": "Giảm đau và giảm ho; kháng sinh; trợ tim và trợ hô hấp; hạ sốt.",
+                "3": "Bù nước và điện giải;kháng sinh; trợ tim và trợ hô hấp; điều trị biến chứng.",
+                "4": "Trợ tim và trợ hô hấp; giảm đau và giảm ho; bù nước và điện giải; chống viêm.",
+                "A": "C",
+                "Q": "Các biện pháp chính điều trị viêm phổi cấp tính do vi khuẩn là: "
+            },
+            "106": {
+                "1": "Hội chứng nhiễm trùng cấp, đờm gỉ sắt, hội chứng đông đặc điển hình.",
+                "2": "Hội chứng nhiễm trùng bán cấp, đờm đục, hội chứng đông đặc.",
+                "3": "Hội chứng nhiễm trùng  cấp, đờm xanh, Có hội chứng đông đặc.",
+                "4": "Hội chứng nhiễm trùng cấp, đờm vàng thối, có hội chứng đông đặc.",
+                "A": "A",
+                "Q": "Chẩn đoán viêm phổi do phế cầu, lâm sàng dựa vào: "
+            },
+            "107": {
+                "1": "Kháng sinh, điều trị triệu chứng; tiêm vaccin chống phế cầu.",
+                "2": "Kháng sinh + điều trị toàn thân, biến chứng.",
+                "3": "Điều trị kháng sinh + điều trị toàn thân các triệu chứng, biến chứng.",
+                "4": "Điều trị kháng sinh + điều trị toàn thân các triệu chứng, biến chứng; tiêm vaccin chống phế cầu cho nhóm có nguy cơ cao.",
+                "A": "D",
+                "Q": "Các biện pháp chính điều trị và dự phòng viêm phổi cấp tính do phế cầu là: "
+            },
+            "108": {
+                "1": "Bạch cầu tăng 10.000 – 15000/ mm3, N tăng; soi đờm cầu khuẩn ( + ); Xquang có đám mờ chiếm một thùy phổi.",
+                "2": "Xquang phổi có nhiều bóng mờ tròn hai bên, có mức khí nước, biến đổi nhanh; bạch cầu tăng cao, N tăng; cấy máu (+) với tụ cầu.  ",
+                "3": "Bạch cầu 10 - 12 Giga/L hoặc không tăng,  N tăng; cấy đờm có cầu khuẩn(+); xquang mờ không thuần nhất. ",
+                "4": "Xquang  mờ  một thùy phổi, có phá hủy; bạch cầu máu 10 - 12 Giga/L hoặc không tăng, L tăng; cấy máu (+) .",
+                "A": "B",
+                "Q": "Chẩn đoán viêm phổi cấp tính do tụ cầu dựa vào: "
+            },
+            "109": {
+                "1": "Bù nước, điện giải; trợ tim mạch, hô hấp; kháng sinh; điều trị biến chứng.",
+                "2": "Giảm đau và giảm ho; kháng sinh; tiêm vaccin phòng cúm",
+                "3": "Trợ tim và trợ hô hấp; bù nước và điện giải; chống viêm và hạ sốt.",
+                "4": "kháng sinh; giảm đau và giảm ho; tiêm vaccin cho nhóm có nguy cơ cao.",
+                "A": "A",
+                "Q": "Các biện pháp chính điều trị viêm phổi tụ cầu là: "
+            },
+            "110": {
+                "1": "Hội chứng nhiễm trùng nặng; hội chứng phế quản chít hẹp; hội chứng đông đặc ở một thùy phổi.",
+                "2": "Hội chứng suy hô hấp cấp; hội chứng nhiễm trùng cấp tính; hội chứng phế quản; hội chứng đông đặc rải rác.",
+                "3": "Hội chứng phế quản; hội chứng tràn dịch màng phổi; hội chứng suy hô hấp.",
+                "4": "Hội chứng đông đặc; hội chứng nhiễm trùng; hội chứng phế quản.",
+                "A": "B",
+                "Q": "Triệu chứng lâm sàng chủ yếu của phế quản phế viêm là: "
+            },
+            "111": {
+                "1": "24 giờ.",
+                "2": "48 giờ.",
+                "3": "72 giờ.",
+                "4": "96 giờ.",
+                "A": "B",
+                "Q": "Viêm phổi bệnh viện là là viêm phổi xuất hiện ở bệnh nhân sau vào viện: "
+            },
+            "112": {
+                "1": "Có bệnh gan thận; tuổi trên 60; có mắc các bệnh dị ứng; có thể trạng hơi gầy.",
+                "2": "Có bệnh lý gan thận; bị bệnh lao phổi trước đây; có thể trạng béo.",
+                "3": "Có bệnh lí tim mạch và  suy tim; có mắc các bệnh dị ứng; thể trạng gầy.",
+                "4": "Mắc các bệnh mạn tính; suy dinh dưỡng; tuổi trên 60.",
+                "A": "D",
+                "Q": "Các yếu tố nguy cơ của viêm phổi bệnh viện: "
+            },
+            "113": {
+                "1": "Được điều trị tại khoa hồi sức; Xquang phổi có tổn thương không thuần nhất.",
+                "2": "Xquang phổi có tổn thương > 1 thùy phổi; có nhiễm khuẩn huyết.",
+                "3": "Suy hô hấp; Xquang phổi tổn thương > 1 thùy; nhiễm khuẩn huyết nặng. ",
+                "4": "Điều trị tại khoa hồi sức; Xquang phổi có tổn thương < 1 thùy.",
+                "A": "C",
+                "Q": "Tiêu chuẩn chẩn đoán viêm phổi bệnh viện nặng là: "
+            },
+            "114": {
+                "1": "< 1 phân thùy",
+                "2": "> 1 thùy phổi.",
+                "3": "< 1 thùy phổi",
+                "4": "> 1 thùy và < 1 bên phổi.",
+                "A": "D",
+                "Q": "Tổn thương mức độ vừa trên phim X-quang phổi ở bệnh nhân viêm phổi thở máy là: "
+            },
+            "115": {
+                "1": "Cấp 3 trở xuống. ",
+                "2": "Cấp 3 đến cấp 5.",
+                "3": "Cấp 3 đến cấp 8.",
+                "4": "Cấp 8 trở xuống.",
+                "A": "C",
+                "Q": "Giãn phế quản là giãn thường xuyên không hồi phục phế quản từ: "
+            },
+            "116": {
+                "1": "Bệnh sử khạc đờm mạn tính, đờm 3 lớp ( bọt, nhầy, mủ ),có ran ẩm, ran nổ ở vùng đáy phổi 2 bên. ",
+                "2": "Ho khạc đờm đục, có ran rít, ran ngáy lan tỏa.",
+                "3": "Ho khạc đờm có máu có đuôi khái huyết, nghe phổi có ran nổ vùng đỉnh.",
+                "4": "Ho, khó thở, khạc đờm nhầy, nghe phổi có ran rít, ran ngáy lan tỏa.",
+                "A": "A",
+                "Q": "Triệu chứng lâm sàng của giãn phế quản thể ướt là: "
+            },
+            "117": {
+                "1": "Các hình sáng kích thước không đều, xung quanh có mờ nhạt, khu trú ở thùy trên.",
+                "2": "Có các hình mờ dạng tròn, kích thước không đều, bóng khí thành mỏng, khu trú ở 2 bên phổi.",
+                "3": "Các hình sáng nhỏ kích thước không đều, xung quanh có mờ nhạt thâm nhiễm, có co kéo giảm thể tích thùy phổi.",
+                "4": "Các ổ tròn sáng nhỏ, có mức nước ngang, khu trú ở đáy phổi 2 bên,thành phế quản dày.",
+                "A": "D",
+                "Q": "Hình ảnh xquang chuẩn của giãn phế quản là: "
+            },
+            "118": {
+                "1": "Lâm sàng hô hấp.",
+                "2": "Chụp cắt lớp vi tính độ phân giải cao( HRCT).",
+                "3": "Lâm sàng, Xquang phổi chuẩn.",
+                "4": "Chụp cắt lớp thường quy .",
+                "A": "B",
+                "Q": "Chẩn đoán xác định bệnh giãn phế quản dựa vào: "
+            },
+            "119": {
+                "1": "Chống nhiễm trùng, chống viêm bằng Corticoid, bổ xung vitamin. ",
+                "2": "Điều trị triệu chứng, điều trị biến chứng, điều trị chống nhiễm khuẩn.",
+                "3": "Chống tăng tiết đờm, chống nhiễm trùng, tiêm phòng vaccin cúm, sởi.",
+                "4": "Chống co thắt đường thở, dùng Corticoid tại chỗ, điều trị các biến .",
+                "A": "B",
+                "Q": "Các biện pháp điều trị nội khoa giãn phế quản gồm: "
+            },
+            "120": {
+                "1": "Có hội chứng nhiễm trùng mạn tính;  hội chứng hang.",
+                "2": "Hội chứng nhiễm trùng mạn tính; khạc đờm nhầy mủ nhiều; ngón tay dùi trống.",
+                "3": "Hội chứng nhiễm trùng cấp tính; khạc đờm mủ nhiều; ngón tay dùi trống.",
+                "4": "Hội chứng nhiễm trùng cấp tính,  ộc mủ, hội chứng đông đặc, hội chứng hang.",
+                "A": "D",
+                "Q": "Triệu chứng lâm sàng của apxe phổi là: "
+            },
+            "121": {
+                "1": "Do ung thư.",
+                "2": "Do lao.",
+                "3": "Do vi khuẩn.",
+                "4": "Do vi rút.",
+                "A": "B",
+                "Q": "Nguyên nhân hay gặp nhất của tràn dịch màng phổi là:"
+            },
+            "122": {
+                "1": "Do ung thư trung biểu mô màng phổi.",
+                "2": "Do ung thư vú.",
+                "3": "Do ung thư phế quản.",
+                "4": "Do ung thư dạ dày.",
+                "A": "C",
+                "Q": "Nguyên nhân hay gặp nhất của tràn dịch màng phổi ác tính là:"
+            },
+            "123": {
+                "1": "Tràn dịch màng phổi do vi khuẩn.",
+                "2": "Tràn dịch màng phổi do vi rút.",
+                "3": "Tràn dịch màng phổi do lao.",
+                "4": "Tràn dịch màng phổi do ung thư.",
+                "A": "D",
+                "Q": "Trường hợp tràn dịch màng phổi có khởi phát từ từ là:"
+            },
+            "124": {
+                "1": "Cấp tính hoặc bán cấp tính.",
+                "2": "Bán cấp hoặc mạn tính.",
+                "3": "Cấp tính hoặc mạn tính.",
+                "4": "Mạn tính.",
+                "A": "A",
+                "Q": "Đặc điểm khởi phát của tràn dịch màng phổi do lao là:"
+            },
+            "125": {
+                "1": "Lồng ngực bên tràn dịch vồng.",
+                "2": "B.Rung thanh giảm.",
+                "3": "C.Phù nề thành ngực.",
+                "4": "Gõ đục.",
+                "A": "C",
+                "Q": "Mủ màng phổi khác với tràn dịch màng phổi thông thường là có:"
+            },
+            "126": {
+                "1": "Ho khan.",
+                "2": "Ho có đờm.",
+                "3": "Ho máu.",
+                "4": "Ho đờm mủ.",
+                "A": "A",
+                "Q": "Đặc điểm ho trong tràn dịch màng phổi là:"
+            },
+            "127": {
+                "1": "Tràn dịch màng phổi tự do.",
+                "2": "Tràn khí màng phổi.",
+                "3": "Tràn dịch – tràn khí màng phổi kết hợp.",
+                "4": "Tràn dịch màng phổi khu trú.",
+                "A": "C",
+                "Q": "Lắc Hypocrrat được thực hiện trong trường hợp:"
+            },
+            "128": {
+                "1": "Dịch thấm.",
+                "2": "Dịch huyết thanh máu.",
+                "3": "Dịch thanh tơ.",
+                "4": "Dịch mủ.",
+                "A": "C",
+                "Q": "Đường cong Damoiseau gặp trong trường hợp tràn dịch màng phổi:"
+            },
+            "129": {
+                "1": "Protein.",
+                "2": "LDH.",
+                "3": "Glucose.",
+                "4": "Acid hyaluronic.",
+                "A": "C",
+                "Q": "Trong tràn dịch màng phổi do lao, có giảm: "
+            },
+            "130": {
+                "1": "Adenosin deaminase.",
+                "2": "B.Lactat dehydrogenase.",
+                "3": "C.Acid hyaluronic.",
+                "4": "Glucose.",
+                "A": "C",
+                "Q": "Trong tràn dịch màng phổi nghi do ung thư trung biểu mô màng phổi, chỉ số tăng có giá trị định hướng chẩn đoán là:"
+            },
+            "131": {
+                "1": "Hội chứng Kartagener.",
+                "2": "B.Hội chứng Meigs.",
+                "3": "C.Hội chứng Moulier – Kuhn.",
+                "4": "Hội chứng Williams – Campbell.",
+                "A": "B",
+                "Q": " Hội chứng có tràn dịch màng phổi, tràn dịch màng bụng và u buồng trứng là:"
+            },
+            "132": {
+                "1": "< 0,5 mg/kg cân nặng.",
+                "2": "0,5 - 1 mg/kg cân nặng.",
+                "3": "1 – 1,5 mg/kg cân nặng.",
+                "4": "> 1,5 mg/kg cân nặng.",
+                "A": "B",
+                "Q": "Liều Corticoid trong điều trị tràn dịch màng phổi do lao là:"
+            },
+            "133": {
+                "1": "Tràn dịch màng phổi do lao.",
+                "2": "Tràn dịch màng phổi do vi khuẩn.",
+                "3": "Tràn dịch màng phổi do di căn ung thư.",
+                "4": "Tràn dịch màng phổi do ung thư trung biểu mô màng phổi.",
+                "A": "D",
+                "Q": "Hội chứng Tobias Escudero gặp trong:"
+            },
+            "134": {
+                "1": "Chụp Xquang.",
+                "2": "Chiếu Xquang.",
+                "3": "Chụp cắt lớp vi tính lồng ngực.",
+                "4": "Chụp Lordotic.",
+                "A": "C",
+                "Q": "Kỹ thuật hình ảnh nào cho phép chẩn đoán xác định tràn dịch màng phổi?"
+            },
+            "135": {
+                "1": "Tràn dịch màng phổi do ung thư.",
+                "2": "Tràn dịch màng phổi do lao.",
+                "3": "Tràn khí màng phổi tái phát.",
+                "4": "Tràn khí màng phổi do bệnh phổi tắc nghẽn mạn tính.",
+                "A": "B",
+                "Q": "Gây dính màng phổi không chỉ định cho:"
+            },
+            "136": {
+                "1": "Mạch nhanh.",
+                "2": "Huyết áp tụt.",
+                "3": "Vã mồ hôi lạnh.",
+                "4": "Hoa mắt chóng mặt.",
+                "A": "A",
+                "Q": "Triệu chứng không gặp trong sốc màng phổi là:"
+            },
+            "137": {
+                "1": "Tetracyclin.",
+                "2": "Betadin.",
+                "3": "Bột Talc y học.",
+                "4": "Máu tự thân.",
+                "A": "C",
+                "Q": "Chất gây dính có hiệu quả nhất trong gây dính màng phổi là:"
+            },
+            "138": {
+                "1": "Lồng ngực vồng.",
+                "2": "Rì rào phế nang giảm.",
+                "3": "Rung thanh giảm.",
+                "4": "Gõ đục vùng thấp.",
+                "A": "D",
+                "Q": "Triệu chứng thực thể có giá trị cao nhất trong định hướng chẩn đoán tràn dịch màng phổi là:"
+            },
+            "139": {
+                "1": "500 ml.",
+                "2": "600 ml.",
+                "3": "700 ml.",
+                "4": "800 ml.",
+                "A": "D",
+                "Q": "Số lượng dịch chọc tối đa 1 lần là:"
+            },
+            "140": {
+                "1": "1 lần.",
+                "2": "2 lần.",
+                "3": "3 lần.",
+                "4": "4 lần.",
+                "A": "B",
+                "Q": "Số lần chọc tối đa trong 1 ngày là:"
+            },
+            "141": {
+                "1": "Salbutamol",
+                "2": "Terbutalin",
+                "3": "Formoterol",
+                "4": "Ventolin ",
+                "A": "C",
+                "Q": "Thuốc kích thích beta 2 giao cảm tác dụng kéo dài là:"
+            },
+            "142": {
+                "1": "Salmeterol ",
+                "2": "Salbutamol ",
+                "3": "Formoterol",
+                "4": "Tiotropium Bromide",
+                "A": "B",
+                "Q": "Thuốc kích thích beta 2 giao cảm tác dụng ngắn là:"
+            },
+            "143": {
+                "1": "Kích thích beta 2 adrenergic",
+                "2": "Thuốc cường phó giao cảm",
+                "3": "Xanthine",
+                "4": "Thuốc huỷ phó giao cảm",
+                "A": "C",
+                "Q": "Theophylin là thuốc giãn phế quản nhóm:"
+            },
+            "144": {
+                "1": "Formoterol + Budesonide",
+                "2": "Ipratropium + Fenoterol",
+                "3": "Salmeterol + Fluticasone",
+                "4": "Ipratropium + Salbutamol",
+                "A": "C",
+                "Q": "Thành phần của thuốc Seretide gồm:"
+            },
+            "145": {
+                "1": "Salmeterol + Fluticasone",
+                "2": "Formoterol + Budesonide ",
+                "3": "Ipratropium + Fenoterol",
+                "4": "Ipratropium + Salbutamol",
+                "A": "B",
+                "Q": "Thành phần của thuốc Symbicort gồm:"
+            },
+            "146": {
+                "1": "Berodual",
+                "2": "Seretide",
+                "3": "Symbicort ",
+                "4": "Spiriva",
+                "A": "A",
+                "Q": "Thuốc kết hợp giữa thuốc kích thích beta 2 giao cảm tác dụng ngắn và ức chế phó giao cảm tác dụng ngắn là:"
+            },
+            "147": {
+                "1": "LABA",
+                "2": "SABA",
+                "3": "LAMA",
+                "4": "SAMA",
+                "A": "C",
+                "Q": "Tiotropium là thuốc thuộc nhóm thuốc:"
+            },
+            "148": {
+                "1": "LABA",
+                "2": "SABA",
+                "3": "LAMA",
+                "4": "SAMA",
+                "A": "D",
+                "Q": "Ipratropium là thuốc thuộc nhóm thuốc:"
+            },
+            "149": {
+                "1": "Clarythromycine",
+                "2": "Amoxiclilne",
+                "3": "Streptomycine",
+                "4": "Cefotaxim",
+                "A": "B",
+                "Q": "Thuốc kháng sinh nào sau đây thuộc nhóm penicicline:"
+            },
+            "150": {
+                "1": "Clarythromycine",
+                "2": "Amoxiclilne",
+                "3": "Streptomycine",
+                "4": "Cefotaxim",
+                "A": "A",
+                "Q": "Thuốc kháng sinh nào sau đây thuộc nhóm Macrolid:"
+            },
+            "151": {
+                "1": "Ceftriaxone",
+                "2": "Tobramycine",
+                "3": "Tienam",
+                "4": "Ciprofloxacine",
+                "A": "D",
+                "Q": "Thuốc kháng sinh nào sau đây thuộc nhóm Quinolone:"
+            },
+            "152": {
+                "1": "Ceftriaxone",
+                "2": "Tobramycine",
+                "3": "Tienam",
+                "4": "Meronem",
+                "A": "C",
+                "Q": "Thuốc kháng sinh nào sau đây thuộc nhóm cephalosporin thế hệ IV:"
+            },
+            "153": {
+                "1": "Berodual",
+                "2": "Salbutamol ",
+                "3": "Ipratropium ",
+                "4": "Seretide",
+                "A": "D",
+                "Q": "Thuốc dự phòng hen phế quản là:"
+            },
+            "154": {
+                "1": "Giảm nhịp tim",
+                "2": "Tăng nhịp tim",
+                "3": "Rối loạn dẫn truyền",
+                "4": "Ngoại tâm thu",
+                "A": "B",
+                "Q": "Tác dụng phụ chính của thuốc giãn cơ trơn phế quản nhóm Xanthin là:"
+            },
+            "155": {
+                "1": "ICS + Prednosolone truyền tĩnh mạch",
+                "2": "ICS + Prednisolon tiêm",
+                "3": "ICS đơn thuần",
+                "4": "ICS + Prednosolone uống",
+                "A": "C",
+                "Q": "Corticoid dùng trong dự phòng hen phế quản là:"
+            },
+            "156": {
+                "1": "Nấm họng",
+                "2": "Viêm họng",
+                "3": "Viêm amudal",
+                "4": "Viêm mũi",
+                "A": "A",
+                "Q": "Tác dụng không mong muốn tại chỗ hay gặp của ICS là:"
+            },
+            "157": {
+                "1": "Codein",
+                "2": "Morphin",
+                "3": "Acetylcystein",
+                "4": "Tecpin codein",
+                "A": "C",
+                "Q": "Thuốc nào sau đây là thuốc long đờm:"
+            },
+            "158": {
+                "1": "Co giật, tăng nhịp tim",
+                "2": "Run tay chân, hạ nhịp tim",
+                "3": "Run tay chân, tăng nhịp tim",
+                "4": "Run tay chân, loạn nhịp tim",
+                "A": "C",
+                "Q": "Tác dụng không mong muốn chính của salbutamol là:"
+            },
+            "159": {
+                "1": "Brycanyl",
+                "2": "Salbutamol",
+                "3": "Salmeterol",
+                "4": "Formoterol",
+                "A": "B",
+                "Q": "Ventolin là biệt dược của:"
+            },
+            "160": {
+                "1": "Salbutamol",
+                "2": "Salmeterol",
+                "3": "Terbutalin",
+                "4": "Fenoterol",
+                "A": "B",
+                "Q": "Thuốc có tác dụng kích thích kéo dài thụ thể β2 adrenergic là:"
+            },
+            "161": {
+                "1": "Tổ chức liên kết ở phổi.",
+                "2": "Tế bào sụn phế quản.",
+                "3": "Tế bào biểu mô phế quản, tế bào tuyến phế quản và tế bào biểu mô phế nang.",
+                "4": "Tổ chức trung thất.",
+                "A": "C",
+                "Q": "Ung thư phổi nguyên phát là ung thư mà các tế bào phát triển từ "
+            },
+            "162": {
+                "1": "A.Chủ yếu gặp ở nữ giới",
+                "2": "Chủ yếu gặp ở nam giới ",
+                "3": "Chủ yếu gặp ở nam giới tuổi trên 50 tuổi có hút thuốc lá",
+                "4": "Chủ yếu gặp ở người cao tuổi",
+                "A": "C",
+                "Q": "Ung thư phổi nguyên phát ở Việt Nam thường gặp…"
+            },
+            "163": {
+                "1": "Khói thuốc lá.                                      ",
+                "2": "Uống nhiều rượu bia.",
+                "3": "Nghiện hút thuốc phiện.                      ",
+                "4": "Ăn nhiều mỡ động vật.",
+                "A": "A",
+                "Q": "Các yếu tố nguy cơ của ung thư phổi gồm:"
+            },
+            "164": {
+                "1": "Ho kèm khạc đờm đụ                                     ",
+                "2": "Ho kèm ho máu màu mận chín.",
+                "3": "Ho kèm ho máu có đuôi khái huyết.                 ",
+                "4": "Ho kèm ho khạc đờm bã đậu.",
+                "A": "B",
+                "Q": "Triệu chứng cơ năng của ung thư phế quản là:"
+            },
+            "165": {
+                "1": "Sốt kéo dài                                                                  ",
+                "2": "Gầy sút cân ",
+                "3": "Nghe có tiếng rít Wheezing vùng trước xương ức     ",
+                "4": "Đau tức ngực ",
+                "A": "C",
+                "Q": "Triệu chứng lâm sàng  phù hợp với ung thư phế quản là:"
+            },
+            "166": {
+                "1": "Phù áo khoác",
+                "2": "Nói khan",
+                "3": "Uống sặc",
+                "4": "Nuốt nghẹn",
+                "A": "A",
+                "Q": "Triệu chứng của hội chứng trung thất trước là:"
+            },
+            "167": {
+                "1": "Hội chứng đông đặc rải rác.                               ",
+                "2": "Hội chứng 3 giảm.",
+                "3": "Hội chứng đông đặc điển hình.                          ",
+                "4": "Hội chứng Pancoast Tobiast.",
+                "A": "D",
+                "Q": "Hội chứng hô hấp phù hợp với ung thư phế quản là:"
+            },
+            "168": {
+                "1": "Ngón tay dùi trống, đau ống xương dài, Xquang xương chày có dày màng xương.",
+                "2": "Ngón tay dùi trống.",
+                "3": "Đau xương khớp.",
+                "4": "Ngón tay dùi trống + dày màng xương trên Xquang.",
+                "A": "A",
+                "Q": "Hội chứng Pierre-marie bao gồm:"
+            },
+            "169": {
+                "1": "Các triệu chứng cơ năng + Các hội chứng cận u.",
+                "2": "Các triệu chứng toàn thân + các hội chứng cận u.",
+                "3": "Các triệu chứng toàn thân + hội chứng trung thất.",
+                "4": "Các triệu chứng toàn thân+ triệu chứng thực thể hô hấp.",
+                "A": "B",
+                "Q": "Nhóm triệu chứng hệ thống trong ung thư phế quản bao gồm:"
+            },
+            "170": {
+                "1": "Bóng mờ tròn kích thước nhỏ.",
+                "2": "Bóng mờ tròn, bờ nhẵn.",
+                "3": "Bóng mờ tròn, kích thước lớn.",
+                "4": "Bóng mờ tròn, kích thước lớn, bờ đa cung có tua gai.",
+                "A": "D",
+                "Q": "Đặc điểm Xquang phổi chuẩn của ung thư phế quản là:"
+            },
+            "171": {
+                "1": "Chụp CT độ phân giải cao.                          ",
+                "2": "Chọc hút khối u chẩn đoán tế bào.",
+                "3": "Xét nghiệm mô bệnh học                        ",
+                "4": "Chụp PET/ CT.",
+                "A": "C",
+                "Q": "Chẩn đoán xác định ung thư phế quản cần dựa vào:"
+            },
+            "172": {
+                "1": "Định hướng chẩn đoán ung thư phế quản.",
+                "2": "Chẩn đoán xác định ung thư phế quản.",
+                "3": "Không có giá trị trong chẩn đoán ung thư phế quản.",
+                "4": "Chẩn đoán phân biệt được ung thư phế quản với các bệnh khác.",
+                "A": "A",
+                "Q": "Hình ảnh nội soi phế quản ống mềm giúp:"
+            },
+            "173": {
+                "1": "Xâm lấn vào phế quản gốc nhưng cách carina ≥ 2cm.",
+                "2": "Xâm lấn vào phế quản gốc nhưng cách carina < 2cm.",
+                "3": "Xâm lấn vào phế quản gốc và carina.",
+                "4": "Xâm lấn và làm biến dạng carina.",
+                "A": "A",
+                "Q": "Khối u nguyên phát T2 có đặc điểm sau:"
+            },
+            "174": {
+                "1": "Hạch dưới carina,di căn hạch trung thất cùng bên                                      ",
+                "2": "Hạch quanh khí quản.",
+                "3": "Hạch quanh phế quản cùng bên.                ",
+                "4": "Di căn vào hạch rốn phổi đối bên. ",
+                "A": "A",
+                "Q": "Tổn thương hạch  N2 có  đặc điểm là:"
+            },
+            "175": {
+                "1": "Xét nghiệm các Markers ung thư ",
+                "2": "Xét nghiệm tế bào dịch màng phổi ",
+                "3": "Sinh thiết màng phổi làm xét nghiệm mô bệnh học",
+                "4": "Xét nghiệm sinh hóa dịch màng phổi",
+                "A": "C",
+                "Q": "Chẩn đoán xác định tràn dịch màng phổi do  ung thư phế quản  dựa vào:"
+            },
+            "176": {
+                "1": "Giai đoạn bệnh .",
+                "2": "Typ mô bệnh.",
+                "3": "Tình trạng toàn thân.",
+                "4": "Tình trạng toàn thân, giai đoạn bệnh và týp mô bệnh.",
+                "A": "D",
+                "Q": "Điều trị phẫu thuật ung thư phế quản dựa vào: "
+            },
+            "177": {
+                "1": "Chữa khỏi bệnh hoàn toàn.",
+                "2": "Điều trị các biến chứng .",
+                "3": "Điều trị làm giảm các triệu chứng.",
+                "4": "Điều trị kéo dài thời gian sống thêm và cải thiện chất lượng cuộc sống cho bệnh nhân.",
+                "A": "D",
+                "Q": "Mục tiêu của điều trị ung thư phế quản là:"
+            },
+            "178": {
+                "1": "Phẫu thuật đơn thuần                                                 ",
+                "2": "Hóa trị đơn thuần",
+                "3": "Xạ trị  đơn thuần                                                        ",
+                "4": "Phẫu thuật kết hợp hóa trị, xạ trị",
+                "A": "D",
+                "Q": "Biện pháp điều trị hiệu quả nhất đối với ung thư phế quản không tế bào nhỏ giai đoạn 3A là:"
+            },
+            "179": {
+                "1": "Khó thở                                                       ",
+                "2": "Ho ra máu nặng",
+                "3": "Đau ngực                                                   ",
+                "4": "Gầy sụt cân",
+                "A": "B",
+                "Q": "Biến chứng nguy hiểm của ung thư phế quản:"
+            },
+            "180": {
+                "1": "Tràn dịch màng phổi huyết thanh máu và dịch máu",
+                "2": "Tràn dịch màng phổi thanh tơ màu vàng chanh",
+                "3": "Tràn dịch màng phổi dịch thấm",
+                "4": "Tràn dịch màng phổi dịch dưỡng chấp",
+                "A": "A",
+                "Q": "Tràn dịch màng phổi do ung thư phế quản thường gặp là:"
+            },
+            "181": {
+                "1": "Cầu khuẩn                                                   ",
+                "2": "Phẩy khuẩn.",
+                "3": "Xoắn khuẩn                                                 ",
+                "4": "Trực khuẩn",
+                "A": "D",
+                "Q": "Vi khuẩn lao có hình dạng là:"
+            },
+            "182": {
+                "1": "Kị khí tuyệt đối.                                          ",
+                "2": "Ưa khí tuyệt đối.",
+                "3": "Vừa ưa khí vừa kị khí.                                ",
+                "4": "Cả 3 đặc điểm trên.",
+                "A": "B",
+                "Q": "Vi khuẩn lao có đặc điểm:"
+            },
+            "183": {
+                "1": "10 tiếng sinh sản một lần.                           ",
+                "2": "15 tiếng sinh sản một lần.",
+                "3": "20 tiếng sinh sản một lần.                           ",
+                "4": "30 tiếng sinh sản một lần.",
+                "A": "C",
+                "Q": "Thời gian sinh sản của vi khuẩn lao:"
+            },
+            "184": {
+                "1": "Tiêu hó                                                   ",
+                "2": "Qua da.",
+                "3": "Hô hấp.                                                      ",
+                "4": "Sinh dục.",
+                "A": "C",
+                "Q": "Bệnh lao phổi chủ yếu lây bằng đường:"
+            },
+            "185": {
+                "1": "Có dị ứng với lao một phần.                    ",
+                "2": "Đã có dị ứng đầy đủ với lao.",
+                "3": "Chưa có dị ứng với lao.                            ",
+                "4": "Cả 3 phương án A, B, C.",
+                "A": "C",
+                "Q": "Quá trình đáp ứng không đặc hiệu trong cơ chế bệnh sinh của lao tiên phát xảy ra khi cơ thể:"
+            },
+            "186": {
+                "1": "Dương tính yếu  10mm                         ",
+                "2": "Dương tính vừa 15mm",
+                "3": "Âm tính                                                    ",
+                "4": "Dương tính 20mm",
+                "A": "C",
+                "Q": "Trong cơ chế bệnh sinh của lao tiên phát ở thời kỳ đáp ứng không đặc hiệu, phản ứng Mantoux:"
+            },
+            "187": {
+                "1": "Săng sơ nhiễm + hạch viêm vùng rốn phổi.",
+                "2": "Săng sơ nhiễm + viêm đường bạch huyết.",
+                "3": "Săng sơ nhiễm + viêm đường bạch huyết + hạch viêm.",
+                "4": "Hạch viêm + viêm đường bạch huyết.",
+                "A": "C",
+                "Q": "Các thành phần tạo nên hình ảnh phức bộ sơ nhiễm bao gồm:"
+            },
+            "188": {
+                "1": "Lan tràn chủ yếu theo đường tiếp cận.",
+                "2": "Lan tràn chủ yếu theo đường máu và bạch huyết.",
+                "3": "Tổn thương tại chỗ không lan tràn.",
+                "4": "Lan tràn chủ yếu theo đường phế quản.",
+                "A": "B",
+                "Q": "Đặc điểm lan tràn của lao tiên phát:"
+            },
+            "189": {
+                "1": "Đỉnh phổi                                                      ",
+                "2": "2/3 dưới phổi.",
+                "3": "Vùng giữa phổi.                                            ",
+                "4": "Cả 2 đỉnh phổi.",
+                "A": "B",
+                "Q": "Trong lao tiên phát, săng sơ nhiễm thường ở:"
+            },
+            "190": {
+                "1": "Tổng diện tích tổn thương < 1 phân thùy phổi, hang nhỏ đường kính < 2cm.",
+                "2": "Có hang, tổng đường kính hang <4cm, tổng diện tích tổn thương <1 thùy phổi.",
+                "3": "Không có hang, tổng diện tích tổn thương < 1 phân thùy phổi.",
+                "4": "Không có hang, tổng diện tích tổn thương > 1 phân thùy phổi và  < 1 thùy phổi.",
+                "A": "C",
+                "Q": "Tổn thương lao phổi mức độ nhẹ trên Xquang theo Hội lồng ngực Hoa Kỳ như sau:"
+            },
+            "191": {
+                "1": "Chưa được điều trị lao hoặc  được điều trị nhưng chưa quá 15 ngày.",
+                "2": "Chưa được điều trị lao hoặc  được điều trị nhưng chưa quá 1 tháng.",
+                "3": "Chưa được điều trị lao hoặc  được điều trị nhưng chưa quá 1,5 tháng.",
+                "4": "Chưa được điều trị lao hoặc  được điều trị chưa chưa quá 2 tháng.",
+                "A": "B",
+                "Q": "Theo phân loại lao của Tổ chức y tế thế giới (1998), lao mới là:"
+            },
+            "192": {
+                "1": "Lao điều trị lần thứ 2.",
+                "2": "Lao bị đi bị lại.",
+                "3": "Bệnh nhân bị bệnh lao nhưng được xác nhận đã điều trị khỏi và hiện tại đang bị lao phổi AFB (+).",
+                "4": "Bệnh nhân bị bệnh lao và được xác nhận điều trị khỏi, và hiện tại lại có các biểu hiện lâm sang giống lao phổi.",
+                "A": "C",
+                "Q": "Lao tái phát là               "
+            },
+            "193": {
+                "1": "Lao điều trị hết phác đồ mà AFB vẫn (+).",
+                "2": "Là lao phổi AFB vẫn còn (+) sau khi hoàn thành điều trị 2 phác đồ theo chế độ DOTS. ",
+                "3": "Bệnh nhân có thời gian bị bệnh lao trên 1 năm.",
+                "4": "Lao tiến triển dài ngày  điều trị không khỏi.",
+                "A": "B",
+                "Q": "Lao mạn tính là:                      "
+            },
+            "194": {
+                "1": "Hội chứng nhiễm trùng nhiễm độc cấp tính: sốt cao đột ngột kèm theo rét run.",
+                "2": "Hội chứng nhiễm trùng nhiễm độc mạn tính: sốt nhẹ về chiều.",
+                "3": "Không có hội chứng nhiễm trùng nhiễm độc.",
+                "4": "Thường sốt liên tục kéo dài cả ngày và đêm.",
+                "A": "B",
+                "Q": "Lao phổi thường có biểu hiện:                   "
+            },
+            "195": {
+                "1": "Máu có màu mận chín.                         ",
+                "2": "Máu lẫn bọt, đờm, có đuôi khái huyết.",
+                "3": "Máu cục, có mùi chua.                          ",
+                "4": "Máu có lẫn mủ màu sô cô la.",
+                "A": "B",
+                "Q": "Ho ra máu trong lao phổi…."
+            },
+            "196": {
+                "1": "Lâm sàng.                                                        ",
+                "2": "Xquang phổi chuẩn.",
+                "3": "Xét nghiệm Mantoux.                                      ",
+                "4": "Xét nghiệm nuôi cấy BK.",
+                "A": "D",
+                "Q": "Phương pháp nào sau đây có giá trị chẩn đoán xác định lao phổi:"
+            },
+            "197": {
+                "1": "Có 1-9 BK/ 300 vi trường là âm tính.",
+                "2": "Không có vi khuẩn trên 100-300 vi trường là âm tính.",
+                "3": "Có 1-9 BK/1 vi trường là ghi số lượng BK cụ thể.",
+                "4": "Có > 10 BK/ 1 vi trường là dương tính 1+.",
+                "A": "B",
+                "Q": "Chương trình chống lao quốc gia quy định đọc kết quả xét nghiệm soi AFB như sau:"
+            },
+            "198": {
+                "1": "Khoai tây, lòng đỏ trứng gà, glucose. ",
+                "2": "Khoai tây, lòng đỏ trứng gà, mật bò.",
+                "3": "Khoai tây, lòng đỏ trứng gà, glycerin, asparagin.",
+                "4": "Khoai tây, lòng đỏ trứng gà, glycerin,  mật bò.",
+                "A": "C",
+                "Q": "Môi trường Lowenstein Jensen là môi trường đặc gồm có:"
+            },
+            "199": {
+                "1": "Bã đậu ở trung tâm, tế bào bán liên, tế bào khổng lồ Langhans, lympho bào.",
+                "2": "Bã đậu ở trung tâm, tế bào bán liên, lympho bào, tế bào sợi.",
+                "3": "Bã đậu ở trung tâm, tế bào hình đế giày, lympho bào, tế bào sợi.",
+                "4": "Bã đậu ở trung tâm, tế bào bán liên, đại thực bào, lympho bào.",
+                "A": "A",
+                "Q": "Cấu trúc nang lao điển hình gồm các thành phần sau:"
+            },
+            "200": {
+                "1": "5mg/ kg thể trọng.                                           ",
+                "2": "10mg/ kg thể trọng.",
+                "3": "15 mg/kg thể trọng.                                          ",
+                "4": "20 mg/ kg thể trọng.",
+                "A": "B",
+                "Q": "Liều lượng của Rifampycin trong điều trị lao:"
+            },
+            "name": "NỘI HÔ HẤP - AM3"
+        }
+    }
+}

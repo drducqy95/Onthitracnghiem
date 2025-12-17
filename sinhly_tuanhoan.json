@@ -1,0 +1,912 @@
+{
+    "SINH_LY_HOC_2018": {
+        "sinhlytuanhoan": {
+            "1": {
+                "1": "60- 90 mmHg; Sức co bóp của tim và sức cản ngoại vi.",
+                "2": "70- 120 mmHg; Sức co bóp của tim và sức cản ngoại vi.",
+                "3": "70- 120 mmHg; Sức cản ngoại vi.",
+                "4": "70- 120 mmHg; Sức co bóp của tim.",
+                "A": "B",
+                "Q": "Giá trị huyết áp động mạch ở ngươi trưởng thành và yếu tố quyết định là:"
+            },
+            "2": {
+                "1": "Là huyết áp hằng định có giá trị gần bằng huyết áp tối đa.",
+                "2": "Trung bình cộng của huyết áp tối đa và huyết áp tối thiểu",
+                "3": "Là huyết áp hằng định gây được một lưu lượng bằng huyết áp tối đa và tối thiểu gây ra.",
+                "4": "Trung bình cộng của nhiều lần đo.",
+                "A": "C",
+                "Q": "Huyết áp trung bình là gì?"
+            },
+            "3": {
+                "1": "T2 do hai van động mạch đóng không cùng một thời điểm.",
+                "2": "T1 do đóng van nhĩ- thất sau khi mở van động mạch 0,01 giây",
+                "3": "T1 do hai van nhĩ- thất đóng không cùng một thời điểm.",
+                "4": "T1 do tâm thất co và đóng van nhĩ- thất.",
+                "A": "D",
+                "Q": "Tiếng tim:"
+            },
+            "4": {
+                "1": "Mở van nhĩ thất cùng một thời điểm với đóng van động mạch.",
+                "2": "Đóng van động mạch sau khi mở van nhĩ thất khoảng 0,01 giây",
+                "3": "Đóng van động mạch trước khi mở van nhĩ thất khoảng 0,01 giây",
+                "4": "Van động mạch mở cùng thời điểm với đóng van nhĩ thất",
+                "A": "C",
+                "Q": "Hoạt động của van nhĩ thất và van động mạch:"
+            },
+            "5": {
+                "1": "Thần kinh phó giao cảm làm tăng trương lực cơ tim",
+                "2": "Thần kinh phó giao cảm làm tăng tính tự động và dẫn truyền của tim.",
+                "3": "Thần kinh phó giao cảm làm giảm sức co bóp và cung lượng tim.",
+                "4": "Thần kinh phó giao cảm làm tăng lưu lượng tim.",
+                "A": "C",
+                "Q": "Vai trò của thần kinh phó giao cảm với tim:"
+            },
+            "6": {
+                "1": "Thần kinh giao cảm không làm thay đổi huyết áp của cơ thể.",
+                "2": "Thần kinh giao cảm làm tăng huyết áp tối đa và làm giảm huyết áp tối thiểu",
+                "3": "Thần kinh giao cảm làm tăng tần số, nhưng làm giảm trương lực cơ tim.",
+                "4": "Thần kinh giao cảm làm tăng tính hưng phấn, tính tự động và nhịp tim.",
+                "A": "D",
+                "Q": "Vai trò của thần kinh giao cảm với tim mạch:"
+            },
+            "7": {
+                "1": "Giai đoạn đầy máu kéo dài 0,30 giây",
+                "2": "Giai đoạn tống máu nhanh kéo dài 0,05 giây",
+                "3": "Giai đoạn tăng áp kéo dài 0,04 giây",
+                "4": "Giai đoạn tống máu kéo dài 0,25 giây",
+                "A": "D",
+                "Q": "Với nhịp tim 75 lần/ phút, thời gian của các giai đoạn trong chu chuyển tim:"
+            },
+            "8": {
+                "1": "Giai đoạn tiền tâm trương kéo dài 0,04 giây.",
+                "2": "Giai đoạn đầy máu nhanh kéo dài 0,12 giây.",
+                "3": "Giai đoạn đầy máu kéo dài 0,35 giây",
+                "4": "Giai đoạn đầy máu chậm kéo dài 0,13 giây.",
+                "A": "A",
+                "Q": "Với nhịp tim 75 lần/ phút, trong các giai đoạn của thì tâm trương:"
+            },
+            "9": {
+                "1": "Adrenalin làm tăng nhịp tim, gây co mạch: tăng huyết áp.",
+                "2": "Acetylcholin làm tăng nhịp tim, gây giãn mạch: tăng huyết áp.",
+                "3": "Bradykinin, prostaglandin gây co mạch: tăng huyết áp.",
+                "4": "Angiotensin gây giãn mạch: giảm huyết áp.",
+                "A": "A",
+                "Q": "Các chất hóa học ảnh hưởng lên tim mạch:"
+            },
+            "10": {
+                "1": "Kích thích dây giao cảm cổ làm mạch máu tai thỏ co lại.",
+                "2": "Cắt dây giao cảm cổ làm mạch máu tai thỏ co lại.",
+                "3": "Cắt hai dây X làm huyết áp động vật thí nghiệm giảm.",
+                "4": "Kích thích dây X làm huyết áp động vật thí nghiệm tăng.",
+                "A": "A",
+                "Q": "Thực nghiệm về vai trò của dây thần kinh X và dây giao cảm với tim mạch:"
+            },
+            "11": {
+                "1": "Thời gian 0,25 giây; áp lực 120 mmHg- 150 mmHg",
+                "2": "Thời gian 0,20 giây; áp lực 120 mmHg- 130 mmHg",
+                "3": "Thời gian 0,25 giây; áp lực 100 mmHg- 130 mmHg",
+                "4": "Thời gian 0,20 giây; áp lực 120 mmHg- 150 mmHg",
+                "A": "A",
+                "Q": "Ứng với nhịp tim 75 lần/ phút thì tổng thời gian tống máu và áp lực trong tâm thất trái là bao nhiêu?"
+            },
+            "12": {
+                "1": "Cuối giai đoạn tăng áp, do đóng van tổ chim.",
+                "2": "Đầu giai đoạn tăng áp, do đóng van nhĩ thất.",
+                "3": "Đầu giai đoạn tống máu, do đóng van nhĩ thất.",
+                "4": "Đầu giai đoạn tống máu, do đóng van tổ chim.",
+                "A": "B",
+                "Q": "Tiếng tim T1 xuất hiện khi nào và nguyên nhân gây ra T1?"
+            },
+            "13": {
+                "1": "Trong giai đoạn tiền tâm trương, do đóng van nhĩ thất.",
+                "2": "Trong giai đoạn  cơ tim giãn, do đóng van tổ chim.",
+                "3": "Trong giai đoạn giãn đằng trường, do đóng van nhĩ thất",
+                "4": "Trong giai đoạn giãn đằng trường, do đóng van tổ chim.",
+                "A": "D",
+                "Q": "Tiếng tim T2 xuất hiện khi nào và nguyên nhân gây ra T2?"
+            },
+            "14": {
+                "1": "Từ đầu giai đoạn tăng áp đến hết giai đoạn tống máu.",
+                "2": "Suốt giai đoạn tống máu.",
+                "3": "Từ đầu giai đoạn tống máu đến giai đoạn đầy máu.",
+                "4": "Từ đầu giai đoạn tăng áp đến giai đoạn đầy máu.",
+                "A": "A",
+                "Q": "Van nhĩ thất đóng khi nào?"
+            },
+            "15": {
+                "1": "Cuối giai đoạn tăng áp và trong giai đoạn tống máu.",
+                "2": "Giai đoạn tăng áp, giai đoạn tống máu, cho đến giai đoạn đầy máu.",
+                "3": "Trong giai đoạn tống máu và cơ tâm thất giãn đẳng trường.",
+                "4": "Trong giai đoạn tiền tâm trương và giai đoạn đầy máu.",
+                "A": "A",
+                "Q": "Van tổ chim mở trong thời gian nào?"
+            },
+            "16": {
+                "1": "Trùng với tâm thu của CCT sinh lý.",
+                "2": " Trùng với giai đoạn tăng áp của CCT sinh lý.",
+                "3": "Trùng với tâm nhĩ thu và tâm thất thu của CCT sinh lý.",
+                "4": "Trùng với thì tâm thất thu của CCT sinh lý.",
+                "A": "D",
+                "Q": "Thì tâm thu của chu chuyển tim (CCT ) lâm sàng:"
+            },
+            "17": {
+                "1": "Tâm nhĩ vừa giãn- tâm thất chưa co.",
+                "2": "Tâm nhĩ đang giãn- tâm thất bắt đầu co.",
+                "3": "Tâm nhĩ bắt đầu co- tâm thất đang giãn.",
+                "4": "Tâm thất đang co- tâm nhĩ đang giãn.",
+                "A": "B",
+                "Q": "Khi nghe tiếng T1, cơ tim ở trạng thái như thế nào?"
+            },
+            "18": {
+                "1": "Tâm nhĩ đang giãn- tâm thất bắt đầu giãn.",
+                "2": "Tâm nhĩ đang giãn- tâm thất giãn hoàn toàn.",
+                "3": "Tâm nhĩ bất đầu co- tâm thất bắt đầu giãn",
+                "4": "Tâm nhĩ bắt đầu co- tâm thất giãn hoàn toàn.",
+                "A": "A",
+                "Q": "Khi nghe tiếng T2, cơ tim ở trạng thái như thế nào?"
+            },
+            "19": {
+                "1": "Gồm thì tâm nhĩ thu và tâm thất thu.",
+                "2": "Bắt đầu khi đóng van nhĩ thất (T1 ) và kết thúc khi mở van tổ chim.",
+                "3": "Bắt đầu khi xuất hiện T1, kết thúc sau khi xuất hiện T2.",
+                "4": "Gồm tiếng T1 và im lặng ngắn.",
+                "A": "A",
+                "Q": "Thì tâm thu của chu chuyển tim (CCT ) sinh lý:"
+            },
+            "20": {
+                "1": "Phân áp O2 trong máu tăng.",
+                "2": "Lượng máu về tâm nhĩ tăng.",
+                "3": "Áp suất trong quai động mạch chủ tăng.",
+                "4": "Phân áp CO2 trong máu giảm.",
+                "A": "B",
+                "Q": "Tim tăng sức co bóp khi nào?"
+            },
+            "21": {
+                "1": "Khi giảm phân áp CO2 trong máu động mạch.",
+                "2": "Khi tăng áp suất trong quay động mạch chủ.",
+                "3": "Khi tăng phân áp O2 trong máu động mạch.",
+                "4": "Khi tăng hormon tuyến giáp (thyroxin).",
+                "A": "D",
+                "Q": "Nhịp tim tăng khi nào?"
+            },
+            "22": {
+                "1": "Acetylcholin, ion K+.",
+                "2": "adrenalin, ion Ca++.",
+                "3": "Acetylcholin, ion Ca++.",
+                "4": "Noradrenalin, ion K+.",
+                "A": "B",
+                "Q": "Tim tăng sức co bóp dưới ảnh hưởng của:"
+            },
+            "23": {
+                "1": "Tăng áp suất trong xoang động mạch cảnh.",
+                "2": "Tăng phân áp O2 trong máu động mạch.",
+                "3": "Tăng áp suất trong quai động mạch chủ.",
+                "4": "Giảm áp suất trong quai động mạch chủ.",
+                "A": "D",
+                "Q": "Huyết áp động mạch tăng khi:"
+            },
+            "24": {
+                "1": "Áp suất máu trong xoang động mạch cảnh giảm.",
+                "2": "Tăng sức cản của hệ tuần hoàn.",
+                "3": "Áp suất máu trong quai động mạch chủ tăng.",
+                "4": "Do dùng chất hủy phó giao cảm (atropin).",
+                "A": "C",
+                "Q": "Nguyên nhân chính điều hòa làm giảm huyết áp động mạch là:"
+            },
+            "25": {
+                "1": "Adrenalin, Vasopresin",
+                "2": "Adrenalin, Angiotensin I",
+                "3": "Adrenalin, Angiotensin II",
+                "4": "Angiotensin II,Vasopressin",
+                "A": "D",
+                "Q": "Các chất có tác dụng làm tăng huyết áp do co mạch và tăng tái hấp thu ở ống thận là:"
+            },
+            "26": {
+                "1": "Tim đập chậm, mạch giãn, huyết áp hạ, hô hấp không đổi",
+                "2": "Tim đập chậm, mạch giãn, huyết áp không đổi, hô hấp không đổi",
+                "3": "Tim đập chậm, mạch co, huyết áp giảm, hô hấp ngừng",
+                "4": "Tim đập bình thường, mạch giãn, huyết áp giảm, hô hấp ngừng",
+                "A": "A",
+                "Q": "Khi kích đầu ngoại biên dây X sẽ quan sát thấy hiện tượng:"
+            },
+            "27": {
+                "1": "Giai đoạn cơ tâm thất co không đồng thời",
+                "2": "Giai đoạn cơ tâm thất co đẳng trương",
+                "3": "Giai đoạn cơ tâm thất giãn đẳng trường",
+                "4": "Giai đoạn cơ tâm thất giãn đẳng trương",
+                "A": "A",
+                "Q": "Van nhĩ thất đóng trong:"
+            },
+            "28": {
+                "1": "Giai đoạn cơ tâm thất giãn không đồng thời",
+                "2": "Giai đoạn cơ tâm thất co đẳng trường",
+                "3": "Giai đoạn cơ tâm thất co đẳng trương",
+                "4": "Giai đoạn cơ tâm thất giãn đẳng trương",
+                "A": "D",
+                "Q": "Van nhĩ thất bắt đầu mở khi:"
+            },
+            "29": {
+                "1": "Giai đoạn cơ tâm thất giãn đẳng trường",
+                "2": "Giai đoạn cơ tâm thất co không đồng thời",
+                "3": "Giai đoạn cơ tâm thất co đẳng trường",
+                "4": "Giai đoạn cơ tâm thất co đẳng trương",
+                "A": "A",
+                "Q": "Van động mạch bắt đầu đóng khi :"
+            },
+            "30": {
+                "1": "Cuối giai đoạn cơ tâm thất co đẳng trương",
+                "2": "Giai đoạn cơ tâm thất giãn đẳng trương",
+                "3": "Giai đoạn cơ tâm thất giãn đẳng trường",
+                "4": "Cuối giai đoạn cơ tâm thất co đẳng trường",
+                "A": "D",
+                "Q": "Van động mạch bắt đầu mở khi:"
+            },
+            "31": {
+                "1": "Giai đoạn tống máu ",
+                "2": "Giai đoạn tăng áp ",
+                "3": "Thì tâm trương",
+                "4": "Thì tâm nhĩ thu",
+                "A": "D",
+                "Q": "Van nhĩ thất mở rộng thêm trong:"
+            },
+            "32": {
+                "1": "Thì tâm thất thu kéo dài 0,33 giây",
+                "2": "Thì tâm thu lâm sàng 0,48 giây",
+                "3": "Thì tâm thu lâm sàng 0,37 giây",
+                "4": "Thì tâm thu toàn bộ kéo dài 0,47 giây",
+                "A": "A",
+                "Q": "Khi nhịp tim 75 nhịp/ phút, thời gian tâm thu:"
+            },
+            "33": {
+                "1": "Thụ cảm thể beta2",
+                "2": "Các thụ cảm thể muscarinic",
+                "3": "Thụ cảm thể beta1",
+                "4": "Thụ cảm thể alpha1",
+                "A": "D",
+                "Q": "Thụ cảm thế nào điều hòa sự co của cơ trơn động mạch?"
+            },
+            "34": {
+                "1": "Tống máu chậm của tâm thất",
+                "2": "Tống máu nhanh của tâm thất",
+                "3": "Tâm nhĩ thu",
+                "4": "Đầy máu nhanh của tâm thất",
+                "A": "B",
+                "Q": "Trong pha nào của chu chuyển tim huyết áp động mạch cao nhất?"
+            },
+            "35": {
+                "1": "Thụ cảm thể beta1",
+                "2": "Thụ cảm thể muscarinic",
+                "3": "Thụ cảm thể beta2",
+                "4": "Thụ cảm thể alpha1",
+                "A": "B",
+                "Q": "Thụ cảm thế nào  điều hòa làm chậm nhịp tim?"
+            },
+            "36": {
+                "1": "Tống máu chậm ",
+                "2": "Tống máu nhanh",
+                "3": "Tâm thất giãn đẳng trương",
+                "4": "Tâm thất co đẳng trường",
+                "A": "C",
+                "Q": "Trong pha nào của tâm thu van hai lá mở?"
+            },
+            "37": {
+                "1": "Các van nhĩ thất đóng lại",
+                "2": "Các van động mạch phổi đóng lại",
+                "3": "Van động mạch chủ đóng lại",
+                "4": "Van động mạch chủ mở ra",
+                "A": "D",
+                "Q": "Sự kiện nào sau đây xảy ra ở cuối giai đoạn co bóp đẳng trương của tâm thất?"
+            },
+            "38": {
+                "1": "Là thể tích máu do một tâm thất bơm vào động mạch trong một phút",
+                "2": "Là thể tích máu do một tâm thất bơm vào động mạch trong một lần co bóp",
+                "3": "Là thể tích máu do hai tâm thất bơm vào động mạch trong một lần co bóp",
+                "4": "Là thể tích do hai tâm thất bơm vào động mạch trong một phút",
+                "A": "C",
+                "Q": "Điều nào sau đây đúng về thể tích tâm thu?"
+            },
+            "39": {
+                "1": "Lượng máu về tâm nhĩ trái tăng",
+                "2": "Áp suất máu trong quai động mạch chủ tăng",
+                "3": "Áp suất máu trong buồng tâm nhĩ tăng",
+                "4": "Phân áp CO2 trong máu động mạch tăng",
+                "A": "D",
+                "Q": "Tần số tim tăng khi:"
+            },
+            "40": {
+                "1": "Tâm nhĩ đang giãn sau khi co",
+                "2": "Tâm nhĩ đang giãn, tâm thất vừa mới co",
+                "3": "Tâm nhĩ đang giãn , tâm thất đang tống máu",
+                "4": "Tâm nhĩ bắt đầu co, tâm thất đang tống máu",
+                "A": "B",
+                "Q": "Đúng lúc nghe thấy tiếng tim thứ nhất thì:"
+            },
+            "41": {
+                "1": "Tâm thất bắt đầu giãn, tâm nhĩ bắt đầu co",
+                "2": "Tâm thất bắt đầu giãn, tâm nhĩ đang giãn",
+                "3": "Tâm nhĩ đang co ",
+                "4": "Tâm thất vừa giãn, tâm nhĩ vừa mới co",
+                "A": "B",
+                "Q": "Đúng lúc nghe thấy tiếng tim thứ hai thì:"
+            },
+            "42": {
+                "1": "Tim co bóp mạnh làm máu đến động mạch nhiều",
+                "2": "Máu về timm nhiều làm máu đến động mạch nhiều",
+                "3": "Áp suất máu trong quai động mạch chủ, xoang động mạch cảnh tăng",
+                "4": "Áp suất máu trong quai động mạch chủ, xoang động mạch cảnh giảm",
+                "A": "C",
+                "Q": "Phản xạ giảm áp xuất hiện khi:"
+            },
+            "43": {
+                "1": "Nồng độ CO2 trong máu động mạch giảm",
+                "2": "Nồng độ O2 trong máu động mạch giảm",
+                "3": "Nồng độ CO2 trong máu động mạch tăng",
+                "4": "pH máu giảm",
+                "A": "A",
+                "Q": "Những thay đổi sau đây làm tăng huyết áp, TRỪ:"
+            },
+            "44": {
+                "1": "Huyết áp hiệu số giảm",
+                "2": "Huyết áp trung bình tăng",
+                "3": "Huyết áp tối thiểu giảm",
+                "4": "Huyết áp hiệu số tăng",
+                "A": "A",
+                "Q": "Khi trương lực mạch máu bình thường, lực co cơ tim giảm làm cho:"
+            },
+            "45": {
+                "1": "Áp suất máu trong xoang động mạch cảnh giảm.",
+                "2": "nhịp tim chậm.",
+                "3": "Tăng sức cản của hệ tuần hoàn.",
+                "4": "Áp suất máu trong quai động mạch chủ tăng lên.",
+                "A": "D",
+                "Q": "Cơ thể có cơ chế điều hòa làm huyết áp động mạch giảm xuống khi"
+            },
+            "46": {
+                "1": "Trung bình cộng của nhiều lần đo huyết áp tâm thu",
+                "2": "Huyết áp tâm trương cộng với một phần ba huyết áp hiệu số",
+                "3": "Trung bình cộng của huyết áp tâm thu và huyết áp tâm trương",
+                "4": "Trung bình cộng của nhiều lần đo huyết áp tâm trương",
+                "A": "B",
+                "Q": "Huyết áp động mạch trung bình được tính:"
+            },
+            "47": {
+                "1": "Co các tiểu động mạch do đó làm tăng sức cản",
+                "2": "Co các mao mạch do đó làm tăng sức cản",
+                "3": "Co các tĩnh mạch lớn do đó dồn máu về tim",
+                "4": "Co hệ động mạch và tăng sức bóp cơ tim",
+                "A": "C",
+                "Q": "Kích thích hệ thần kinh giao cảm làm tăng huyết áp do có các tác dụng sau đây, TRỪ:"
+            },
+            "48": {
+                "1": "Trong thì tâm thu máu được phóng từ tâm thất ra các động mạch",
+                "2": "Căn cứ vào tiếng tim để xác định các thì của chu chuyển tim được gọi là chu chuyển tim sinh lý",
+                "3": "Gồm thì tâm thu và thì tâm trương",
+                "4": "Chu chuyển tim là tổng hợp những hoạt động của tim trong một chu kỳ, khởi đầu từ một chuyển động nhất định cho đến khi chuyển động này xuất hiện trở lại",
+                "A": "B",
+                "Q": "Câu nào sau đây không đúng về chu chuyển tim?"
+            },
+            "49": {
+                "1": "Tiếng thứ nhất ngắn và sắc hơn, do đóng của van ba lá; tiếng thứ hai dài và trầm hơn, do đóng của van hai lá",
+                "2": "Tiếng thứ nhất dài và trầm hơn, do đóng của van ba lá; tiếng thứ hai ngắn và sắc hơn, do đóng của van hai lá",
+                "3": "Chúng do co tâm thất, sau đó là co tâm nhĩ",
+                "4": "Tiếng thứ nhất dài và trầm, do đóng của van nhĩ thất; tiếng thứ hai ngắn và sắc hơn do đóng của các van động mạch",
+                "A": "D",
+                "Q": "Câu nào sau đây về tiếng tim là đúng?"
+            },
+            "50": {
+                "1": "Tăng huyết áp",
+                "2": "giảm hoạt động của hệ thần kinh giao cảm",
+                "3": "tăng hoạt động của hệ thần kinh phó giao cảm",
+                "4": "tăng hoạt động của hệ thần kinh giao cảm",
+                "A": "D",
+                "Q": "Co mạch nói chung là do"
+            },
+            "51": {
+                "1": "Huyết áp tăng ",
+                "2": "Adrenalin",
+                "3": "Tập luyện",
+                "4": "Thyroxin",
+                "A": "C",
+                "Q": "Điều nào sau đây làm giảm nhịp tim?"
+            },
+            "52": {
+                "1": "giảm nhịp tim và tăng lưu lượng tim",
+                "2": "tăng nhịp tim và giảm lưu lượng tim",
+                "3": "tăng nhịp tim và tăng lưu lượng tim",
+                "4": "giảm nhịp tim và giảm lưu lượng tim",
+                "A": "D",
+                "Q": "Tăng hoạt động phó giao cảm:"
+            },
+            "53": {
+                "1": "tăng thể tích tâm thu và tăng lưu lượng tim",
+                "2": "giảm thể tích tâm thu và tăng lưu lượng tim",
+                "3": "tăng thể tích tâm thu và giảm lưu lượng tim",
+                "4": "giảm thể tích tâm thu và giảm lưu lượng tim",
+                "A": "D",
+                "Q": "Giảm lượng máu ở tĩnh mạch về tim làm:"
+            },
+            "54": {
+                "1": "Huyết áp tăng gây co mạch và giảm huyết áp",
+                "2": "Huyết áp tăng gây giãn mạch và giảm huyết áp",
+                "3": "Huyết áp giảm gây co mạch và tăng huyết áp",
+                "4": "Huyết áp giảm gây giãn mạch và tăng huyết áp",
+                "A": "C",
+                "Q": "Chức năng của renin và angiotensin II:"
+            },
+            "55": {
+                "1": "Chu chuyển tim là biến đổi của huyết áp mang tính chất chu kỳ theo nhịp sinh học của cơ thể",
+                "2": "Chu chuyển tim là tổng hợp những hoạt động của tim trong một chu kỳ, khởi đầu từ một chuyển động nhất định cho đến khi chuyển động này xuất hiện trở lại",
+                "3": "Chu chuyển tim là biến đổi hình thái, chức năng của tim trong giai đoạn chu sinh",
+                "4": "Chu chuyển tim là chu trình của một hồng cầu rời khỏi tâm thất đi qua vòng tuần hoàn lớn, vòng tuần hoàn nhỏ và quay trở về tim",
+                "A": "B",
+                "Q": "Định nghĩa nào đúng về chu chuyển tim:"
+            },
+            "56": {
+                "1": "0,37 giây",
+                "2": "0,25 giây",
+                "3": "0,43 giây",
+                "4": "0,33 giây",
+                "A": "C",
+                "Q": "Trong điều kiện bình thường, tim đập 75 nhịp/ phút thì thời gian của thì tâm thu kéo dài:"
+            },
+            "57": {
+                "1": "Mở rộng thêm van nhĩ thất , đẩy nốt 1/2 lượng máu còn lại từ tâm nhĩ xuống tâm thất",
+                "2": "Mở van nhĩ thất, đẩy máu từ tâm nhĩ xuống tâm thất",
+                "3": "Mở rộng thêm van nhĩ thất, đẩy nốt 1/4 lượng máu còn lại từ tâm nhĩ xuống tâm thất",
+                "4": "Mở rộng thêm van nhĩ thất, đẩy nốt 3/4 lượng máu từ tâm nhĩ xuống tâm thất",
+                "A": "C",
+                "Q": "Kết quả của giai đoạn tâm nhĩ thu làm cho:"
+            },
+            "58": {
+                "1": "Co đẳng trường làm đóng van nhĩ thất",
+                "2": "Co không đồng thời làm mở van tổ chim",
+                "3": "Co không đồng thời làm đóng van nhĩ thất",
+                "4": "Co đẳng trương làm đóng van nhĩ thất",
+                "A": "C",
+                "Q": "Trong giai đoạn tăng áp, cơ tâm thất:"
+            },
+            "59": {
+                "1": "Cơ tâm thất co đẳng trường",
+                "2": "Cơ tâm nhĩ đã ngừng co nhưng cơ tâm thất chưa co",
+                "3": "cơ tâm thất co không đồng thời",
+                "4": "Cơ tâm thất co đẳng trương",
+                "A": "D",
+                "Q": "Mở đầu giai đoạn tống máu của thì tâm thất thu là giai đoạn:"
+            },
+            "60": {
+                "1": "Thời gian tống máu nhanh kéo dài khoảng 0,12 giây",
+                "2": "Mở đầu giai đoạn này là giai đoạn cơ co đẳng trương",
+                "3": "Thể tích tâm thu vào khoảng 70ml máu",
+                "4": "Giai đoạn tống máu nhanh kéo dài khoảng 0,25 giây",
+                "A": "D",
+                "Q": "Câu trả lời nào KHÔNG ĐÚNG về giai đoạn tống máu của thì tâm thất thu:"
+            },
+            "61": {
+                "1": "0,43 giây",
+                "2": "0,25 giây",
+                "3": "0,33 giây",
+                "4": "0,37 giây",
+                "A": "D",
+                "Q": "Trong điều kiên bình thường, tim đập 75 nhịp/ phút thì tâm trương kéo dài:"
+            },
+            "62": {
+                "1": "Cơ tâm thất co đẳng trường trong giai đoạn tăng áp, làm áp lực tâm thất tăng đột ngột và cao hơn áp lực tâm nhĩ. Máu dội ngược về gây đóng van nhĩ thất",
+                "2": "Trong giai đoạn giãn đẳng trường, áp lực trong tâm thất giảm xuống thấp hơn áp lực trong động mạch. Máu ở động mạch chủ và động mạch phổi dội ngược về đóng van tổ chim.",
+                "3": "Trong giai đoạn giãn đẳng trường, áp lực trong tâm thất giảm xuống thấp hơn áp lực trong động mạch. Máu ở động mạch chủ và động mạch phổi dội ngược về đóng van nhĩ thất.",
+                "4": "Cơ tim co bóp không đồng thời đầu giai đoạn tăng áp, làm áp lực tâm thất tăng đột ngột và cao hơn áp lực tâm nhĩ. Máu dội ngược về gây đóng van nhĩ thất.",
+                "A": "D",
+                "Q": "Nguyên nhân gây ra tiếng tim thứ nhất (T1 ) là do:"
+            },
+            "63": {
+                "1": "Giai đoạn tâm nhĩ thu",
+                "2": "Giai đoạn tiền tâm trương  ",
+                "3": "Giai đoạn tăng áp trong thì tâm thu",
+                "4": "Giãn đẳng trường của thì tâm trương",
+                "A": "D",
+                "Q": "Giai đoạn nào của chu chuyển tim gây ra tiếng tim T2?"
+            },
+            "64": {
+                "1": "Tiếng tim T2 xuất hiện trong giai đoạn này",
+                "2": "Giai đoạn đầy máu nhanh kéo dài 0,16 giây, giai đoạn đầy máu chậm kéo dài 0,09 giây",
+                "3": "Mở đầu giai đoạn này, tâm thất giãn theo kiểu đẳng trương",
+                "4": "Kết thúc giai đoạn đầy máu, 3/4 lượng máu từ tâm nhĩ được đưa xuống tâm thất",
+                "A": "D",
+                "Q": "Điều nào sau đây ĐÚNG  về giai đoạn đầy máu của thì tâm trương:"
+            },
+            "65": {
+                "1": "vùng mỏm tim",
+                "2": "khoang gian sườn 2 đường cạnh ức phải",
+                "3": "khoang gian sườn 3 sát bờ trái xương ức",
+                "4": "vùng nền tim",
+                "A": "A",
+                "Q": "Tiếng tim T1 nghe rõ nhất ở"
+            },
+            "66": {
+                "1": "khoang gian sườn 3 sát bờ trái xương ức",
+                "2": "vùng mỏm tim",
+                "3": "khoang gian sườn 2 đường cạnh ức phải",
+                "4": "vùng nền tim",
+                "A": "D",
+                "Q": "Tiếng tim T2 nghe rõ nhất ở"
+            },
+            "67": {
+                "1": "Độ quánh của máu gây ảnh hưởng chính tới giá trị huyết áp tối đa",
+                "2": "Phụ thuộc vào sức co bóp của tim và lượng máu do tim phóng ra",
+                "3": "Là áp lực của máu trong động mạch đo được ở thì tâm thu",
+                "4": "Giá trị bình thường vào khoảng 100-120mmHg",
+                "A": "A",
+                "Q": "Câu trả lời nào sau đây KHÔNG đúng về huyết áp tối đa?"
+            },
+            "68": {
+                "1": "Là áp lực thấp nhất của máu, đo được ở động mạch trong thì tâm trương",
+                "2": "Là áp lực nhỏ nhất mà thành động mạch phải chịu trong thì tâm thu",
+                "3": "Phụ thuộc vào sức co bóp của cơ tim",
+                "4": "Huyết áp tối thiểu thấp khi < 60 mmHg",
+                "A": "A",
+                "Q": "Mệnh đề nào sau đây đúng về huyết áp tối thiểu:"
+            },
+            "69": {
+                "1": "Huyết áp hiệu số < 40 mmHg",
+                "2": "Huyết áp hiệu số < 30 mmHg",
+                "3": "Huyết áp hiệu số < 50 mmHg",
+                "4": "Huyết áp hiệu số < 20 mmHg",
+                "A": "D",
+                "Q": "Hiện tượng kẹt huyết áp xảy ra khi:"
+            },
+            "70": {
+                "1": "Đảm bảo sự hằng định về nội môi",
+                "2": "Đảm bảo sự cung cấp máu cho các cơ quan khi hoạt động",
+                "3": "Đảm bảo sự ổn định của huyết áp",
+                "4": "Đảm bảo sức chứa của hệ mạch và lưu lượng máu",
+                "A": "A",
+                "Q": "Câu nào sau đây KHÔNG đúng về các phản xạ tuần hoàn?"
+            },
+            "71": {
+                "1": "Kích thích thần kinh giao cảm gây tăng tốc độ dẫn truyền trong hệ tự động của tim",
+                "2": "Kích thích thần kinh giao cảm làm tăng cường khả năng phân chia của tế bào cơ tim",
+                "3": "Kích thích thần kinh giao cảm làm tăng nhịp tim",
+                "4": "Kích thích thần kinh giao cảm gây tăng sức bóp cơ tim",
+                "A": "B",
+                "Q": "Câu trả lời nào KHÔNG đúng về vai trò của thần kinh giao cảm lên tim?"
+            },
+            "72": {
+                "1": "Acetylcholin",
+                "2": "Serotonin",
+                "3": "Catecholamin",
+                "4": "Glutamate",
+                "A": "C",
+                "Q": "Chất trung gian hóa học của hệ thần kinh giao cảm đối với tim là:"
+            },
+            "73": {
+                "1": "Ổn định cung lượng tim",
+                "2": "Tự điều hòa lượng máu về tim và lượng máu đẩy ra khỏi tim, tránh cho tim không bị ứ máu",
+                "3": "Điều hòa huyết áp",
+                "4": "Giảm huyết áp ngoại vi",
+                "A": "B",
+                "Q": "Phản xạ gốc tim có tác dụng"
+            },
+            "74": {
+                "1": "Các thụ thể hưng phấn khi huyết áp tại xoang động mạch cảnh và quai động mạch chủ giảm",
+                "2": "Huyết áp tăng lên khi xung động từ thụ thể áp lực ít về trung khu giảm áp",
+                "3": "Có vai trò trong điều hòa huyết áp",
+                "4": "Luồng xung động hướng tâm về trung khu theo dây thần kinh Cyon và dây thần kinh Hering",
+                "A": "A",
+                "Q": "Câu trả lời nào sau đây KHÔNG đúng về phản xạ quai động mạch chủ và xoang động mạch cảnh với thụ thể áp lực?"
+            },
+            "75": {
+                "1": "Thụ thể hóa học hưng phấn khi nồng độ O2 tăng và/ hoặc CO2 giảm (hoặc nồng độ ion H+ giảm ) ",
+                "2": "Xung động về trung khu tăng áp, gây phản xạ tăng áp, tăng nhịp tim",
+                "3": "Đây là phản xạ giảm áp ngoại vi",
+                "4": "Khi thở mạnh làm phân áp CO2 giảm gây giảm huyết áp",
+                "A": "A",
+                "Q": "Câu trả lời nào sau đây KHÔNG đúng về phản xạ quai động mạch chủ và xoang động mạch cảnh với thụ thể hóa học?"
+            },
+            "76": {
+                "1": "Nhiễm toan chuyển hóa",
+                "2": "Mức lọc cầu thận tăng",
+                "3": "Nồng độ ion Na+ máu tăng",
+                "4": "Thiếu máu, huyết áp giảm",
+                "A": "D",
+                "Q": "Trong hệ Renin- Angiotensin- Aldosteron, renin được bộ máy cận tiểu cầu thận tiết ra khi:"
+            },
+            "77": {
+                "1": "đóng của van động mạch chủ",
+                "2": "đóng của van động mạch phổi",
+                "3": "đóng của van nhĩ thất",
+                "4": "mở của van nhĩ thất",
+                "A": "C",
+                "Q": "Tiếng T1 trong chu chuyển tim lâm sàng gây ra là do:"
+            },
+            "78": {
+                "1": "mở cửa van nhĩ thất",
+                "2": "mở cửa van tổ chim",
+                "3": "đóng cửa van nhĩ thất",
+                "4": "đóng cửa van tổ chim",
+                "A": "D",
+                "Q": "Tiếng T2 trong chu chuyển tim lâm sàng gây ra là do:"
+            },
+            "79": {
+                "1": "Giai đoạn tăng áp",
+                "2": "Giai đoạn tống máu nhanh  ",
+                "3": "Giai đoạn đầy máu",
+                "4": "Giai đoạn tống máu chậm",
+                "A": "C",
+                "Q": "Giai đoạn nào KHÔNG có trong thời kỳ tâm thu của chu chuyển tim?"
+            },
+            "80": {
+                "1": "Đóng van tổ chim gây nên tiếng T2",
+                "2": "Cơ tâm thất co đẳng trường",
+                "3": "Cơ tâm thất co không đồng đều",
+                "4": "Đóng van nhĩ thất gây nên tiếng T1",
+                "A": "A",
+                "Q": "Điều nào sau đây không đúng về giai đoạn tăng áp trong thì tâm thu của chu chuyển tim sinh lý?"
+            },
+            "81": {
+                "1": "Cơ tâm thất co đẳng trường",
+                "2": "Tống máu chậm chiếm 0,08 giây",
+                "3": "Giai đoạn tống máu chiếm thời gian 0,25 giây",
+                "4": "Tống máu nhanh chiếm 0,12 giây",
+                "A": "B",
+                "Q": "Điều nào sau đây không đúng về giai đoạn tống máu trong thì tâm thu của chu chuyển sinh lý ứng với nhịp tim 75 nhịp/ phút?"
+            },
+            "82": {
+                "1": "Đều đánh giá hoạt động của tim",
+                "2": "Có hai thì tâm thu và tâm trương",
+                "3": "Thời gian của một chu chuyển tim đều bằng nhau",
+                "4": "Thời gian thì tâm thu và tâm trương đều giống nhau",
+                "A": "D",
+                "Q": "Nhận định nào sau đây là không đúng khi so sánh chu chuyển tim lâm sàng và chu chuyển tim sinh lý?"
+            },
+            "83": {
+                "1": "2/3 lượng máu được đưa từ tâm nhĩ xuống tâm thất",
+                "2": "1/3 lượng máu được đưa từ tâm nhĩ xuống tâm thất",
+                "3": "4/5 lượng máu được đưa từ tâm nhĩ xuống tâm thất",
+                "4": "3/4 lượng máu được đưa từ tâm nhĩ xuống tâm thất",
+                "A": "D",
+                "Q": " Điều nào là đúng về kết quả của giai đoạn đầy máu?"
+            },
+            "84": {
+                "1": "Huyết áp tối đa",
+                "2": "Huyết áp hiệu số",
+                "3": "Huyết áp trung bình",
+                "4": "Huyết áp tối thiểu",
+                "A": "C",
+                "Q": "Thành phần nào của huyết áp mà không đo được bằng huyết áp kế thông thường ở cánh tay?"
+            },
+            "85": {
+                "1": "Giảm tính hưng phấn",
+                "2": "Giảm sức co bóp cơ tim",
+                "3": "Giảm tính dẫn truyền",
+                "4": "Giảm dinh dưỡng cơ tim",
+                "A": "D",
+                "Q": "Điều nào là KHÔNG đúng về ảnh hưởng của thần kinh phó giao cảm lên tim?"
+            },
+            "86": {
+                "1": "Tất cả các loại mạch",
+                "2": "Mạch não ",
+                "3": "Mạch nhỏ ngoại vi",
+                "4": "Mạch vành",
+                "A": "C",
+                "Q": "Thần kinh giao cảm gây co loại mạch nào sau đây?"
+            },
+            "87": {
+                "1": "Tăng cả (1 ), (2 ), (3 )",
+                "2": "Tăng tần số tim (1 )",
+                "3": "Tăng tính dẫn truyền (3 )",
+                "4": "Tăng sức co bóp của tim (2 )",
+                "A": "A",
+                "Q": "Thần kinh giao cảm gây ảnh hưởng lên các mặt hoạt động  nào của tim?"
+            },
+            "88": {
+                "1": "Thụ cảm thể thể tích nằm ở xoang động cảnh, quai động mạch chủ",
+                "2": "Làm tăng sức co bóp của tim",
+                "3": "Xung động từ thụ cảm thể thể tích đi về trung khu giảm áp",
+                "4": "Làm giảm sức co bóp của tim",
+                "A": "B",
+                "Q": "Điều nào sau đây là đúng về phản xạ từ thụ cảm thể thẻ tích diefud hòa hoạt động của tim?"
+            },
+            "89": {
+                "1": "Phản xạ từ thụ cảm thể hóa học",
+                "2": "Phản xạ từ thụ cảm thể áp lực",
+                "3": "Cả 3 loại phản xạ trên",
+                "4": "Phản xạ từ thụ cảm thể thể tích",
+                "A": "D",
+                "Q": "Phản xạ nào sau đây có tác dụng điều hòa lượng máu về và ra khỏi tim?"
+            },
+            "90": {
+                "1": "Tăng hoạt động của tim, làm tăng huyết áp",
+                "2": "Xung động đi về trung khu giảm áp",
+                "3": "Thụ cảm thể nằm ở buồng tim",
+                "4": "Xung động từ thụ cảm thể về tim theo dây thần kinh số X",
+                "A": "B",
+                "Q": "Nhận định nào sau đây là đúng về phản xạ từ thụ cảm thể áp lực?"
+            },
+            "91": {
+                "1": "Nồng độ ion CO2 trong máu tăng (2 )",
+                "2": "Nồng độ ion O2 trong máu giảm (3 )",
+                "3": "Nồng độ ion H+ trong máu  tăng (1 )",
+                "4": "Cả (1 ), (2 ), (3 )",
+                "A": "D",
+                "Q": "Thụ cảm thể hóa học bị kích thích khi nào?"
+            },
+            "92": {
+                "1": "tăng trương lực cơ tim",
+                "2": "tăng sức co bóp cơ tim",
+                "3": "ngừng tim ở thì tâm thu",
+                "4": "ngừng tim ở thì tâm trương",
+                "A": "D",
+                "Q": "Nồng độ ion K+ tăng máu gây nên"
+            },
+            "93": {
+                "1": "tăng sức co bóp cơ tim",
+                "2": "ngừng tim ở thì tâm thu",
+                "3": "tăng trương lực cơ tim",
+                "4": "ngừng tim thì ở thì tâm trương",
+                "A": "D",
+                "Q": "Nhận định nào sau đây là KHÔNG đúng khi nồng độ ion Ca++ trong máu tăng cao?"
+            },
+            "94": {
+                "1": "Renin xúc tác chuyển angiotensin I thành angiotensin II",
+                "2": "Men chuyển xúc tác chuyển angiotensinogen thành angiotensin I",
+                "3": "Angiotension II có tác dụng co mạch gây tăng huyết áp",
+                "4": "Tế bào cận tiểu cầu tiết ra angiotensinogen",
+                "A": "C",
+                "Q": "Điều nào sau đây là đúng về hệ Renin- Angiotensin- Aldosteron?"
+            },
+            "95": {
+                "1": "Angiotension I xúc tác chuyển angiotensinogen thành angiotensin II",
+                "2": "Men chuyển xúc tác chuyển angiotensin I thành angiotensin II",
+                "3": "Renin xúc tác chuyển angiotensinogen thành angiotensin I",
+                "4": "Tế bào cận tiểu cầu tiết ra renin",
+                "A": "A",
+                "Q": "Nhận định nào là KHÔNG đúng về hệ Renin- Angiotensin- Aldosteron?"
+            },
+            "96": {
+                "1": "Đóng van nhĩ thất",
+                "2": "Mở van nhĩ thất",
+                "3": "Cơ tâm thất giãn đẳng trương",
+                "4": "Đóng van tổ chim",
+                "A": "A",
+                "Q": "Hiện tượng nào sau đây xảy ra ở giai đoạn tăng áp  thì tâm thu trong chu chuyển tim "
+            },
+            "97": {
+                "1": "Cơ tâm thất giãn đẳng trương",
+                "2": "Cơ tâm thất co đẳng trương",
+                "3": "Giai đoạn tống máu nhanh kéo dài 0,2 s",
+                "4": "Giai đoạn tống máu chậm kéo dài 0,25s",
+                "A": "B",
+                "Q": "Điểu nào sau đây đúng ở giai đoạn tống máu trong chu chuyển tim "
+            },
+            "98": {
+                "1": "Mở van nhĩ thất",
+                "2": "Đẩy toàn bộ máu từ tâm nhĩ xuống tâm thất ",
+                "3": "đẩy 1/4 lượng máu còn lại từ nhĩ xuống thất",
+                "4": "đẩy 3/4 lượng máu còn lại từ nhĩ xuống thất",
+                "A": "C",
+                "Q": "tâm nhĩ thu có tác dụng "
+            },
+            "99": {
+                "1": "Là huyết áp cao nhất đo được trong lòng động mạch",
+                "2": "Có giá trị từ 100 - 120mmHg",
+                "3": "Khi lớn hơn 120mmHg là tăng huyết áp",
+                "4": "Khi nhỏ hơn 90 mmHg là giảm huyết áp",
+                "A": "C",
+                "Q": "Điều nào sau đây KHÔNG đúng về huyết áp tối đa "
+            },
+            "100": {
+                "1": "Là trung bình cộng của huyết áp tối đa và huyết áp tối thiểu ",
+                "2": "Có giá trị bình thường bằng 70mmHg",
+                "3": "có thể đo bằng bộ đo huyết áp cánh tay",
+                "4": "Đo bằng dao động kế Pachon",
+                "A": "D",
+                "Q": "Huyết áp trung bình"
+            },
+            "101": {
+                "1": "Làm tăng tần số tim",
+                "2": "làm tăng trương lực cơ tim",
+                "3": "Làm tăng sức bóp cơ tim",
+                "4": "Không ảnh hưởng đến dinh dưỡng cơ tim",
+                "A": "D",
+                "Q": "Điều nào sau đây không đúng  về tác dụng của hệ thần kinh giao cảm lên tim"
+            },
+            "102": {
+                "1": "tần số tim",
+                "2": "Trương lực cơ tim",
+                "3": "Dinh dưỡng cơ tim",
+                "4": "Sức co bóp của cơ tim",
+                "A": "C",
+                "Q": "Thần kinh phó giao cảm KHÔNG ảnh hưởng lên hoạt động nào của tim"
+            },
+            "103": {
+                "1": "Thụ cảm thể nằm ở quai động mạch chủ và xoang động mạch cảnh",
+                "2": "Xung động đi theo dây TK Hering và Cyon",
+                "3": "Làm tăng sức bóp cơ tim",
+                "4": "Làm giảm sức bóp cơ tim",
+                "A": "C",
+                "Q": "Điều nào sau đây là đúng về phản xạ tim-tim"
+            },
+            "104": {
+                "1": "Thụ cảm thể nằm ở quai động mạch chủ và xoang động mạch cảnh",
+                "2": "Thụ cảm thể nằm ở trong các buồng tim",
+                "3": "Xung động đi theo dây TK X về trung khu giảm áp",
+                "4": "Xung động đi theo dây TK Hering và Cyon về trung khu tăng áp",
+                "A": "A",
+                "Q": "Điều nào sau đây đúng về phản xạ tự thụ cảm thể áp lực điều hòa hoạt động tim mạch"
+            },
+            "105": {
+                "1": "làm tăng trương lực cơ tim",
+                "2": "gây ngừng tim thì tâm thu",
+                "3": "gây ngừng tim ở thì tâm trương",
+                "4": "không ảnh hưởng đến trương lực cơ tim",
+                "A": "C",
+                "Q": "Ion K+ có tác dụng"
+            },
+            "106": {
+                "1": "Với tần số tim là 75 ck/p thì thời gian của 1 chu chuyển tim  là 0,8s với thời gian tâm thu và tăng tâm trương bằng nhau",
+                "2": "Tiếng T1 được tạo ra do đóng van nhĩ thất trong giai đoạn cơ tâm thất co bóp không đồng thời",
+                "3": "Tâm nhĩ thu là giai đoạn khởi đầu cho 1  chu chuyển tim ,làm áp lực trong tâm nhĩ cao hơn trong tâm thất 2-3mmHg gây mở van nhĩ thất dẫn tới máu từ tâm nhĩ được đẩy xuống tâm thất",
+                "4": "Giai đoạn tông máu nhanh đưa được 1/2 máu từ tâm thất vào động mạch ",
+                "A": "B",
+                "Q": "Câu nào sau đây đúng về các giai đoạn của chu chuyển tim sinh lí"
+            },
+            "107": {
+                "1": "Van 2 lá và 3 lá đều đang hé mở còn van động mạch chủ và động mạch phổi đều đang đóng",
+                "2": "3/4 lượng máu từ tâm nhĩ đã được đưa xuống tâm thất ",
+                "3": "Van nhĩ thất đóng kín và sẽ được mở lại trong giai đoạn tâm nhĩ thu tiếp theo ;van động mạch đang đóng",
+                "4": "Áp lực trong buồng nhĩ và buồng thất là tương đương nhau",
+                "A": "C",
+                "Q": "Kết thúc giai đoạn tâm trương câu trả lời nào sau đây KHÔNG đúng"
+            },
+            "108": {
+                "1": "Giai đoạn tiền tâm trương",
+                "2": "Giai đoạn giãn đẳng trường",
+                "3": "Giai đoạn tâm nhĩ giãn",
+                "4": "Giai đoạn giãn đẳng trương",
+                "A": "C",
+                "Q": "Giai đoạn nào sau đây KHÔNG nằm trong giai đoạn tâm trương "
+            },
+            "109": {
+                "1": "Giai đoạn cơ tâm thất giãn đẳng trường",
+                "2": "tâm nhĩ thu",
+                "3": "Cơ tâm thất giãn đẳng trường",
+                "4": "Giai đoạn đầy máu chậm",
+                "5": "Giai đoạn đầy máu nhanh",
+                "A": "A",
+                "Q": "Khi nghe tiếng tim bằng phương pháp thông thường, hoạt động nào của tim KHÔNG diễn ra trong khoảng im lặng dài"
+            },
+            "110": {
+                "1": "Cơ tâm thất co không đồng thời",
+                "2": "Cơ tâm thất co đẳng trương",
+                "3": "0,12s đầu của giai đoạn cơ tâm thất co đẳng trường",
+                "4": "0,13s sau của giai đoạn cơ tâm thất co đẳng trường",
+                "A": "A",
+                "Q": "Khi nghe tiếng tim bằng phương pháp thông thường, hoạt động nào của tim KHÔNG diễn ra trong khoảng im lặng ngắn"
+            },
+            "111": {
+                "1": "Đảm bảo sự ổn định của huyết áp",
+                "2": "Đảm bảo sự ổn định phân áp khí",
+                "3": "Đảm bảo sức chứa hệ mạch máu và lưu lượng máu",
+                "4": "Đảm bảo sự cung cấp máu cho các cơ quan khi hoạt động",
+                "A": "C",
+                "Q": "Phản xạ tuân hoàn KHÔNG có chức năng nào sau đây"
+            },
+            "112": {
+                "1": "2/3 trên thể lưới 2 bên hành não",
+                "2": "Sừng bên chất xám tủy sống các đốt cổ II đến cổ V",
+                "3": "Sừng bên chất xám tủy sống các đốt cổ lưng trên và đốt cổ VII",
+                "4": "1/3 dưới thể lưới hành não",
+                "A": "C",
+                "Q": "Trung khu thần kinh GIAO CẢM chi phối tim nằm ở"
+            },
+            "113": {
+                "1": "Thụ cảm thể áp lục là các tận cùng thần kinh, có chức năng nhận cảm với sự căng giãn",
+                "2": "Xung động theo dây thần kinh Herring đi tới các bó đơn độc",
+                "3": "Xung động từ thụ cảm thể áp lực ở quai động mạch chủ và xoang động mạch cảnh về trung khu gây hưng phấn dây thần kinh X tới tim cũng như ức chế thần kinh giao cảm chi phối trương lực mạch ngoại biên",
+                "4": "Huyết áp làm hưng phấn các thụ cảm thể áp lực ở quai động mạch chủ và xang động mạch cảnh",
+                "A": "C",
+                "Q": "Mệnh đề nào KHÔNG đúng về phản xạ tuần hoàn"
+            },
+            "name": "SINH LÍ TUẦN HOÀN"
+        }
+    }
+}

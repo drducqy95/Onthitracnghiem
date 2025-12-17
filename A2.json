@@ -1,0 +1,1031 @@
+{
+    "BENH_HOC_NOI_KHOA_2018": {
+        "AM2": {
+            "1": {
+                "1": "Gắng sức",
+                "2": "Làm việc nhẹ",
+                "3": "Khi nghỉ ngơi",
+                "4": "Cả 3 phương án trên",
+                "A": "D",
+                "Q": "Khi suy tim mạn tính có thể gặp khó thở khi"
+            },
+            "2": {
+                "1": "Hen tim ",
+                "2": "Cơn khó thở kịch phát về đêm",
+                "3": "Phù phổi cấp",
+                "4": "Không khó thở",
+                "A": "D",
+                "Q": "Khi suy tim trái nặng không gặp một trong các biểu hiện :"
+            },
+            "3": {
+                "1": "Đau thắt bóp sau xương ức",
+                "2": "Đau nhói như kim châm vùng ngực trái",
+                "3": "Đau tức âm ỉ vúng trước tim",
+                "4": "Cả 3 phương án trên",
+                "A": "D",
+                "Q": "Khi có bệnh tim đau ngực có tính chất"
+            },
+            "4": {
+                "1": "Nhồi máu cơ tim ",
+                "2": "Huyết áp thấp",
+                "3": "Hẹp van 2 lá khít lâu năm",
+                "4": "Tăng huyết áp",
+                "A": "C",
+                "Q": "Ho khan có thể gặp trong"
+            },
+            "5": {
+                "1": "Hẹp khít van 2 lá",
+                "2": "Tắc động mạch phổi ",
+                "3": "Phù phổi cấp",
+                "4": "Viêm phổi",
+                "A": "C",
+                "Q": "Ho ra bọt hồng "
+            },
+            "6": {
+                "1": "Hở van động mạch chủ chưa có suy tim",
+                "2": "Hở van động mạch phổi chưa có suy tim",
+                "3": "Hẹp van động mạch phổi",
+                "4": "Hẹp vanđộng mạch chủ chưa có suy tim",
+                "A": "C",
+                "Q": "Tím môi và đầu chi gặp trong :"
+            },
+            "7": {
+                "1": "Phù xuất hiện sáng sớm",
+                "2": "Phù tím tăng về chiều",
+                "3": "Ăn mặn phù giảm",
+                "4": "Kèm đái nhiều",
+                "A": "B",
+                "Q": "Đặc điểm nào có trong phù do suy tim:"
+            },
+            "8": {
+                "1": "Hở van động mạch chủ mức độ nhẹ ",
+                "2": "Hở van 2 lá mứcđộ nhẹ",
+                "3": "Hẹp khít van 2 lá",
+                "4": "Hở hẹp van 2 lá mứcđộ nhẹ",
+                "A": "C",
+                "Q": "Ngất hay gặp trong các bệnh sau đây :"
+            },
+            "9": {
+                "1": "Huyết áp thấp ( HA tâm thu < 90mmHg)",
+                "2": "Tăng huyết áp độ 1",
+                "3": "Đái tháođường mứcđộ nhẹ",
+                "4": "Viêm cầu thận mạng chưa có suy thận",
+                "A": "A",
+                "Q": " Lịm hay gặp trong các bệnh sau đây:"
+            },
+            "10": {
+                "1": "Tràng dịch màng ngoài tim",
+                "2": "Hẹp van 2 lá",
+                "3": "Hở nhẹ van 2 lá ",
+                "4": "Hở nặng van động mạch chủ",
+                "A": "D",
+                "Q": " Nhìn mỏm tim đập mạnh và cuộn sóng khi :"
+            },
+            "11": {
+                "1": "Tràn dịch màng ngoài tim nặng",
+                "2": "Bị các bệnh van tim do thấp ",
+                "3": "Tim bẩm sinh",
+                "4": "Nhồi máu cơ tim ",
+                "A": "A",
+                "Q": "Không nhìn thấy vị trí mỏm tim đập khi:"
+            },
+            "12": {
+                "1": "Nhĩ trái dãn",
+                "2": "Thất trái dãn",
+                "3": "Nhĩ phải dãn",
+                "4": "Thất phải dãn",
+                "A": "D",
+                "Q": "Thất phải dập mạnh ở mũi ức khi"
+            },
+            "13": {
+                "1": "Thất trái dãn",
+                "2": "Nhĩ phải dãn",
+                "3": "Nhĩ trái dãn",
+                "4": "Thất phải dãn",
+                "A": "A",
+                "Q": "Mỏm tim đập ở liên sườn V trên đường nách trước trái khi:"
+            },
+            "14": {
+                "1": "Hở nặng van 2 lá ",
+                "2": "Hở van 3 ká",
+                "3": "Hẹp van động mạch chuũ",
+                "4": "Hẹp van 2 lá",
+                "A": "A",
+                "Q": "Mỏm tim đập ở liên sườn VI trên đường nách giữa trái gặp trong bệnh nào:  "
+            },
+            "15": {
+                "1": "Ho van 3 lá",
+                "2": "Hở van 2 lá",
+                "3": "Hở van động mạch chủ",
+                "4": "Hẹp van đông mạch chủ",
+                "A": "C",
+                "Q": "Động mạch cảnh đập mạnh ( vũ động mạch cảnh ) gặp trong :"
+            },
+            "16": {
+                "1": "Hẹp van đông mạch chủ",
+                "2": "Hở van đông mạch chủ",
+                "3": "Hở van 2 lá ",
+                "4": "Hẹp van 2 lá nặng",
+                "A": "C",
+                "Q": "Sờ rung miu tâm thu ở mỏm tim gặp trong:"
+            },
+            "17": {
+                "1": "Hở van 3 lá ",
+                "2": "Hở van 2 lá ",
+                "3": "Hở van đông mạch chủ",
+                "4": "Hẹp van động mạch chủ.",
+                "A": "D",
+                "Q": "Sờ rung mưu ở liên sườn II cạnh ức trái và hõm ức gặp trong:"
+            },
+            "18": {
+                "1": "Hở van đông mạch chủ",
+                "2": "Hẹp van động mạch chủ.",
+                "3": "Hở van 2 lá ",
+                "4": "Hẹp van 2 lá nặng.",
+                "A": "D",
+                "Q": "Sờ rung mưu tâm trương ở mỏm tim gặp trong:"
+            },
+            "19": {
+                "1": "Viêm gan.",
+                "2": "Suy tim chưa gây xơ gan tim.",
+                "3": "Xơ gan",
+                "4": "K gan",
+                "A": "B",
+                "Q": "Phản hồi gan tĩnh mạch cảnh (+) gặp khi:"
+            },
+            "20": {
+                "1": "Vữa xơ động mạch.",
+                "2": "Tăng huyết áp",
+                "3": "viêm động mạch",
+                "4": "tắc động mạch dưới đòn phải ( hoặc cánh tay phải)",
+                "A": "D",
+                "Q": "Bắt động mạch quay bên phải không đập, động mạch quay bên trái đập bình thường gặp khi:"
+            },
+            "21": {
+                "1": "Thất phải to.",
+                "2": "Thất trái to.",
+                "3": "Nhĩ trái to",
+                "4": "Nhĩ phải to.",
+                "A": "A",
+                "Q": "Khi sờ thấy tim đập mạnh ở mũi ức gặp khi:"
+            },
+            "22": {
+                "1": "Thông liên nhĩ",
+                "2": "Hở van 2 lá",
+                "3": "Thông liên thất",
+                "4": "Hở van 3 lá",
+                "A": "D",
+                "Q": "Nghe ở mũi ức tiếng thổi tâm thu tăng cường độ ở thì thở vào [nghiệm pháp Rivero-Carvalho (+)]:"
+            },
+            "23": {
+                "1": "Nhĩ trái to",
+                "2": "Nhĩ phải to.",
+                "3": "Thất phải to.",
+                "4": "cả nhĩ phải và nhĩ trái to.",
+                "A": "D",
+                "Q": "Khi chụp X quang tim phổi tư thế thẳng bờ dưới phải dãn và có 2 cung là do:"
+            },
+            "24": {
+                "1": "Nhĩ phải dãn",
+                "2": "nhĩ trái dãn",
+                "3": "cả nhĩ trái và thất trái dãn",
+                "4": "thất trái dãn",
+                "A": "C",
+                "Q": "Trên phim tim phổi nghiêng trái có barit ở 1/3 giữa và 1/3 dưới thực quản bị chèn đẩy là do :"
+            },
+            "25": {
+                "1": "Nhĩ trái dãn",
+                "2": "thất phải dãn",
+                "3": "cả thất trái và thất phải dãn",
+                "4": "thất trái dãn",
+                "A": "C",
+                "Q": "Trên phim chụp tim phổi nghiêng trái thấy hình ảnh hẹp và mất khoảng sáng trước tim và sau tim là do:"
+            },
+            "26": {
+                "1": "Hẹp van động mạch chủ.",
+                "2": "Hẹp van 2 lá.",
+                "3": "Hở van 2 lá",
+                "4": "Hở van đông mạch chủ",
+                "A": "B",
+                "Q": "Trên phim chụp tim phổi thẳng bờ trái có 4 cung gặp trong:"
+            },
+            "27": {
+                "1": "Nhĩ trái dày",
+                "2": "Thất trái dày",
+                "3": "Thất phải dày",
+                "4": "Nhĩ phải dày.",
+                "A": "D",
+                "Q": "Sóng P cao > 2,5mm, nhọn trên điện tim đồ đạo trình DII test 1mv = 10mm là do"
+            },
+            "28": {
+                "1": "Phì đại nhĩ phải.",
+                "2": "Phì đại thất phải",
+                "3": "Phì đại nhĩ trái.",
+                "4": "Phì đại thất trái",
+                "A": "C",
+                "Q": "Điện tim đồ, đạo trình DII (test 1mv = 10mm, tốc độ 25mm/giây) có sóng p dạng 2 đỉnh, rộng 0,12 giây là do:"
+            },
+            "29": {
+                "1": "Phì đại thất trái",
+                "2": "Phì đại thất phải",
+                "3": "Phì đại nhĩ phải.",
+                "4": "Phì đại nhĩ trái.",
+                "A": "A",
+                "Q": "Trên điện tim (test 1mv = 10mm, tốc độ 25mm/giây) có trục trái và chỉ số Sokolov - Lyon là 45 mm, gặp trong:"
+            },
+            "30": {
+                "1": "Phì đại nhĩ trái.",
+                "2": "Phì đại thất phải",
+                "3": "Phì đại thất trái",
+                "4": "Phì đại nhĩ phải.",
+                "A": "B",
+                "Q": "Trên điện tim (test 1mv = 10mm, tốc độ 25mm/s) trục phải, R/S ở V1, V2> 1 gặp trong"
+            },
+            "31": {
+                "1": "Hở van 3 lá",
+                "2": "Hở chủ",
+                "3": "Hẹp van 2 lá.",
+                "4": "Hở van 2 lá",
+                "A": "C",
+                "Q": "Siêu âm TM có thể chẩn đoán được:"
+            },
+            "32": {
+                "1": "Hở van 3 lá",
+                "2": "Hẹp van 2 lá.",
+                "3": "Hở van 2 lá",
+                "4": "Hở chủ",
+                "A": "B",
+                "Q": "Siêu âm 2D có thể chẩn đoán được:"
+            },
+            "33": {
+                "1": "Cả 3 đáp án trên",
+                "2": "Hở chủ",
+                "3": "Hở van 2 lá",
+                "4": "Hở van 3 lá",
+                "A": "A",
+                "Q": "Siêu âm Doppler có thể chẩn đoán được:"
+            },
+            "34": {
+                "1": "BNP",
+                "2": "Tropanin",
+                "3": "Ure",
+                "4": "CRP",
+                "A": "A",
+                "Q": "Chất nào trong máu đánh giá suy tim:"
+            },
+            "35": {
+                "1": "Kế hợp rối loạn tạo thành và dẫn truyền xung động",
+                "2": "Các rối loạn trên.",
+                "3": "Rối loạn tạo thành xung động",
+                "4": "Rối loạn dẫn truyền xung động",
+                "A": "B",
+                "Q": "Loạn nhịp tim là do:"
+            },
+            "36": {
+                "1": "Bệnh tim mạch",
+                "2": "Bệnh tiêu hoá",
+                "3": "Người bình thường",
+                "4": "Cả 3 đáp án trên",
+                "A": "D",
+                "Q": "Rối loạn nhịp tim có thể gặp trong các trường hợp:"
+            },
+            "37": {
+                "1": "Cả 3 đáp án trên",
+                "2": "Nhịp nhanh",
+                "3": "Nhịp chậm ",
+                "4": "Nhịp tim đều",
+                "A": "A",
+                "Q": "Khi khám bệnh nhân rối loạn nhịp có thể thấy:"
+            },
+            "38": {
+                "1": "Siêu âm tim",
+                "2": "Xquang tim phổi",
+                "3": "Điện tim đồ.",
+                "4": "Khám lâm sàng",
+                "A": "C",
+                "Q": "Chẩn đoán xác định các thể loại loạn nhịp tim dựa vào:"
+            },
+            "39": {
+                "1": "Loạn nhịp trên thất",
+                "2": "Cả 3 đáp án trên",
+                "3": "Loạn nhịp thất",
+                "4": "Vừa Loạn nhịp trên thất vừa Loạn nhịp thất",
+                "A": "B",
+                "Q": "Loạn nhịp tim có thể là:"
+            },
+            "40": {
+                "1": "Đốt bằng năng lượng tầng số radio",
+                "2": "Phẫu thuật",
+                "3": "Cả 3 đáp án trên",
+                "4": "Thuốc chống loạn nhiệp",
+                "A": "C",
+                "Q": "Có thể dùng các biện pháp dưới đây để điều trị loạn nhịp tim:"
+            },
+            "41": {
+                "1": "Tần số> 120 ck/1’.",
+                "2": "Tần số> 100 ck/1’.",
+                "3": "Tần số> 90 ck/1’.",
+                "4": "Tần số> 180 ck/1’.",
+                "A": "B",
+                "Q": "Ở người lớn gọi là nhịp xoang nhanh khi:"
+            },
+            "42": {
+                "1": "Tần số> 180 ck/1’.",
+                "2": "Tần số > 160 ck/1’.",
+                "3": "Tần số> 200 ck/1’.",
+                "4": "Tần số> 140 ck/1’.",
+                "A": "B",
+                "Q": "Ở người lớn được gọi là nhịp nhanh kịch phát trên thất khi:"
+            },
+            "43": {
+                "1": "Tần số< 40 ck/1’.",
+                "2": "Tần số< 30 ck/1’.",
+                "3": "Tần số< 60 ck/1’.",
+                "4": "Tần số< 50 ck/1’.",
+                "A": "D",
+                "Q": "Nhịp chậm khi tần số tim:"
+            },
+            "44": {
+                "1": "Yếu nút Xoang.",
+                "2": "Cả 3 đáp án trên",
+                "3": "Blốc xoang nhĩ",
+                "4": "Rối loạng nhịp xoang do hô hấp",
+                "A": "B",
+                "Q": "Rối loạn nhịp xoang có thể gặp:"
+            },
+            "45": {
+                "1": "Sốc điện",
+                "2": "Ấn nhãn cầu",
+                "3": "Nghiệm pháp Valsalva",
+                "4": "Cả 3 đáp án trên",
+                "A": "D",
+                "Q": "Nhịp nhanh kịch phát nút nhĩ thất, cấp cứu như thế nào: "
+            },
+            "46": {
+                "1": "Rung thất",
+                "2": "Ngoại tâm thu thất ",
+                "3": "Ngoại tâm thu trên thất ",
+                "4": "Rung nhĩ",
+                "A": "C",
+                "Q": "Nhịp tim ghi được trên điện tim chỉ có biến đổi sóng P và PQ ngắn so với nhịp xoang, là nhịp gì: "
+            },
+            "47": {
+                "1": "Rung nhĩ",
+                "2": "Cuồng động nhĩ.",
+                "3": "Ngoại tâm thu thất ",
+                "4": "Ngoại tâm thu nhĩ",
+                "A": "B",
+                "Q": "Nhịp tim ghi được trên điện tâm đồ mất sóng P thay bằng sóng F tần số khoảng 300 chu kỳ/phút, thuộc loại loạn nhịp gì: "
+            },
+            "48": {
+                "1": "Ngoại tâm thu nhĩ",
+                "2": "Rung nhĩ.",
+                "3": "Ngoại tâm thu thất ",
+                "4": "Rung thất",
+                "A": "B",
+                "Q": "Điện tim ghi được trên điện tâm đồ mất sóng P thay bằng sóng f tần số từ 400-600 chu kỳ/phút, thuộc loại rối loạn nhịp gì: "
+            },
+            "49": {
+                "1": "Ngoại tâm thu thất.",
+                "2": "Rung nhĩ",
+                "3": "Rung thất",
+                "4": "Ngoại tâm thu nhĩ",
+                "A": "A",
+                "Q": "Điện tim ghi được nhịp tim không có sóng P đi trước một QRS dãn rộng (> 0,12”), ST và T thay đổi xen kẽ với nhịp xoang là nhịp gì:"
+            },
+            "50": {
+                "1": "Ngoại tâm thu nhĩ",
+                "2": "Nhịp nhanh thất.",
+                "3": "Ngoại tâm thu thất ",
+                "4": "Rung thất",
+                "A": "B",
+                "Q": "Điện tim ghi được ≥ 3 nhịp ngoại tâm thu thất liên tiếp nhau kéo dài, tần số > 180 ck/1’:"
+            },
+            "51": {
+                "1": "Nhịp nhanh thất.",
+                "2": "Ngoại tâm thu thất ",
+                "3": "Nhịp tự thất",
+                "4": "Rung thất",
+                "A": "C",
+                "Q": "Điện tim ghi được các nhịp ngoại tâm thu thất đi liền nhau kéo dài, tần số 80 ck/1’: ."
+            },
+            "52": {
+                "1": "Rung nhĩ",
+                "2": "Cuồng nhĩ",
+                "3": "Rung thất",
+                "4": "Nhanh thất",
+                "A": "C",
+                "Q": "Điện tim ghi được những sóng rung, không đo được huyết áp, không bắt được mạch:"
+            },
+            "53": {
+                "1": "Blốc Nhánh phải bó his",
+                "2": "Blốc Nhánh trái bó his",
+                "3": "Blốc A-V độ II",
+                "4": "Blốc A-V độ I.",
+                "A": "D",
+                "Q": "Điện tim (tốc độ 25mm/s) PQ = 0,30s:"
+            },
+            "54": {
+                "1": "Blốc nhĩ-thất độ II.",
+                "2": "Blốc xoang nhĩ",
+                "3": "Blốc nhĩ-thất độ III",
+                "4": "Blốc nhĩ-thất độ I",
+                "A": "A",
+                "Q": "Điện tim ghi được: chu kỳ xen kẽ 1 nhịp bình thường, một sóng P không có QRS theo sau:"
+            },
+            "55": {
+                "1": "thiếu máu nặng",
+                "2": "thiếu vitaminB1",
+                "3": "Basedow",
+                "4": "Cả 3 đáp án trên",
+                "A": "D",
+                "Q": "Suy tim tăng cung lượng gặp trong bệnh:"
+            },
+            "56": {
+                "1": "Hẹp hở van 2 lá",
+                "2": "Cả 3 đáp án trên",
+                "3": "Hẹp hở van động mạch chủ",
+                "4": "Hẹp hở van 3 lá",
+                "A": "B",
+                "Q": "Suy tim giảm cung lượng gặp trong bệnh:"
+            },
+            "57": {
+                "1": "Giảm khả năng gắng sức, nếu gắng sức xuất hiện mệt mỏi, khó thở, đau ngực.",
+                "2": "Khó thở kịch phát về đêm",
+                "3": "Phù to cổ chướng",
+                "4": "Ho ra máu",
+                "A": "A",
+                "Q": "Suy tim mạn tính phân độ theo NYHA độ 2 là:"
+            },
+            "58": {
+                "1": "Khó thở khi làm việc nhẹ",
+                "2": "Khó thở khi đi lại",
+                "3": "Mất khả năng lao động, khi nghỉ cũng khó thở, hen tim, phù phổi cấp, ngất lịm...",
+                "4": "Khó thở khi lao động nặng",
+                "A": "C",
+                "Q": "Suy tim mạn tính, phân độ theo NYHA độ 4 là:"
+            },
+            "59": {
+                "1": "Hẹp van 2 lá.",
+                "2": "hở chủ",
+                "3": "Hở van 2 lá",
+                "4": "Hẹp van ĐM chủ",
+                "A": "A",
+                "Q": "Nguyên nhân suy tim phải là"
+            },
+            "60": {
+                "1": "Thông liên thất",
+                "2": "Cả 3 đáp án trên",
+                "3": "Thông liên nhĩ",
+                "4": "Tăng áp lực động mạch phổi",
+                "A": "B",
+                "Q": "Nguyên nhân gây suy tim phải là"
+            },
+            "61": {
+                "1": "Gan to, tĩnh mạch cổ nổi.",
+                "2": "Thổi tâm trương ở liên sườn II cạnh ức trái",
+                "3": "Tiếng thổi tâm thu và nhịp ngựa phi ở mõm tim",
+                "4": "Cung dưới trái dãn to",
+                "A": "A",
+                "Q": "Triệu chứng nào dưới đây gặp trong suy tim phải:"
+            },
+            "62": {
+                "1": "Cả 3 đáp án trên",
+                "2": "Phì đại nhĩ trái, thất trái",
+                "3": "Điện tim Phì đại nhĩ phải, thất phải.",
+                "4": "XQ cung dưới trái dãn",
+                "A": "C",
+                "Q": "Triệu chứng cận lâm sàng nào dưới đây gặp trong suy tim phải:"
+            },
+            "63": {
+                "1": "Hở van động mạch chủ",
+                "2": "Cả 3 đáp án trên",
+                "3": "Hẹp van động mạch chủ",
+                "4": "Hở van 2 lá",
+                "A": "B",
+                "Q": "Nguyên nhân nào gây suy tim trái:"
+            },
+            "64": {
+                "1": "Tĩnh mạch cổ nổi",
+                "2": "Khó thở và cơn khó thở kịch phát về đêm.",
+                "3": "Gan to",
+                "4": "Cả 3 đáp án trên",
+                "A": "B",
+                "Q": "Triệu chứng nào gặp trong suy tim trái:"
+            },
+            "65": {
+                "1": "Cả 3 đáp án trên",
+                "2": "X quang dãn nhĩ trái, thất trái",
+                "3": "ECG : phì đại nhĩ trái, thất trái",
+                "4": "Siêu âm : phân số tống máu ( EF%) 40%",
+                "A": "A",
+                "Q": "Những biểu hiện cận lâm sàng nào gặp trong suy tim trái"
+            },
+            "66": {
+                "1": "Hở van động mạch chủ",
+                "2": "Viêm cơ tim.",
+                "3": "Hở van 2 lá",
+                "4": "Nhồi máu cơ tim",
+                "A": "B",
+                "Q": "Nguyên nhân nào gây suy tim toàn bộ:"
+            },
+            "67": {
+                "1": "Isuprel",
+                "2": "Dobutamin",
+                "3": "Dopamin",
+                "4": "Ouabain",
+                "A": "D",
+                "Q": "Thuốc cường tim nào thuộc nhóm digitalis:."
+            },
+            "68": {
+                "1": "Aldacton.",
+                "2": "Furosemit",
+                "3": "Hypothiazid",
+                "4": "Cả 3 đáp án trên",
+                "A": "A",
+                "Q": "Thuốc lợi tiểu nào dưới đây để điều trị suy tim không gây mất kali:"
+            },
+            "69": {
+                "1": "Nitroglycerin",
+                "2": "Hydralazin",
+                "3": "Propanolol",
+                "4": "Coversyl.",
+                "A": "D",
+                "Q": "Thuốc dãn mạch nào vừa có tác dụng dãn động mạch vừa dãn tĩnh mạch"
+            },
+            "70": {
+                "1": "Viêm khớp dạng thấp",
+                "2": "Do bẩm sinh",
+                "3": "Do bệnh hệ thống",
+                "4": "Do thấp tim.",
+                "A": "D",
+                "Q": "Nguyên nhân thường gặp nhất của hẹp van 2 lá: "
+            },
+            "71": {
+                "1": "Van xơ cứng vôi hoá",
+                "2": "Hẹp vòng van",
+                "3": "Dính mép van đơn thuần",
+                "4": "Cả 3 đáp án trên",
+                "A": "D",
+                "Q": "Tổn thương van do thấp:"
+            },
+            "72": {
+                "1": "Rùng tâm trương ở mõm",
+                "2": "Cả 3 đáp án trên",
+                "3": "T1 đanh ở mõm",
+                "4": "T2 đanh tách  đôi liên sườn II trái cạnh ức",
+                "A": "B",
+                "Q": "Hẹp van 2 lá đơn thuần nghe tim thấy:"
+            },
+            "73": {
+                "1": "T1 mờ",
+                "2": "Rung tâm trương ở mỏm.",
+                "3": "Tiếng thổi tiền tâm thu",
+                "4": "Cả 3 đáp án trên",
+                "A": "B",
+                "Q": "Hẹp van 2 lá  có rung nhĩ nghe tim thấy:"
+            },
+            "74": {
+                "1": "Rung tâm trương ở mỏm.",
+                "2": "Thổi tâm trương ở liên sườn II cạnh ức trái",
+                "3": "T1 đanh",
+                "4": "Cả 3 đáp án trên",
+                "A": "A",
+                "Q": "Hẹp van 2 lá kết hợp hở van 2 lá nghe tim thấy:"
+            },
+            "75": {
+                "1": "Rung nhĩ",
+                "2": "Suy tim",
+                "3": "Phù phổi cấp",
+                "4": "Cả 3 đáp án trên",
+                "A": "D",
+                "Q": "Biến chứng của hẹp van 2 lá: "
+            },
+            "76": {
+                "1": "Cả 3 đáp án trên",
+                "2": "Diện tích lỗ van trên siêu âm 2D",
+                "3": "Chênh áp qua van trên  siêu âm Doppler",
+                "4": "Độ dốc EF trên siêu âm TM.",
+                "A": "D",
+                "Q": "Đánh giá mức độ hẹp van 2lá dựa vào:"
+            },
+            "77": {
+                "1": "Nitroglycerin",
+                "2": "Digoxin",
+                "3": "Cả 3 đáp án trên",
+                "4": "Acenocoumarol",
+                "A": "C",
+                "Q": "Khi hẹp van 2 lá khít suy tim độ III, rung nhĩ, tần số thất > 100ck/phút, có thể dùng thuốc:"
+            },
+            "78": {
+                "1": "Hẹp khít van 2 lá (diện tích < 1,5cm2).",
+                "2": "Hẹp 2 lá kết hợp hở van 2 lá nặng",
+                "3": "Có tắc mạch 1 tháng trở lại đây",
+                "4": "Bệnh nhân đang có thấp tim hoạt động",
+                "A": "A",
+                "Q": "Chỉ định nong van 2 lá, bằng bóng qua da khi:"
+            },
+            "79": {
+                "1": "Cả 3 đáp án trên",
+                "2": "Tái phân bố mạch máu phổi",
+                "3": "Cung động mạch phổi vòng",
+                "4": "Nhĩ trái to chèn thực quản",
+                "A": "A",
+                "Q": "Hình ảnh X quang hay gặp ở bệnh nhân hẹp van 2 lá:"
+            },
+            "80": {
+                "1": "Bẩm sinh",
+                "2": "Bệnh tim thiếu máu cục bộ mạn tính",
+                "3": "Cả 3 đáp án trên",
+                "4": "Savan 2 lá",
+                "A": "C",
+                "Q": "Nguyên nhân hở van 2 lá?"
+            },
+            "81": {
+                "1": "T1 đanh ",
+                "2": "Rung tâm trương ở mỏm.",
+                "3": "T2 mờ",
+                "4": "Tiếng thổi tâm thu ở mỏm lan ra nách.",
+                "A": "D",
+                "Q": "Khi hở van 2 lá nghe tim có thể thấy tiếng nào:"
+            },
+            "82": {
+                "1": "Sửa van và dây chằng",
+                "2": "Cả 3 đáp án trên",
+                "3": "Thay van",
+                "4": "Tạo đai vòng van",
+                "A": "B",
+                "Q": "Các biện pháp điều trị ngoại khoa hở van 2 lá."
+            },
+            "83": {
+                "1": "Digoxin",
+                "2": "Cả 3 đáp án trên",
+                "3": "Uabain",
+                "4": "Ức chế men chuyển",
+                "A": "D",
+                "Q": "Các thuốc có thể dùng điều trị trong bệnh nhân hở van 2 lá suy tim độ II (không có loạn nhịp hoàn toàn nhanh): "
+            },
+            "84": {
+                "1": "Vôi hoá lá van.",
+                "2": "Dầy lá van hẹp vòng van",
+                "3": "Cả 3 đáp án trên",
+                "4": "Hẹp vòng van",
+                "A": "A",
+                "Q": "Các tổn thương van và tổ chức dưới van ở bệnh nhân hở van 2 lá đơn thuần do thấp: "
+            },
+            "85": {
+                "1": "Suy thận",
+                "2": "Suy gan",
+                "3": "Suy tim phải",
+                "4": "Rối loạn nhịp tim.",
+                "A": "D",
+                "Q": "Biến chứng của bệnh nhân hở van 2 lá: "
+            },
+            "86": {
+                "1": "Dầy nhĩ trái",
+                "2": "Dầy thất trái",
+                "3": "Loạn nhịp hoàn toàn",
+                "4": "Cả 3 đáp án trên",
+                "A": "D",
+                "Q": "Điện tim đồ ở bệnh nhân hở van 2 lá có thể thấy: "
+            },
+            "87": {
+                "1": "Dốc EF",
+                "2": "Huyết áp ",
+                "3": "Độ dài dòng máu phụt ngược vào nhĩ trái.",
+                "4": "Diện tích lỗ van ",
+                "A": "C",
+                "Q": "Đánh giá mức độ hở van 2 lá dựa vào:"
+            },
+            "88": {
+                "1": "Hen phế quản",
+                "2": "Suy tim trái",
+                "3": "Tràn dịch màng ngoài tim",
+                "4": "Tắc mạch phổi",
+                "A": "B",
+                "Q": "Cơn khó thở, nhịp tim nhanh, nghe ở mỏm có tiếng thổi tâm thu và nhịp ngựa phi, nguyên nhân của khó thở là gì?"
+            },
+            "89": {
+                "1": "Phù do xơ gan.",
+                "2": "Phù do suy tim phải.",
+                "3": "Phù do hội chứng thận hư",
+                "4": "Phù do thiểu dưỡng",
+                "A": "B",
+                "Q": "Phù tĩnh mạch cổ nổi, gan to (phản hồi gan tĩnh mạch cổ dương tính), nguyên nhân của phù là gì?"
+            },
+            "90": {
+                "1": "Phù phổi cấp",
+                "2": "Tắc động mạch phổi",
+                "3": "Dãn phế quản",
+                "4": "Lao phổi",
+                "A": "A",
+                "Q": "Ho ra máu (bọt hồng) kèm theo khó thở dữ dội ở bệnh nhân nhồi máu cơ tim cấp tính?"
+            },
+            "91": {
+                "1": "Lao đa màng",
+                "2": "Xơ gan",
+                "3": "Hội chứng thận hư",
+                "4": "Suy tim",
+                "A": "D",
+                "Q": "Tim to toàn bộ, tràn dịch màng phổi, cổ chướng, phù tím, nguyên nhân là gì?"
+            },
+            "92": {
+                "1": "Suy chức năng tâm thu thất trái.",
+                "2": "Không suy chức năng tim",
+                "3": "Những lý do khác",
+                "4": "Suy chức năng tâm trương thất trái",
+                "A": "A",
+                "Q": "Khi siêu âm phân số tống máu (EF%) 30%: "
+            },
+            "93": {
+                "1": "Cường tim",
+                "2": "Dãn mạch",
+                "3": "Lợi tiểu",
+                "4": "Cả 3 đáp án trên",
+                "A": "D",
+                "Q": "Khi suy tim mạn tính có thể điều trị bằng các nhóm thuốc sau đây được không?"
+            },
+            "94": {
+                "1": "Huyết áp tâm trương 90mmHg",
+                "2": "Cả 3 đáp án trên",
+                "3": "Huyết áp tâm thu<140mmHg và hoặc HA tâm trương <90mmHg có dùng thuốc kiểm soát huyết áp",
+                "4": "Huyết áp tâm thu 140mmHg",
+                "A": "B",
+                "Q": "Chẩn đoán tăng huyết áp (HA): "
+            },
+            "95": {
+                "1": "Thuốc chẹn thụ cảm thể beta adrenergic.",
+                "2": "phối hợp UCMC và chẹn thụ cảm thể beta adrenergic.",
+                "3": "Thuốc ức chế men chuyển",
+                "4": "Thuốc chẹn dòng canxi",
+                "A": "C",
+                "Q": "Tăng huyết áp động mạch có nhịp tim chậm 40 ck/phút, có thể chọn thuốc nào?"
+            },
+            "96": {
+                "1": "Tim",
+                "2": "Não",
+                "3": "Thận",
+                "4": "Cả 3 đáp án trên",
+                "A": "D",
+                "Q": "Tăng huyết áp gây biến chứng:"
+            },
+            "97": {
+                "1": "Cả 3 đáp án trên",
+                "2": "Suy Thận",
+                "3": "Rối loạn nhịp tim",
+                "4": "Suy Tim",
+                "A": "A",
+                "Q": "Tăng huyết áp động mạch kéo dài không được điều trị có thể gây ra:"
+            },
+            "98": {
+                "1": "Suy thận",
+                "2": "Cả 3 đáp án trên",
+                "3": "Cơn thiếu máu não thoáng qua",
+                "4": "phì đại thất trái suy tim",
+                "A": "B",
+                "Q": "Tăng huyết áp động mạch gây biến chứng:"
+            },
+            "99": {
+                "1": "Vữa xơ động mạch.",
+                "2": "Nữ giới > 50 tuổi",
+                "3": "Cả 3 đáp án trên",
+                "4": "Nam giới > 50 tuổi",
+                "A": "A",
+                "Q": "Những nguy cơ của tăng huyết áp:"
+            },
+            "100": {
+                "1": "Propanolol",
+                "2": "Verapamid",
+                "3": "Hypothiazit.",
+                "4": "Carvedilol",
+                "A": "C",
+                "Q": "Bệnh nhân tăng huyết áp có blốc tim cho thuốc đìều trị:"
+            },
+            "101": {
+                "1": "Không cho thuốc chống tăng huyết áp.",
+                "2": "Cho thuốc nâng Huyết áp lên 220/120mmHg",
+                "3": "Cho thuốc chống tăng huyết áp để đưa huyết áp về 130/85mmHg",
+                "4": "Truyền dung dịch glucose",
+                "A": "A",
+                "Q": "Tăng huyết áp 160/100mmHg đột quị não giai đoạn cấp tính có hôn mê:"
+            },
+            "102": {
+                "1": "Đưa huyết áp về <140/90 mmHg.",
+                "2": "Đưa huyết áp về 120-135/80-85 mmHg.",
+                "3": "Không uống thuốc điều trị tăng huyết áp",
+                "4": "Chỉ uống thuốc khi tăng huyết áp",
+                "A": "A",
+                "Q": "Quan điểm chung điều trị bệnh tăng huyết áp:"
+            },
+            "103": {
+                "1": "> 120mmHg.",
+                "2": "> 115mmHg.",
+                "3": "> 110mmHg.",
+                "4": "> 100mmHg.",
+                "A": "A",
+                "Q": "Tăng HA kịch phát khi HA tâm trương:"
+            },
+            "104": {
+                "1": "Chẹn kênh Ca++",
+                "2": "Kích thích alpha2 giao cảm trung ương",
+                "3": "Chẹn thụ cảm thể beta giao cảm",
+                "4": "Ức chế men chuyển.",
+                "A": "D",
+                "Q": "Các nhóm thuốc điều trị THA nào không dùng được khi có thai và tăng kali máu:"
+            },
+            "105": {
+                "1": "lợi tiểu thuỷ ngân",
+                "2": "lợi tiểu qual",
+                "3": "Lợi tiểu không mất Kali",
+                "4": "Lợi tiểu nhóm thiazid",
+                "A": "D",
+                "Q": "Điều trị THA mức độ nhẹ bằng thuốc lợi tiểu nào:"
+            },
+            "106": {
+                "1": "Thận",
+                "2": "Chuyển hoá",
+                "3": "Thuốc ",
+                "4": "Nội tiết",
+                "A": "A",
+                "Q": "Tăng HA thứ phát nguyên nhân hay gặp nhất do các bệnh:"
+            },
+            "107": {
+                "1": "Tiếng thổi tâm thu đi kèm tiếng thổi tâm trương ở Ls III cạnh ức trái",
+                "2": "Tiếng thổi tâm trương ở Ls III cạnh ức trái",
+                "3": "Tiếng rùng tâm trương (Flint-Austin) ở mõm tim",
+                "4": "Cả 3 đáp án trên",
+                "A": "D",
+                "Q": "Tạp âm có thể nghe được ở bệnh nhân hở van động mạch chủ:"
+            },
+            "108": {
+                "1": "Cả 3 đáp án trên",
+                "2": "Đầu gật gù (dấu hiệu Musset)",
+                "3": "Mạch nẩy nhanh xẹp nhanh (Corrigan)",
+                "4": "Huyết áp tâm thu tăng và huyết áp tâm trương giảm < 50mmHg",
+                "A": "A",
+                "Q": "Triệu chứng nào là triệu chứng ngoại biên của hở van động  mạch chủ nặng:"
+            },
+            "109": {
+                "1": "Điện tim ",
+                "2": "Thông tim chụp cản quang buồng thất trái và động mạch chủ.",
+                "3": "Siêu âm tim Tm",
+                "4": "Xquang tim phổi",
+                "A": "B",
+                "Q": "Chẩn đoán xác định hở van động mạch chủ có thể dựa vào:"
+            },
+            "110": {
+                "1": "Cả 3 đáp án trên",
+                "2": "Suy tim phải",
+                "3": "Suy tim trái.",
+                "4": "Xơ gan",
+                "A": "C",
+                "Q": "Biến chứng của hở van động mạch chủ:"
+            },
+            "111": {
+                "1": "Đau ngực và khó thở khi gắng sức.",
+                "2": "Khi đã có suy tim phải",
+                "3": "Cả 3 đáp án trên",
+                "4": "Chưa có suy tim trái.",
+                "A": "A",
+                "Q": "Chỉ định thay van để điều trị hở van động mạch chủ khi:"
+            },
+            "112": {
+                "1": "Rung tâm trương ở mõm tim",
+                "2": "Thổi tâm trương ở LS III cạnh ức trái",
+                "3": "Thổi tâm thu ở LS III - IV cạnh ức trái lan ra xung quanh",
+                "4": "Thổi tâm thu ở LS II cạnh ức phải lan lên động mạch cảnh kèm rung miu tâm thu.",
+                "A": "D",
+                "Q": "Tạp âm nào sau đây nghe được trong hẹp lỗ van động mạch chủ:"
+            },
+            "113": {
+                "1": "Siêu âm tim.",
+                "2": "Xquang tim phổi",
+                "3": "Điện tim ",
+                "4": "Điện tim gắng sức",
+                "A": "A",
+                "Q": "Chẩn đoán xác định hẹp van động mạch chủ dựa vào:"
+            },
+            "114": {
+                "1": "Osler ( viêm màng trong tim nhiễm khuẩn)",
+                "2": "Đột tử",
+                "3": "Suy tim trái",
+                "4": "Cả 3 đáp án trên",
+                "A": "D",
+                "Q": "Biến chứng của hẹp van động mạch chủ: "
+            },
+            "115": {
+                "1": "Số loại thuốc hạ huyết áp bệnh nhân dùng",
+                "2": "Giá trị trung bình của HA tâm thu va tâm trương",
+                "3": "Chỉ số huyết áp đo được",
+                "4": "Biến chứng cơ quan đích",
+                "A": "C",
+                "Q": "Phân độ THA dựa vào: "
+            },
+            "116": {
+                "1": "Biến chứng cơ quan đích",
+                "2": "Chỉ số huyết áp đo được",
+                "3": "Giá trị trung bình của HA tâm thu va tâm trương",
+                "4": "Số loại thuốc hạ huyết áp bệnh nhân dùng",
+                "A": "A",
+                "Q": "Phân chia giai đoạn THA dựa vào: "
+            },
+            "117": {
+                "1": "Hở van động mạch chủ.",
+                "2": "Hẹp eo động mạch chủ",
+                "3": "Hẹp van động mạch chủ",
+                "4": "Thông động mạch- tĩnh mạch",
+                "A": "A",
+                "Q": "Nghe thấy tiếng thổi kép ở động mạch đùi:"
+            },
+            "118": {
+                "1": "Thông động-tĩnh mạch.",
+                "2": "Hẹp tĩnh mạch",
+                "3": "Hẹp động mạch",
+                "4": "Tắc động mạch",
+                "A": "A",
+                "Q": "Sờ động mạch khoeo có rung mưu tâm thu, nghe có tiếng thổi liên tục. gặp khi:"
+            },
+            "119": {
+                "1": "Thất trái dãn",
+                "2": "Nhĩ phải dãn",
+                "3": "Nhĩ trái dãn",
+                "4": "Thất phải dãn",
+                "A": "A",
+                "Q": "Mỏm tim ở đường nách trước gặp khi:."
+            },
+            "120": {
+                "1": "Nhĩ phải dãn",
+                "2": "Thất phải dãn.",
+                "3": "Nhĩ trái dãn",
+                "4": "Thất trái dãn",
+                "A": "B",
+                "Q": "Dấu hiệu Harzer gặp khi:"
+            },
+            "121": {
+                "1": "Tăng men tim",
+                "2": "điện tim có sóng Q, hoặc đoạn ST chệnh len",
+                "3": "Siêu âm tim thấy giảm vận động thành tim",
+                "4": "Có cơn đau thắt ngực, tăng men tim, điện tim có sóng Q, hoặc đoạn ST chệnh len",
+                "A": "D",
+                "Q": "Chẩn đoán nhồi máu cơ tim cấp dựa vào"
+            },
+            "122": {
+                "1": "Tăng men CK toàn phần",
+                "2": "Tăng LDH",
+                "3": "tăng GOT, GPT",
+                "4": "Tăng Troponin và CK-MB",
+                "A": "D",
+                "Q": "chẩn đoán nhồi máu cơ tim cấp dựa vào"
+            },
+            "123": {
+                "1": "Huyết áp tâm thu dưới 100mmHg kéo dài >30p",
+                "2": "Thiểu niệu ( nước tiểu < 30ml/h) hoặc vô niệu",
+                "3": "Giảm cung lượng tim do giảm thể tích tuần hoàn",
+                "4": "Huyết áp tâm thu < 90 mmHg kéo dài > 30p, giảm cung lượng tim không do giảm thê tích tuần hoàn, thiểu niệu hoặc vô niệu",
+                "A": "D",
+                "Q": "Sốc tim trong nhồi máu cơ tim cấp là"
+            },
+            "124": {
+                "1": "1-8 tuần",
+                "2": "2-3 giờ đầu",
+                "3": "3 tháng",
+                "4": "6 tháng",
+                "A": "A",
+                "Q": "Hội chứng Dressler ( viêm màng ngoài tim) sau nhồi máu cơ tim thường xảy ra sau nhồi máu "
+            },
+            "125": {
+                "1": "Có rale ẩm ở phổi",
+                "2": "Có gan to, tĩnh mạch cổ nổi, phản hồi gan-tĩnh mạch cổ (+)",
+                "3": "Không có triệu chứng ứ huyết phổi cũng như ngoại vi",
+                "4": "Phù chân",
+                "A": "C",
+                "Q": "Trường hợp suy tim nào sau đây được dùng thuốc chẹn Beta giao cảm"
+            },
+            "126": {
+                "1": "Tắc mạch phổi",
+                "2": "Sốc tim",
+                "3": "Loạn nhịp thất",
+                "4": "Hở van 2 lá cấp",
+                "A": "A",
+                "Q": "Nhồi máu cơ tim cấp không gây biến chứng sau"
+            },
+            "127": {
+                "1": "Giãn động mạch vành",
+                "2": "Thông động mạch vành",
+                "3": "Chống ngưng tập tiểu cầu",
+                "4": "Giảm đau bằng Morphin",
+                "A": "B",
+                "Q": "Biện pháp tốt nhất trị nhồi máu cơ tim cấp"
+            },
+            "128": {
+                "1": "Đoạn ST chênh lên",
+                "2": "Khoảng QT kéo dài",
+                "3": "Sóng Q",
+                "4": "Đoạn ST chênh xuống",
+                "A": "B",
+                "Q": "Biến đổi điện tim nào không dùng để chẩn đoán nhồi máu cơ tim cấp"
+            },
+            "name": "NỘI TIM MẠCH - AM2"
+        }
+    }
+}

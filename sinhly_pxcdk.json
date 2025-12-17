@@ -1,0 +1,288 @@
+{
+    "SINH_LY_HOC_2018": {
+        "pxcdk": {
+            "1": {
+                "1": "tập thành mang tính loài, bền vững, di truyền, cung phản xạ có sẵn",
+                "2": "bẩm sinh, di truyền, bền vững, cung phản xạ không có sẵn",
+                "3": "bẩm sinh, mang tính cá thể, bền vững, di truyền",
+                "4": "bẩm sinh, mang tính chất loài, bền vững, di truyền, cung phản xạ có sẵn",
+                "A": "D",
+                "Q": "Phản xạ không điều kiện có tính chất"
+            },
+            "2": {
+                "1": "tập thành, mang tính cá thể, không bền, cung phản xạ có sẵn",
+                "2": "tập thành, mang tính cá thể,tương đối không bền, cung phản xạ có sẵn",
+                "3": "bẩm sinh, di truyền, không bền",
+                "4": "tập thành, mang tính cá thể, không di truyền, không bền, cung phản xạ không có sẵn",
+                "A": "D",
+                "Q": "Phản xạ có điều kiện có tính chất"
+            },
+            "3": {
+                "1": "giữa trung khu không điều kiện và có điều kiện ở vỏ não theo cơ chế mở đường",
+                "2": "các trung khu không điều kiện ở tủy sống",
+                "3": "các trung khu không điều kiện ở tủy sống và các cấu trúc dưới vỏ",
+                "4": "giữa các trung khu không điều kiện ở dưới vỏ não",
+                "A": "A",
+                "Q": "Theo Pavlov: đường liên hệ thần kinh tạm thời được hình thành giữa"
+            },
+            "4": {
+                "1": "Chó ăn rất no",
+                "2": "Chó bị nhịn đói",
+                "3": "Gây ồn ào khi tập",
+                "4": "Chó bị đánh đau",
+                "A": "B",
+                "Q": "Tạo phản xạ có điều kiện tiết nước bọt ở chó thuận lợi khi"
+            },
+            "5": {
+                "1": "Cho ăn, ngay sau đó bật đèn",
+                "2": "Đồng thời bật đèn và cho ăn",
+                "3": "Bật đèn 3-5 giây rồi cho ăn",
+                "4": "Tắt đèn 3-5 giây thì cho ăn",
+                "A": "C",
+                "Q": "Muốn thành lập phản xạ có điều kiện tiết nước bọt với ánh sáng đèn ở chó phải kết hợp nhiều lần"
+            },
+            "6": {
+                "1": "Bật đèn- cho ăn, lặp lại nhiều lần, bật đèn- chó tiết nước bọt, cho ăn",
+                "2": "Lặp lại nhiều lần:bật đèn- cho ăn- đánh đau, chó tiết nước bọt",
+                "3": "Bật đèn- cho ăn, lặp lại nhiều lần, cho ăn- bật đèn, tiết nước bọt",
+                "4": "lặp lại nhiều lần: bật đèn- cho ăn, chó tiết nước bọt",
+                "A": "D",
+                "Q": "Câu đúng về các bước thành lập phản xạ có điều kiện tiết nước bọt trên chó"
+            },
+            "7": {
+                "1": "Để gây củng cố tín hiệu có điều kiện cho con vật không bị sợ hãi",
+                "2": "Vì kích thích lạ gây hưng phấn trung khu mới trong não bộ sẽ làm ức chế tạm thời phản xạ có điều kiện đang diễn ra",
+                "3": "Để gây sự hưng phấn ở trung khu có điều kiện mạnh hơn trung khu không điều kiện",
+                "4": "Vì kích thích lạ sẽ làm dập tắt đường liên hệ thần kinh tạm thời,ức chế phản xạ có điều kiện",
+                "A": "D",
+                "Q": "Tại sao trong thời gian thành lập phản xạ có điều kiện lại không được có kích thích lạ"
+            },
+            "8": {
+                "1": "Để tạo đường liên hệ thần kinh tạm thời giữa trung khu không điều kiện và có điều kiện ở vỏ não",
+                "2": "Để hình thành các cứ điểm ưu thế ở hệ thần kinh trung ương",
+                "3": "Để não bộ không bị kích thích đột ngột sẽ tiếp nhận kich thích có điều kiện 1 cách tốt nhất",
+                "4": "Để hệ thần kinh thích nghi với 2 loại kích thích đó",
+                "A": "A",
+                "Q": "Tại sao phải kết hợp lặp lại nhiều lần kích thích không điều kiện và có điều kiện"
+            },
+            "9": {
+                "1": "Để tạo điều kiện cho phản xạ được vững bền",
+                "2": "Để duy trì đường liên hệ thần kinh tạm thời giữa trung khu không điều kiện và có điều kiện ở vỏ não",
+                "3": "để gây cho hệ thần kinh hưng phấn mạnh",
+                "4": "Để làm cho các trung khu phản xạ ở dưới vỏ hưng phấn mạnh hơn các trung khu ở vỏ não",
+                "A": "B",
+                "Q": "Tại sao để thành lập phản xạ có điều kiện, về mặt sinh học cường độ kích thích không điều kiện phải mạnh hơn cường độ kích thích có điều kiện"
+            },
+            "10": {
+                "1": "Kích thích có điều kiện phải đi trước kích thích không điều kiện từ 3-5 giây",
+                "2": "Kích thích không điều kiện phải đi trước kích thích có điều kiện từ 3-5 giây",
+                "3": "Hệ thần kinh trung ương và các bộ phận nhận cảm kích thích phải lành mạnh",
+                "4": "Phải lặp lại nhiều lần sự kết hợp kích thích có điều kiện và không điều kiện",
+                "A": "B",
+                "Q": "Câu nào sau đây KHÔNG ĐÚNG đối với các điều kiện cơ bản để thành lập phản xạ có điều kiện"
+            },
+            "11": {
+                "1": "Để tạo sự hưng phấn mạnh trung khu không điều kiện ở vỏ não, duy trì đường liên hệ  thần kinh tạm thời",
+                "2": "Để duy trì sự hưng phấn mạnh trung khu không điều kiện ở dưới vỏ",
+                "3": "Để tạo sự hưng phấn mạnh các trung khu phản xạ có điều kiện trong não bộ",
+                "4": "Để duy trì sự hưng phấn mạnh trung khu không điều kiện và có điều kiện ở vỏ não, duy trì đường liên hệ thần kinh tạm thời",
+                "A": "A",
+                "Q": "Củng cố khi thành lập phản xạ có điều kiện có tác dụng gì"
+            },
+            "12": {
+                "1": "Kích thích không điều kiện phải đi trước kích thích có điều kiện từ 3-5 giây",
+                "2": "Kích thích có điều kiện phải đi trước kích thích không điều kiện từ 3-5 giây",
+                "3": "Kích thích có điều kiện phải mạnh hơn kích thích không điều kiện về mặt sinh học",
+                "4": "Củng cố bằng kích thích có điều kiện",
+                "A": "B",
+                "Q": "Câu nào sau đây là ĐÚNG trong thành lập phản xạ có điều kiện"
+            },
+            "13": {
+                "1": "Hồi cảm giác sau trung tâm",
+                "2": "Thùy trán ",
+                "3": "Thùy chầm",
+                "4": "Thùy thái dương",
+                "A": "C",
+                "Q": "Trong phản xạ có điều kiện tiết nước bọt trên chó bằng ánh sáng đèn, trung khu có điều kiện cao cấp năm ở nơi nào của vỏ não"
+            },
+            "14": {
+                "1": "Thùy đỉnh",
+                "2": "Hồi cảm giác sau trung tâm",
+                "3": "Thùy chẩm ",
+                "4": "Thùy trán ",
+                "A": "B",
+                "Q": "Trong phản xạ có điều kiện tiết nước bọt trên chó bằng ánh sáng đèn, trung khu không có điều kiện cao cấp năm ở nơi nào của vỏ não"
+            },
+            "15": {
+                "1": "Cả 2 trung khu không điều kiện và có điều kiện đều hưng phấn mạnh nên thu hút lẫn nhau",
+                "2": "Trung khu có điều kiện hưng phấn mạnh sẽ ức chế trung khu không điều kiện",
+                "3": "Trung khu không điều kiện hưng phấn mạnh sẽ ức chế trung khu có điều kiện",
+                "4": "Trung khu không điều kiện hưng phấn mạnh nên thu hút các xung động từ trung khu có điều kiện về phía nó",
+                "A": "D",
+                "Q": "Câu nào sau đây ĐÚNG về cơ chế mở đường để hình thành đường liên hệ thần kinh tạm thời"
+            },
+            "16": {
+                "1": "Để duy trì luồng hưng phấn từ trung khu không điều kiện về trung khu có điều kiện",
+                "2": "Để tăng cường các xung động từ các trung khu dưới vỏ làm hưng phấn mạnh các trung khu cao cấp ở vỏ não",
+                "3": "Để thu hút các xung động từ trung khu có điều kiện về trung khu không điều kiện",
+                "4": "Để làm hưng phấn đồng thời trung khu có điều kiện và không điều kiện cao cấp",
+                "A": "C",
+                "Q": "Sau khi thành lập phản xạ có điều kiện, thỉnh thoảng phải củng cố để làm gì"
+            },
+            "17": {
+                "1": "Để biến đổi điện thế màng tế bào thần kinh sau synap",
+                "2": "Để hoạt hóa các synap dự trữ và hình thành nên các synap mới",
+                "3": "Để ức chế các synap không cần thiết",
+                "4": "Để kích thích sự phát triển của các tế bào thần kinh",
+                "A": "B",
+                "Q": "Khi thành lập phản xạ có điều kiện, sự lặp đi lặp lại các kích thích có điều kiện và không có điều kiện có tác dụng gì"
+            },
+            "18": {
+                "1": "Là cung phản xạ đơn giản, không thay đổi, chỉ có ở trung khu tủy sống",
+                "2": "Là cung phản xạ đơn giản, ít thay đổi, có trung khu từ thân não trở xuống",
+                "3": "Có cung phản xạ không thay đổi, có trung khu ở tủy sống hoặc hành não",
+                "4": "Có cung phản xạ không thay đổi, có trung khu ở phần thấp của  hệ thần kinh trung ương",
+                "A": "C",
+                "Q": "Câu nào ĐÚNG về CUNG PHẢN XẠ không điều kiện"
+            },
+            "19": {
+                "1": "Cung phản xạ không có sẵn, mà hình thành trong quá trình tập luyện",
+                "2": "Là phản xạ tập thành, mang tính loài và bền vững",
+                "3": "Cung phản xạ không có sẵn, không cố định",
+                "4": "Là phản xạ tập thành, mang tính cá thể, không di truyền",
+                "A": "B",
+                "Q": "Câu nào KHÔNG ĐÚNG về tính chất của phản xạ có điều kiện"
+            },
+            "20": {
+                "1": "Có tất cả các khâu như cung phản xạ đơn giản, nhưng nhiều trung khu hơn và có đường liên hệ thần kinh tạm thời",
+                "2": "Thực chất là cung phản xạ không điều kiện có trung khu ở vùng dưới vỏ",
+                "3": "là cung phản xạ cấp thấp",
+                "4": "Là cung phản xạ đơn giản có trung khu ở tủy sống",
+                "A": "A",
+                "Q": "Câu nào ĐÚNG về CUNG PHẢN XẠ có điều kiện"
+            },
+            "21": {
+                "1": "Trung khu hưng phấn mạnh kích thích hoạt động trung khu hưng phấn yếu hơn",
+                "2": "Trung khu hưng phấn mạnh thu hút xung động từ trung khu hưng phấn yếu hơn và làm ức chế đáp ứng của trung khu yếu",
+                "3": "Trung khu hưng phấn mạnh thu hút xung động từ trung khu hưng phấn yếu hơn và làm tăng hoạt động của trung khu yếu",
+                "4": "Trung khu hưng phấn yếu ức chế đáp ứng  trung khu hưng phấn mạnh hơn",
+                "A": "B",
+                "Q": "Câu nào ĐÚNG về luật ưu thế của Ukhtomski"
+            },
+            "22": {
+                "1": "Tạo nên nhiều synap mới, tăng diện tích của các synap",
+                "2": "Hoạt hóa các synap có sẵn",
+                "3": "Phát triển thêm các gai trên sợi nhánh các tế bào thần kinh",
+                "4": "Làm giảm số lượng các synap thần kinh",
+                "A": "D",
+                "Q": "Câu nào KHÔNG ĐÚNG về bản chất đường liên hệ thần kinh tạm thời"
+            },
+            "23": {
+                "1": "Để làm hoạt hóa vỏ não",
+                "2": "Để gây sự chú ý cho đối tượng tập",
+                "3": "Để tạo mối liên hệ giữa trung khu không điều kiện và có điều kiện ở vỏ não",
+                "4": "Để trung khu không điều kiện ở vỏ não ức chế trung khu có điều kiện ở vỏ não",
+                "A": "C",
+                "Q": "Tại sao khi thành lập phản xạ có điều kiện, kích thích có điều kiện phải đi trước kích thích không điều kiện vài giây"
+            },
+            "24": {
+                "1": "để trong vỏ não có 2 trung khu không điều kiện và có điều kiện cùng hưng phấn",
+                "2": "Để tạo trung khu có điều kiện hưng phấn mạnh hơn trung khu không điều kiện",
+                "3": "Để tạo trong vỏ não có 2 trung khu hưng phấn ngang nhau",
+                "4": "Để tạo trung khu không điều kiện hưng phấn mạnh hơn trung khu có điều kiện",
+                "A": "A",
+                "Q": "Tại sao khi thành lập phản xạ có điều kiện, kích thích có điều kiện không được đi trước quá lâu so với kích thích không điều kiện"
+            },
+            "25": {
+                "1": "Hoạt động thần kinh cấp cao được phát triển trên cơ sở các cơ chế hình thành phản xạ không điều kiện",
+                "2": "Hoạt động thần kinh cấp cao được phát triển trên cơ sở các cơ chế hình thành các mối liên hệ thần kinh tạm thời",
+                "3": "Hoạt động thần kinh cấp cao được phát triển trên cơ sở các cơ chế hình thành các sóng điện não",
+                "4": "Hoạt động thần kinh cấp cao có chức năng điều hòa, phối hợp hoạt động của các cơ quan trong cơ thể",
+                "A": "B",
+                "Q": "Nhận xét nào dưới đây là đúng"
+            },
+            "26": {
+                "1": "Có ở tất cả các động vật cùng loài",
+                "2": "Hoạt động liên tục từ lúc mới sinh cho tới lúc chết",
+                "3": "Không có ý nghĩa trong đời sống của động vật",
+                "4": "Được duy trì từ bố mẹ sang con cái",
+                "A": "C",
+                "Q": "Điều nào sau đây là KHÔNG ĐÚNG về phản xạ không điều kiện"
+            },
+            "27": {
+                "1": "Hoạt động liên tục từ lúc mới sinh cho tới lúc chết",
+                "2": "Phản xạ được tập nhiễm trong quá trình sống",
+                "3": "Là các hành động sớm, cho phép tránh được nguy hiểm",
+                "4": "Hình thành trong các cấu trúc phát triển muộn hơn trong quá trình tiến hóa của hệ thần kinh trung ương",
+                "A": "A",
+                "Q": "Các nhận xét sau về phản xạ có điều kiện là đúng, TRỪ"
+            },
+            "28": {
+                "1": "kéo dài dần thời gian giữa tín hiệu có điều kiện và kích thích không điều kiện",
+                "2": "bật đèn lặp đi lặp lại nhiều lần sau khi cho ăn",
+                "3": "cho chó ăn sau khi bật đèn",
+                "4": "tiếp tục bật đèn sau khi chó ăn xong",
+                "A": "C",
+                "Q": "Theo Pavlov, sự củng cố tín hiệu có điều kiện bằng kích thích không điều kiện trong thành lập phản xạ có điều kiện tiết nước bọt với ánh sáng đèn có nghĩa là"
+            },
+            "29": {
+                "1": "hệ thần kinh trung ương phải ở trạng thái bình thường",
+                "2": "Trong thời gian thành lập phản xạ có điều kiện, không được có mặt các kích thich ngoại lai",
+                "3": "Phối hợp đúng thời gian và trình tự của các kích thích",
+                "4": "Kích thích có điều kiện phải mạnh hơn kích thích không điều kiện về mặt sinh học",
+                "A": "D",
+                "Q": "Nhận xét nào sau đây KHÔNG ĐÚNG về điều kiện thành lập phản xạ có điều kiện"
+            },
+            "30": {
+                "1": "Trong thời gian thành lập phản xạ có điều kiện, trừ kích thích có điều kiện và tác nhân củng cố, không được có kích thích lạ",
+                "2": "hệ thần kinh trung ương phải ở trạng thái bình thường",
+                "3": "Kích thích không điều kiện phải mạnh hơn kích thích có điều kiện về mặt sinh học",
+                "4": "Kích thích có điều kiện phải xuất hiện sau tác nhân củng cố 3-5 giây",
+                "A": "D",
+                "Q": "Điều nào là KHÔNG đúng về điều kiện cần thiết để thành lập phản xạ có điều kiện"
+            },
+            "31": {
+                "1": "Phải có phối hợp đúng trật tự và thời gian của các kích thích",
+                "2": "Kích thích có điều kiện phải mạnh hơn kích thích không điều kiện ",
+                "3": "Hệ thần kinh trung ương phải ở trạng thái bình thường",
+                "4": "Trong thơi gian thành lập phản xạ có điều kiện không được có kích thích lạ",
+                "A": "B",
+                "Q": "Điều nào sau đây là KHÔNG về điều kiện để thành lập phản xạ có điều kiện"
+            },
+            "32": {
+                "1": "Kích thích có điều kiện",
+                "2": "Kích thích không điều kiện",
+                "3": "Đáp ứng có điều kiện",
+                "4": "Đáp ứng không điều kiện",
+                "A": "B",
+                "Q": "Đặt thức ăn trước mặt chó bị để đói thấy tăng tiết nước bọt, hiện tượng tăng tiết nước bọt này là"
+            },
+            "33": {
+                "1": "Tiếng chuông điện (a)",
+                "2": "Thức ăn (b)",
+                "3": "Ánh sáng đèn (c)",
+                "4": "Cả 3 đều KHÔNG  đúng",
+                "5": "Ca 3 đều đúng",
+                "A": "B",
+                "Q": "Trong tập thành phản xạ có điều kiện của Paplop kích thích nào sau đây là kích thích không điều kiện"
+            },
+            "34": {
+                "1": "Kích thích có điều kiện",
+                "2": "Kích thích không điều kiện",
+                "3": "Đáp ứng có điều kiện",
+                "4": "Đáp ứng không điều kiện",
+                "A": "B",
+                "Q": "Trong thí nghiệm thành lập phản xạ có điều kiện của pavlop thức ăn đóng vai trò là gì"
+            },
+            "35": {
+                "1": "Kích thích có điều kiện xuất hiện trước kích thích không điều kiện 1 khoảng thời gian ngắn và cố định qua các lần tập",
+                "2": "Kích thích có điều kiện và không điều kiện xuất hiện đồng thời",
+                "3": "Kích thích có điều kiện xuất hiện ngay sau khi kích thích không điều kiện 1 khoảng thời gian ngắn và cố định qua các lần tập",
+                "4": "Xuất hiện bất kì các loại kích thích các loại kích thích có và không có điều kiện trong quá trình tập",
+                "A": "A",
+                "Q": "Phản xạ có điều kiện có thể thành lập được khi"
+            },
+            "name": "PHẢN XẠ ĐIỀU KIỆN "
+        }
+    }
+}

@@ -1,0 +1,368 @@
+{
+    "SINH_LY_HOC_2018": {
+        "sinhlythan": {
+            "1": {
+                "1": "ở ống lượn xa và ống góp: 30%",
+                "2": "chủ yếu ở ống lượn gần: 65%",
+                "3": "ở phần cuối quai Henle: 35%",
+                "4": "chủ yếu ở ống lượn xa dưới tác dụng của ADH",
+                "A": "B",
+                "Q": "Nước được tái hấp thu"
+            },
+            "2": {
+                "1": "Huyết áp cao kịch phát làm nước tiểu giảm",
+                "2": "Áp lực mao mạch cuộn mạch ở thận tăng thì áp lực lọc tăng làm nước tiểu giảm",
+                "3": "Truyền dịch ưu trương làm nước tiểu giảm",
+                "4": "Lưu lượng tuần hoàn thận tăng thì áp lực keo huyết tương mao mạch cuộn mạch tăng làm nước tiểu tăng",
+                "A": "C",
+                "Q": "Câu nào sau đây là đúng về lượng nước tiểu"
+            },
+            "3": {
+                "1": "Siêu lọc",
+                "2": "Siêu lọc, bài tiết tích cực",
+                "3": "Siêu lọc, tái hấp thu",
+                "4": "Siêu lọc, tái hấp thu, bài tiết tích cực",
+                "A": "D",
+                "Q": "Những quá trình cơ bản ở thận để tạo nước tiểu là"
+            },
+            "4": {
+                "1": "lưu lượng tuần hoàn qua thận",
+                "2": "huyết áp động mạch",
+                "3": "áp lực lọc, màng siêu lọc",
+                "4": "huyết áp động mạch, màng siêu lọc ",
+                "A": "C",
+                "Q": "Những nguyên nhân cơ bản của hiện tượng lọc là "
+            },
+            "5": {
+                "1": "Pb tăng, Pm giảm, Kf tăng",
+                "2": "Pm tăng, Pb tăng, Pk tăng, Kf giảm",
+                "3": "Dòng máu tới thận tăng, Pm tăng, Pk giảm, Pb giảm",
+                "4": "Dòng máu tới thận tăng, Pm giảm, Pk tăng",
+                "A": "C",
+                "Q": "Các yếu tố làm tăng áp lực lọc (áp lực máu mao mạch cuộn mạch- Pm, áp lực keo của huyết tương- Pk, áp lực trong khoang Bowman-Pb, hệ số lọc-Kf)"
+            },
+            "6": {
+                "1": "Viêm cầu thận cấp làm nươc tiểu tăng",
+                "2": "Sỏi đường tiết niệu làm cản trở đường tiết nước tiểu làm nước tiểu giảm",
+                "3": "Bị bỏng mất huyết tường làm máu cô huyết áp tăng làm nước tiểu tăng",
+                "4": "Ra nhiều mồ hôi do lao động nặng làm nước tiểu tăng",
+                "A": "B",
+                "Q": "Ở người, số lượng nước tiểu thay đổi khi"
+            },
+            "7": {
+                "1": "Xảy ra ở cầu thận, lọc nước và các chất hòa tan trong nước từ huyết tương mao mạch cuộn mạch sang khoang Bowman qua màng siêu lọc",
+                "2": "Là hiện tượng chủ động, được điều hòa bằng cơ chế thần kinh và thần kinh thể dịch",
+                "3": "Là hiện tượng chủ động, tiêu tốn năng lượng nên khối lượng dịch lọc rất lớn: 170-180 lít/ 24 giờ",
+                "4": "Là hiện tượng chủ động, liên quan chặt chẽ với áp lực máu mao mạch cuộn mạch, áp lực keo huyết tương và áp lực trong thận",
+                "A": "A",
+                "Q": "Khái niệm về hiện tượng lọc"
+            },
+            "8": {
+                "1": "Áp lực lọc (PI) được tạo nên do áp lực máu cuộn mạch (Pm) và áp lực keo của máu (Pk)",
+                "2": "Huyết áp động mạch tạo nên áp lực lọc",
+                "3": "Áp lực thủy tĩnh bao Bowman và mao mạch cầu thận tạo nên áp lực lọc",
+                "4": "Áp lực lọc (PI) được tạo nên nhờ áp lực máu mao mạch, lớn hơn lực keo hyết tương (Pk) và Bow man (Pb)  ",
+                "A": "D",
+                "Q": "Về áp lực lọc cầu thận (PI)"
+            },
+            "9": {
+                "1": "Áp lực lọc (PI) không chịu ảnh hưởng bởi áp lực mao mạch cuộn mạch (Pm), áp lực keo huyết tương (Pk) và hệ số lọc ",
+                "2": "Màng siêu lọc có ảnh hưởng tới qua trình siêu lọc",
+                "3": "Cơ chế tự điều hòa của bộ máy cận tiểu cầu theo phản xạ điều hòa ngược dương tính ống thận- tiểu cầu",
+                "4": "Hệ thần kinh giao cảm không có khả năng điều hòa dòng máu thận nhưng điều hòa phân số lọc",
+                "A": "B",
+                "Q": "Các yếu tố ảnh hưởng tới sự siêu lọc"
+            },
+            "10": {
+                "1": "Cho các tế bào máu đi qua",
+                "2": "Không ch ion Cl- và HCO3- đi qua ",
+                "3": "Cho các phân tử protein có trọng lượng trên 70000 đi qua ",
+                "4": "Khi tổn thương cho hồng cầu và protein đi qua",
+                "A": "D",
+                "Q": "Về lọc màng cầu thận"
+            },
+            "11": {
+                "1": "0 mmHg",
+                "2": "17 mmHg",
+                "3": "10 mmHg",
+                "4": "37 mmHg",
+                "A": "D",
+                "Q": "Sử dụng các giá trị dưới đây để trả lời cho câu hỏi sau: Áp lực thủy tĩnh mao mạch cầu thận= 47 mmHg; Áp lực thủy tĩnh bao Bowman= 10 mmHg; Áp lực keo bao Bowman= 0 mmHg; Vậy ở giá nào của áp lực mao mạch cầu thận có thể làm dừng qua trình lọc?"
+            },
+            "12": {
+                "1": "Do kích thước của lỗ lọc và điện tích âm của lỗ lọc đã ngăn cản các phân tử protein",
+                "2": "Các phân tử protein huyết tương quá lớn so với kích thước của lỗ lọc",
+                "3": "Do điện tích dương của lỗ lọc hút và giữ lại các phân tử protein",
+                "4": "Điện tích âm của lỗ lọc đã đẩy lùi các phân tử protein huyết tương",
+                "A": "A",
+                "Q": "Trong dịch lọc cầu thận có rất ít protein là vì"
+            },
+            "13": {
+                "1": "Kích thích thần kinh giao cảm làm tăng lưu lượng lọc",
+                "2": "Giãn tiểu động mạch đến, giãn tiểu động mạch đi làm tăng lưu lượng lọc",
+                "3": "Huyết áp động mạch hệ thống giảm làm tăng lưu lượng lọc",
+                "4": "Giãn tiểu động đến, co tiểu động mạch đi làm tăng lưu lượng lọc ",
+                "A": "D",
+                "Q": "Các yếu tố ảnh hưởng tới lưu lượng lọc cầu thận"
+            },
+            "14": {
+                "1": "Áp lực thủy tĩnh trong mao mạch cầu thận và áp lực keo trong bao Bowman",
+                "2": "Áp lực thủy tĩnh trong bao Bowman và áp lực keo trong mao mạch cầu thận",
+                "3": "Áp lực thủy tĩnh trong mao mạch cầu thận và áp lực keo trong mao mạch cầu thận",
+                "4": "Áp lực keo trong mao mạch cầu thận và áp lực keo trong bao Bowman",
+                "A": "B",
+                "Q": "Áp lực có tác dụng ngăn cản qua trình lọc cầu thận gồm"
+            },
+            "15": {
+                "1": "có thành phần protein như huyết tương",
+                "2": "có thành phần như huyết tương trong máu động mạch",
+                "3": "có thành phần không giống với huyết tương trong máu động mạch",
+                "4": "có áp suất thẩm thấu và pH cân bằng với huyết tương",
+                "A": "D",
+                "Q": "Trong dịch lọc cầu thận  "
+            },
+            "16": {
+                "1": "Tăng áp suất keo huyết tương",
+                "2": "Giãn các tiểu động mạch đi",
+                "3": "Giãn các tiểu động mạch đến",
+                "4": "Tăng hoạt động thần kinh giao cảm của thận",
+                "A": "C",
+                "Q": "Tăng dòng máu thận và mức lọc cầu thận gây bởi điều nào sau đây?"
+            },
+            "17": {
+                "1": "Hemoglobin",
+                "2": "Creatinin",
+                "3": "Bạch cầu",
+                "4": "Hồng cầu",
+                "A": "B",
+                "Q": "Chất nào sau đây thường thấy trong nước tiểu"
+            },
+            "18": {
+                "1": "27-28 lít",
+                "2": "17-18 lít",
+                "3": "170-180 lít",
+                "4": "70-80 lít",
+                "A": "C",
+                "Q": "Trong 24 giờ, thận của một người trưởng thành khỏe mạnh lọc qua các tiểu cầu thận vào ống thận với tổng lượng dịch siêu lọc khoảng"
+            },
+            "19": {
+                "1": 0.25,
+                "2": 0.5,
+                "3": 0.1,
+                "4": 0.99,
+                "A": "D",
+                "Q": "Phần trăm dịch lọc thực tế được tái hấp thu vào máu gần nhất với"
+            },
+            "20": {
+                "1": "tăng khối lượng máu",
+                "2": "co mạch",
+                "3": "giảm aldosteron",
+                "4": "tăng huyết áp",
+                "A": "C",
+                "Q": "Kết quả của cơ chế renin- angiotensin điều hòa do bộ máy cận tiểu cầu gồm các điều sau, TRỪ"
+            },
+            "21": {
+                "1": "Được sản xuất khi huyết áp giảm và làm giảm khối lượng máu và huyết áp",
+                "2": "Được sản xuất khi huyết áp tăng và không có tác dụng lâu dài trên khối lượng máu và huyết áp",
+                "3": "Được sản xuất khi huyết áp giảm và làm tăng khối lượng máu và huyết áp",
+                "4": "Được sản xuất khi huyết áp tăng và làm giảm khối lượng máu và huyết áp",
+                "A": "C",
+                "Q": "Đâu là chức năng chính của renin va aldosteron?"
+            },
+            "22": {
+                "1": "160 A°",
+                "2": "110 A°",
+                "3": "130 A°",
+                "4": "70 A°",
+                "A": "A",
+                "Q": "Lớp tế bào nội mô mao mạch cầu thận có các lỗ thủng với đường kính"
+            },
+            "23": {
+                "1": "Lớp tế bào nội mô mao mạch tiểu cầu thận ",
+                "2": "Lớp trong tế bào biểu mô bao Bowman",
+                "3": "Lớp ngoài tế bào biểu mô bao Bowman",
+                "4": "Lớp màng nền",
+                "A": "C",
+                "Q": "Thành phần nào sau đây không thuộc màng siêu lọc"
+            },
+            "24": {
+                "1": "dịch siêu lọc có nồng độ Cl- và HCO3- cao hơn 5% so với huyết tương",
+                "2": "Dịch siêu lọc có tế bào máu, không có các hợp chất hữu cơ có phân tử lượng > 70000",
+                "3": "Tổng lượng dịch siêu lọc trong 24 giờ là 170-180 lít",
+                "4": "Dịch siêu lọc có áp suất đẳng trương so với huyết tương",
+                "A": "B",
+                "Q": "Với điều kiện sinh lý, câu trả lời nào sau đây  là KHÔNG ĐÚNG về dịch siêu lọc (nước tiểu đầu)?"
+            },
+            "25": {
+                "1": "Là số ml dịch siêu lọc có trong 1 giờ, khi áp lực lọc là 1 mmHg",
+                "2": "Là số lít dịch siêu lọc có trong 1 phút, khi ap lực lọc là 110 mmHg",
+                "3": "Là số lít dịch siêu lọc có trong 1 giờ, khi áp lực lọc là 1 mmHg",
+                "4": "Là số ml dịch siêu lọc có trong 1 phút, khi ap lực lọc là 1 mmHg",
+                "A": "D",
+                "Q": "Định nghĩa nào ĐÚNG về hệ số lọc của tiểu cầu thận?"
+            },
+            "26": {
+                "1": "Là tỉ số % giữa ml dịch lọc và lượng huyết tương qua thận trong 1 phút",
+                "2": "Là số ml dịch siêu lọc có trong 1 phút",
+                "3": "Là số ml dịch siêu lọc có trong 1 giờ, khi áp lực lọc là 1 mmHg",
+                "4": "Là áp lực tác động lên huyết tương của mao mạch cuộn mạch, để đẩy nước và các chất hòa tan trong nước sang khoang Bowman",
+                "A": "B",
+                "Q": "Định nghĩa nào đúng về mức lọc cầu thận?"
+            },
+            "27": {
+                "1": "tăng cường bài xuất Na+ và Cl-",
+                "2": "tăng cường bài xuất Na+ và Cl- ở ống lượn xa",
+                "3": "tăng cường tái hấp thu Na+ và Cl- ở nhánh lên quai henle",
+                "4": "tăng cường tái hấp thu Na+ và Cl- ở ống lượn gần",
+                "A": "C",
+                "Q": "Khi lưu lượng lọc cầu thận giảm thì thận sẽ"
+            },
+            "28": {
+                "1": "Cơ chế tự điều hòa mức lọc cầu thận giúp tự duy trì mức lọc cầu thận hằng định dù huyết áp dao động trong phạm vi từ 75- 160 mmHg",
+                "2": "Lưu lượng lọc cầu thận giảm thì tốc độ dòng dịch qua ống thận bị chậm lại, thận tăng cường tái hấp thu Na+ và Cl- ở nhánh lên quai Henle",
+                "3": "Renin kích thích chuyển angiotensinogen thành angiotensino II, gây co mạch đi, nâng mức lọc cầu thận",
+                "4": "Tế bào macula densa nhận cảm nồng độ Na+ và Cl- trong lòng ống thận, khi các nồng độ này giảm sẽ làm co động mạch đến và giãn động mạch đi",
+                "A": "D",
+                "Q": "Câu trả lời nào sau đây là KHÔNG ĐÚNG về cơ chế tự điều hòa mức lọc cầu thận của bộ máy tiểu cầu thận?"
+            },
+            "29": {
+                "1": "Hai yếu tố quyết định quá trình siêu lọc là áp lực lọc và màng siêu lọc",
+                "2": "Là qua trình tạo thành nước tiểu chính thức",
+                "3": "Là quá trình chủ động, lọc nước và các chất hòa tan từ huyết tương mao cuộn mạch sang khoang bao Bowman",
+                "4": "Tất cả các nhận định trên đều đúng",
+                "A": "A",
+                "Q": "Nhận định nào đúng về quá trình siêu lọc"
+            },
+            "30": {
+                "1": "Áp suất máu mao mạch cuộn mạch, áp suất keo huyết tương mao mạch cuộn mạch, áp suất thẩm thấu huyết tương mao mạch cuộn mạch",
+                "2": "Áp suất máu mao mạch cuộn mạch, áp suất keo huyết tương mao mạch cuộn mạch, áp suất thủy tĩnh khoang Bowman",
+                "3": "Áp suất thẩm thấu mao mạch cuộn mạch, áp suất keo huyết tương mao mạch cuộn mạch, áp suất thẩm thủy tĩnh khoang Bowan",
+                "4": "Áp suất máu mao mạch cuộn mạch, áp suất thẩm thấu  huyết tương mao mạch cuộn mạch, áp suất thủy tĩnh khoang Bowman",
+                "A": "B",
+                "Q": "Áp suất lọc được tạo bởi 3 áp suất thành phần là"
+            },
+            "31": {
+                "1": "Sự biến đổi của màng siêu lọc (2)",
+                "2": "Cơ chế điều hòa của hệ thần kinh giao cảm (3)",
+                "3": "Cả (1), (2), (3)",
+                "4": "Sự biến đổi của áp suất lọc (1)",
+                "A": "C",
+                "Q": "Các yếu tố ảnh hưởng đến quá trình siêu lọc gồm"
+            },
+            "32": {
+                "1": "Pl= Pk- (Pm+ Pb)",
+                "2": "Pl= Pm- Pk+ Pb",
+                "3": "Pl= Pb- (Pm+Pb)",
+                "4": "Pl= Pm-(Pk+ Pb)",
+                "A": "D",
+                "Q": "Công thức tính áp suất lọc từ các áp suất thành phần (gồm: áp suất máu mao mạch cuộn mạch- Pm, áp suất keo huyết tương mao mạch cuộn mạch- Pk, áp suất thủy tĩnh khoang Bowman- Pb) là"
+            },
+            "33": {
+                "1": "Thành phần các ion âm tương tự huyết tương",
+                "2": "Không có các chất hữu cơ có trong lượng phân tử > 70000 dalton",
+                "3": "Không có các tế bào máu",
+                "4": "Áp suất thẩm thấu và độ pH cân bằng huyết tương",
+                "A": "A",
+                "Q": "Điều nào không đúng về dịch lọc"
+            },
+            "34": {
+                "1": "Lớp tế bào nội mô có lỗ thủng 70 A°",
+                "2": "Lớp màng nền có lỗ thủng 160 A°",
+                "3": "Lớp tế bào biểu mô có chân có lỗ thủng 160 A°",
+                "4": "Lớp màng nền có lỗ thủng 110 A°",
+                "A": "D",
+                "Q": "Điều nào là đúng về các lớp tế bào cấu tạo màng siêu lọc"
+            },
+            "35": {
+                "1": "Màng nền của màng lọc mang điện tích âm",
+                "2": "Màng lọc không có tính chất chọn lọc theo điện tích và kích thước của các phân tử",
+                "3": "Màng lọc có tính chất chọn lọc và chọn lọc theo kích thước",
+                "4": "Các lỗ của màng lọc từ phía mao mạch sang bao Bowman có kích thước nhỏ dần",
+                "A": "B",
+                "Q": "NHận định nào là không đúng về màng siêu lọc"
+            },
+            "36": {
+                "1": "Được xác định bằng hệ số thanh thải của inulin",
+                "2": "Là số ml dịch siêu lọc có trong 1 phút",
+                "3": "Giá trị bình thường là 250 ml/ phút",
+                "4": "Giá trị bình thường là 125 ml/ phút",
+                "A": "C",
+                "Q": "Nhận định nào sau đây là không đúng với mức lọc cầu thận?"
+            },
+            "37": {
+                "1": "số ml dịch siêu lọc có ở 2 thận trong 1 phút, khi áp lực lọc bằng 28 mmHg",
+                "2": "số ml dịch siêu lọc có trong 1 phút, khi áp lực lọc bằng 60 mmHg",
+                "3": "số ml dịch siêu lọc có trong 1 phút, khi áp lực lọc bằng 1 mmHg",
+                "4": "số ml dịch siêu lọc có trong 1 phút, khi áp lực lọc bằng 10 mmHg",
+                "A": "C",
+                "Q": "Hệ số lọc của tiểu cầu (Kf) là"
+            },
+            "38": {
+                "1": "Là tỷ lệ phần trăm giữa dịch lọc và lượng huyết tương qua thận trong 1 phút",
+                "2": "Giá trị bình thường là 45%",
+                "3": "Là tỷ lệ phần trăm giữa dịch lọc và lượng huyết tương qua thận trong 1 giờ",
+                "4": "Là tỷ lệ phần trăm giữa lượng máu qua thận và lượng dịch lọc qua thận trong 24 giờ",
+                "A": "A",
+                "Q": "Nhận định nào là đúng về phân số lọc tiểu cầu (FF)"
+            },
+            "39": {
+                "1": "Có các Tế bào máu",
+                "2": "Có các chất hữu cơ trọng lượng phân tử > 70000 Dalton",
+                "3": "Không có các ion âm",
+                "4": "Áp suất thẩm thấu và độ pH cân bằng huyết tương",
+                "A": "D",
+                "Q": "Dịch lọc ( nước tiểu đầu) có đặc điểm "
+            },
+            "40": {
+                "1": "áp lực máu mao mạch cuộn mạch",
+                "2": "áp lực keo huyết tương mao mạch cuộn mạch",
+                "3": "áp lực keo bao Bownman",
+                "4": "áp lực dịch siêu lọc trong bao Bownman",
+                "A": "C",
+                "Q": "Áp lực lọc không được tạo bởi áp lực nào sau đây"
+            },
+            "41": {
+                "1": "Tỉ lệ % giữa dịch lọc và lượng huyết tương qua thận trong 1 phút",
+                "2": "Số ml dịch lọc có trong 1 phút khi áp lực lọc bằng 1 mmHg",
+                "3": "Số ml dịch lọc có trong 1 phút ",
+                "4": "Lượng huyết tương qua thận trong 1 phút",
+                "A": "A",
+                "Q": "Phân số lọc tiểu cầu thận là"
+            },
+            "42": {
+                "1": "GFR phụ thuộc vào áp lực máu ở tiểu động mạch đến",
+                "2": "1 chất có hệ số thanh thải nhỏ hơn GFR tức là chất đó có đã được bài tiết thêm ở ống thận",
+                "3": "GFR được xác định thông qua đo độ thanh thải của insuline",
+                "4": "Hệ số lọc tiểu cầu thận (KF) là 1 hằng số, không phụ thuộc lưu lượng máu qua thận",
+                "A": "A",
+                "Q": "Câu trả lời nào sau đây là ĐÚNG liên quan đến mức lọc cầu thận (GFR)"
+            },
+            "43": {
+                "1": "Là cơ chế điều hòa ngược dương tính, gây giãn động mạch đến và co động mạch đi",
+                "2": "Là cơ chế điều hòa ngược âm tính, khi lưu lượng lọc cầu thận giảm thì làm giảm tái hấp thu K+ ở nhánh lên",
+                "3": "Tế bào maculadensa làm giãn động mạch đến, gây tăng mức lọc cầu thận ",
+                "4": "Renin do tế bào maculadensa ở bộ máy cận tiểu cầu thận tiết ra ",
+                "5": "Anginotensin II làm co động mạch đến của tiểu cầu thận ",
+                "A": "C",
+                "Q": "Câu trả lời nào sau đây là ĐÚNG liên quan đến cơ chế tự điều hòa mức lọc cầu thận (GFR)"
+            },
+            "44": {
+                "1": "Từ tế bào maculadensa ",
+                "2": "Từ tế bào cận tiểu cầu thận ",
+                "3": "Từ tủy thượng thận",
+                "4": "Từ tế bào biểu mô có chân của màng siêu lọc",
+                "A": "B",
+                "Q": "Renin có nguồn gốc từ đâu"
+            },
+            "45": {
+                "1": "Duy trì huyết áp ổn định",
+                "2": "Duy trì lượng dịch siêu lọc ổn định cho dù huyết áp tương đối dao động",
+                "3": "Duy trì nồng độ Na+ huyết tương",
+                "4": "Duy trì hệ số lọc của tiểu cầu thận",
+                "A": "B",
+                "Q": "Cơ chế tự điều hòa mức lọc cầu thận có vai trò "
+            },
+            "name": "SINH LÍ THẬN"
+        }
+    }
+}

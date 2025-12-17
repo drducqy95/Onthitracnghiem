@@ -1,0 +1,1127 @@
+{
+    "BENH_HOC_NOI_KHOA_2018": {
+        "A11": {
+            "1": {
+                "1": "Thoái hoá khớp",
+                "2": "Thấp khớp cấp.",
+                "3": "Lupus ban đỏ hệ thống",
+                "4": "Viêm khớp dạng thấp",
+                "A": "B",
+                "Q": "Sưng đau khớp gối, cổ chân cấp tính, di chuyển nhanh ở thiếu niên gặp trong: "
+            },
+            "2": {
+                "1": "Bệnh Gout.",
+                "2": "Viêm khớp dạng thấp",
+                "3": "Thấp khớp cấp.",
+                "4": "Thoái hoá khớp hoạt hoá",
+                "A": "A",
+                "Q": "Sưng đau cấp tính ở ngón chân cái gặp trong các bệnh khớp nào?"
+            },
+            "3": {
+                "1": "Bệnh Gout.",
+                "2": "Viêm khớp dạng thấp.",
+                "3": "Thấp khớp cấp.",
+                "4": "Thoái hoá khớp hoạt hoá",
+                "A": "B",
+                "Q": " Dấu hiệu “bàn tay gió thổi” gặp trong các bệnh khớp nào?"
+            },
+            "4": {
+                "1": "Viêm khớp dạng thấp.",
+                "2": "Bệnh Gout.",
+                "3": "Thấp khớp cấp.",
+                "4": "Thoái hoá khớp hoạt hoá",
+                "A": "B",
+                "Q": "Nồng độ axit uric tăng trong máu gặp trong các bệnh khớp nào?"
+            },
+            "5": {
+                "1": "Thấp khớp cấp.",
+                "2": "Viêm khớp dạng thấp.",
+                "3": "Bệnh Gout.",
+                "4": "Thoái hoá khớp.",
+                "A": "D",
+                "Q": "Sưng đau có tính chất cơ học gặp trong các bệnh khớp nào?"
+            },
+            "6": {
+                "1": "Bệnh Gout.",
+                "2": "Thoái hoá khớp hoạt hoá",
+                "3": "Thấp khớp cấp.",
+                "4": "Viêm khớp dạng thấp.",
+                "A": "A",
+                "Q": "Tìm thấy tinh thể urat trong dịch khớp gặp trong các bệnh khớp nào?"
+            },
+            "7": {
+                "1": "Thấp khớp cấp.",
+                "2": "Bệnh Gout.",
+                "3": "Viêm khớp dạng thấp.",
+                "4": "Thoái hoá khớp hoạt hoá",
+                "A": "C",
+                "Q": "Khởi phát bệnh ở phụ nữ tuổi trung niên gặp trong các bệnh khớp nào?"
+            },
+            "8": {
+                "1": "Thoái hoá khớp hoạt hoá",
+                "2": "Viêm khớp dạng thấp.",
+                "3": "Thấp khớp cấp.",
+                "4": "Bệnh Gout.",
+                "A": "B",
+                "Q": "Dấu hiệu “ngón tay thùa khuyết” gặp trong các bệnh khớp nào?"
+            },
+            "9": {
+                "1": "Bệnh Gout.",
+                "2": "Viêm khớp dạng thấp.",
+                "3": "Thoái hoá khớp hoạt hoá",
+                "4": "Thấp khớp cấp.",
+                "A": "B",
+                "Q": "Viêm phổi kẽ có thể gặp trong các bệnh khớp nào?"
+            },
+            "10": {
+                "1": "Viêm khớp dạng thấp.",
+                "2": "Bệnh Gout.",
+                "3": "Thấp khớp cấp.",
+                "4": "Thoái hoá khớp hoạt hoá",
+                "A": "A",
+                "Q": "Tràn dịch khớp gối có màu vàng chanh. Xét nghiệm dịch khớp có yếu tố thấp dương tính. Nguyên nhân tràn dịch?"
+            },
+            "11": {
+                "1": "Viêm cột sống dính khớp.",
+                "2": "Viêm khớp dạng thấp.",
+                "3": "Thấp khớp cấp.",
+                "4": "Lupus ban đỏ hệ thống",
+                "A": "A",
+                "Q": "Đau mạn tính, hạn chế vận động cột sống thắt lưng ở nam thanh niên gặp trong các bệnh:"
+            },
+            "12": {
+                "1": "Viêm cột sống dính khớp.",
+                "2": "Lupus ban đỏ hệ thống",
+                "3": "Viêm khớp dạng thấp.",
+                "4": "Thấp khớp cấp.",
+                "A": "D",
+                "Q": "Liên cầu khuẩn có thể gây ra bệnh khớp nào:"
+            },
+            "13": {
+                "1": "Lupus ban đỏ hệ thống",
+                "2": "Thấp khớp cấp.",
+                "3": "Viêm cột sống dính khớp.",
+                "4": "Viêm khớp dạng thấp.",
+                "A": "B",
+                "Q": "Xét nghiệm ASLO dương tính gặp trong các bệnh khớp nào:"
+            },
+            "14": {
+                "1": "Thấp khớp cấp.",
+                "2": "Viêm khớp dạng thấp.",
+                "3": "Viêm cột sống dính khớp.",
+                "4": "Lupus ban đỏ hệ thống",
+                "A": "B",
+                "Q": "Xét nghiệm anti-CCP dương tính gặp trong các bệnh khớp nào:"
+            },
+            "15": {
+                "1": "Thấp khớp cấp.",
+                "2": "Viêm khớp dạng thấp.",
+                "3": "Viêm cột sống dính khớp.",
+                "4": "Lupus ban đỏ hệ thống",
+                "A": "B",
+                "Q": "Chụp Xquang  hai bàn tay để đánh giá tổn thương trong bệnh khớp nào:"
+            },
+            "16": {
+                "1": "Lupus ban đỏ hệ thống",
+                "2": "Thấp khớp cấp.",
+                "3": "Viêm cột sống dính khớp.",
+                "4": "Viêm khớp dạng thấp.",
+                "A": "D",
+                "Q": "Chụp Xquang thấy ổ bào mòn xương ở 2 bàn tay gặp trong các bệnh khớp nào: "
+            },
+            "17": {
+                "1": "Viêm khớp dạng thấp.",
+                "2": "Thấp khớp cấp.",
+                "3": "Lao khớp",
+                "4": "Bệnh Goute",
+                "A": "C",
+                "Q": "Tràn dịch máu ổ khớp. Nguyên nhân tràn dịch máu?"
+            },
+            "18": {
+                "1": "Thoái hoá khớp",
+                "2": "Bệnh khớp vảy nến",
+                "3": "Thấp khớp cấp.",
+                "4": "Viêm khớp dạng thấp.",
+                "A": "D",
+                "Q": "Xét nghiệm huyết thanh yếu tố dạng thấp (+) gặp trong?"
+            },
+            "19": {
+                "1": "Lupus ban đỏ hệ thống",
+                "2": "Thấp khớp cấp.",
+                "3": "Viêm khớp dạng thấp.",
+                "4": "Thoái hoá khớp",
+                "A": "C",
+                "Q": "Sưng đau khớp, có teo cơ biến dạng, dính và cứng khớp gặp trong?"
+            },
+            "20": {
+                "1": "Ban bệnh luput ban đỏ.",
+                "2": "Ban dị ứng",
+                "3": "Thấp khớp cấp.",
+                "4": "Ban Sốt xuất huyết",
+                "A": "A",
+                "Q": "Ban đỏ rải rác toàn thân. Ban gianh giới không rõ, không ngứa, lõm ở giữa, phủ một lớp vẩy mỏng, màu hồng nhạt sau đó chuyển màu tím. Ban gặp trong các bệnh?"
+            },
+            "21": {
+                "1": "Nhiễm khuẩn huyết",
+                "2": "Viêm khớp dạng thấp.",
+                "3": "Lupus ban đỏ hệ thống",
+                "4": "Thấp khớp cấp.",
+                "A": "C",
+                "Q": "Sốt, gai rét kéo dài. Xét nghiệm kháng thể kháng nhân dương tính. Kháng thể kháng AND dương tính :"
+            },
+            "22": {
+                "1": "Viêm khớp phản ứng",
+                "2": "Viêm khớp dạng thấp.",
+                "3": "Viêm cột sống dính khớp.",
+                "4": "Bệnh Goute",
+                "A": "B",
+                "Q": "Các bệnh sau đây được xếp vào bệnh tự miễn dịch :"
+            },
+            "23": {
+                "1": "Đau liên tục cả ngày đêm đau tăng về chiều",
+                "2": "đau tăng khi vận động",
+                "3": "Đau khớp nhỏ có tính chất đối xứng",
+                "4": "Đau khớp lớn di chuyển nhanh",
+                "A": "C",
+                "Q": "Đặc điểm đau khớp trong bệnh viêm khớp dạng thấp:"
+            },
+            "24": {
+                "1": "Dịch màu vàng chanh",
+                "2": "Dịch máu",
+                "3": "Dịch mủ",
+                "4": "Dưỡng chấp",
+                "A": "A",
+                "Q": "Tính chất dịch khớp trong bệnh viêm khớp dạng thấp"
+            },
+            "25": {
+                "1": "Bệnh tim bẩm sinh",
+                "2": "Hội chứng cận u",
+                "3": "Viêm màng trong tim nhiễm khuẩn Osler",
+                "4": "Viêm khớp dạng thấp",
+                "A": "D",
+                "Q": "Ngón tay hình thoi gặp trong các bệnh:"
+            },
+            "26": {
+                "1": "Yếu tố thấp dương tính ",
+                "2": "Sưng đau khớp nhỏ có tính chất đối xứng",
+                "3": "Cứng khớp buổi sáng trên 1 giờ",
+                "4": "Có hạt tophy",
+                "A": "D",
+                "Q": "Tiêu chuẩn nào sau đây không phải để chẩn đoán bệnh VKDT: "
+            },
+            "27": {
+                "1": "Mọc gai xương",
+                "2": "Đặt xương dưới sụn",
+                "3": "Hình ảnh cầu xương",
+                "4": "Hẹp khe khớp, dính khớp.",
+                "A": "D",
+                "Q": "Hình ảnh Xquang ở bệnh nhân viêm khớp dạng thấp:"
+            },
+            "28": {
+                "1": "Tìm tế bào Hargrave",
+                "2": "phản ứng ASLO",
+                "3": "Phản ứng Waaler-Rose và latex.",
+                "4": "kháng thể kháng nhân",
+                "A": "C",
+                "Q": "Xét nghiệm miễn dịch quan trọng có ý nghiã chẩn đoán bệnh viêm khớp dạng thấp:"
+            },
+            "29": {
+                "1": "Sau 1 tháng",
+                "2": "Sau 2 tháng",
+                "3": "Sau 6 tháng",
+                "4": "trong tuần đầu",
+                "A": "C",
+                "Q": "Yếu tố thấp xuất hiện trong huyết thanh bệnh nhân viêm khớp dạng thấp:"
+            },
+            "30": {
+                "1": "Vật lý trị liệu",
+                "2": "Nội khoa",
+                "3": "Phóng xạ",
+                "4": "Y học cổ truyền",
+                "A": "C",
+                "Q": "Điều trị Bệnh viêm khớp dạng thấp không áp dụng phương pháp nào:"
+            },
+            "31": {
+                "1": "Vi tinh thể",
+                "2": "Do nhiễm khuẩn",
+                "3": "Tự miễn dịch",
+                "4": "Nhiễm Virus",
+                "A": "C",
+                "Q": "Giả thuyết được nhiều người công nhận về cơ chế bệnh sinh của viêm khớp dạng thấp?"
+            },
+            "32": {
+                "1": "Lupus ban đỏ hệ thống",
+                "2": "Thấp khớp cấp.",
+                "3": "Viêm khớp dạng thấp.",
+                "4": "Thoái hoá khớp",
+                "A": "C",
+                "Q": "Viêm 2 khớp cổ tay, khớp bàn ngón tay, khớp đốt gần. Có cứng khớp buổi sáng. Có teo cơ, biến dạng, dính khớp. Gồm các bệnh:"
+            },
+            "33": {
+                "1": "Lao khớp",
+                "2": "Gut mạn tính",
+                "3": "Thoái hoá khớp",
+                "4": "Viêm khớp dạng thấp.",
+                "A": "D",
+                "Q": "Hạt thấp dưới da gặp trong:"
+            },
+            "34": {
+                "1": "Viêm khớp dạng thấp.",
+                "2": "Thấp khớp cấp.",
+                "3": "Bệnh gut",
+                "4": "Viêm đa khớp mạn tính tuổi thiếu niên",
+                "A": "A",
+                "Q": "Viêm đa khớp chủ yếu là khớp nhỏ, có tính chất đối xứng. Gặp trong các bệnh:"
+            },
+            "35": {
+                "1": "Lợi tiểu.",
+                "2": "Chống viêm không corticoid",
+                "3": "Chloroquin (nivaquin)",
+                "4": "Corticoid",
+                "A": "A",
+                "Q": "Điều trị Viêm khớp dạng thấp không dung thuốc nào thuốc sau đây?"
+            },
+            "36": {
+                "1": "Corticoid kết hợp với thuốc bảo vệ dạ dày",
+                "2": "Methotrexat.",
+                "3": "Corticoid",
+                "4": "Thuốc chống viêm không Corticoid",
+                "A": "B",
+                "Q": "Thuốc nào điều trị Viêm khớp dạng thấp có tác dụng kéo dài : "
+            },
+            "37": {
+                "1": "Lupus ban đỏ hệ thống",
+                "2": "Bệnh gut",
+                "3": "Viêm khớp dạng thấp.",
+                "4": "Thoái hoá khớp",
+                "A": "C",
+                "Q": "Triệu chứng cứng khớp buổi sáng giúp chẩn đoán:"
+            },
+            "38": {
+                "1": "Hay gặp ở nam giới",
+                "2": "Có cầu xương ở cột sống",
+                "3": "Tổn thương chủ yếu ở các khớp ngoại vi.",
+                "4": "Sưng khớp lớn di chuyển nhanh",
+                "A": "C",
+                "Q": "Đặc điểm của viêm khớp do bệnh viêm khớp dạng thấp:"
+            },
+            "39": {
+                "1": "Nhịp tim nhanh",
+                "2": "Lách to.",
+                "3": "Tốc độ máu lắng tăng",
+                "4": "Sốt nhẹ",
+                "A": "A",
+                "Q": "Trong đợt cấp tính của viêm khớp dạng thấp, các triệu chứng sau đây có thể xuất hiện, loại trừ:"
+            },
+            "40": {
+                "1": "Ure",
+                "2": "ASLO",
+                "3": "Waaler-Rose.",
+                "4": "Cholesterol",
+                "A": "C",
+                "Q": "Trong bệnh viêm khớp dạng thấp xét nghiệm giúp chẩn đoán là:"
+            },
+            "41": {
+                "1": "Ibuprofen là dẫn xuất của axit propionic",
+                "2": "các thuốc chống sốt rét có tác dụng trung bình",
+                "3": "Corticoid được chỉ định khi các biện pháp điều trị khác tỏ ra ít hiệu quả",
+                "4": "Tất cả 3 loại trên.",
+                "A": "D",
+                "Q": "Điều trị viêm khớp dạng thấp có thể dùng:"
+            },
+            "42": {
+                "1": "Tìm yếu tố dạng thấp.",
+                "2": "Sinh thiết da",
+                "3": "Tìm tế bào LE",
+                "4": "Kháng thể kháng nhân và các thành phần của nhân",
+                "A": "A",
+                "Q": "Xét nghiệm không dùng  để chẩn đoán bệnh Luput là:"
+            },
+            "43": {
+                "1": "Thuốc ức chế miễn dịch.",
+                "2": "Thuốc chống sốt rét tổng hợp (Chloroquin)",
+                "3": "Thuốc lợi tiểu",
+                "4": "Corticoid",
+                "A": "C",
+                "Q": "Các thuốc điều trị luput ban đỏ trừ:"
+            },
+            "44": {
+                "1": "Viêm bàng quang",
+                "2": "Suy tuỷ",
+                "3": "Suy tim.",
+                "4": "Giảm bạch cầu",
+                "A": "C",
+                "Q": "Thuốc ức chế miễn dịch không có tác dụng phụ nào dưới đây:"
+            },
+            "45": {
+                "1": "Xét nghiệm tế bào Hargraves (+)",
+                "2": "Khoảng 90% khởi phát ở tuổi thiếu niên.",
+                "3": "có ban đỏ hình cánh bướm ở mặt",
+                "4": "Tổn thương nhiều cơ quan của cơ thể",
+                "A": "B",
+                "Q": "Phương án nào không phù hợp với Lupus ban đỏ hệ thống:"
+            },
+            "46": {
+                "1": "Procainamide",
+                "2": "Sulfonamide",
+                "3": "Penicilline.",
+                "4": "Izoniazit",
+                "A": "C",
+                "Q": "Các thuốc sau đây gây khởi phát đột ngột Lupus ban đỏ, trừ:"
+            },
+            "47": {
+                "1": "Cả 3 triệu chứng trên",
+                "2": "có ban đỏ hình cánh bướm",
+                "3": "Đau khớp",
+                "4": "Sốt",
+                "A": "A",
+                "Q": "Biểu hiện lâm sàng Lupus ban đỏ gồm các triệu chứng sau:"
+            },
+            "48": {
+                "1": "Gout.",
+                "2": "Xơ cứng bì",
+                "3": "Lupus ban đỏ hệ thống",
+                "4": "Viêm khớp dạng thấp",
+                "A": "A",
+                "Q": "Tế bào Hargraves có thể gặp trong các bệnh sau trừ:"
+            },
+            "49": {
+                "1": "Allopurinol",
+                "2": "colchicine",
+                "3": "Trong đợt cấp liều cao prednisolon.",
+                "4": "Penixillamin có kết quả điều trị tốt trong 50%",
+                "A": "C",
+                "Q": "Điều trị Lupus ban đỏ có thể dùng thuốc:"
+            },
+            "50": {
+                "1": "Máu",
+                "2": "Tim",
+                "3": "Nhiễm khuẩn.",
+                "4": "Thận",
+                "A": "C",
+                "Q": "Biến chứng của bệnh luput ban đỏ có thể là?"
+            },
+            "51": {
+                "1": "Sỏi thận",
+                "2": "Thận đa nang",
+                "3": "Tổn thương cầu thận.",
+                "4": "Viêm bể thận.",
+                "A": "C",
+                "Q": "Tổn thương thận của bệnh luput ban đỏ có thể là?"
+            },
+            "52": {
+                "1": "Cả 3 dạng trên.",
+                "2": "Loét niêm mạc miệng",
+                "3": "Xạm da do nắng",
+                "4": "Ban cánh bướm ở mặt",
+                "A": "A",
+                "Q": "Tổn thương da và niêm mạc của bệnh luput ban đỏ có thể là?"
+            },
+            "53": {
+                "1": "Tim",
+                "2": "Thận",
+                "3": "Phổi",
+                "4": "Gan",
+                "A": "B",
+                "Q": "Tổn thương nội tạng của bệnh luput ban đỏ hay gặp nhất ở"
+            },
+            "54": {
+                "1": "Giảm hồng cầu.",
+                "2": "Giảm tiểu cầu",
+                "3": "Giảm bạch cầu",
+                "4": "cả 3 dòng trên",
+                "A": "A",
+                "Q": "Thiếu máu trong bệnh luput ban đỏ có thể là?"
+            },
+            "55": {
+                "1": "Hồng cầu niệu",
+                "2": "Protein niệu.",
+                "3": "Bạch cầu niệu",
+                "4": "Tỷ trọng nước tiểu",
+                "A": "B",
+                "Q": "Chỉ số có ý nghĩa trong đánh giá tổn thương thận ở bệnh luput ban đỏ là?"
+            },
+            "56": {
+                "1": "Hẹp van 2 lá",
+                "2": "Viêm ngoài màng tim",
+                "3": "Thiếu máu cục bộ",
+                "4": "Dày vách liên chất",
+                "A": "B",
+                "Q": "Tổn thương tim mạch của bệnh luput ban đỏ có thể là?"
+            },
+            "57": {
+                "1": "Hở van động mạch chủ.",
+                "2": "Hẹp van 2 lá",
+                "3": "Thiếu máu cơ tim cục bộ",
+                "4": "Viêm cơ tim.",
+                "A": "D",
+                "Q": "Tổn thương tim mạch của bệnh luput ban đỏ có thể là?"
+            },
+            "58": {
+                "1": "Lao phổi",
+                "2": "Viêm phổi kẽ",
+                "3": "Khí phế thũng",
+                "4": "Áp xe phổi",
+                "A": "B",
+                "Q": "Tổn thương phổi của bệnh luput ban đỏ có thể là?"
+            },
+            "59": {
+                "1": "Tràn khí màng phổi",
+                "2": "Mủ màng phổi",
+                "3": "Tràn máu màng phổi",
+                "4": "Viêm màng phổi vô khuẩn",
+                "A": "D",
+                "Q": "Tổn thương màng phổi của bệnh luput ban đỏ có thể là?"
+            },
+            "60": {
+                "1": "Nhiễm virut",
+                "2": "Cả ba phương án trên",
+                "3": "Nhiễm khuẩn",
+                "4": "Nhiễm nấm",
+                "A": "B",
+                "Q": "Biến chứng của bệnh luput ban đỏ được điều trị ức chế miễn dịch kéo dài có thể là?"
+            },
+            "61": {
+                "1": "Ức chế men chuyển.",
+                "2": "Chẹn kênh Ca++",
+                "3": "Lợi tiểu",
+                "4": "Chẹn bê-ta giao cảm",
+                "A": "A",
+                "Q": "Đái tháo đường có biến chứng protein niệu nên chọn thuốc nào sau đây để điều trị?"
+            },
+            "62": {
+                "1": "Ức chế men chuyển.",
+                "2": "Ức chế thụ thể",
+                "3": "Lợi tiểu thải muối",
+                "4": "Chẹn Ca++",
+                "A": "A",
+                "Q": "Đái tháo đường có biến chứng tăng huyết áp nên chọn thuốc nào sau đây để điều trị là tốt nhất?"
+            },
+            "63": {
+                "1": "Hydralazin",
+                "2": "Propanolol",
+                "3": "Coversyl.",
+                "4": "Nifedipin",
+                "A": "C",
+                "Q": "Đái tháo đường có biến chứng suy tim nên chọn thuốc nào sau đây để điều trị?"
+            },
+            "64": {
+                "1": "Glucobay",
+                "2": "Diamicron.",
+                "3": "Glucophage",
+                "4": "Metformin",
+                "A": "B",
+                "Q": "Những thuốc nào sau đây thuộc nhóm sylfonylurea điều trị đái tháo đường?"
+            },
+            "65": {
+                "1": "Maninil",
+                "2": "Glucobay",
+                "3": "Mediator",
+                "4": "Glucophage.",
+                "A": "D",
+                "Q": "Những thuốc nào sau đây thuộc nhóm biguanid điều trị đái tháo đường?"
+            },
+            "66": {
+                "1": "Tolbutamid",
+                "2": "Glucophage",
+                "3": "Glucobay.",
+                "4": "Diamicron.",
+                "A": "C",
+                "Q": "Những thuốc nào sau đây thuộc nhóm Acarbose điều trị đái tháo đường?"
+            },
+            "67": {
+                "1": "Glucophage.",
+                "2": "Gluburid",
+                "3": "Diamicron.",
+                "4": "Insulin",
+                "A": "A",
+                "Q": "Đái tháo đường týp 2 có béo phì nên chọn thuốc nào để điều trị?"
+            },
+            "68": {
+                "1": "Metformin.",
+                "2": "Mediator",
+                "3": "Glycobay",
+                "4": "Maninil",
+                "A": "A",
+                "Q": "Những thuốc nào sau đây điều trị ĐTĐ có biến chứng tăng a.lactic máu:"
+            },
+            "69": {
+                "1": "Glucobay",
+                "2": "Diamicron.",
+                "3": "Insulin",
+                "4": "Meformin",
+                "A": "C",
+                "Q": "Những thuốc nào sau đây điều trị đái tháo đường hay có biến chứng hạ đường huyết?"
+            },
+            "70": {
+                "1": "Tăng NH3",
+                "2": "Tăng ure huyết",
+                "3": "Nhiễm kiềm chuyển hoá",
+                "4": "Tăng áp lực thẩm thấu.",
+                "A": "D",
+                "Q": "Đái tháo đường có biến chứng hôn mê do:"
+            },
+            "71": {
+                "1": "NH3 tăng",
+                "2": "Đường máu giảm",
+                "3": "Ceton máu tăng",
+                "4": "Na+ máu tăng",
+                "A": "D",
+                "Q": "Hôn mê do tăng áp lực thẩm thấu ở BN ĐTĐ các xét nghiệm:"
+            },
+            "72": {
+                "1": "Dự trữ kiềm giảm",
+                "2": "Đường máu tăng.",
+                "3": "ALTT máu bình thường",
+                "4": "pH máu giảm",
+                "A": "B",
+                "Q": "Hôn mê do tăng áp lực thẩm thấu ở BN ĐTĐ các xét  nghiệm cho thấy: "
+            },
+            "73": {
+                "1": "Da lạnh vã mồ hôi.",
+                "2": "Tức ngực",
+                "3": "Chuột rút",
+                "4": "Da khô",
+                "A": "A",
+                "Q": "Hạ glucose huyết có thể gặp:"
+            },
+            "74": {
+                "1": "Hở van 2 lá",
+                "2": "Nhồi máu cơ tim",
+                "3": "Bệnh cơ tim giãn",
+                "4": "Hẹp van 2 lá",
+                "A": "B",
+                "Q": "Đái tháo đường có biến chứng tim?"
+            },
+            "75": {
+                "1": "Lợi tiểu thải muối.",
+                "2": "Thuốc ức chế men chuyển",
+                "3": "Thuốc ức thụ thể AT1",
+                "4": "Ức chế canxi",
+                "A": "A",
+                "Q": "Những thuốc nào sau đây có thể gây tăng glucose huyết: "
+            },
+            "76": {
+                "1": "Ức chế bêta",
+                "2": "Chẹn Ca++",
+                "3": "Ức chế men chuyển",
+                "4": "Corticoid.",
+                "A": "D",
+                "Q": "Thuốc nào sau đây có thể gây tăng glucose huyết:"
+            },
+            "77": {
+                "1": "Đục thủy tinh thể",
+                "2": "Viêm võng mạc",
+                "3": "Xuất tiết võng mạc",
+                "4": "Cả 3 tổn thương trên",
+                "A": "D",
+                "Q": "Đái tháo đường có biến chứng mắt:"
+            },
+            "78": {
+                "1": "Sỏi thận.",
+                "2": "Hội chứng thận hư",
+                "3": "Suy thận",
+                "4": "Viêm thận- bể thận",
+                "A": "A",
+                "Q": "Tổn thương thận nào không phải do đái tháo đường: "
+            },
+            "79": {
+                "1": "Đái ra microalbumin.",
+                "2": "Sỏi thận",
+                "3": "Thận đa năng",
+                "4": "Viêm khe thận",
+                "A": "A",
+                "Q": "Đái tháo đường có biến chứng thận: "
+            },
+            "80": {
+                "1": "Suy thận.",
+                "2": "Viêm phế quảng mạt",
+                "3": "Viêm khớp dạng thấp",
+                "4": "Viêm gan mạn",
+                "A": "A",
+                "Q": "Những biến chứng mạn tính của đái tháo đường: "
+            },
+            "81": {
+                "1": "Đái tháo đường",
+                "2": "Basedow",
+                "3": "Rối loạn tâm thần",
+                "4": "Đái tháo nhạt",
+                "A": "D",
+                "Q": "Đái nhiều, tỷ trọng nước tiểu giảm có thể gặp trong những bệnh nào dưới đây?"
+            },
+            "82": {
+                "1": "Basedow.",
+                "2": "Đái tháo nhạt",
+                "3": "Hội chứng Conn",
+                "4": "Suy thận",
+                "A": "A",
+                "Q": "Ăn nhiều, uống nhiều, đái nhiều, gầy sút cân có thể gặp trong các bệnh sau:"
+            },
+            "83": {
+                "1": "Glucose máu lúc đói  > 7 mmol/l.",
+                "2": "Glucose máu lúc đói : 6,1- 6,9 mmol/l.",
+                "3": "Albumin niệu ( - )",
+                "4": "Glucose niệu ( + )",
+                "A": "A",
+                "Q": "Chẩn đoán đái tháo đường khi:"
+            },
+            "84": {
+                "1": "Béo phì",
+                "2": "Ở người trẻ < 30 tuổi.",
+                "3": "Ở trẻ em < 10 tuổi",
+                "4": "Ở người lớn tuổi > 40",
+                "A": "B",
+                "Q": "Đái tháo đường týp 1 thường gặp:"
+            },
+            "85": {
+                "1": " Trẻ em < 10 tuổi.",
+                "2": "Ở người trẻ tuổi < 40",
+                "3": "Béo",
+                "4": "Gầy",
+                "A": "C",
+                "Q": "Đái tháo đường týp 2 thường gặp:."
+            },
+            "86": {
+                "1": "Tức , khó thở",
+                "2": "Dị cảm: kiến bò, bỏng rát, tê bì, kim châm.",
+                "3": "Chuột rút",
+                "4": "Đau xương khớp",
+                "A": "B",
+                "Q": "Những triệu chứng nào sau đây có thể gặp trong viêm đa dây thần kinh trong bệnh ĐTĐ:"
+            },
+            "87": {
+                "1": "Corticold",
+                "2": "Cathecholamin",
+                "3": "Thuốc lợi tiểu kháng aldossterol.",
+                "4": "Thuốc tránh thai",
+                "A": "C",
+                "Q": "Thuốc nào không gây tăng glucose máu :"
+            },
+            "88": {
+                "1": "Basedow",
+                "2": "Hội chứng Cushing",
+                "3": "Pheocromocytoma.",
+                "4": "Hội chứng Conn",
+                "A": "C",
+                "Q": "Tăng huyết áp từng cơn, mạch nhanh, da lạnh, tái vã mồ hôi gặp một trong những nguyên nhân nào?"
+            },
+            "89": {
+                "1": "Basedow",
+                "2": "Hội chứng Cushing",
+                "3": "Hội chứng Pheocromocytoma.",
+                "4": "Bệnh to đầu chì",
+                "A": "B",
+                "Q": "Mặt tròn đỏ, béo không đồng đều, tăng huyết áp, tăng đường máu có thể gặp trong bệnh nào sau đây?"
+            },
+            "90": {
+                "1": "Béo phì đồng đều toàn thân",
+                "2": "Sốt",
+                "3": "Huyết áp tăng từng cơn",
+                "4": "Mặt tròn đỏ, béo bụng.",
+                "A": "D",
+                "Q": "Những triệu chứng nào sau đây giúp cho chẩn đoán hội chứng Cushing?"
+            },
+            "91": {
+                "1": "Kali máu tăng",
+                "2": "Nhược cơ",
+                "3": "Đường máu giảm",
+                "4": "Tăng huyết áp từng cơn.",
+                "A": "D",
+                "Q": "Những triệu chứng nào sau đây giúp cho chẩn đoán bệnh Pheocromocytoma?"
+            },
+            "92": {
+                "1": "Tăng huyết áp",
+                "2": "Glucose huyết tăng",
+                "3": "Gầy sút cân.",
+                "4": "Bơm mỡ sau gáy",
+                "A": "C",
+                "Q": "Những triệu chứng nào sau đây không phải của hội chứng Cushing?"
+            },
+            "93": {
+                "1": "Do u tuyến yên",
+                "2": "K dạ dày",
+                "3": "U thượng thận.",
+                "4": "Viêm não",
+                "A": "C",
+                "Q": "Những nguyên nhân dẫn đến hội chứng Cushing?"
+            },
+            "94": {
+                "1": "Do u tuyến yên",
+                "2": "K dạ dày",
+                "3": "U tuyến yên (thùy trước).",
+                "4": "Viêm màng não",
+                "A": "C",
+                "Q": "Những nguyên nhân dẫn đến bệnh Cushing?"
+            },
+            "95": {
+                "1": "U tủy thượng thận",
+                "2": "U tuyến yên ",
+                "3": "U não",
+                "4": "U vỏ thượng thận.",
+                "A": "D",
+                "Q": "Những nguyên nhân nào sau đây dẫn đến hội chứng Conn?"
+            },
+            "96": {
+                "1": "Cathecholamin máu tăng",
+                "2": "Siêu âm thượng thận thấy khối u.",
+                "3": "Cathecholamin máu giảm",
+                "4": "HC giảm, BC giảm",
+                "A": "B",
+                "Q": "Những xét nghiệm nào sau đây giúp cho chẩn đoán hội chứng Cushing?"
+            },
+            "97": {
+                "1": "Chụp bơm hơi sau phúc mạc.",
+                "2": "Chụp thận thường",
+                "3": "XQ sọ não (chụp hố yên)",
+                "4": "Testosterone máu",
+                "A": "A",
+                "Q": "Cần làm xét nghiệm gì để chẩn đoán hội chứng Cushing?"
+            },
+            "98": {
+                "1": "MRI tuyến thượng thận.",
+                "2": "Siêu âm tim",
+                "3": "CT-Scanner lồng ngực",
+                "4": "MRI tủy sống",
+                "A": "A",
+                "Q": "Cần làm xét nghiệm gì để chẩn đoán hội chứng Cushing?"
+            },
+            "99": {
+                "1": "Cathecolamin máu.",
+                "2": "SGOT, SGPT",
+                "3": "Lipid máu",
+                "4": "Protein niệu.",
+                "A": "A",
+                "Q": "Cần làm xét nghiệm gì để chẩn đoán hội chứng Pheocromocytoma?"
+            },
+            "100": {
+                "1": "Đái tháo nhạt.",
+                "2": "Đái tháo đường",
+                "3": "Suy giáp",
+                "4": "Basedow",
+                "A": "A",
+                "Q": "Áp lực thẩm thấu nước tiểu giảm gặp trong bệnh:"
+            },
+            "101": {
+                "1": "Tự miễn dịch",
+                "2": "Tăng nồng độ TSH",
+                "3": "Chấn thương tâm lý",
+                "4": "Dùng nhiều Iod",
+                "A": "A",
+                "Q": "Bệnh Basedow có cơ chế bệnh sinh:"
+            },
+            "102": {
+                "1": "Kháng thể kháng microsom",
+                "2": "Kháng thể kháng DNA",
+                "3": "Kháng thể kháng nhân",
+                "4": "Kháng thể kích thích tuyến giáp (TSI).",
+                "A": "D",
+                "Q": "Bệnh nhân Basedow có thể tìm được:"
+            },
+            "103": {
+                "1": "Không gặp ở nam giới",
+                "2": "Chủ yếu ở phụ nữ lứa tuổi 20-50.",
+                "3": "80% ở nam",
+                "4": "Ở nam và ở nữ tương đương nhau",
+                "A": "B",
+                "Q": "Bệnh Basedow gặp:"
+            },
+            "104": {
+                "1": "Nóng bức.",
+                "2": "Hạ nhiệt độ cơ thể",
+                "3": "Sốt 38°5 - 39°C",
+                "4": "Bàn tay khô lạnh",
+                "A": "A",
+                "Q": "Rối loạn điều hoà thân nhiệt ở bệnh nhân Basedow biểu hiện là:"
+            },
+            "105": {
+                "1": "Ăn nhiều",
+                "2": "Uống nhiều",
+                "3": "Sút cân",
+                "4": "Ăn ít, tăng cân.",
+                "A": "D",
+                "Q": "Rối loạn chuyển hoá ở bệnh nhân Basedow không được biểu hiện bằng:"
+            },
+            "106": {
+                "1": "Táo bón thường xuyên",
+                "2": "Chướng bụng",
+                "3": "Ỉa lỏng mà không đau quặn.",
+                "4": "Tiêu chảy kèm đau quặn, mót dặn",
+                "A": "C",
+                "Q": "Biểu hiện rối loạn tiêu hoá ở bệnh nhân Basedow:"
+            },
+            "107": {
+                "1": "Tăng nhạy cảm của catecholamin",
+                "2": "Tác động trực tiếp tế bào cơ tim",
+                "3": "Thay đổi tuần hoàn ngoại vi",
+                "4": "Tác động lên trung khu điều hoà hệ tim mạch.",
+                "A": "D",
+                "Q": "Cơ chế tác động của hormon tuyến giáp lên hệ tim mạch không phải là:"
+            },
+            "108": {
+                "1": "Hồi hộp đánh trống ngực",
+                "2": "Mạch ngoại vi nảy mạnh và căng",
+                "3": "Chỉ có nhịp tim nhanh khi gắng sức.",
+                "4": "Nhịp tim nhanh thường xuyên",
+                "A": "C",
+                "Q": "Biểu hiện nào không phải là tim tăng động ở bệnh nhân Basedow:"
+            },
+            "109": {
+                "1": "T1 đanh ở mỏm tim.",
+                "2": "T2 đanh, tách đôi ở nền tim",
+                "3": "Tiếng cọ màng tim",
+                "4": "Tiếng tim mờ",
+                "A": "A",
+                "Q": "Nghe tim bệnh nhân Basedow có thể thấy:"
+            },
+            "110": {
+                "1": "Block nhĩ-thất",
+                "2": "Nhịp nhanh thất.",
+                "3": "Ngoại tâm thu nhĩ",
+                "4": "Rung nhĩ.",
+                "A": "D",
+                "Q": "Các biểu hiện rối loạn  nhịp ở bệnh nhân Basedow hay gặp là:"
+            },
+            "111": {
+                "1": "Rối loạn giấc ngủ",
+                "2": "Cả 3 biểu hiện trên.",
+                "3": "Tăng phản xạ gân xương",
+                "4": "Tính tình thay đổi",
+                "A": "B",
+                "Q": "Tổn thương thần kinh-tinh thần ở bệnh nhân Basedow có thể là:"
+            },
+            "112": {
+                "1": "To khổng lồ",
+                "2": "Bướu nhân",
+                "3": "Sưng, nóng, đỏ, đau",
+                "4": "Độ II-III, lan toả.",
+                "A": "D",
+                "Q": "Đặc điểm tuyến giáp ở bệnh nhân Basedow là:"
+            },
+            "113": {
+                "1": "Nồng độ hormon tuyến giáp (T3, T4, FT3, FT4) bình thường",
+                "2": "Giảm nồng độ TSH, tăng T3 và T4",
+                "3": "Chỉ thay đổi nồng độ TSH",
+                "4": "Tăng đồng thời T3, T4, TSH",
+                "A": "B",
+                "Q": "Xét nghiệm hormon ở bệnh nhân Basedow đặc trưng bởi tình trạng:"
+            },
+            "114": {
+                "1": "Bướu tuyến giáp lan toả",
+                "2": "Tăng nồng độ T3, T4, giảm TSH",
+                "3": "Nhịp tim nhanh thường xuyên",
+                "4": "Cả 3 tình huống trên",
+                "A": "D",
+                "Q": "Chẩn đoán bệnh Basedow dựa vào các biểu hiện chính:"
+            },
+            "115": {
+                "1": "Tuyến giáp to độ 2",
+                "2": "Chuyển hoá cơ sở + 75%",
+                "3": "Nhịp tim 110ck/phút.",
+                "4": "Nồng độ hormon tuyến giáp (T3, T4) bình thường",
+                "A": "C",
+                "Q": "Bệnh nhân Basedow nhiễm độc hormon tuyến giáp mức độ trung bình có thể:"
+            },
+            "116": {
+                "1": "Suy gan",
+                "2": "Suy giáp",
+                "3": "Suy tim.",
+                "4": "Suy thận",
+                "A": "C",
+                "Q": "Biến chứng của Basedow là:"
+            },
+            "117": {
+                "1": "Suy tim tăng cung lượng.",
+                "2": "Suy tim trái",
+                "3": "Suy chức năng tâm trương",
+                "4": "Suy tim phải",
+                "A": "A",
+                "Q": "Suy tim trong bệnh Basedow có đặc điểm là:"
+            },
+            "118": {
+                "1": "Tuổi về giới",
+                "2": "Độ to của tuyến giáp",
+                "3": "Thời gian bị bệnh",
+                "4": "Mức độ nhiễm độc hormon tuyến giáp.",
+                "A": "D",
+                "Q": "Liều lượng thuốc kháng giáp tổng hợp dựa vào:"
+            },
+            "119": {
+                "1": "Suy giáp",
+                "2": "Dị ứng",
+                "3": "Giảm bạch cầu",
+                "4": "Suy thận.",
+                "A": "D",
+                "Q": "Tác dụng phụ của thuốc kháng giáp tổng hợp không gây ra:"
+            },
+            "120": {
+                "1": "Khi TSH về bình thường",
+                "2": "2 năm.",
+                "3": "Suốt đời",
+                "4": "Ngừng thuốc ngay sau khi bình giáp",
+                "A": "B",
+                "Q": "Thời gian điều trị bệnh nội khoa Basedow là:"
+            },
+            "121": {
+                "1": "Khớp  cùng chậu",
+                "2": "Khớp  liên đốt ngón tay gần bàn tay",
+                "3": "Khớp  liên đốt ngón tay xa bàn tay",
+                "4": "Cột sống thắt lưng",
+                "A": "B",
+                "Q": "Bệnh viêm khớp dạng thấp thường tổn thương ở:"
+            },
+            "122": {
+                "1": "Khớp háng",
+                "2": "CS cổ",
+                "3": "Khớp gối",
+                "4": "Khớp cổ tay",
+                "A": "D",
+                "Q": "Tổn thương khớp sớm nhất trong bệnh viêm khớp dạng thấp thường ở"
+            },
+            "123": {
+                "1": "Viêm nhiều khớp nhỏ đối xứng ( trong đó có khớp cổ tay, bàn ngón, liên đốt ngón gần)",
+                "2": "Viêm nhiều khớp nhỏ không đối xứng",
+                "3": "Viêm nhiều khớp lớn đối xứng ( háng, gối, cổ chân)",
+                "4": "Viêm vài khớp chi dưới không đối xưng",
+                "A": "A",
+                "Q": "đặc điểm viêm khớp trong bệnh viêm khớp dạng thấp là"
+            },
+            "124": {
+                "1": "Tăng tốc độ lắng hồng cầu ",
+                "2": "tăng nồng độ RF huyết thanh",
+                "3": "Tăng thể tích hồng cầu",
+                "4": "Tăng nồng độ acid uric huyết thanh",
+                "A": "A",
+                "Q": "Đặc điểm xét nghiệm thường gặp trong đợt hoạt động cua bệnh viêm khớp dạng thấp "
+            },
+            "125": {
+                "1": "Viêm CS dính khớp",
+                "2": "Gút mạn tính",
+                "3": "Viêm khớp dạng thấp",
+                "4": "Thấp khớp cấp",
+                "A": "C",
+                "Q": "Một Bn nam 45 tuổi, viêm khớp cổ tay, khủy, vai 2 bên từ 8 tuần nay, cứng khớp buổi sáng 70 phút, chẩn đoán phù hợp nhất là"
+            },
+            "126": {
+                "1": "BN cao tuổi",
+                "2": "BN có đường huyết sau ăn tăng quá mức",
+                "3": "BN hay bị hạ đường huyết",
+                "4": "BN có đường huyết tăng cao trước và sau ăn",
+                "A": "D",
+                "Q": "Thuốc điều trị đái tháo đường nhóm ức chế DPP4 phù hợp nhất cho BN nào"
+            },
+            "127": {
+                "1": "kích thích tiết insulin",
+                "2": "Tăng độ nhạy Insuliin",
+                "3": "Ức chế tái hấp thu Glucose ở ống thận",
+                "4": "Tăng sử dụng Glucose ở mô cơ",
+                "A": "C",
+                "Q": "Thuốc điều trị đái tháo đường nhóm ức chế SGLT 2 tác dụng theo cơ chế nào"
+            },
+            "128": {
+                "1": "Viêm đường tiết niệu",
+                "2": "Viêm tụy",
+                "3": "Tăn cân",
+                "4": "Đi lỏng",
+                "A": "A",
+                "Q": "Thuốc điều trị đái tháo đường nhóm ức chế SGLT 2 có thể gây tác dụng phụ nào"
+            },
+            "129": {
+                "1": "Basedow",
+                "2": "U tuyến yên",
+                "3": "Viêm tuyến giáp",
+                "4": "Ung thư tuyến giáp",
+                "A": "B",
+                "Q": "Một BN có giảm đồng thời TSH, T3, T4 gợi ý bệnh gì"
+            },
+            "130": {
+                "1": "Viêm tuyến giáp",
+                "2": "U độc tuyến giáp đa nhân",
+                "3": "U độc tuyến giáp đơn nhân",
+                "4": "basedow",
+                "A": "D",
+                "Q": "Lồi mắt gặp trong bệnh lí tuyến giáp nào sau đây"
+            },
+            "131": {
+                "1": "Khớp cùng chậu",
+                "2": "Khớp liên đốt ngón tay gần bàn tay",
+                "3": "Khớp liên đốt ngón xa bàn tay",
+                "4": "Cột sống thắt lưng",
+                "A": "B",
+                "Q": "Bệnh viêm khớp dạng thấp thường tổn thương ở"
+            },
+            "132": {
+                "1": "Khớp háng",
+                "2": "Cột sống cổ",
+                "3": "Khớp gối",
+                "4": "Khớp cổ tay",
+                "A": "D",
+                "Q": "Tổn thương khớp sớm nhất trong bệnh viêm khớp dạng thấp thường ở"
+            },
+            "133": {
+                "1": "Tăng tốc độ lắng hồng cầu",
+                "2": "Tăng nồng độ RF huyết thanh",
+                "3": "Tăng thể tích hồng cầu",
+                "4": "Tăng nồng độ acid uric huyết thanh",
+                "A": "A",
+                "Q": "Đặc điểm xét nghiệm máu thường gặp trong đợt hoạt động của bệnh viêm khớp dạng thấp là?"
+            },
+            "134": {
+                "1": "Nồng độ anti-CCP huyết thanh",
+                "2": "Nồng độ anti-CCP dịch khớp",
+                "3": "Nồng độ ANA huyết thanh",
+                "4": "Nồng độ RF dịch khớp",
+                "A": "A",
+                "Q": "Xét nghiệm sử dụng chẩn đoán bệnh viêm khớp dạng thấp là"
+            },
+            "135": {
+                "1": "Loãng xương",
+                "2": "Lao khớp",
+                "3": "Viêm khớp dạng thấp",
+                "4": "Thoái hoá khớp",
+                "A": "C",
+                "Q": "Một bệnh nhân nữ, 50 tuổi, sưng, đau các khớp cổ tay, bàn ngón tay, liên đốt ngón gần bàn tay 2 bên từ 1 năm nay, không có hạt tophi, chẩn đoán phù hợp nhất là:"
+            },
+            "136": {
+                "1": "Đái tháo đường",
+                "2": "Đái tháo nhạt",
+                "3": "Basedow",
+                "4": "Hội chứng Conn",
+                "A": "C",
+                "Q": "Nhóm triệu chứng ăn nhiều, uống nhiều, đái nhiều, ra mồ hôi nhiều phù hợp nhất trong bệnh nào sau đây:"
+            },
+            "137": {
+                "1": "Cường chứng năng tuyến giáp",
+                "2": "Suy chức năng tuyến giáp",
+                "3": "Sau gắng sức",
+                "4": "Xúc động",
+                "A": "A",
+                "Q": "Triệu chứng mạn nhanh thường xuyên gặp trong nguyên nhân nào sau đây:"
+            },
+            "138": {
+                "1": "6-8 tuần",
+                "2": "6-8 tháng",
+                "3": "8-12 tháng",
+                "4": "18-24 tháng",
+                "A": "A",
+                "Q": "Thời gian điều trị giai đoạn tấn công của bệnh Basedow kéo dài"
+            },
+            "139": {
+                "1": "Sulfunylurea",
+                "2": "Thiazolidinedione",
+                "3": "Ức chế Alpha-glucosidase",
+                "4": "Metformin",
+                "A": "D",
+                "Q": "Theo khuyến cáo của hiệp hội đái thoá đường Hoa Kỳ (ADA 2014) thuốc nào được lựa chọn đầu tiên khi bắt đầu dùng thuốc cho bệnh nhân ĐTĐ typ 2?"
+            },
+            "140": {
+                "1": "Metformin",
+                "2": "Sulfunylurea",
+                "3": "Ức chế DPP-4",
+                "4": "Insulin",
+                "A": "D",
+                "Q": "Bệnh nhân ĐTĐ typ 2 đang có áp xe phổi, chỉ định thuốc hạ đường huyết nào?"
+            },
+            "name": "KHỚP - NỘI TIẾT - A11"
+        }
+    }
+}

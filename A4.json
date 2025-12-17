@@ -1,0 +1,1207 @@
+{
+    "BENH_HOC_NOI_KHOA_2018": {
+        "AM4": {
+            "1": {
+                "1": "Tổn thương thần kinh khu trú",
+                "2": "Rối loạn chức năng thần kinh trung ương theo từng cơn",
+                "3": "Cơn mất ý thức",
+                "4": "Cơn co cứng co giật",
+                "A": "B",
+                "Q": "Động kinh là gì?"
+            },
+            "2": {
+                "1": "Từ 0,5% đến 1% dân số",
+                "2": "Từ 0,7% đến 1,5% dân số",
+                "3": "Từ 0,3% đến 0,5% dân số",
+                "4": "Từ 1% đến 3% dân số",
+                "A": "A",
+                "Q": "Tỉ lệ động kinh chung trên thế giới"
+            },
+            "3": {
+                "1": "Động kinh thứ phát",
+                "2": "Động kinh nguyên phát",
+                "3": "Cả ba nhóm nguyên nhân nói trên",
+                "4": "Động kinh căn nguyên ẩn",
+                "A": "C",
+                "Q": "Nhóm nguyên nhân nào sau đây gây động kinh?"
+            },
+            "4": {
+                "1": "Không co giật + rối loạn ý thức",
+                "2": "Co giật + không rối loạn ý thức",
+                "3": "Co giật + rối loạn ý thức",
+                "4": "Không co giật + không rối loạn ý thức",
+                "A": "C",
+                "Q": "Nhóm triệu chứng nào dưới đây có thể gặp trong cơn động kinh co cứng co giật"
+            },
+            "5": {
+                "1": "Không biết",
+                "2": "Từ 5-10 phút",
+                "3": "> 10 phút",
+                "4": "< 5 phút",
+                "A": "D",
+                "Q": "Thời gian của một cơn ĐK thường kéo dài bao lâu?"
+            },
+            "6": {
+                "1": "Tuổi dậy thì",
+                "2": "Lứa tuổi nhi đồng",
+                "3": "Người trưởng thành",
+                "4": "Không biết",
+                "A": "B",
+                "Q": "Cơn vắng ý thức có thể gặp ở:"
+            },
+            "7": {
+                "1": "Cả hai",
+                "2": "Người lớn",
+                "3": "Trẻ nhỏ",
+                "4": "Không biết",
+                "A": "A",
+                "Q": "Cơn co cứng co giật có thể gặp ở:"
+            },
+            "8": {
+                "1": "Có từ 2 cơn ĐK trở lên, cách nhau dưới 24 giờ không liên quan đến bệnh lý cấp tính hoặc chuyển hóa",
+                "2": "Có từ 2 cơn ĐK trở lên, cách nhau dưới 24 giờ liên quan đến bệnh lý cấp tính hoặc chuyển hóa",
+                "3": "Có từ 2 cơn ĐK trở lên, cách nhau dưới 24 giờ liên quan đến bệnh lý cấp tính như đột quỵ, áp xe não",
+                "4": "Có từ 2 cơn ĐK trở lên, cách nhau dưới 24 giờ không liên quan đến 2 nhóm bệnh lý trên",
+                "A": "D",
+                "Q": "Khi nào BN được coi là mắc ĐK"
+            },
+            "9": {
+                "1": "Chẩn đoán loại trừ động kinh",
+                "2": "Hỗ trợ trong chẩn đoán và theo dõi điều trị động kinh",
+                "3": "Chẩn đoán xác định động kinh",
+                "4": "Chẩn đoán nguyên nhân động kinh",
+                "A": "B",
+                "Q": "Vai trò của điện não đồ thường qui trong chẩn đoán động kinh?"
+            },
+            "10": {
+                "1": "Cả ba nguyên nhân trên",
+                "2": "Do chấn thương sọ não",
+                "3": "Do mạch máu não",
+                "4": "Do u não",
+                "A": "A",
+                "Q": "Nguyên nhân nào sau đây gây động kinh?"
+            },
+            "11": {
+                "1": "Không co giật + rối loạn ý thức",
+                "2": "Co giật + không rối loạn ý thức",
+                "3": "Co giật + rối loạn ý thức",
+                "4": "Không co giật + không rối loạn ý thức",
+                "A": "A",
+                "Q": "Nhóm triệu chứng nào dưới đây có thể gặp trong cơn động kinh vắng ý thức?"
+            },
+            "12": {
+                "1": "Không co giật + không rối loạn ý thức",
+                "2": "Co giật + rối loạn ý thức",
+                "3": "Co giật + không rối loạn ý thức",
+                "4": "Không co giật + rối loạn ý thức",
+                "A": "C",
+                "Q": "Nhóm triệu chứng nào dưới đây có thể gặp trong cơn động kinh cục bộ vận động?"
+            },
+            "13": {
+                "1": "Thiếu vitamin B1, đái tháo đường, nhiễm khuẩn thần kinh",
+                "2": "Thiếu vitamin B1, đái tháo đường, suy thận",
+                "3": "Đái tháo đường, nhiễm thuốc trừ sâu, tắc mạch lớn",
+                "4": "Đái tháo đường, nhiễm thuốc trừ sâu, chấn thương",
+                "A": "B",
+                "Q": "Những nguyên nhân nào có thể gây bệnh đa dây thần kinh?"
+            },
+            "14": {
+                "1": "Thiếu máu, ngộ độc rượu, nhiễm Asen",
+                "2": "Ngộ độc các loại dược phẩm",
+                "3": "Viêm nút quanh động mạch, sốt phát ban",
+                "4": "Cả B,C,D",
+                "A": "D",
+                "Q": "Những nguyên nhân gây bênh đa dây thần kinh?"
+            },
+            "15": {
+                "1": "Tổn thương tủy trên phình thắt lưng",
+                "2": "Viêm đa rễ - dây thần kinh",
+                "3": "Tổn thương sừng trước tủy sống",
+                "4": "Tổn thương dây thần kinh giữa",
+                "A": "A",
+                "Q": "Bệnh không thuộc tổn thương thần kinh ngoại vi"
+            },
+            "16": {
+                "1": "Ít khi tổn thương thần kinh sọ não, hiếm khi rối loạn cơ vòng",
+                "2": "Tổn thương mang tính chất đối xứng",
+                "3": "Cả A, B, C",
+                "4": "Rối loạn cảm giác ngọn chi kiểu bít tất",
+                "A": "C",
+                "Q": "Đặc điểm tổn thương thần kinh của bệnh đa dây thần kinh"
+            },
+            "17": {
+                "1": "Giảm hoặc mất phản xạ gân gót xuất hiện sớm nhất",
+                "2": "Cả A, B, C",
+                "3": "Liệt hai chi dưới hoặc tứ chi, ngọn chi nặng hơn gốc chi",
+                "4": "Rối loạn cảm giác ở ngọn chi",
+                "A": "B",
+                "Q": "Đặc điểm lâm sàng của bệnh đa dây thần kinh?"
+            },
+            "18": {
+                "1": "Liệt hai chi dưới hoặc tứ chi, ngọn chi nặng hơn gốc chi",
+                "2": "Rối loạn cảm giác ở ngọn chi kiểu tê bì",
+                "3": "Giảm hoặc mất phản xạ gân gót xuất hiện sớm nhất",
+                "4": "Rối loạn cơ vòng, teo cơ sớm",
+                "A": "D",
+                "Q": "Triệu chứng nào sau đây không gặp ở bệnh đa dây thần kinh do thiếu vitamin B1"
+            },
+            "19": {
+                "1": "Giảm hoặc mất phản xạ gân gót xuất hiện sớm nhất",
+                "2": "Rối loạn cảm giác ở ngọn chi, đau cháy, bỏng buốt",
+                "3": "Thường có tổn thương kết hợp dây thần kinh sọ não",
+                "4": "Giảm hoặc mất cảm giác ở bản chân, có thể loét bàn chân",
+                "A": "C",
+                "Q": "Triệu chứng nào sau đây không gặp ở bệnh đa dây thần kinh do đái tháo đường?"
+            },
+            "20": {
+                "1": "Cả ba phương án",
+                "2": "Nhịp tim mạnh",
+                "3": "Khó thở, suy tim",
+                "4": "Xquang có bóng tim to",
+                "A": "A",
+                "Q": "Triệu  chứng tim mạch có thể gặp trong Beri-Beri?"
+            },
+            "21": {
+                "1": "Rối loạn hấp thu ở ruột",
+                "2": "Nhu cầu cơ thể tăng cao (mang thai, lao động cường độ cao)",
+                "3": "Gạo bị ẩm mốc hoặc sát quá kỹ",
+                "4": "Cả ba phương án",
+                "A": "D",
+                "Q": "Những nguyên nhân gây thiếu vitamin B1"
+            },
+            "22": {
+                "1": "Bệnh dây thần kinh cảm giác - vận động, liệt dây thần kinh sọ não do đái tháo đường, viêm một dây thần kinh",
+                "2": "Rối loạn thần kinh thực vật",
+                "3": "Bệnh thần kinh gốc chi không đối xứng",
+                "4": "Cả ba phương án",
+                "A": "D",
+                "Q": "Các thể lâm sàng nào có thể gặp ở bệnh đa dây thần kinh do đái tháo đường?"
+            },
+            "23": {
+                "1": "Ăn nhiều glucid (cơm)",
+                "2": "Thuốc dãn mạch, phục hồi chức năng",
+                "3": "Nghỉ ngơi tuyệt đói",
+                "4": "Dùng vitamin B1 liều cao: vitamin B1 25mg, 4-12 ống/ ngày",
+                "A": "A",
+                "Q": "Điều trị bệnh đa dây thần kinh do thiếu vitamin B1 (Beri-Beri) cần phải tránh điều gì?"
+            },
+            "24": {
+                "1": "Giảm nồng độ vitamin B1 máu và nước tiểu",
+                "2": "Siêu âm tim có thể dãn cơ tim, nhịp tim nhanh",
+                "3": "Nồng độ axit lactic máu tăng",
+                "4": "Nồng độ axit piruvic máu tăng",
+                "A": "C",
+                "Q": "Xét nghiệm nào không có giá trị chẩn đoán trong bệnh đau dây thần kinh do thiếu vitamin B1 (Beri-Beri)?"
+            },
+            "25": {
+                "1": "Thuốc kháng ĐK",
+                "2": "Phẫu thuật",
+                "3": "Y học cổ truyền",
+                "4": "A và B",
+                "A": "D",
+                "Q": "Theo BS điều trị Đk có thể bằng"
+            },
+            "26": {
+                "1": "Phối hợp hai thuốc",
+                "2": "Phối hợp ba thuốc",
+                "3": "Đơn trị liệu",
+                "4": "A và B",
+                "A": "C",
+                "Q": "Khi bắt đầu điều trị ĐK bằng thuốc, BS thường theo phác đồ?"
+            },
+            "27": {
+                "1": "Tuổi",
+                "2": "Thể ĐK",
+                "3": "Cả ba",
+                "4": "Kinh tế của BN",
+                "A": "C",
+                "Q": "Khi chọn thuốc kháng ĐK, BS thường dựa vào"
+            },
+            "28": {
+                "1": "Dùng cả thuốc cũ và mới với liều thấp trong một thời gian rồi bỏ thuốc cũ",
+                "2": "Thuốc cũ uống buổi sáng, thuốc mới uống buổi chiều",
+                "3": "Giảm dần liều cũ và tăng dần liều thuốc mới",
+                "4": " Cắt thuốc cũ và thay thế thuốc mới luôn",
+                "A": "C",
+                "Q": "Khi phải thay đổi thuốc kháng ĐK, BS làm như thế nào"
+            },
+            "29": {
+                "1": "Phẫu thuật động kinh",
+                "2": "Châm cứu",
+                "3": "Chế độ ăn tạo céton",
+                "4": "Điều trị bằng các loại cây",
+                "A": "C",
+                "Q": "Trong số các phương pháp  điều trị không dùng thuốc, biện pháp nào đã được chứng minh có hiệu quả chống động kinh?"
+            },
+            "30": {
+                "1": "Phenytoin",
+                "2": "Valproate",
+                "3": "Carbamazepin",
+                "4": "Phenobarbital",
+                "A": "B",
+                "Q": "Thuốc nào sau đây có tác dụng đối với mọi dạng cơn động kinh?"
+            },
+            "31": {
+                "1": "Phenytoin",
+                "2": "Ethosucimid",
+                "3": "Valproate",
+                "4": "Carbamazepin",
+                "A": "B",
+                "Q": "Thuốc nào sau đây có tác dụng đối với cơn động kinh vắng ý thức?"
+            },
+            "32": {
+                "1": "Sau 1 năm không có cơn trên LS + ĐNĐ bình thường",
+                "2": "Sau 2 năm không có cơn trên LS + ĐNĐ bình thường",
+                "3": "Sau 1 tháng không có cơn trên LS + ĐNĐ bình thường",
+                "4": "Sau 6 tháng không có cơn trên LS + ĐNĐ bình thường",
+                "A": "B",
+                "Q": "Có thể ngừng thuốc khi:"
+            },
+            "33": {
+                "1": "Tất cả các thuốc kháng động kinh",
+                "2": "Nhất là trong trường hợp đa trị liệu",
+                "3": "Nhất là với benzodiazépines",
+                "4": "Nhất là với Valproate sodium",
+                "A": "D",
+                "Q": "Nguy cơ dị tật ống thần kinh ở một phụ nữ có thai và điều trị động kinh bị tăng lên với:"
+            },
+            "34": {
+                "1": "Giữ chặt chân tay bệnh nhân",
+                "2": "Dùng thuốc cắt cơn động kinh",
+                "3": "Cho vật cứng vào giữa hai hàm răng",
+                "4": "Đảm bảo lưu thông đường thở",
+                "A": "D",
+                "Q": "Xử trí khi bệnh nhân bị lên cơn động kinh co cứng co giật:"
+            },
+            "35": {
+                "1": "Valproate",
+                "2": "Cả ba phương án",
+                "3": "Phenytoin",
+                "4": "Carbamazepin",
+                "A": "B",
+                "Q": "Thuốc nào sau đây có tác dụng đối với cơn động kinh co cứng co giật"
+            },
+            "36": {
+                "1": "Thuốc được dùng ngay sau khi có cơn động kinh, đúng đủ liều qui định",
+                "2": "Thuốc được dùng khi bệnh nhân sắp lên cơn động kinh, đúng đủ liều qui định",
+                "3": "Thuốc được dùng hàng ngày, đúng đủ liều qui định",
+                "4": "Thuốc được dùng khi bệnh nhân có cơn động kinh, đúng đủ liều qui định",
+                "A": "C",
+                "Q": "Nguyên tắc sử dụng thuốc chống động kinh là"
+            },
+            "37": {
+                "1": "Vừa xử trí cấp vừa vận chuyển bệnh nhân lên tuyến trên",
+                "2": "Vận chuyển bệnh nhân lên tuyến trên để cấp cứu",
+                "3": "Giữ nguyên điều trị tại chỗ",
+                "4": "Xử trí cấp cứu ổn định, chuyển tuyến trên điều trị tiếp",
+                "A": "D",
+                "Q": "Bệnh nhân đột quỵ giai đoạn cấp có rối loạn chức năng sống như tim mạch hoặc hô hấp BS cần làm gì, chọn phương án \"đúng\"?"
+            },
+            "38": {
+                "1": "Tiến hành đặt nội khí quản ngay",
+                "2": "Đặt nội khí quản sau đó hút đờm qua nội khí quản",
+                "3": "Hút sạch đờm dãi, lưu thông đường thở sau đó đặt nội khí quản, hút đờm qua nội khí quản",
+                "4": "Hút sạch đờm dãi",
+                "A": "C",
+                "Q": "Trong đột quỵ bệnh nhân có biểu hiện ùn tắc đờm dãi và suy hô hấp có chỉ định đặt ống nội khí quản, BS sẽ làm gì, chọn phương án \"đúng\""
+            },
+            "39": {
+                "1": "Cả ba phương án",
+                "2": "Dùng thuốc vận mạch nâng huyết áp",
+                "3": "Bù dịch theo áp lực tĩnh mạch trung ương",
+                "4": "Kiểm tra tim mạch",
+                "A": "A",
+                "Q": "Bệnh nhân đột quỵ có huyết áp tụt ( huyết áp tâm thu  ≤ 70mmHg)"
+            },
+            "40": {
+                "1": "Cả ba phương án",
+                "2": "Chỉ số huyết áp, điện tim",
+                "3": "Triệu chứng da khô",
+                "4": "Kết quả điện giải đồ",
+                "A": "D",
+                "Q": "Các căn cứ nào sau đây nhằm đánh giá rối loạn điện giải trên bệnh nhân đột quỵ, chọn phương án \"đúng\""
+            },
+            "41": {
+                "1": "Cả ba phương án",
+                "2": "Chỉ dùng thuốc chống phù não",
+                "3": "Đảm bảo tốt hô hấp, tuần hoàn",
+                "4": "An thần tốt",
+                "A": "A",
+                "Q": "Trong nguyên tắc chống phù não sử dụng các biện pháp nào sau đây chọn phương án \"đúng\""
+            },
+            "42": {
+                "1": "Glycerol",
+                "2": "Glucose 30%",
+                "3": "Thuốc lợi tiểu",
+                "4": "Manitol",
+                "A": "B",
+                "Q": "Trong các thuốc chống phù não, các thuốc nào sau đây được sử dụng, chọn phương án \"sai\""
+            },
+            "43": {
+                "1": "Cho tất cả các bệnh nhân đột quỵ",
+                "2": "Cho bệnh nhân đột quỵ có bằng chứng lâm sàng hoặc hình ảnh của phù não",
+                "3": "Cho bệnh nhân nhồi máu não",
+                "4": "Cho bệnh nhân chảy máu não",
+                "A": "B",
+                "Q": "Chống phù não được dùng trong các trường hợp nào sau đây, chọn phương án \"đúng\""
+            },
+            "44": {
+                "1": "Suy mòn, Suy kiệt",
+                "2": "Viêm đường hô hấp, Viêm đường tiết niệu",
+                "3": "Teo cơ, cứng khớp",
+                "4": "Rối loạn trầm cảm",
+                "A": "B",
+                "Q": "Các biến chứng nào thường gặp trên bệnh nhân đột quỵ giai đoạn cấp, chọn phương án \"đúng\""
+            },
+            "45": {
+                "1": "6 giờ",
+                "2": "Trên 6 giờ",
+                "3": "4 giờ 30 phút",
+                "4": "3 giờ",
+                "A": "D",
+                "Q": "Trong đột quỵ nhồi máu não, cửa sổ điều trị \" thời gian từ lúc bị bệnh đến khi bệnh nhân được tiêm thuốc\" bằng phương pháp tiêu huyết khối được xác định hiện nay, chọn phương án \"đúng\"?"
+            },
+            "46": {
+                "1": "Nuôi dưỡng qua sonde hoặc đường tĩnh mạch",
+                "2": "cho ăn, uống ở tư thế nằm đầu cao",
+                "3": "Cho ăn cháo hoặc súp",
+                "4": "Cho ăn, uống ở tư thế ngồi",
+                "A": "A",
+                "Q": "Trong đột quỵ, bệnh nhân có rối loạn nuốt, cần nuôi dưỡng bằng các biện pháp nào sau đây, chọn phương án \"đúng\""
+            },
+            "47": {
+                "1": "Thay sonde niệu đạo theo định kỳ",
+                "2": "Dùng kháng sinh mạnh",
+                "3": "Nuôi dưỡng tích cực",
+                "4": "Tập vận động sớm kết hợp vỗ rung",
+                "A": "D",
+                "Q": "Phương pháp nào sau đây nhằm giảm thiểu biến chứng và di chứng trong đột quỵ cấp tính, chọn phương án \"đúng\""
+            },
+            "48": {
+                "1": "Khuyên bệnh nhân tập thể dục thường xuyên, kiểm soát cân nặng theo BMI",
+                "2": "Kiểm soát tốt các yếu tố nguy cơ gây đột quỵ, kết hợp thuốc ngăn ngưng kết tiểu cầu hoặc thuốc chống đông theo chỉ định",
+                "3": "Cả ba phương án",
+                "4": "Khuyên bệnh nhân từ bỏ các thói quen xấu: rượu bia, hút thuốc, sử dụng ma túy",
+                "A": "C",
+                "Q": "Để nhằm mục đính dự phòng đột quỵ tái phát, các biện pháp nào sau được sử dụng, chọn phương án \"đúng\""
+            },
+            "49": {
+                "1": "Chủ yếu áp dụng phương pháp điều trị bảo tồn (khoảng 90-95%)",
+                "2": "Các biện pháp y học cổ truyền không có tác dụng điều trị",
+                "3": "Các biện pháp vật lý trị liệu không được áp dụng trong giai đoạn cấp tính của bệnh",
+                "4": "Chủ yếu áp dụng phương pháp phẩu thuật đĩa đệm cột sống thắt lưng (khoảng 90-95%)",
+                "A": "A",
+                "Q": "Điều trị thoát vị đĩa đệm cột sống thắt lưng có nhiều phương pháp khác nhau. Điều nào sau đây là đúng?"
+            },
+            "50": {
+                "1": "Từ giai đoạn 3a theo phân loại của Arseni K 1973",
+                "2": "Thoát vị đĩa đệm từ giai đoạn 3b theo phân loại của Arseni K 1973",
+                "3": "Từ giai đoạn 2 theo phân loại của Arseni K 1973",
+                "4": "Thoát vị đĩa đệm thể giả u, gây hội chứng đuôi ngựa hoặc hội chứng chèn ép tủy",
+                "A": "D",
+                "Q": "Phẩu thuật là một phương pháp điều trị thoát vị đĩa đệm cột sống thắt lưng, được chỉ định tuyệt đối trong trường hợp nào sau đây?"
+            },
+            "51": {
+                "1": "Đưa thuốc chống viêm giảm đau Steriod cùng thuốc gây tê vào khoang ngoài màng cứng. Trung bình cách 3-4 ngày thực hiện 1 lần thủ thuật và 1 liệu trình khoảng 4-5 lần thủ thuật",
+                "2": "Đưa thuốc chống viêm giảm đau Non-Steriod cùng thuốc gây tê vào khoang ngoài màng cứng. Trung bình cách 3-4 ngày thực hiện 1 lần thủ thuật và 1 liệu trình khoảng 4-5 lần thủ thuật",
+                "3": "Đưa thuốc chống viêm giảm đau Steriod cùng thuốc gây tê vào khoang dưới nhện. Trung bình cách 3-4 ngày thực hiện 1 lần thủ thuật và 1 liệu trình khoảng 4-5 lần thủ thuật",
+                "4": "Đưa thuốc chống viêm giảm đau Steriod cùng thuốc gây tê vào khoang ngoài màng cứng. Trung bình 1 ngày thực hiện 1 lần thủ thuật và 1 liệu trình khoảng 4-5 lần thủ thuật",
+                "A": "A",
+                "Q": "Tiêm ngoài màng cứng là một thủ thuật điều trị thoát vị đĩa đệm cột sống thắt lưng. Điều nào dưới đây là đúng về thủ thuật này"
+            },
+            "52": {
+                "1": "Thoát vị đĩa đệm cột sống thắt lưng giai đoạn 2, 3a, 3b, và 4 điều trị bảo tồn không hiệu quả",
+                "2": "Thoát vị đĩa đệm cột sống thắt lưng giai đoạn 2, 3a điều trị bảo tồn không hiệu quả",
+                "3": "Thoát vị đĩa đệm cột sống thắt lưng giai đoạn 2, 3a điều trị bảo tồn không hiệu quả hoặc giai đoạn 3b",
+                "4": "Thoát vị đĩa đệm cột sống thắt lưng giai đoạn 2 điều trị bảo tồn không hiệu quả",
+                "A": "C",
+                "Q": "Chỉ định phẩu thuật tương đối thoát vị đĩa đệm cột sống thắt lưng trong trường hợp nào?"
+            },
+            "53": {
+                "1": "Chống viêm giảm đau Steriod, Non-Steriod, giãn cơ vân, kháng cholinesterase, tái tạo bao Myelin, hỗ trợ tuần hoàn, chống gốc tự do.",
+                "2": "Chống viêm giảm đau Steriod, Non-Steriod, giãn cơ trơn, kháng cholinesterase, tái tạo bao Myelin, hỗ trợ tuần hoàn, chống gốc tự do.",
+                "3": "Cả ba phương án",
+                "4": "Chống viêm giảm đau Steriod, Non-Steriod, giãn cơ vân, kháng hệ cholinergic , tái tạo bao Myelin, hỗ trợ tuần hoàn, chống gốc tự do.",
+                "A": "A",
+                "Q": "Thuốc là một phần trong điều trị thoát vị đĩa đệm cột sống thắt lưng. Các nhóm thuốc nào dưới đây được áp dụng?"
+            },
+            "54": {
+                "1": "Nhân nhày địa đệm thoát khỏi vị trí sinh lý và chèn ép vào các rễ thần kinh tủy sống kế cận và gây nên hội chứng thắt lưng hông",
+                "2": "Vòng sợi đĩa đệm thoát khỏi vị trí sinh lý và chèn ép vào các rễ thần kinh tủy sống kế cận và gây nên hội chứng thắt lưng hông",
+                "3": " Nhân nhày, vòng sợi đĩa đệm và dây chằng dọc sau thoát khỏi vị trí sinh lý và chèn ép vào ống sống",
+                "4": "Cả ba phương án",
+                "A": "A",
+                "Q": "Thoát vị đĩa đệm cột sông thắt lưng được hiểu là?"
+            },
+            "55": {
+                "1": "Cả ba phương án",
+                "2": "Hen phế quản",
+                "3": "Loét dạ dày tá tràng",
+                "4": "Nhịp tim chậm, Block dẫn truyền nhĩ thất",
+                "A": "A",
+                "Q": "Nhóm thuốc kháng men Cholinesterase được chỉ định điều trị bệnh thoát vị đĩa đệm cột sống thắt lưng. Thuốc có những chống chỉ định nào?"
+            },
+            "56": {
+                "1": "Cả ba phương án",
+                "2": "Paracetamol và dẫn chất",
+                "3": "Chống động kinh, chống trầm cảm",
+                "4": "Chống viêm giảm đau Steroid và Non-Steriod",
+                "A": "A",
+                "Q": "Điều trị đau trong bệnh lý thoát vị đĩa đệm cột sống thắt lưng có thể bao gồm nhóm thuốc nào dưới đây?"
+            },
+            "57": {
+                "1": "Loét dạ dày tá tràng đang hoạt động",
+                "2": "Tăng huyết áp khó kiếm soát",
+                "3": "Có kèm trượt hoặc lệch vẹo cột sống thắt lưng",
+                "4": "Tại vị trí tiêm có biểu hiện nhiễm trùng",
+                "A": "C",
+                "Q": "Tiêm ngoài màng cứng là một phương pháp điều trị bệnh thoát vị đĩa đệm cột sống thắt lưng. Thuốc có những chống chỉ định nào? (chọn phương án sai)"
+            },
+            "58": {
+                "1": "Thoát vị đĩa đệm cột sông thắt lưng từ giai đoạn 2 trở xuống điều trị bảo tồn không có kết quả",
+                "2": "Thoát vị đĩa đệm cột sông thắt lưng giai đoạn 3b hoặc giai đoạn 2 điều trị bảo tồn không có kết quả",
+                "3": "Thoát vị đĩa đệm cột sông thắt lưng gây hội chứng đuôi ngựa",
+                "4": "Thoát vị đĩa đệm cột sông thắt lưng từ giai đoạn 3a trở xuống điều trị bảo tồn không có kết quả",
+                "A": "B",
+                "Q": "Phẫu thuật là phương pháp điều trị bệnh thoát vị đĩa đệm cột sống thắt lưng. Chỉ định tương đối của phương pháp này là:"
+            },
+            "59": {
+                "1": "Gây tổn thương tủy sống",
+                "2": "Nhiễm khuẩn",
+                "3": "Vào khoang dưới nhện",
+                "4": "Chảy máu",
+                "A": "A",
+                "Q": "Tiêm ngoài màng cứng là phương pháp điều trị bệnh thoát vị đĩa đệm cột sống thắt lưng. Khi tiêm tại vị trí khoang gian đốt sống  L4-L5, những tai biến biến chứng nào có thể gặp? (chọn câu trả lời sai)"
+            },
+            "60": {
+                "1": "Thuốc chống viêm giảm đau Non-Steroid kết hợp với thuốc gây tê tại chỗ",
+                "2": "Thuốc chống viêm giảm đau Steroid dạng không tan trong nước kết hợp với thuốc gây tê tại chỗ",
+                "3": "Thuốc chống viêm giảm đau Steroid kết hợp với thuốc gây tê",
+                "4": "Thuốc chống viêm giảm đau Steroid dạng không tan trong nước kết hợp với thuốc gây tê tĩnh mạch",
+                "A": "B",
+                "Q": "Tiêm ngoài màng cứng là một phương pháp điều trị bệnh thoát vị đĩa đệm cột sống thắt lưng. Thuốc được dùng là?"
+            },
+            "61": {
+                "1": "Khởi phát đột ngột cấp tính",
+                "2": "Có triệu chứng thần kinh khu trú tồn tại < 24h",
+                "3": "Khỏi phát từ từ",
+                "4": "Có chấn thương sọ não",
+                "A": "A",
+                "Q": "Theo định nghĩa của tổ chức y tế thế giới, đột quỵ não có đặc điểm lâm sàng là:"
+            },
+            "62": {
+                "1": "Chảy máu não",
+                "2": "Huyết khối động mạch não",
+                "3": "Hội chứng lỗ khuyết",
+                "4": "Tắc mạch",
+                "A": "B",
+                "Q": "Thể đột quỵ có tỷ lệ cao nhất là:"
+            },
+            "63": {
+                "1": "Rối loạn cơ vòng, teo cơ sớm",
+                "2": "Co giật",
+                "3": "Rối loạn cảm giác đơn thuần của một nửa người",
+                "4": "Rối loạn ý thức",
+                "A": "C",
+                "Q": "Đặc điểm lâm sàng của hội chứng lỗ khuyết là:"
+            },
+            "64": {
+                "1": "20-30ml/100g não/phút",
+                "2": "10-20ml/100g não/phút",
+                "3": "30-50ml/100g não/phút",
+                "4": "< 100ml/100g não/phút",
+                "A": "A",
+                "Q": "Lưu lượng tuần hoàn não vùng bán ảnh (hay vùng tranh tối tranh sáng)"
+            },
+            "65": {
+                "1": "Chảy máu não thất",
+                "2": "Chảy máu màng ngoài cứng",
+                "3": "Chảy máu trong nhu mô não",
+                "4": "Chảy máu dưới màng nhện",
+                "A": "B",
+                "Q": "Các thể lâm sàng của đột quỵ chảy máu não (chọn 1 phương án sai)"
+            },
+            "66": {
+                "1": "Nhồi máu ổ khuyết",
+                "2": "Huyết khối động mạch não",
+                "3": "Chảy máu, nhồi máu",
+                "4": "Tắc mạch do cục tắc từ tim",
+                "A": "C",
+                "Q": "Các thể lâm sàng của đột quỵ nhồi máu não (chọn 1 phương án sai)"
+            },
+            "67": {
+                "1": "Khởi phát đột ngột",
+                "2": "Khởi phát từ từ",
+                "3": "Hay rối loạn ý thức",
+                "4": "Đau đầu",
+                "A": "B",
+                "Q": "Lâm sàng chảy máu não (chọn 1 phương án sai)"
+            },
+            "68": {
+                "1": "Đau đầu",
+                "2": "Khởi phát từ từ",
+                "3": "Tiến triển nặng dần từng nấc",
+                "4": "Khởi phát đột ngột",
+                "A": "D",
+                "Q": "Lâm sàng huyết khối động mạch não (Chọn 1 phương án sai)"
+            },
+            "69": {
+                "1": "Tổn thương ở cuống não/ liệt dây III ngoại vi bên tổn thương/ Liệt nửa người trung ương bên đối diện",
+                "2": "Tổn thương ở bán cầu/ Liệt dây III ngoại vi bên tổn thương/ Liệt nửa người trung ương bên đối diện",
+                "3": "Tổn thương ở cuống não/ liệt dây VII ngoại vi bên tổn thương/ Liệt nửa người trung ương bên đối diện",
+                "4": "Tổn thương ở bán cầu/ Liệt dây VII ngoại vi bên tổn thương/ Liệt nửa người trung ương bên đối diện",
+                "A": "A",
+                "Q": "Đặc điểm lõm sàng của hội chứng Weber"
+            },
+            "70": {
+                "1": "Tổn thương ở cầu não/ liệt dây VII ngoại vi bên tổn thương/ Liệt nửa người trung ương bên đối diện",
+                "2": "Tổn thương ở bỏn cầu/ liệt dây III ngoại vi bên tổn thương/ Liệt nửa người trung ương bên đối diện",
+                "3": "Tổn thương ở cầu não/ liệt dây III ngoại vi bên tổn thương/ Liệt nửa người trung ương bên đối diện",
+                "4": "Tổn thương ở bán cầu/ liệt dây VII ngoại vi bên tổn thương/ Liệt nửa người trung ương bên đối diện",
+                "A": "A",
+                "Q": "Đặc điểm lâm sàng của hội chứng Millard-Gubler"
+            },
+            "71": {
+                "1": "Liệt nửa người không đồng đều",
+                "2": "Mất cảm giác nửa người bên liêt",
+                "3": "Liệt mặt trung ương cùng bên liệt nửa người",
+                "4": "Liệt nửa người đồng đều",
+                "A": "A",
+                "Q": "Đặc điểm lõm sàng tổn thương bao trong ( chọn 1 phương án sai)"
+            },
+            "72": {
+                "1": "CT sọ chụp có giá trị chẩn đoán",
+                "2": "Dịch não tủy bình thường",
+                "3": "Dịch não tủy đỏ hồng và nhạt dần",
+                "4": "Dịch não tủy đỏ đều, không đông, cả ba ống nghiệm",
+                "A": "D",
+                "Q": "Cận lâm sàng chảy máu dưới nhện"
+            },
+            "73": {
+                "1": "Khi có ít nhất 4 trong 6 triệu chứng của tiêu chuẩn",
+                "2": "Phải có đủ 6 triệu chứng của tiêu chuẩn",
+                "3": "Khi có ít nhất 3 trong 6 triệu chứng của tiêu chuẩn",
+                "4": "Khi có ít nhất 5 trong 6 triệu chứng của tiêu chuẩn",
+                "A": "A",
+                "Q": "Để chẩn đoán thoát vị đĩa đệm cột sống thắt lưng trên lâm sàng căn cứ vào tiêu chuẩn chẩn đoán của Saporta cải tiến. Theo tiêu chuẩn đó, điều nào sau đây đúng?"
+            },
+            "74": {
+                "1": "Đau cột sống thắt lưng lan dọc theo dây thần kinh hông to, đau có tính chất cơ học, liên quan yếu tố chấn thương, lệch vẹo cột sống thắt lưng, hệ thống các điểm Valleix ấn đau, nghiệm pháp Lasèque (+)",
+                "2": "Đau cột sống thắt lưng lan dọc theo dây thần kinh hông to, đau có tính chất cơ học, liên quan yếu tố chấn thương, lệch vẹo cột sống thắt lưng, dấu hiệu chuông bấm (+), chỉ số Schober (+)",
+                "3": "Đau cột sống thắt lưng lan dọc theo dây thần kinh hông to, đau có tính chất cơ học, liên quan yếu tố chấn thương, lệch vẹo cột sống thắt lưng, dấu hiệu chuông bấm (+), nghiệm pháp Lasèque (+)",
+                "4": "Đau cột sống thắt lưng lan dọc theo dây thần kinh hông to, đau có tính chất cơ học, liên quan yếu tố chấn thương, có các điểm đau cột sống, dấu hiệu chuông bấm (+), nghiệm pháp Lasèque (+)",
+                "A": "C",
+                "Q": "Để chẩn đoán thoát vị đĩa đệm cột sống thắt lưng trên lâm sàng căn cứ vào tiêu chuẩn chẩn đoán của Saporta cải tiến. Theo tiêu chuẩn đó, điều nào sau đây đúng?"
+            },
+            "75": {
+                "1": "Giảm chiều cao khoang gian đốt sống tương ứng, lệch vẹo cột sống thắt lưng ở phim thẳng, giảm ưỡn cột sống thắt lưng ở phim nghiêng.",
+                "2": " Giảm chiều cao thân đốt sống tương ứng, lệch vẹo cột sống thắt lưng ở phim thẳng, giảm ưỡn cột sống thắt lưng ở phim nghiêng",
+                "3": "Giảm chiều cao khoang gian đốt sống tương ứng, lệch vẹo cột sống thắt lung ở phim thẳng, trượt cột sống thắt lưng ở phim nghiêng",
+                "4": "Dính các thân đốt sống tương ứng, lệch vẹo cột sống thắt lưng ở phim thẳng, giảm ưỡn cột sống thắt lưng ở phim nghiêng",
+                "A": "A",
+                "Q": "Để chẩn đoán thoát vị đĩa đệm cột sống thắt lưng, X-quang cột sống thắt lưng cần có tam chứng Barr. Điều này sau đây đúng về tam chứng Barr?"
+            },
+            "76": {
+                "1": "Giai đoạn thoát vị đĩa đệm cột sống thắt lưng là 1, 2, 3, 4 và 5",
+                "2": "Giai đoạn thoát vị đĩa đệm cột sống thắt lưng là 1, 2, 3, 4a và 4b",
+                "3": "Giai đoạn thoát vị đĩa đệm cột sống thắt lưng là 1, 2, 3a ,3b và 4",
+                "4": "Giai đoạn thoát vị đĩa đệm cột sống thắt lưng là 1, 2a, 2b, 3 và 4",
+                "A": "C",
+                "Q": "Để chẩn đoán giai đoạn thoát vị đĩa đệm cột sống thắt lưng căn cứ vào phân loại của Arseni K 1973. Điều nào sau đây đúng về phân loại của Arseni K 1973"
+            },
+            "77": {
+                "1": "Chụp cộng hưởng từ CSTL, chụp PET-CT, chụp bao rễ thần kinh, chụp X-quang CSTL, chụp hệ tĩnh mạch gai sống, chụp đĩa đệm, chụp khoang ngoài màng cứng phía trước.",
+                "2": "Chụp cộng hưởng từ CSTL, chụp cắt lớp vi tính CSTL, xạ hình xương, chụp X-quang CSTL, chụp hệ tĩnh mạch gai sống, chụp đĩa đệm, chụp khoang ngoài màng cứng phía trước",
+                "3": "Chụp cộng hưởng từ CSTL, chụp cắt lớp vi tính CSTL, chụp bao rễ thần kinh, chụp X-quang CSTL, chụp hệ tĩnh mạch gai sống, chụp đĩa đệm, chụp khoang ngoài màng cứng phía trước",
+                "4": "Chụp cộng hưởng từ CSTL, chụp cắt lớp vi tính CSTL, chụp bao rễ thần kinh, chụp X-quang CSTL, chụp hệ động mạch gai sống, chụp đĩa đệm, chụp khoang ngoài màng cứng phía trước",
+                "A": "C",
+                "Q": "Để chẩn đoán thoát vị đĩa đệm cột sống thắt lung (CSTL), có nhiều phương pháp cận lâm sàng đã và đang được áp dụng. Điều nào sau đây đúng?"
+            },
+            "78": {
+                "1": "Hội chứng đuôi ngựa là biểu hiện tổn thương từ phình thắt lưng trở xuống",
+                "2": "Hội chứng đuôi ngựa luôn gây rối loạn vận động 2 chi dưới, gây rối loạn cảm giác vùng tầng sinh môn và rối loạn cơ tròn kiểu ngoại vi",
+                "3": "Hội chứng đuôi ngựa có thể không gây rối loạn vận động 2 chi dưới, nhưng gây rối loạn cảm giác vùng tầng sinh môn và rối loạn cơ tròn kiểu trung ương.",
+                "4": "Hội chứng đuôi ngựa có thể không gây rối loạn vận động 2 chi dưới, luôn gây rối loạn cảm giác vùng tầng sinh môn và rối loạn cơ tròn kiểu ngoại vi.",
+                "A": "D",
+                "Q": "Thoát vị đĩa đệm cột sống thắt lưng có thể gây hội chứng đuôi ngựa trên lâm sàng. Điều nào sau đây là đúng về hội chứng đuôi ngựa?"
+            },
+            "79": {
+                "1": "Tổn thương dây thần kinh mác",
+                "2": "Thoát vị đĩa đệm do chèn ép rễ L5",
+                "3": "Thoát vị đĩa đệm do chèn ép rễ S1",
+                "4": "Tổn thương dây thần kinh chày",
+                "A": "B",
+                "Q": "Bệnh nhân nam 27 tuổi, sau lao động nặng, xuất hiện đau cột sống thắt lưng lan xuống mặt sau đùi, cẳng chân và mu chân, khám có dấu hiệu căng rễ và phản xạ gót hai bên đều. Chẩn đoán có thể tổn thương rễ, dây thần kinh sau:"
+            },
+            "80": {
+                "1": "Thoát vị đĩa đệm do chèn ép rễ S1",
+                "2": "Tổn thương dây thần kinh chày",
+                "3": "Thoát vị đĩa đệm do chèn ép rễ L5",
+                "4": "Tổn thương dây thần kinh mác",
+                "A": "A",
+                "Q": "Bệnh nhân nam 27 tuổi, sau lao động nặng, xuất hiện đau cột sống thắt lưng lan xuống mặt sau đùi, cẳng chân và mu chân, khám có dấu hiệu căng rễ và phản xạ gót bên P giảm. Chẩn đoán có thể tổn thương rễ, dây thần kinh sau:"
+            },
+            "81": {
+                "1": "Cả ba phương án",
+                "2": "Điểm đau cạnh sống",
+                "3": "Triệu chứng tổn thương rễ",
+                "4": "Điểm đau cột sống",
+                "A": "C",
+                "Q": "Để chẩn đoán định khu thoát vị đĩa đệm, căn cứ chủ yếu vào triệu chứng nào sau đây:"
+            },
+            "82": {
+                "1": "Từ 4-5cm",
+                "2": "Lớn hơn 5cm",
+                "3": "Từ 0-5cm",
+                "4": "Dưới 4cm",
+                "A": "A",
+                "Q": "Độ giãn nở đoạn cột sống thắt lưng ở người khỏe mạnh thường là:"
+            },
+            "83": {
+                "1": "Chụp Xquang cột sống thắt lưng",
+                "2": "Chụp cộng hưởng từ cột sống thắt lưng",
+                "3": "Chụp xạ hình xương",
+                "4": "Chụp cắt lớp vi tính cột sống thắt lưng",
+                "A": "B",
+                "Q": "Các phương pháp chẩn đoán nào sau cho hình ảnh trực tiếp của đĩa đệm cột sống thắt lưng?"
+            },
+            "84": {
+                "1": "Thoát vị đĩa đệm cột sống thắt lưng",
+                "2": "Thoái hóa cột sống thắt lưng",
+                "3": "Lao cột sống vùng thắt lưng",
+                "4": "Cả ba phương án",
+                "A": "D",
+                "Q": "Các nguyên nhân nào sau đây gây ra hội chứng thắt lưng hông"
+            },
+            "85": {
+                "1": "Liệt đồng đều 1/2 mặt bên đối diện tổn thương",
+                "2": "Liệt đồng đều 1/2 mặt cùng bên tổn thương",
+                "3": "Liệt ưu thế 1/4 dưới mặt bên đối diện tổn thương",
+                "4": "Liệt ưu thế 1/4 dưới mặt cùng bên tổn thương",
+                "A": "B",
+                "Q": "Liệt dây VII ngoại vi có đặc điểm:"
+            },
+            "86": {
+                "1": "Miệng méo, mắt nhắm không kín, mất cảm giác nửa mặt",
+                "2": "Miệng méo, răng cắn không chặt, mắt nhắm không kín, mất nếp nhăn trán",
+                "3": "Miệng lệch, mắt nhắm không kín, mất nếp nhăn trán",
+                "4": "Nhân trung lệch, miệng méo, nếp nhăn trán còn, mắt nhắm kín",
+                "A": "C",
+                "Q": "Biểu hiện lâm sàng điển hình liệt dây VII ngoại vi, chọn câu đúng:"
+            },
+            "87": {
+                "1": "Hội chứng Weber",
+                "2": "Hội chứng Millard-Gubler",
+                "3": "Hội chứng Wallenberg",
+                "4": "Hội chứng Jackson",
+                "A": "B",
+                "Q": "Liệt dây VII ngoại vi do tổn thương cầu não nằm trong bệnh cảnh:"
+            },
+            "88": {
+                "1": "Liệt 1/2 mặt có kèm rối loạn vị giác",
+                "2": "Liệt 1/2 mặt có kèm ù tai",
+                "3": "Liệt 1/2 mặt có kèm theo rối loạn tiết nước mắt, nước bọt",
+                "4": "Liệt 1/2 mặt kết hợp liệt 1/2 người trung ương bên đối diện",
+                "A": "D",
+                "Q": "Tổn thương nhân dây VII ở cầu não có triệu chứng:"
+            },
+            "89": {
+                "1": "Liệt đồng đều 1/2 mặt bên đối diện tổn thương",
+                "2": "Liệt ưu thế 1/4 dưới mặt bên đối diện tổn thương",
+                "3": "Liệt đồng đều 1/2 mặt cùng bên tổn thương",
+                "4": "Liệt ưu thế 1/4 dưới mặt cùng bên tổn thương",
+                "A": "B",
+                "Q": "Liệt dây VII trung ương có đặc điểm:"
+            },
+            "90": {
+                "1": "Do u não",
+                "2": "Chấn thương sọ não",
+                "3": "Tất cả nguyên nhân trên",
+                "4": "Do lạnh",
+                "A": "C",
+                "Q": "Nguyên nhân liệt dây VII ngoại vi là:"
+            },
+            "91": {
+                "1": "Liệt 1/2 mặt không kèm ù tai",
+                "2": "Liệt 1/2 mặt không kèm rối loạn vị giác",
+                "3": "Liệt 1/2 mặt không kèm theo rối loạn tiết nước mắt, nước bọt",
+                "4": "Liệt 1/2 mặt kèm theo mụn nước ở vành tai, ống tai",
+                "A": "D",
+                "Q": "Tổn thương dây VII ở hạch gối có triệu chứng:"
+            },
+            "92": {
+                "1": "Liệt mặt kết hợp có nhiều nốt phỏng dạng zona",
+                "2": "Liệt 1/2 mặt không kèm theo khô miệng",
+                "3": "Liệt 1/2 mặt  kèm theo khô mắt",
+                "4": "Liệt 1/2 mặt không kèm rối loạn vị giác",
+                "A": "C",
+                "Q": "Tổn thương dây VII ở trước nhánh đá nông lớn có triệu chứng:"
+            },
+            "93": {
+                "1": "Liệt 1/2 mặt không kèm theo khô miệng",
+                "2": "Liệt mặt kèm theo khô mắt",
+                "3": "Liệt 1/2 mặt không kèm rối loạn vị giác",
+                "4": "Liệt 1/2 mặt kèm theo nghe vang đau",
+                "A": "D",
+                "Q": "Tổn thương dây VII ở trước nhánh cơ bàn đạp có triệu chứng:"
+            },
+            "94": {
+                "1": "Liệt 1/2 mặt không kèm theo tê bì vành tai",
+                "2": "Cả A, B và C",
+                "3": "Liệt 1/2 mặt có kèm rối loạn vị giác",
+                "4": "Liệt 1/2 mặt có kèm theo khô miệng",
+                "A": "C",
+                "Q": "Tổn thương dây VII ở trước nhánh thừng nhĩ có triệu chứng:"
+            },
+            "95": {
+                "1": "Liệt mặt kết hợp có chảy nhiều nước mắt",
+                "2": "Liệt 1/2 mặt có kèm rối loạn vị giác, khô miệng",
+                "3": "Liệt 1/2 mặt có kèm ù tai",
+                "4": "Liệt 1/2 mặt đơn thuần",
+                "A": "D",
+                "Q": "Tổn thương hoàn toàn dây VII ở đoạn ngoài sọ có triệu chứng:"
+            },
+            "96": {
+                "1": "Thường liệt đồng đều 1/2 mặt",
+                "2": "Dấu hiệu Charler - bell dương tính",
+                "3": "Tất cả đều đúng",
+                "4": "Có thể có rối loạn thực vật, cảm giác đi kèm",
+                "A": "C",
+                "Q": "Liệt dây VII ngoại vi khác liệt dây VII trung ương ở các điểm sau:"
+            },
+            "97": {
+                "1": "Suy giảm chức năng hệ dopaminergic và tăng chức năng cholinergic",
+                "2": "Suy giảm chức năng hệ dopaminergic và cholinergic",
+                "3": "Tăng chức năng hệ dopaminergic và cholinergic",
+                "4": "Tăng chức năng hệ dopaminergic và giảm chức năng cholinergic",
+                "A": "A",
+                "Q": "Cơ chế bệnh sinh chính của bệnh Parkinson"
+            },
+            "98": {
+                "1": "Do chấn thương sọ",
+                "2": "Chưa rõ nguyên nhân",
+                "3": "Do mạch máu não",
+                "4": "Do thuốc",
+                "A": "B",
+                "Q": "Nguyên nhân của bệnh Parkinson"
+            },
+            "99": {
+                "1": "Run khi chạm đích",
+                "2": "Run khi vận động",
+                "3": "Run khi nghỉ, tạm hết khi vận động",
+                "4": "Run liên tục",
+                "A": "C",
+                "Q": "Đặc điểm run trong bệnh Parkinson"
+            },
+            "100": {
+                "1": "Giảm trương lực cơ",
+                "2": "Tăng trương lực cơ",
+                "3": "Tăng động, tăng trương lực",
+                "4": "Giảm trương lực, tăng động",
+                "A": "B",
+                "Q": "Các triệu chứng trong bệnh Parkinson"
+            },
+            "101": {
+                "1": "Dấu hiệu gấp dao díp",
+                "2": "Tăng phản xạ gân xương",
+                "3": "Dấu hiệu bánh xe răng cưa",
+                "4": "Giảm phản xạ gân xương",
+                "A": "C",
+                "Q": "Các triệu chứng trong bệnh Parkinson"
+            },
+            "102": {
+                "1": "Phản xạ nắm",
+                "2": "Phản xạ tự động tủy",
+                "3": "Phản xạ bệnh lý bó tháp",
+                "4": "Phản xạ da gan tay cằm",
+                "A": "D",
+                "Q": "Các triệu chứng trong bệnh Parkinson có thể có"
+            },
+            "103": {
+                "1": "Giảm trương lực cơ kết hợp với liệt",
+                "2": "Giảm trương lực cơ không kết hợp với liệt",
+                "3": "Tăng trương lực cơ không kết hợp với liệt",
+                "4": "Tăng trương lực cơ kết hợp với liệt",
+                "A": "C",
+                "Q": "Các triệu chứng trong bệnh Parkinson"
+            },
+            "104": {
+                "1": "Khởi phát từ một bên cơ thể",
+                "2": "Khởi phát toàn thân",
+                "3": "Tiến triển từng đợt",
+                "4": "Khởi phát cấp tính",
+                "A": "A",
+                "Q": "Bệnh Parkinson thường"
+            },
+            "105": {
+                "1": "Đáp ứng tốt với L Dopa",
+                "2": "Cả ba tiêu chuẩn trên",
+                "3": "Có run khi nghỉ, giảm động, tăng trương lực cơ",
+                "4": "Loại trừ các nguyên nhân khác",
+                "A": "B",
+                "Q": "Chẩn đoán bệnh Parkinson khi"
+            },
+            "106": {
+                "1": "Ức chế cholinergic",
+                "2": "Hưng phấn thụ thể dopamin",
+                "3": "Tất cả các nhóm trên",
+                "4": "Ức chế hủy dopamine, bổ xung dopamin",
+                "A": "C",
+                "Q": "Các nhóm thuốc điều trị Parkinson gồm"
+            },
+            "107": {
+                "1": "Hưng phấn thụ thể dopamin",
+                "2": "Ức chế men hủy dopamin",
+                "3": "Bổ xung Dopamin",
+                "4": "Cả ba phương án",
+                "A": "D",
+                "Q": "Để hưng phấn hệ dopaminergic trong bệnh Parkinson, ta cần"
+            },
+            "108": {
+                "1": "Ức chế chọn lọc thụ thể acetylcholin",
+                "2": "Hủy acetylcholin",
+                "3": "Cả ba phương án",
+                "4": "Hưng phấn men  phân hủy acetylcholin",
+                "A": "C",
+                "Q": "Để ức chế hệ cholinergic trong bệnh Parkinson, ta cần"
+            },
+            "109": {
+                "1": "Khởi đầu liều thấp, tăng dần tới liều tác dụng",
+                "2": "Khởi đầu với đa trị liệu",
+                "3": "Dùng từng đợt",
+                "4": "Dùng liều cao ngay từ đầu",
+                "A": "A",
+                "Q": "Nguyên tắc sử dụng thuốc trong điều trị Parkinson là:"
+            },
+            "110": {
+                "1": "Tổn thuong hệ tháp",
+                "2": "Tổn thuong hệ tháp + ngoại tháp",
+                "3": "Tổn thương hệ ngoại tháp",
+                "4": "Tổn thương tiểu não",
+                "A": "C",
+                "Q": "Tổn thương giải phẫu bệnh trong bệnh Parkinson là"
+            },
+            "111": {
+                "1": "Chẩn đoán phân biệt nguyên nhân gây bệnh",
+                "2": "Chẩn đoán giai đoạn bệnh",
+                "3": "Chẩn đoán mức độ bệnh",
+                "4": "Chẩn đoán xác định bệnh",
+                "A": "A",
+                "Q": "Chụp CT và MRI sọ não cho bệnh nhân Parkinson để"
+            },
+            "112": {
+                "1": "U tủy",
+                "2": "Do viêm nhiễm (vi khuẩn hoặc virus)",
+                "3": "Tất cả nguyên nhân trên",
+                "4": "Chấn thương",
+                "A": "B",
+                "Q": "Bệnh nhân viêm tủy do các nguyên nhân thường gặp nào sau đây, chọn phương án \"đúng\""
+            },
+            "113": {
+                "1": "Do tổn thương cơ",
+                "2": "Do tổn thương dây thần kinh",
+                "3": "Do choáng tủy",
+                "4": "Liệt ngoại vi",
+                "A": "C",
+                "Q": "Trong viêm tủy ở giai đoạn đầu bệnh nhân thường có liệt mềm dưới mức tổn thương do các lý do sau, chọn phương án \"đúng\""
+            },
+            "114": {
+                "1": "Hạ liệt kiểu ngoại vi dưới mức tổn thương",
+                "2": "Liệt ngoại vi vùng khoanh đoạn tủy tổn thương",
+                "3": "Liệt trung ương nửa người dưới mức tổn thương",
+                "4": "Hạ liệt kiểu trung ương dưới mức tổn thương",
+                "A": "D",
+                "Q": "Bệnh nhân viêm tủy ngang rối loạn vận động thường gặp, chọn phương án \"đúng\""
+            },
+            "115": {
+                "1": "Rối loạn phản xạ",
+                "2": "Rối loạn cơ vòng, teo cơ sớm",
+                "3": "Rối loạn cảm giác",
+                "4": "Rối loạn vận động",
+                "A": "C",
+                "Q": "Trong viêm tủy đoạn tủy ngực dựa vào các rối loạn nào sau đây để định khu tổn thương, chọn phương án \"đúng\""
+            },
+            "116": {
+                "1": "Da khô, lông và móng chân dễ rụng gãy",
+                "2": "Teo cơ sớm, loét điểm tỳ với đặc điểm: sớm, rộng và \"loét mục\"",
+                "3": "Phù nề 2 chi dưới",
+                "4": "Teo cơ muộn",
+                "A": "B",
+                "Q": "Rối loạn dinh dưỡng thường gặp trong viêm tủy ngang cấp, chọn phương án \"đúng\""
+            },
+            "117": {
+                "1": "Tăng phản xạ ngay từ ngày đầu tiên của bệnh",
+                "2": "Phản xạ bình thường",
+                "3": "Giảm và mất phản xạ",
+                "4": "Giảm và mất phản xạ ở giai đoạn choáng tủy sau đó tăng phản xạ",
+                "A": "D",
+                "Q": "Trong viêm tủy rối loạn phản xạ gân xương dưới mức tổn thương thường gặp, chọn phương án \"đúng\""
+            },
+            "118": {
+                "1": "Rối loạn cơ vòng kiểu ngoại vi ở giai đoạn đầu sau đó rối loạn cơ vòng kiểu trung ương",
+                "2": "Rối loạn cơ vòng kiểu trung ương",
+                "3": "Cơ vòng bình thường",
+                "4": "Rối loạn cơ vòng kiểu ngoại vi",
+                "A": "B",
+                "Q": "Rối loạn cơ vòng trong viên tủy ngang cấp thường được thể hiện như thế nào, chọn phương án \"đúng\""
+            },
+            "119": {
+                "1": "Viêm tủy leo",
+                "2": "Viêm tủy thị thần kinh",
+                "3": "Rối loạn tuần hòan tủy",
+                "4": "Bệnh thần kinh ngoại vi",
+                "A": "B",
+                "Q": "Một bệnh nhân có biểu hiện lâm sàng của hạ liệt kèm theo có giảm thị lực, thị trường cần  nghĩ đến thể bệnh nào sau đây, chọn phương án \"đúng\""
+            },
+            "120": {
+                "1": "U tủy",
+                "2": "Viêm đa rễ dây thần kinh",
+                "3": "Rối loạn tuần hoàn tủy",
+                "4": "Bệnh đa dây thần kinh",
+                "A": "A",
+                "Q": "Trước một bệnh nhân viêm tủy ngang giai đoạn cấp cần phân biệt với các bệnh lý gì, chọn phương án \"sai\""
+            },
+            "121": {
+                "1": "Tăng cả protein và tế bào",
+                "2": "Dịch não tủy có máu",
+                "3": "Phân ly protein - tế bào",
+                "4": "Dịch não tủy đục, có tế bào mủ",
+                "A": "A",
+                "Q": "Biến đổi dịch não tủy nếu có trong viêm tủy thường gặp, chọn phương án \"đúng\""
+            },
+            "122": {
+                "1": "Tăng tín hiệu trên T2 và tăng khẩu kính tủy",
+                "2": "Khối chèn ép từ ống sống",
+                "3": "Không thấy bất kỳ sự biến đổi nào",
+                "4": "Khối chèn ép tủy từ nội tủy",
+                "A": "A",
+                "Q": "Hình ảnh trên MRI gợi ý viêm tủy, chọn phương án \"đúng\""
+            },
+            "123": {
+                "1": "Cả ba phương án",
+                "2": "Dự phòng các biến chứng",
+                "3": "Kháng sinh, cocticoid",
+                "4": "Điều trị các triệu chứng tổn thương thần kinh",
+                "A": "A",
+                "Q": "Nguyên tắc điều trị viêm tủy cấp, chọn phương án \"đúng\""
+            },
+            "124": {
+                "1": "Dựa vào triệu chứng lâm sàng thần kinh hồi phục hoàn toàn trong 1h kể từ lúc khởi phát",
+                "2": "Dựa vào hình ảnh chụp CTscaner sọ não, không thấy hình ảnh nhồi máu não",
+                "3": "Dựa vào hình ảnh MRI sọ não xung T1, T2, FLAIR, chụp mạch máu não không thấy tổn thương",
+                "4": "Dựa vào hình ảnh MRI sọ não xung khuếch tán DWI và bản đồ khuếch tán biểu kiến ADC không thấy tổn thương",
+                "A": "D",
+                "Q": "Định nghĩa cơn thiếu máu não thoáng qua có đoạn\"… có bằng chứng loại trừ thiếu máu não cấp tính\". Anh/chị hãy cho biết căn cứ  vào đây để có được bằng chứng trên"
+            },
+            "125": {
+                "1": "3h kể từ lúc khởi phát bệnh",
+                "2": "4,5h kể từ lúc khởi phát bệnh",
+                "3": "6h kể từ lúc khởi phát bệnh",
+                "4": "9h kể từ lúc khởi phát bệnh",
+                "A": "B",
+                "Q": "Thời gian cửa sổ để điều trị nhồi máu não bằng phương pháp tiêu sợi huyết đường tĩnh mạch toàn thân là"
+            },
+            "126": {
+                "1": "Duy trì huyết áp tâm thu ở mức nhỏ hơn 180mmHg",
+                "2": "Duy trì huyết áp tâm thu ở mức nhỏ hơn 160mmHg",
+                "3": "Duy trì huyết áp tâm thu ở mức nhỏ hơn 140mmHg ngay ở giai đoạn cấp",
+                "4": "Duy trì huyết áp tâm thu ở mức nhỏ hơn 140mmHg sau giai đoạn cấp",
+                "A": "C",
+                "Q": "Điều trị tăng huyết áp trong bệnh đột quỵ  não não thể chảy máu não nhằm mục tiêu"
+            },
+            "127": {
+                "1": "Duy trì huyết áp tâm thu ở mức nhỏ hơn 180mmHg",
+                "2": "Duy trì huyết áp tâm thu ở mức nhỏ hơn 160mmHg",
+                "3": "Duy trì huyết áp tâm thu ở mức nhỏ hơn 140mmHg ngay ở giai đoạn cấp",
+                "4": "Duy trì huyết áp tâm thu ở mức nhỏ hơn 140mmHg sau giai đoạn cấp",
+                "A": "D",
+                "Q": "Điều trị tăng huyết áp trong bệnh đột quỵ  não não thể nhồi máu não nhằm mục tiêu"
+            },
+            "128": {
+                "1": "Ngay sau khi khởi phát nếu không có chống chỉ định",
+                "2": "Sau giai đoạn cấp",
+                "3": "Sau 2 tuần tính từ lúc khởi phát bệnh",
+                "4": "Sau 4 tuần tính từ lúc khởi phát bệnh hoặc sau khi xuất viện",
+                "A": "A",
+                "Q": "Dùng thuốc chống kết tập tiểu cầu( Aspirin) để điều trị dự phòng đột quỵ  não nhồi máu não không do căn nguyên tim mạch khi"
+            },
+            "129": {
+                "1": "3 tháng nếu không có biến chứng nguy hiểm",
+                "2": "6 tháng nếu không có biến chứng nguy hiểm",
+                "3": "12 tháng nếu không có biến chứng nguy hiểm",
+                "4": "Lâu dài có thể cả đời nếu không có biến chứng nguy hiểm",
+                "A": "D",
+                "Q": "Điều trị dự phòng đột quỵ  não não kéo dài trong bao lâu"
+            },
+            "130": {
+                "1": "3 tháng nếu không có biến chứng nguy hiểm",
+                "2": "6 tháng nếu không có biến chứng nguy hiểm",
+                "3": "12 tháng nếu không có biến chứng nguy hiểm",
+                "4": "lâu dài có thể cả đời nếu không có biến chứng nguy hiểm",
+                "A": "D",
+                "Q": "Điều trị dự phòng đột quỵ  não não kéo dài trong bao lâu"
+            },
+            "131": {
+                "1": "Chụp Ctscan sọ não là tiêu chuẩn vàng chẩn đoán chảy máu não, chụp MRI là tiêu chuẩn vàng chẩn đoán nhồi máu não, và xét nghiệm DNT là tiêu chuẩn vàng chẩn đoán xuất huyết dưới nhện",
+                "2": "Chụp MRI là tiêu chuẩn vàng chẩn đoán các thể đột quỵ  não  não",
+                "3": "Chụp mạch máu số hóa xóa nền sọ não là  tiêu chuẩn vàng chẩn đoán xuất huyết dưới nhện",
+                "4": "Tất cả phướng án đều đúng",
+                "A": "A",
+                "Q": "Các phương pháp chẩn đoán đột quỵ  não não có ý nghĩa như thế nào, chọn câu trả lời đúng nhất"
+            },
+            "132": {
+                "1": "Paracetamol, Corticoid, cerebrolysine",
+                "2": "Paracetamol, aspirin liều cao hoặc clopidogel",
+                "3": "Aspirin liều 75-335mg/ngày, clopidogel, kháng Vitamin K",
+                "4": "Aspirin liều 75-335mg/ngày, clopidogel, hoặc \"an cung ngưu hoàng\"",
+                "A": "C",
+                "Q": "Những thuốc nào có thể áp dụng để điều trị dự phòng đột quỵ  não nhồi máu não "
+            },
+            "133": {
+                "1": "Thuốc được sử dụng điều trị mọi giai đoạn của bệnh Parkinson",
+                "2": "Thuốc có tác dụng điều trị trầm cảm ở bệnh nhân Parkinson, điều trị hội chứng chân không yên",
+                "3": "Thuốc có tác dụng gây chứng mua sắm, chơi cờ bạc và sinh hoạt tình dục quá mức, Phù 2 chi dưới",
+                "4": "Tất cả phương án đều đúng",
+                "A": "D",
+                "Q": "Nhóm thuốc đồng vận Dopamin ( Pramipexol với biệt dược Sitrol) đang được sử dụng rộng rãi trong lâm sàng điều trị Parkinson, chọn phương án đúng nhất"
+            },
+            "134": {
+                "1": "Để chẩn đoán xác định bệnh",
+                "2": "Để chẩn đoán loại trừ bệnh",
+                "3": "Để chẩn đoán giai đoạn , mức độ bệnh",
+                "4": "Để chẩn đoán thời gian mắc bệnh",
+                "A": "B",
+                "Q": "ý nghĩa của phương pháp chẩn đoán hình ảnh ( MRI ) trong chẩn đoán bệnh parkinson"
+            },
+            "135": {
+                "1": "áp dụng bổ sung Dopamin trược tiếp ngay",
+                "2": "áp dụng nhóm đồng vận Dopamin và phục hồi chức năng",
+                "3": "Áp ụng nhóm thuốc ức chế hệ Cholinergic",
+                "4": "Không điều trị mà chỉ theo dõi",
+                "A": "B",
+                "Q": "Bệnh nhân nam75 tuổi, được chẩn đoán bênh parkinson 1 năm trước với triệu chứng run và cứng đơ, giảm động 1/2 người trái mức độ nhẹ, đi lại không cần trợ giúp và chưa điều trị gì. Chỉ định điều trị (phương án phù hợp nhất)"
+            },
+            "136": {
+                "1": "Corticoid áp dụng cho tất cả các thể bệnh lí viêm da rễ dây thần kinh (ví dụ hội chứng Guillain-barre, Viêm đa rễ dây thần kinh hủy myelin mạn tính -CIDP)",
+                "2": "Corticoid không được khuyến cáo điều trị hội chứng Guillain-barre vì thuốc không có tác dụng và có thể còn làm quá trình bệnh lí nặng hơn",
+                "3": "Corticoid được khuyến cáo điều trị thể bệnh viêm đa rễ dây thần kinh hủy myelin mạn tính - CIDP",
+                "4": "corticoid không được khuyến cáo điều trị thể bệnh viêm đa dây thần kinh",
+                "A": "A",
+                "Q": "Corticoid là nhóm thuốc ức chế miễn dịch được dùng để điều trị nhiều bênh lí thần kinh ngoại vi. Chọn phương án sai"
+            },
+            "137": {
+                "1": "Chuyển đổi huyết tương và gammaglobulin miễn dịch truyền tĩnh mạch được khuyến cáo",
+                "2": "Chuyển đổi huyết tương và Corticoid liều cao được khuyến cáo",
+                "3": "Gammaglobulin miễn dịch và Corticoid liều cao được khuyến cáo",
+                "4": "Corticoid liều cao có tác dụng tốt nhất",
+                "A": "A",
+                "Q": "Điều trị dđợt cấp hội chứng Guillain-Barre "
+            },
+            "138": {
+                "1": "Liệt tứ chi mức độ nặng; ataxia tứ chi và mất phản xạ gân xương tứ chi",
+                "2": "Có các dấu hiệu bệnh lí ở mắt ( liệt vận nhãn, nhìn đôi, sụp mi); Ataxia tứ chi và mất phản xạ gân xương tứ chi",
+                "3": "RL cảm giác kiểu bít tất tứ chi, liệt tứ chi mức độ nặng, Ataxia tứ chi",
+                "4": "Liệt tứ chi mức độ nặng, mất phản xạ gân xương tứ chi và RL cơ tròn",
+                "A": "B",
+                "Q": "Hội chứng Mliler-Fisher một biến thể của hội chứng Guillain-barre có đặc điểm ? Chọn phương án đúng nhất"
+            },
+            "139": {
+                "1": "Acid Valproat, carbamazepin được khuyến cáo là thuốc đầu tiên",
+                "2": "Lamotrigin và carbamazepin được khuyến cáo ưu tiên",
+                "3": "Acid Valproat  được khuyến cáo là thuốc đầu tay",
+                "4": "Tất cả đều đúng",
+                "A": "B",
+                "Q": "Bn nữ 20 tuổi được chẩn đoán động kinh toàn thể cơn cơ cứng co giật và có chỉ định điều trị. Chọn phương án điều trị"
+            },
+            "140": {
+                "1": "Sử dụng nhóm Phenolbarbital tiêm tĩnh mạch là lựa chọn đầu tiên",
+                "2": "Sử dụng nhóm acid Valproat dạng tiêm là lựa chọn đầu tay",
+                "3": "Sử dụng Diazepam hoặc Clonazepam đường tĩnh mạch là lựa chọn đầu tay",
+                "4": "tất cả các phương án đều đúng",
+                "A": "C",
+                "Q": "Trạng thái động đinh là 1 cấp cứu thần kinh, cần được xử lí nhanh chóng và chính xác, chọn phương án đúng nhất"
+            },
+            "141": {
+                "1": "Trạng thái Động kinh cục bộ và cơn vắng",
+                "2": "Động kinh co giật ",
+                "3": "Động kinh cục bộ",
+                "4": "Tất cả phương án đều đúng",
+                "A": "B",
+                "Q": "Trạng thái động kinh nào cần xử trí cấp cứu ngay. Chọn phương án đúng nhất"
+            },
+            "142": {
+                "1": "Levetiracetam được dùng đơn trị liệu hoặc kết hợp thuốc chống động kinh  khác",
+                "2": "Levetiracetam được bào chế dạng viên uống và dạng dung dịch, dùng cho cả trẻ em và người lớn",
+                "3": "Levetiracetam cần điều chỉnh liều theo mức lọc cầu thận ",
+                "4": "Tất cả phương án đều đúng",
+                "A": "D",
+                "Q": "Levetiracetam là nhóm thuốc chống động kinh thế hệ mới. Chọn phương án đúng nhất"
+            },
+            "143": {
+                "1": "Topiramate có thể dùng đơn trị liệu hoặc kết hợp thuốc chống động kinh  khác",
+                "2": "Topiramate được chỉ định cho cả trẻ em  trên 2 tuổi và cả người lớn",
+                "3": "Topiramate được khuyến cáo là lựa chọn đầu tiên điều trị dự phòng Migraine",
+                "4": "Tất cả phương án đều đúng",
+                "A": "D",
+                "Q": "Topiramate là nhóm thuốc chống động kinh thế hệ mới. Chọn phương án đúng nhất"
+            },
+            "144": {
+                "1": "BN cần dừng ngay thuốc Deparrkin và chuyển sang thuốc khác",
+                "2": "Theo khuyến cáo Bn có thể tiếp tục điều trị bằng thuốc như trên vì theo các nghiên cứu với liều Deparkin < 700mg/ngày thì tỉ lệ gây dị dạng thai nhi rất thấp",
+                "3": "Liều Deparkin cần được giảm liều xuống 400mg/ngày",
+                "4": "tất cả các phương án đều đúng",
+                "A": "B",
+                "Q": "BN nữ 25 tuổi dang điều trị điều kiện toàn thể cơn lớn bằng Deparkin 600mg/ ngày, có tiền sử dị ứng với carbamazepin, lamotrigin, topiramate. BN được xác định có thai. Chọn phương án đúng"
+            },
+            "145": {
+                "1": "Acid valproate được sử dụng điều trị mọi thể động kinh, trừ động kinh ở trẻ em",
+                "2": "Acid valproate chỉ được sử dụng điều trị thể động kinh toàn thể",
+                "3": "Acid valproate chỉ được sử dụng điều trị thể động kinh  cục bộ",
+                "4": "Acid valproate được sử dụng điều trị mọi thể động kinh, cả kể động kinh trẻ em và người lớn",
+                "A": "D",
+                "Q": "Acid valproate là thuốc chống động kinh được sử dụng rộng rãi trong lâm sàng thần kinh. Chọn phương án đúng nhất?"
+            },
+            "146": {
+                "1": "Lọc tách huyết tương được khuyến cáo là lựa chọn đầu tay",
+                "2": "Truyền Gamma Globulin miễn dịch được khuyên cáo là lựa chọn đầu tay",
+                "3": "Corticoid ( kể cả corticoid liều cao) và kháng sinh phổ rộng được khuyến cáo sử dụng",
+                "4": "Tất cả phương án đều đúng",
+                "A": "C",
+                "Q": "Trong điều trị viêm tủy ngang cấp có  nhiều phương pháp điều trị khác nhau. Chọn phương án đúng nhất"
+            },
+            "147": {
+                "1": "Xơ não tủy rải rác, Viêm tủy thị thần kinh, Giang mai thần kinh",
+                "2": "Viêm đa rễ dây thần kinh, xơ não tủy rải rác, thiếu VitB1",
+                "3": "Viêm tủy thị thần kinh, giang mai thần kinh, viêm đa dây thần kinh",
+                "4": "Tất cả phương án đều đúng",
+                "A": "A",
+                "Q": "Những bệnh lí nào sau đây có thể gây viêm tủy. Chọn phương án đúng nhất"
+            },
+            "148": {
+                "1": "Liệt dây thần kinh số VII kiểu ngoại vi nguyên phát",
+                "2": "Tổn thương có thể xảy ra ở mọi vị trí của dây thần kinh kể cả đoạn trong xương đá",
+                "3": "Có tiên lượng tốt hơn liệt dây VII do Herper Zoster ( zona hạch gối)",
+                "4": "Tất cả phương án đều đúng",
+                "A": "D",
+                "Q": "Liệt dây Thần kinh số VII kiểu ngoại vi do lạnh được hiểu là"
+            },
+            "149": {
+                "1": "Corticoid đường tĩnh mạch và châm cứu",
+                "2": "tiêm Botulinumtoxin A và vật lí trị liệu",
+                "3": "phẫu thuật cắt dây VII",
+                "4": "Tất cả phương án đều đúng",
+                "A": "B",
+                "Q": "Điều trị liệt dây VII ngoại vi thể co cứng có các phương án sau đây, Chọn phương án đúng nhất"
+            },
+            "150": {
+                "1": "Viêm đa rễ dây thần kinh ( Hội chứng Guiliain-Barre), Nhiễm khuẩn thần kinh ( bệnh Lyme)",
+                "2": "Liệt bell",
+                "3": "Hội chứng góc cầu tiểu não",
+                "4": "Liệt dây thần kinh số VII ngoại vi do đái tháo đường",
+                "A": "A",
+                "Q": "Liệt dây VII kiểu ngoại vi 2 bên thường gặp trong các bệnh lí nào sau đây"
+            },
+            "name": "NỘI THẦN KINH - AM4"
+        }
+    }
+}

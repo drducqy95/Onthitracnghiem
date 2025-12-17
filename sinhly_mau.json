@@ -1,0 +1,1117 @@
+{
+    "SINH_LY_HOC_2018": {
+        "sinhlymau": {
+            "1": {
+                "1": "Hb gồm globulin và 4 Hem",
+                "2": "Hb gồm globulin và 1 Hem",
+                "3": "Hb gồm globulin và Fe++",
+                "4": "Hb gồm 1 vòng porphyrin",
+                "A": "A",
+                "Q": "Về cấu tạo của hemoglobin"
+            },
+            "2": {
+                "1": "Nam: 12g và nữ 11g/ 100ml máu",
+                "2": "Nam: 16g và nữ 15g/ 100ml máu",
+                "3": "Nam: 14,6g và nữ 13,3g/ 100ml máu",
+                "4": "Nam: 18g và nữ 17g/100 ml máu",
+                "A": "C",
+                "Q": "Nồng độ hemoglobin (Hb) bình thường của máu người Việt Nam trưởng thành là"
+            },
+            "3": {
+                "1": "Do bạch cầu môn tiết",
+                "2": "Do bạch cầu ái kiềm tiết",
+                "3": "Do bạch cầu lympho tiết",
+                "4": "Do bạch cầu đa nhân trung tính tiết",
+                "A": "B",
+                "Q": "Tế bào nào trong máu tiết heparin"
+            },
+            "4": {
+                "1": "Xuyên mạch chuyển động kiểu amip, thực bào, sinh miễn dịch",
+                "2": "Xuyên mạch, bám mạch thực bào",
+                "3": "Hóa ứng và thực bào, miễn dịch dịch thể",
+                "4": "Chuyển động kiểu amip, xuyên mạch, hóa ứng, bám mạch và thực bào",
+                "A": "D",
+                "Q": "Đặc tính và chức năng của bạch cầu đa nhân trung tính"
+            },
+            "5": {
+                "1": "Nhóm máu A: Màng hồng cầu có kháng nguyên A, huyết tương có kháng thể beta",
+                "2": "Nhóm máu AB: Màng hồng cầu không có kháng nguyên, huyết tương có kháng thể alpha và beta",
+                "3": "Nhóm máu B: Màng hồng cầu có kháng nguyên, huyết tương có kháng thể beta",
+                "4": "Nhóm máu O: Màng hồng cầu có kháng nguyên A và B, trong huyết tương không có kháng thể alpha và beta",
+                "A": "A",
+                "Q": "Nhận xét nào đúng về nhóm máu thuộc hệ ABO"
+            },
+            "6": {
+                "1": "Người Rh+ thì màng hồng cầu có kháng nguyên D, C, E",
+                "2": "Người Rh+ thì trong huyết tương có kháng thể anti Rh",
+                "3": "Người Rh+ thì trong huyết tương đã có sẵn kháng thể anti Rh",
+                "4": "Người Rh+ thì trong màng hồng cầu có kháng nguyên Rh D, C, E",
+                "A": "D",
+                "Q": "Nhận xét nào đúng về nhóm máu Rh"
+            },
+            "7": {
+                "1": "N: 62%; E: 3%; B: 0,5%; L: 21%; M: 6%",
+                "2": "N: 60%; E: 15%; B: 1%; L: 29%; M:5%",
+                "3": "N: 63%; E: 2%; B: 0,5%; L: 30%; M: 4%",
+                "4": "N: 65%; E: 3%; B: 1%; L: 26%; M: 5%",
+                "A": "B",
+                "Q": "Công thức bạch cầu nào thể hiện một người bị nhiễm kí sinh trùng"
+            },
+            "8": {
+                "1": "Bạch cầu tiếp cận vi khuẩn- nuốt- tiêu hóa",
+                "2": "Bạch cầu tiếp cận vi khuẩn- nuốt- tiêu hóa- hòa màng với Lysosom",
+                "3": "Bạch cầu tiếp cận vi khuẩn- nuốt-túi tiêu hóa- hòa màng với Lysosom- túi thực bào",
+                "4": "Bạch cầu tiếp cận vi khuẩn- nuốt-túi tiêu hóa- hòa màng với Lysosom- túi tiêu hóa",
+                "A": "D",
+                "Q": "Trả lời nào đúng về quá trình thực bào của bạch cầu"
+            },
+            "9": {
+                "1": "Gồm 4 nhân pyrol có gắn các gốc metyl",
+                "2": "Vòng prophyryl gắn với Fe++ ở gốc vinyl",
+                "3": "Vòng prophyryl gắn với Fe++ ở gốc propyonyl",
+                "4": "Protoporphyrin IX kết hợp Fe++",
+                "A": "D",
+                "Q": "Cấu tạo Hem của người gồm"
+            },
+            "10": {
+                "1": "Chuỗi Polypeptid có hốc chứa 2,3 DPG",
+                "2": "Có 1 chuỗi polypeptid alpha và 1 chuỗi polypeptid beta",
+                "3": "Có 4 chuỗi polypeptid giống nhau",
+                "4": "Có 2 chuỗi Polypeptid alpha và 2 chuỗi polypeptid beta",
+                "A": "D",
+                "Q": "Cấu tạo globin của hemoglobin gồm "
+            },
+            "11": {
+                "1": "Bào thai: HbS, người lớn: HbA",
+                "2": "Bào thai: HbC, người lớn: HbA",
+                "3": "Bào thai: HbF, người lớn: HbA",
+                "4": "Bào thai: HbA, người lớn: HbF",
+                "A": "C",
+                "Q": "Các loại Hemoglobin (Hb) ở người"
+            },
+            "12": {
+                "1": "Vận chuyển CO2 là chính, vận chuyển O2 là phụ",
+                "2": "Vận chuyển CO2 là phụ, vận chuyển O2 là chính",
+                "3": "Vận chuyển CO là chính, vận chuyển O2 là phụ",
+                "4": "Vận chuyển CO2 là phụ, vận chuyển CO là chính",
+                "A": "B",
+                "Q": "Chức năng của Hemoglobin"
+            },
+            "13": {
+                "1": "Hb/KHbCO2; Hb/HHb",
+                "2": "KHbO2/Hb; Hb/HbO2",
+                "3": "KHb/HbO2; HbO2/HHb",
+                "4": "HHb/KHb; HHbCO2/KHbO2",
+                "A": "D",
+                "Q": "Hệ đệm hemoglobin gồm"
+            },
+            "14": {
+                "1": "Nhóm máu O truyền cho nhóm máu AB",
+                "2": "Nhóm máu B truyền cho nhóm máu O",
+                "3": "Nhóm máu AB truyền cho nhóm máu A",
+                "4": "Nhóm máuA truyền cho nhóm máu B",
+                "A": "A",
+                "Q": "Có thể truyền máu khác nhóm khi"
+            },
+            "15": {
+                "1": "Nhóm máu AB không có kháng nguyên kháng B",
+                "2": "Nhóm máu AB không có kháng thể kháng B",
+                "3": "Nhóm máu AB không có kháng nguyên",
+                "4": "Nhóm máu AB có kháng thể alpha",
+                "A": "B",
+                "Q": "Nhóm máu B có thể truyền cho nhóm máu AB vì"
+            },
+            "16": {
+                "1": "Sinh sản và trưởng thành ở hạch bạch huyết",
+                "2": "Sinh sản và trưởng thành ở tủy xương",
+                "3": "Sinh sản và trưởng thành ở tuyến ức",
+                "4": "Sinh sản ở tủy xương và trưởng thành ở tuyến ức ",
+                "A": "D",
+                "Q": "Sinh sản và trưởng thànhcủa lympho T"
+            },
+            "17": {
+                "1": "Máu toàn phần nhóm O và Rh- cho một bệnh nhân nhóm O và Rh+",
+                "2": "Máu toàn phần nhóm AB và Rh- cho một bệnh nhân nhóm AB và Rh+",
+                "3": "Máu toàn phần nhóm B cho một bệnh nhân nhóm B và Rh-",
+                "4": "Máu toàn phần nhóm A và Rh- cho một bệnh nhân nhóm B và Rh-",
+                "A": "D",
+                "Q": "Truyền máu nào sau đây có thể gây ra phản ứng truyền máu tức thì"
+            },
+            "18": {
+                "1": "Cấu tạo mỗi phân tử hemoglobin gồm 1 Hem và 1 globin",
+                "2": "Hemoglobin là thành phần chủ yếu của hồng cầu, chiếm 28% và tương ứng với 14,6%",
+                "3": "Hemoglobin có cấu trúc là các chuỗi polypeptid",
+                "4": "Cấu tạo mỗi phân tử hemoglobin gồm 1 Hem và 4 globin",
+                "A": "B",
+                "Q": "Câu nào về hemoglobin sau đây là đúng"
+            },
+            "19": {
+                "1": "Hemoglobin của các loài khác nhau dều có phần globin khác nhau nhưng giống nhau ở phần Hem",
+                "2": "Hemoglobin của các loài khác nhau dều có phần Hem và phần globin khác nhau",
+                "3": "Hemoglobin có cấu trúc là các chuỗi polypeptid và glycoprotein",
+                "4": "Hemoglobin của các loài khác nhau dều có phần Hem gống nhau nhưng khác nhau ở phần globin",
+                "A": "D",
+                "Q": "Câu nào sau đây là đúng về cấu trúc hemoglobin"
+            },
+            "20": {
+                "1": "Hemoglobin là thành phần chủ yếu của hồng cầu, có khoảng 14,6 trong 100ml máu",
+                "2": "Hemoglobin là một protein màu, có nhóm ngoại là Hem",
+                "3": "Trung tâm của phân tử hemoglobin co một hốc rỗng gọi là trung tâm",
+                "4": "hemoglobin của các loài khác nhau đều có phần globin giống nhau nhưng khác ở phần Hem",
+                "A": "D",
+                "Q": "Câu nào sau đây là KHÔNG đúng"
+            },
+            "21": {
+                "1": "tiếp nhận chuỗi globin",
+                "2": "tiếp nhận protoporphyrin IX",
+                "3": "tiếp nhận phân tử 2,3 diphosphoglycerat",
+                "4": "tiếp nhận Hem và sự kết hợp này có vai trò điều hòa ái lực của Hb với oxy",
+                "A": "C",
+                "Q": "Hốc trung tâm của phân tử Hb"
+            },
+            "22": {
+                "1": "Oxy kết hợp với hemoglobin ở phần chuỗi polypeptid của Hem",
+                "2": "Carbonmonocid kết hợp với hemoglobin ở nhóm amin của globin nên gọi là phản ứng của carbamin",
+                "3": "Hemoglobin kết hợp với carbonmonocid tạo thành  carboxyhemoglobin và không còn khả năng vận chuyển oxy",
+                "4": "Hemoglobin kết hợp với carbonic tạo thành carboxyhemoglobin và không có khả năng vận chuyển oxy",
+                "A": "C",
+                "Q": "Câu nào sau đây là đúng  "
+            },
+            "23": {
+                "1": "Nhóm máu O: Màng hồng cầu không có kháng nguyên, trong huyết tương không có kháng thể alpha và beta",
+                "2": "NHóm máu B: Màng hồng cầu có kháng nguyên B, huyết tương có kháng thể beta",
+                "3": "Nhóm máu B: Màng hồng cầu có kháng nguyên B, huyết tương có kháng thể alpha",
+                "4": "Nhóm máu AB: màng hồng cầu có kháng nguyên A và B, huyết tương có kháng thể alpha và beta",
+                "A": "C",
+                "Q": "Câu nào sau đây đúng về nhóm máu thuộc hệ ABO"
+            },
+            "24": {
+                "1": "Hệ thống nhóm máu ABO được chia làm nhóm A, nhóm B, nhóm AB và nhóm O",
+                "2": "kháng thể Alpha sẽ làm ngưng kết hồng cầu mang kháng nguyên A",
+                "3": "Nhóm máu B: màng hồng cầu có kháng  nguyên B, huyết tương có kháng thể alpha",
+                "4": "Nhóm máu AB: màng hồng cầu có kháng nguyên A và B, huyết tương có kháng thể alpha và beta",
+                "A": "D",
+                "Q": "Câu nào sau đây về nhóm ABO là KHÔNG đúng"
+            },
+            "25": {
+                "1": "Máu toàn phần nhóm A",
+                "2": "Khối hồng cầu nhóm AB",
+                "3": "Máu toàn phần nhóm O ",
+                "4": "Khối hồng cầu nhóm O",
+                "A": "D",
+                "Q": "Đơn vị máu nào sau đây ít nguy cơ nhất trong việc gây phản ứng truyền máu tức thời ở một người nhận có nhóm máu B và Rh dương tính"
+            },
+            "26": {
+                "1": "Truyền máu Rh+ cho người Rh- lần 2",
+                "2": "Truyền máu với khối lượng và tốc độ lớn",
+                "3": "Truyền máu Rh- cho người Rh+ lần 2",
+                "4": "Truyền nhầm nhóm máu thuộc hệ thống nhóm máu ABO",
+                "A": "C",
+                "Q": "Sự nguy hiểm của truyền máu có thể do các nguyên nhân sau đây, TRỪ"
+            },
+            "27": {
+                "1": "Không được kết hôn với người có nhóm máu Rh+",
+                "2": "Không được nhận máu của người Rh+ nếu đang mang thai nhi có nhóm máu Rh+",
+                "3": "Không được nhận máu của người Rh+ vì sẽ sinh ra anti-Rh",
+                "4": "Không được truyền bất kì loai máu nào",
+                "A": "B",
+                "Q": "Điều nào đúng với một phụ nữ có nhóm máu Rh- chưa từng bj truyền máu"
+            },
+            "28": {
+                "1": "Bị các bệnh nhiễm khuẩn cấp tính",
+                "2": "khi dùng các loại corticoid",
+                "3": "Bị các bệnh kí sinh trùng",
+                "4": "Bị nhiễm virus",
+                "A": "A",
+                "Q": " Bạch cầu đa nhân trung tính tăng trong trường hợp sau"
+            },
+            "29": {
+                "1": "Tạo ra đáp ứng miễn dịch tế bào",
+                "2": "phải xâm nhập vào bên trong tế bào rồi phá hủy chúng",
+                "3": "tấn công tế bào nhiễm virus, nấm và tế bào ung thư",
+                "4": "Bài tiết kháng thể vào máu và dichj bạch huyết",
+                "A": "D",
+                "Q": "Bạch cầu lympho B có thể"
+            },
+            "30": {
+                "1": "Kết hợp kháng nguyên đặc hiệu",
+                "2": "trình diện kháng nguyên",
+                "3": "tiêu diệt tế bào ung thư",
+                "4": "Tiêu diệt virus",
+                "A": "B",
+                "Q": " Lympho bào T độc có các chức năng sau đây, TRỪ"
+            },
+            "31": {
+                "1": "Gây ngưng kết mạnh như hệ thống ABO",
+                "2": "có nồng độ thấp sau khi ra đời, tăng dần từ tháng thứ 2 trở đi và cao nhất ở 8-10 tuổi",
+                "3": "Xuất hiện kiểu miễn dịch ở người Rh- nhận máu Rh+",
+                "4": "Xuất hiện kiểu miễn dịch ở người Rh+ nhận máu Rh-",
+                "A": "C",
+                "Q": "Kháng thể kháng Rh"
+            },
+            "32": {
+                "1": "có thể truyền máu khác nhóm với lượng truyền ít và phải theo sơ đồ",
+                "2": "không để xảy ra ngưng kết hồng cầu của người cho trong máu của người nhận",
+                "3": "không để kháng nguyên và kháng thể tương ứng gặp nhau",
+                "4": "không để xảy ra ngưng kết hồng cầu của người nhận trong máu của người cho",
+                "A": "C",
+                "Q": "Quy tắc truyền máu cơ bản"
+            },
+            "33": {
+                "1": "Kháng thể của hệ thống ABO có 2 loại",
+                "2": "Kí hiệu nhóm máu biểu thị sự có mặt của kháng thể trong máu",
+                "3": "Kháng thể alpha có trong huyết tương của người có nhóm máu A",
+                "4": "Kháng thể hệ thống nhóm máu Rh có 2 loại",
+                "A": "A",
+                "Q": "Câu nào sau đây là đúng"
+            },
+            "34": {
+                "1": "Kháng thể hệ thống nhóm máu Rh có một loại, hình thành theo kiểu miễn dịch",
+                "2": "Kháng thể của nhóm máu ABO có 2 loại, hình thành theo kiểu miễn dịch",
+                "3": "Người nhóm máu A có kháng nguyên tương ứng trên bề mặt hồng cầu",
+                "4": "Kháng thể alpha có trong huyết tương của người có nhóm máu A",
+                "A": "B",
+                "Q": "Câu nào sau đây là sai"
+            },
+            "35": {
+                "1": "Lympho T gây độc và lympho T hỗ trợ được gọi là tế bào lympho điều hòa",
+                "2": "Tế bào giết giải phóng perforin",
+                "3": "Lympho T hỗ trợ có chức năng điều hòahệ thống miễn dịch thông qua lymphokin",
+                "4": "Lympho bào T gây độc có khả năng tấn công trực tiếp các tế bào, còn dược gọi là té bào giết tự nhiên",
+                "A": "A",
+                "Q": "Câu nào sau đây là SAI"
+            },
+            "36": {
+                "1": "22-26 g",
+                "2": "20-26 g",
+                "3": "12-16 g",
+                "4": "30-34 g",
+                "A": "C",
+                "Q": "Trong máu người bình thường có chứa lượng hemonoglobin trong 100ml máu khoảng"
+            },
+            "37": {
+                "1": "nhóm máu A",
+                "2": "Nhóm máu AB",
+                "3": "nhóm máu O",
+                "4": "Nhóm máu B",
+                "A": "C",
+                "Q": "Phổ biến nhất ở người da trắng là"
+            },
+            "38": {
+                "1": "AB",
+                "2": "B",
+                "3": "O ",
+                "4": "A ",
+                "A": "C",
+                "Q": "Phổ biến nhất ở người Việt Nam là nhóm máu"
+            },
+            "39": {
+                "1": "E",
+                "2": "N",
+                "3": "B",
+                "4": "lympho bào",
+                "A": "D",
+                "Q": "Loại tế bào bạc cầu trở thành đại thực bào trong mô là"
+            },
+            "40": {
+                "1": "50000-100000",
+                "2": "10000-20000",
+                "3": "4000000-7000000",
+                "4": "5000-9000",
+                "A": "D",
+                "Q": "Số lượng bạch cầu trung bình ở người trưởng thành tỏng một milimet khối máu"
+            },
+            "41": {
+                "1": "B",
+                "2": "A",
+                "3": "A, B, O",
+                "4": " A, B ",
+                "A": "D",
+                "Q": "Các nhóm máu hệ thống ABO được chia dựa vào sự hiện diện của các kháng nguyên"
+            },
+            "42": {
+                "1": "B",
+                "2": "A",
+                "3": "AB",
+                "4": "Nhóm máu O",
+                "A": "D",
+                "Q": "Người có nhóm máu O có thể nhận nhóm máu nào"
+            },
+            "43": {
+                "1": "N",
+                "2": "M",
+                "3": "E",
+                "4": "L",
+                "A": "A",
+                "Q": "Loại bạch cầu có số lượng nhiều nhất là"
+            },
+            "44": {
+                "1": "E và M",
+                "2": "N, L và E",
+                "3": "B và E",
+                "4": "N, E và B",
+                "A": "D",
+                "Q": "Nhóm nào sau đây gồm các bạch cầu hạt"
+            },
+            "45": {
+                "1": "E",
+                "2": "L",
+                "3": "M",
+                "4": "B",
+                "A": "A",
+                "Q": "Loại bạch cầu nào tăng nhanh trong dị ứng và nhiễm giun"
+            },
+            "46": {
+                "1": "AB",
+                "2": "OB",
+                "3": "A",
+                "4": "OA",
+                "A": "A",
+                "Q": "Nhóm máu ít nhất ở người Việt Nam là nhóm"
+            },
+            "47": {
+                "1": "O, OA",
+                "2": "O, B",
+                "3": "O, AB",
+                "4": "O, A",
+                "A": "B",
+                "Q": "Người có nhóm máu B có thể nhận máu từ người có nhóm máu"
+            },
+            "48": {
+                "1": "Tiểu cầu",
+                "2": "Màng tế bào",
+                "3": "Bạch cầu",
+                "4": "hồng cầu",
+                "A": "D",
+                "Q": "Hemoglobin là thành phần chủ yếu của"
+            },
+            "49": {
+                "1": "1 nhân Hem và 1 globin",
+                "2": "4nhân Hem và 4 globin",
+                "3": "4 nhân Hem và 1 globin",
+                "4": "1 nhân Hem và 4 globin",
+                "A": "C",
+                "Q": "Mỗi phân tử hemoglobin có cấu tạo gồm"
+            },
+            "50": {
+                "1": "1 vòng pyrol kết hợp với ion Fe2+",
+                "2": "2 vòng pyrol kết hợp với ion Fe2+",
+                "3": "4 vòng pyrol kết hợp với ion Fe2+",
+                "4": "3 vòng pyrol kết hợp với ion Fe2+",
+                "A": "C",
+                "Q": "Nhân Hem của hemoglobin có cấu tạo gồm"
+            },
+            "51": {
+                "1": "Hemoglobin",
+                "2": "transferrin",
+                "3": "Ferritin",
+                "4": "Hemosiderin",
+                "A": "A",
+                "Q": "Ion sắt trong cơ thể tồn tại chủ yếu ở"
+            },
+            "52": {
+                "1": "1 chuỗi alpha, 2 chuỗi beta  và 1 chuỗi gamma ",
+                "2": "2 chuỗi gamma và 2 chuỗi beta",
+                "3": "2 chuỗi alpha và 2 chuỗi beta",
+                "4": "2 chuỗi alpha và 2 chuỗi gamma",
+                "A": "C",
+                "Q": "Globin trong phân tử hemoglobin của người có cấu trúc gồm các chuỗi polypeptid sau"
+            },
+            "53": {
+                "1": "Imidazole",
+                "2": "2,3 diphosphoglycerat (2,3 DPG)",
+                "3": "Ion Fe2+",
+                "4": "Protoporphyrin IX kết hợp Fe2+",
+                "5": "Protoporphyrin IX",
+                "A": "B",
+                "Q": "Hốc trung tâm của phân tử hemoglobin có khả năng tiếp nhận"
+            },
+            "54": {
+                "1": "Điều hòa ái lực của hemoglobin với oxy",
+                "2": "Điều hòa ái lực của nhân Hem với ion Fe2+ ",
+                "3": "Điều hòa ái lực của hemoglobin với carbonic",
+                "4": "Giúp hồng cầu có khả năng thải carbonmonoxid (CO)",
+                "A": "A",
+                "Q": "Hốc trung tâm của phân tử hemoglobin có chức năng"
+            },
+            "55": {
+                "1": "Porphyrin",
+                "2": "Polypeptide",
+                "3": "Polysacharide",
+                "4": "Chromogen",
+                "A": "A",
+                "Q": "Sắc tố Hem thuộc loại"
+            },
+            "56": {
+                "1": "Protoporphyrin IX kết hợp với  Cu2+",
+                "2": "Protoporphyrin IX kết hợp với Mg2+",
+                "3": "Protoporphyrin IX kết hợp với Zn2+",
+                "4": "Protoporphyrin IX kết hợp với Fe2+",
+                "A": "D",
+                "Q": "Nhân Hem ở người là"
+            },
+            "57": {
+                "1": "protoporphyrin IX kết hợp với Fe2+",
+                "2": "protoporphyrin XI kết hợp với Fe2+",
+                "3": "protoporphyrin III kết hợp vớiFe2+",
+                "4": "protoporphyrin X kết hợp với Fe2+",
+                "A": "A",
+                "Q": "Nhân Hem ở người là"
+            },
+            "58": {
+                "1": "Menten",
+                "2": "Vinyl",
+                "3": "Metyl",
+                "4": "Sulfua",
+                "A": "A",
+                "Q": "Phân tử Hem có 4 nhân liên kết với nhau bằng cầu nối"
+            },
+            "59": {
+                "1": "Nhân Pyrol qua gốc metyl",
+                "2": "Nhân Pyrol qua cầu nối menten",
+                "3": "Nhân Pyrol qua gốc vinyl",
+                "4": "Đỉnh phía trong của nhân pyrol",
+                "A": "D",
+                "Q": "Trong nhân Hem, Fe2+ gắn với"
+            },
+            "60": {
+                "1": "1 liên kết đồng hóa trị và 3 liên kết phối trí",
+                "2": "2 liên kết đồng hóa trị và 2 liên kết phối trí",
+                "3": "3 liên kết đồng hóa trị và 2 liên kết phối trí",
+                "4": "3 liên kêt đồng hóa trị và 3 liên kết phối trí",
+                "A": "B",
+                "Q": "Trong nhân Hem, Fe2+ gắn với nhân bằng"
+            },
+            "61": {
+                "1": "phenylalanin",
+                "2": "tyrosine",
+                "3": "leucine",
+                "4": "glutamin",
+                "A": "D",
+                "Q": "Trong bệnh hồng cầu hình lưỡi liềm, valin tại vị trí thứ 6 của chuỗi beta bị thay bởi"
+            },
+            "62": {
+                "1": "methemoglobin",
+                "2": "hồng cầu không gắn được với oxy ở phổi",
+                "3": "hồng cầu không nhả được oxy ở tổ chức",
+                "4": "hồng cầu dễ vỡ khi qua mao mạch nhỏ",
+                "A": "D",
+                "Q": "Hemoglobin bất thường trong bệnh hồng cầu hình lưỡi liềm sẽ gây hiện tượng"
+            },
+            "63": {
+                "1": "14,6 g/ 1000ml máu",
+                "2": "14,6 mg/ 1000ml máu",
+                "3": "14,6 g/100ml máu",
+                "4": "14,6 mg/100ml",
+                "A": "C",
+                "Q": "Nồng độ hemoglobin (Hb) bình thường ở nam giới Việt Nam trưởng thành là"
+            },
+            "64": {
+                "1": "13,3 g/ 1000ml máu",
+                "2": "13,3 mg/ 100 ml máu",
+                "3": "13,3 g/ 100ml máu",
+                "4": "13,3 mg/ 1000ml máu",
+                "A": "C",
+                "Q": "Nồng độ hemoglobin bình thường ở nữ giới Việt Nam trưởng thành là"
+            },
+            "65": {
+                "1": "Carboxyhemoglobin",
+                "2": "Deoxyhemoglobin",
+                "3": "oxyhemoglobin",
+                "4": "methemoglobin",
+                "A": "C",
+                "Q": "Oxy kết hợp với hemoglobin tạo thành"
+            },
+            "66": {
+                "1": "nhân pyrol",
+                "2": "phân tử 2,3 DPG",
+                "3": "phần Fe2+ của Hem",
+                "4": "chuỗi globin",
+                "A": "C",
+                "Q": "Oxy kết hợp với hemoglobin tại"
+            },
+            "67": {
+                "1": "1 phân tử oxy",
+                "2": "3 phân tử oxy",
+                "3": "2 phân tử oxy",
+                "4": "4 phân tử oxy",
+                "A": "D",
+                "Q": "Một phân tử hemoglobin có thể kết hợp tối đa với"
+            },
+            "68": {
+                "1": "carbogen",
+                "2": "carboxyhemoglobin",
+                "3": "carbamin",
+                "4": "carbohemoglobin",
+                "A": "D",
+                "Q": "Carbonic kết hợp với hemoglobin tạo thành"
+            },
+            "69": {
+                "1": "các nhân pyrol",
+                "2": "nhóm amin của globin",
+                "3": "hốc trung tâm",
+                "4": "Ion Fe2+",
+                "A": "B",
+                "Q": "Carbonic kết hợp với hemoglobin tại"
+            },
+            "70": {
+                "1": "Carbogen",
+                "2": "carbamin",
+                "3": "carbohemoglobin",
+                "4": "Carboxyhemoglobin",
+                "A": "D",
+                "Q": "Hemoglobin kết hợp với carbomonocid tạo thành"
+            },
+            "71": {
+                "1": "CO có ái lực với hemoglobin cao gấp nhiều lần so với ái lực của oxy với hemoglobin",
+                "2": "CO lấy mất sắt trong nhân Hem",
+                "3": "CO kết hợp với oxy trong máu tạo thành CO2",
+                "4": "CO làm phá vỡ cấu trúc của nhân Hem",
+                "A": "A",
+                "Q": "Carboxyhemoglobin (HbCO) làm hồng cầu không còn khả năng vận chuyển oxy vì"
+            },
+            "72": {
+                "1": "180 lần",
+                "2": "210 lần",
+                "3": "120 lần",
+                "4": "150 lần",
+                "A": "B",
+                "Q": "Ái lực của khí Co với hemoglobin mạnh gấp mấy lần ái lực của khí oxy"
+            },
+            "73": {
+                "1": "< 13 g hemoglobin/ 100 ml máu",
+                "2": "< 14,6 g hemoglobin/ 100 ml máu",
+                "3": "< 15 g hemoglobin/ 100 ml máu",
+                "4": "< 16,4 g hemoglobin/ 100 ml máu",
+                "A": "A",
+                "Q": "Theo tiêu chuẩn của WHO, nam giới được xác định bị thiếu máu khi"
+            },
+            "74": {
+                "1": "< 12g hemoglobin/ 100 ml máu",
+                "2": "< 18g hemoglobin/ 100 ml máu",
+                "3": "< 14g hemoglobin/ 100 ml máu",
+                "4": "< 16,4g hemoglobin/ 100 ml máu",
+                "A": "A",
+                "Q": "Theo tiêu chuẩn của WHO, nữ giới được xác định bị thiếu máu khi"
+            },
+            "75": {
+                "1": "< 17,6 g hemoglobin/ 100 ml máu",
+                "2": "< 14 g hemoglobin/ 100 ml máu",
+                "3": "< 18 g hemoglobin/ 100 ml máu",
+                "4": "< 16,4 g hemoglobin/ 100 ml máu",
+                "A": "B",
+                "Q": "Theo tiêu chuẩn của WHO, trẻ sơ sinh được xác định bị thiếu máu khi"
+            },
+            "76": {
+                "1": "Trên màng hồng cầu",
+                "2": "Trong tế bào chất",
+                "3": "Trong huyết tương",
+                "4": "Trên màng bạch cầu đa nhân trung tính",
+                "A": "A",
+                "Q": "Kháng nguyên nhóm máu có mặt ở"
+            },
+            "77": {
+                "1": "Kháng thể nằm trong hồng cầu",
+                "2": "Cơ thể có trạng thái dungg nạp với kháng nguyên bản thân",
+                "3": "Kháng thể trước đó đã kết hợp với albumin huyết tương",
+                "4": "Kháng thể tương ứng đã trung hòa hết kháng nguyên lạ",
+                "A": "B",
+                "Q": "Trong huyết tương, không bao giờ có kháng thể chống lại kháng nguyên có trên bề mặt hồng cầu của chính cơ thể đó"
+            },
+            "78": {
+                "1": " Kháng nguyên A trên bề mặt hồng cầu và không có kháng thể alpha, beta trong huyết tương",
+                "2": " Kháng nguyên A trên bề mặt hồng cầu và kháng thể alpha trong huyết tương",
+                "3": " Kháng nguyên A trên bề mặt hồng cầu và kháng thể beta trong huyết tương",
+                "4": " Kháng nguyên A trên bề mặt hồng cầu và cả kháng thể alpha, beta trong huyết tương",
+                "A": "C",
+                "Q": "Người nhóm máu A có:"
+            },
+            "79": {
+                "1": "Kháng nguyên B trên bề mặt hồng cầu và kháng thể alpha trong huyết tương",
+                "2": "Kháng nguyên B trên bề mặt hồng cầu và kháng thể beta trong huyết tương",
+                "3": "Kháng nguyên B trên bề mặt hồng cầu và cả kháng thể beta, alpha trong huyết tương",
+                "4": "Kháng nguyên B trên bề mặt hồng cầu và không có kháng thể alpha, beta trong huyết tương",
+                "A": "A",
+                "Q": "Người nhóm máu B có"
+            },
+            "80": {
+                "1": "Kháng nguyên A và B trên bề mặt hồng cầu; kháng thể alpha và beta trong huyết tương",
+                "2": "Kháng nguyên A và B trên bề mặt hồng cầu; không có kháng thể alpha và beta trong huyết tương",
+                "3": "Kháng nguyên A trong huyết tương, kháng nguyên B trên bề mặt hồng cầu",
+                "4": "Kháng nguyên A trên bề mặt hồng cầu; kháng nguyên B trong huyết tương",
+                "A": "B",
+                "Q": "Người nhóm máu AB có"
+            },
+            "81": {
+                "1": "Không có kháng nguyên A và B trên bề mặt hồng cầu; trong huyết tương chỉ có kháng thể beta",
+                "2": "Không có kháng nguyên A và B trên bề mặt hồng cầu; trong huyết tương không có kháng thể alpha và beta",
+                "3": "Không có kháng nguyên A và B trên bề mặt hồng cầu; trong huyết tương có cả kháng thể alpha và beta",
+                "4": "Không có kháng nguyên A và B trên bề mặt hồng cầu; trong huyết tương chỉ có kháng thể alpha",
+                "A": "C",
+                "Q": "Người nhóm máu O"
+            },
+            "82": {
+                "1": "O",
+                "2": "A1",
+                "3": "B",
+                "4": "AB",
+                "A": "A",
+                "Q": "Người có nhóm máu A2 có thể nhầm với nhóm máu nào sau đây"
+            },
+            "83": {
+                "1": "nhóm A1b",
+                "2": "nhóm O",
+                "3": "nhóm B",
+                "4": "nhóm A",
+                "A": "C",
+                "Q": "Người có nhóm máu A2B có thể nhầm với nhóm máu nào sau đây"
+            },
+            "84": {
+                "1": 0.53,
+                "2": 0.33,
+                "3": 0.63,
+                "4": 0.43,
+                "A": "D",
+                "Q": "Tỷ lệ nhóm máu O của người Việt Nam là"
+            },
+            "85": {
+                "1": "31,5%",
+                "2": "27,5 %",
+                "3": "21,5 %",
+                "4": "29,5 %",
+                "A": "C",
+                "Q": "Tỷ lệ nhóm máu A của người Việt Nam là"
+            },
+            "86": {
+                "1": "25,5%",
+                "2": "23,5%",
+                "3": "43,5%",
+                "4": "29,5%",
+                "A": "D",
+                "Q": "Tỷ lệ nhóm máu B của người Việt Nam"
+            },
+            "87": {
+                "1": 0.16,
+                "2": "29,5%",
+                "3": "21,5%",
+                "4": 0.06,
+                "A": "D",
+                "Q": "Tỷ lệ nhóm máu AB của người Việt Nam là"
+            },
+            "88": {
+                "1": "Kháng nguyên E (Rh\")",
+                "2": "Kháng nguyên F (Rh1)",
+                "3": "Kháng nguyên D (Rh0)",
+                "4": "Kháng nguyên C (Rh')",
+                "A": "C",
+                "Q": "Có 99,92% người Việt Nam có (các) kháng nguyên thuộc nhóm máu Rhesus sau trên mặt hồng cầu"
+            },
+            "89": {
+                "1": "Toàn bộ (100 %)",
+                "2": "Hầu hết (99,92 %)",
+                "3": "Hầu như không đáng kể (0,08 %)",
+                "4": "Đa số (85%)",
+                "A": "C",
+                "Q": "Tỷ lệ Rh- ở Việt Nam là một tỷ lệ"
+            },
+            "90": {
+                "1": "Ngay từ lần đầu tiên truyền nhầm máu Rh- cho người Rh+",
+                "2": "Sau vài lần truyền nhầm máu Rh+ cho người có Rh- trở đi",
+                "3": "Ngay từ lần đầu tiên truyền nhầm máu Rh+ cho người có Rh-",
+                "4": "Không thể xảy ra do kháng nguyên Rh có tính sinh miến dịch yếu",
+                "A": "B",
+                "Q": "Tai biến khi truyền nhầm nhóm máu Rhesus xảy ra khi"
+            },
+            "91": {
+                "1": "Mẹ Rh-, bố Rh+, thai nhi Rh-",
+                "2": "Mẹ Rh+, bố Rh-, thai nhi Rh-",
+                "3": "Mẹ Rh+, bố Rh-, thai nhi Rh+",
+                "4": "Mẹ Rh-, bố Rh+, thai nhi Rh+",
+                "A": "D",
+                "Q": "Bệnh vàng da tan máu miễn dịch do bất đồng nhóm máu Rhesus ở thai nhi xảy ra khi"
+            },
+            "92": {
+                "1": "Không để hồng cầu người cho ngưng kết trong máu người nhận",
+                "2": "không để kháng nguyên và kháng thể tương ứng gặp nhau trong máu người nhận",
+                "3": "Truyền máu tự thân",
+                "4": "Không để hồng cầu người nhận ngưng kết trong máu người cho",
+                "A": "B",
+                "Q": "Quy tắc cơ bản trong truyền máu là"
+            },
+            "93": {
+                "1": "Tỉ lệ % giữa các loại bạch cầu trong tủy đồ",
+                "2": "Tỷ lệ % giữa bạch cầu non và bạch cầu trưởng thành trong máu ngoại vi",
+                "3": "Tỉ lệ % giữa bạch cầu đa nhân và bạch cầu đơn nhân",
+                "4": "Tỉ lệ % các loại bạch cầu ở máu ngoại vi",
+                "A": "D",
+                "Q": "Công thức bạch cầu phổ thông là"
+            },
+            "94": {
+                "1": "N: 62,0%; E: 2,3%; B: 0,4%; M: 5,3%; L: 30%",
+                "2": "N: 62,0%; E: 2,3%; B: 30,0%; M: 5,3%; L: 0,4%",
+                "3": "N: 30%; E: 2,3%; B: 0,4%; M: 5,3%; L: 62%",
+                "4": "N: 30,0%; E: 2,3%; B: 0,4%; M: 5,3%; L: 62,0%",
+                "A": "A",
+                "Q": "Tỉ lệ bình thường các loại bạch cầu trong máu ngoại vi ở người là "
+            },
+            "95": {
+                "1": "Giảm < 60% trong các trường hợp nhiễm trùng tối đa cấp tính",
+                "2": "Tăng > 70% trong các trường hợp nhiễm khuẩn cấp tính",
+                "3": "Tăng liên tục trong các bệnh giun sán, dị ứng, bệnh chất tạo keo",
+                "4": "Tỷ lệ bình thường trong máu ngoại vi là 62%",
+                "A": "C",
+                "Q": " Câu nào sau đây KHÔNG ĐÚNG về bạch cầu đa nhân trung tính"
+            },
+            "96": {
+                "1": "Nhiễm khuẩn tối cấp",
+                "2": "Hội chứng Cushing",
+                "3": "Nhiễm ký sinh trùng đường ruột",
+                "4": "Sốt rét",
+                "A": "B",
+                "Q": "Bạch cầu đa nhân ưa acid GIẢM trong trường hợp sau"
+            },
+            "97": {
+                "1": "Chuyển động theo kiểu amip",
+                "2": "Xuyên mạch và thực bào",
+                "3": "Ngưng tập",
+                "4": "Hóa ứng động và nhiệt ứng động",
+                "A": "C",
+                "Q": "Bạch cầu có các tính sau, NGOẠI TRỪ"
+            },
+            "98": {
+                "1": "Lympho bào T hỗ trợ",
+                "2": "Lympho bào T trấn áp",
+                "3": "Lympho bào T nhớ",
+                "4": "Lympho bào T gây độc  ",
+                "A": "C",
+                "Q": "Đáp ứng miễn dịch thứ phát nhanh và mạnh hơn so với đáp ứng miễn dịch nguyên phát là nhờ vai trò của"
+            },
+            "99": {
+                "1": "2 chuỗi α và 2 chuỗi δ",
+                "2": "2 chuỗi α và 2 chuỗi γ",
+                "3": "2 chuỗi α và 2 chuỗi β",
+                "4": "2 chuỗi γ và 2 chuỗi β",
+                "A": "C",
+                "Q": "Globin có cấu trúc là các chuỗi polypeptide, ở người lớn, 4 chuỗi polypeptide giống nhau từng đôi một là"
+            },
+            "100": {
+                "1": "Hb có tính chất đệm",
+                "2": "Kết hợp với oxy tạo thành oxyhemoglobin (HbO2)",
+                "3": "Quá trình chuyển hóa Hb tạo thành các acid mật",
+                "4": "Kết hợp với carbonic tạo thành carbohemoglobin (HbO2)",
+                "A": "C",
+                "Q": "Chức năng nào sau đây của Hb là KHÔNG đúng"
+            },
+            "101": {
+                "1": "Chức năng điều hòa acid-base",
+                "2": "Chức năng vận chuyển khí oxy và carbonic",
+                "3": "Chức năng thực bào bảo vệ cơ thể",
+                "4": "Chức năng tạo độ nhớt của máu",
+                "A": "C",
+                "Q": "Chức năng nào sau đây của hồng cầu là KHÔNG đúng"
+            },
+            "102": {
+                "1": "5,4 ml",
+                "2": "6,5 ml",
+                "3": "14,5 ml",
+                "4": "4,5 ml",
+                "A": "D",
+                "Q": "Trong 100ml máu CO2 được vận chuyển dưới dạng HbCO2 là"
+            },
+            "103": {
+                "1": "Có 3 loại kháng nguyên A, B và O",
+                "2": "Có 3 loại kháng nguyên A, B và AB",
+                "3": "Có 4 loại kháng nguyên A, B, O và AB",
+                "4": "Có 2 loại kháng nguyên A và B",
+                "A": "D",
+                "Q": "Trường hợp nào sau đây là đúng về kháng nguyên trong hệ thống nhóm máu ABO"
+            },
+            "104": {
+                "1": "Tên nhóm máu được gọi theo tên kháng thể có trong huyết tương",
+                "2": "Tên nhóm máu được gọi theo kháng nguyên có trên màng hồng cầu",
+                "3": "Một người có thể mang một, hai hoặc không có kháng nguyên nào trênmàng hồng cầu",
+                "4": "Một người không thể cùng mang kháng thể và kháng nguyên tương ứng",
+                "A": "A",
+                "Q": " Trường hợp nào sau đây là KHÔNG đúng về hệ thống nhóm máu ABO"
+            },
+            "105": {
+                "1": "Không có kháng thể nào ",
+                "2": "Kháng thể α và β",
+                "3": "Kháng thể α",
+                "4": "Kháng thể β",
+                "A": "D",
+                "Q": "Người mang nhóm máu A thì có kháng thể nào trong huyết tương"
+            },
+            "106": {
+                "1": "Người có nhóm máu A truyền được cho người có nhóm máu AB",
+                "2": "Người có nhóm máu B truyền được cho người có nhóm máu AB",
+                "3": "Người có nhóm máu AB truyền được cho người có nhóm máu B",
+                "4": "Người có nhóm máu O truyền dược cho người có nhóm máu A",
+                "A": "C",
+                "Q": " Khi truyền máu  theo quy tắc tối thiểu trường hợp nào sau đây là không đúng"
+            },
+            "107": {
+                "1": "Có ba loại kháng nguyên là C, D và E trên màng hồng cầu",
+                "2": "Người có kháng nguyên E trên màng hồng cầu là Rh-",
+                "3": "Người có kháng nguyên D trên màng hồng cầu là Rh+",
+                "4": "Chỉ có kháng nguyên D là có tính kháng nguyên mạnh",
+                "A": "B",
+                "Q": "Nhận định nào sau đây là KHÔNG đúng với hệ thống của nhóm máu Rh"
+            },
+            "108": {
+                "1": "99,92%",
+                "2": 1,
+                "3": 0.15,
+                "4": 0.85,
+                "A": "A",
+                "Q": " Tỷ lệ nào sau đây là đúng với tỷ lệ người Việt Nam mang trong nhóm máu Rh+"
+            },
+            "109": {
+                "1": "Chỉ xuất hiện ở người mang nhóm máu Rh+ khi được truyền máu Rh-",
+                "2": "Không có sẵn, xuất hiện theo kiểu miễn dịch",
+                "3": "Không xuất hiện ngay mà phải sau 2 đến 4 tuần sau khi được truyền",
+                "4": "Nồng độ đạt tối đa sau 2 đến 4 tháng và duy trì suốt đời",
+                "A": "A",
+                "Q": "Thông tin nào sau đây là KHÔNG đúng với kháng thể kháng Rh"
+            },
+            "110": {
+                "1": "Có chức năng bảo vệ cơ thể bằng quá trình thực bào",
+                "2": "Được sản xuất ở tủy xương",
+                "3": "Được trưởng thành ở tuyến ức",
+                "4": " Được sản xuất ở gan, ruột thừa",
+                "A": "B",
+                "Q": "Trường hợp nào sau đây về bạch cầu lympho B là đúng"
+            },
+            "111": {
+                "1": "Bạch cầu lympho B tham gia vào đáp ứng miễn dịch tế bào",
+                "2": "Bạch cầu lympho B biệt hóa thành tương bào",
+                "3": "Bạch cầu lympho B khi kết hợp với kháng nguyên đặc hiệu được biệt hóa thành bạch cầu lympho non",
+                "4": "Bạch cầu lympho B biệt hóa thành lympho B nhớ",
+                "A": "A",
+                "Q": "Trường hợp nào sau đây là KHÔNG đúng khi nói về chức năng của bạch cầu lympho B"
+            },
+            "112": {
+                "1": "điều hòa hệ thống miễn dịch",
+                "2": "biệt hóa nhanh và sản xuất ra kháng thể mạnh nếu kháng nguyên thâm nhập vào cơ thể lần thứ 2",
+                "3": "sản xuất ra kháng thể mạnh ngay lập tức",
+                "4": "tăng cường miễn dịch tế bào ",
+                "A": "B",
+                "Q": "Tác dụng của bạch cầu  lympho B nhớ là"
+            },
+            "113": {
+                "1": "Được sản xuất ở tuyến ức",
+                "2": "Có chức năng bảo vệ cơ thể bằng quá trình thực bào",
+                "3": "Được sản xuất ở gan, ruột thừa",
+                "4": "Được trưởng thành ở tuyến ức",
+                "A": "D",
+                "Q": "Nhận định nào sau đây về bạch cầu lympho T là đúng"
+            },
+            "114": {
+                "1": "Lympho T nhớ",
+                "2": "Lympho T độc",
+                "3": "Lympho T bổ trợ",
+                "4": "Lympho T trấn áp",
+                "A": "C",
+                "Q": "Bạch cầu lympho nào sau đây có vai trò điều hòa hệ thống miễn dịch nhờ các lymphokin"
+            },
+            "115": {
+                "1": "Điều khiển ngược với lympho T bổ trợ",
+                "2": "Trực tiếp diệt tế bào lạ, vi khuẩn",
+                "3": "Kích thích sự tăng trưởng và biệt hóa của bạch cầu lypho B thành tương bào",
+                "4": "điều hòa hệ thống miễn dịch",
+                "A": "B",
+                "Q": "Chức năng nào sau đây là đúng với bạch cầu lympho T độc"
+            },
+            "116": {
+                "1": "Điều khiển ngược với lympho T bổ trợ",
+                "2": "Bảo vệ cơ thể bằng quá trình thực bào",
+                "3": "Kích thích sự tăng trưởng và biệt hóa của bạch cầu lympho B thành tương bào",
+                "4": "Kích thích sự tăng trưởng và tăng sinh của lypho T độc và trấn áp",
+                "A": "B",
+                "Q": "Nhận định nào sau đây là KHÔNG đúng về chức năng của lymphokin"
+            },
+            "117": {
+                "1": "Bảo vệ cơ thể bằng quá trình thực bào",
+                "2": "điều hòa hệ thống miễn dịch nhờ các lymphokin",
+                "3": "Trực tiếp diệt tế bào lạ, vi khuẩn",
+                "4": "ức chế Lympho T bổ trợ và lympho T độc",
+                "A": "D",
+                "Q": "Bạch cầu lympho T trấn áp có chức năng "
+            },
+            "118": {
+                "1": "Tích điện trái dấu ",
+                "2": "Có vỏ bọc dày",
+                "3": "Đã bị qua trình opsonin hóa",
+                "4": "Bề mặt xù xì",
+                "A": "B",
+                "Q": "Đặc điểm nào sau đây là đúng với các chất KHÔNG dễ bị thực bào"
+            },
+            "119": {
+                "1": "Tiếp cận bắt giữ vật lạ",
+                "2": "Túi thực bào hòa màng với nhân của tế bào",
+                "3": "Nuốt vật là vào tế bào và túi tạo thực bào",
+                "4": "Các enzym trong của lysozom phân cắt các vật lạ mà tế bào nuốt vào",
+                "A": "B",
+                "Q": "Quá trình nào sau đây là không đúng với quá trình thực bào"
+            },
+            "120": {
+                "1": "Diệt được 5 đến 25 vi khuẩn",
+                "2": "Diệt được nhiều hơn 100 vi khuẩn",
+                "3": "Diệt được 50 đến 70 vi khuẩn",
+                "4": "Diệt được 30 đến 50 vi khuẩn",
+                "A": "A",
+                "Q": "Nhận định nào sau đây là đúng với khả năng diệt khuẩn của bạch cầu N"
+            },
+            "121": {
+                "1": "Hóa ứng động  ",
+                "2": "Không có khả năng tự chuyển động",
+                "3": "Bám mạch",
+                "4": "Xuyên mạch",
+                "A": "B",
+                "Q": "Đặc tính nào sau đây không đúng với bạch cầu N"
+            },
+            "122": {
+                "1": "0% - 1%",
+                "2": "20% - 30%",
+                "3": "60% - 70%",
+                "4": "2% - 4%",
+                "A": "D",
+                "Q": "Tỷ lệ % bạch cầu đa nhân ưa acid trong máu là"
+            },
+            "123": {
+                "1": "1 hem và 4 globin",
+                "2": "1 globin và 4 hem",
+                "3": "1 hem và 1 Globin",
+                "4": "4 hem và 4 globin",
+                "A": "B",
+                "Q": "Cấu trúc của phân tử Hemoglobin"
+            },
+            "124": {
+                "1": "Hem là 1 sắc tố màu đỏ",
+                "2": "Hem đặc trưng cho loài",
+                "3": "Trong Hem có 1 vòng porphyrin ở giữa có Fe",
+                "4": "Hem không đặc trưng cho loài",
+                "A": "B",
+                "Q": "Điều nào sau đây KHÔNG đúng về Hem trong phân tử Hemoglobin"
+            },
+            "125": {
+                "1": "là hệ đệm quan trọng nhất trong máu",
+                "2": "là hệ đệm có vai trò yếu trong máu ",
+                "3": "là hệ đệm quan trọng nhất trong tế bào",
+                "4": "là hệ đệm quan trọng nhất trong hồng cầu",
+                "A": "D",
+                "Q": "Hệ đệm hemoglobin "
+            },
+            "126": {
+                "1": "cấu trúc gồm 4 chuỗi popypeptit đôi 1 giống nhau",
+                "2": "cấu trúc gồm 4 chuỗi popypeptit giống nhau",
+                "3": "Globin không đặc trưng cho loài",
+                "4": "cấu trúc gồm 4 chuỗi popypeptit khác nhau",
+                "A": "A",
+                "Q": "globin trong phân tử hemoglobin "
+            },
+            "127": {
+                "1": "nồng độ hemoglobin nhỏ hơn 13g/100ml máu",
+                "2": "nồng độ hemoglobin nhỏ hơn 14g/100ml máu",
+                "3": "nồng độ hemoglobin nhỏ hơn 12g/100ml máu",
+                "4": "nồng độ hemoglobin nhỏ hơn 15g/100ml máu",
+                "A": "C",
+                "Q": "Phụ nữ trưởng thành được coi là thiếu máu khi"
+            },
+            "128": {
+                "1": "có kháng nguyên C trên màng hồng cầu",
+                "2": "có kháng nguyên D trên màng hồng cầu",
+                "3": "có kháng nguyên C và E trên màng hồng cầu",
+                "4": "Không có kháng nguyên D trên màng hồng cầu",
+                "A": "B",
+                "Q": "Người mang nhóm máu Rh+ khi"
+            },
+            "129": {
+                "1": "Trực tiếp diệt tế bào lạ, vi khuẩn ",
+                "2": "Tiết ra các protein tạo lỗ trên màng Tế bào",
+                "3": "Tiêu diệt Tb ung thư và cơ quan ghép",
+                "4": "Biệt hóa tạo thành tương bào sản xuất kháng thể",
+                "A": "D",
+                "Q": "Tế bào Lympho T gây độc KHÔNG có chức năng nào sau đây"
+            },
+            "130": {
+                "1": "Bám mạch",
+                "2": "Không có khả năng chuyển động",
+                "3": "Xuyên mạch",
+                "4": "Hóa ứng động ( dương, âm)",
+                "A": "B",
+                "Q": "Bạch cầu đa nhân trung tính không có đặc điểm nào sau đây"
+            },
+            "131": {
+                "1": "Một",
+                "2": "hai",
+                "3": "ba",
+                "4": "Bốn",
+                "A": "D",
+                "Q": "Thành phần Globin trong phân tử hemoglobin được cấu trúc từ mấy chuỗi popypeptit"
+            },
+            "132": {
+                "1": "Cấu trúc các chuỗi popypeptit cấu tạo nên Globin",
+                "2": "Các nhân pyrol",
+                "3": "Nguyên tử kim loại gắn với porphyrin ",
+                "4": "Vị trí gắn của các gốc metyl ( -CH3)",
+                "5": "Các cầu nối menten ( -Ch=) giữa các nhân pyrol",
+                "A": "A",
+                "Q": "Ở các loài động vật có xương sống, điều gì làm cho hemoglobin đặc trưng theo loài"
+            },
+            "133": {
+                "1": "Hem kết hợp albumin trong môi trường acid",
+                "2": "Hem kết hợp nicotin trong môi trường acid",
+                "3": "Hem kết hợp NaCl trong môi trường acid",
+                "4": "Hem kết hợp amoniac trong môi trường acid",
+                "A": "C",
+                "Q": "Hemin là sản phẩm được tạo thành từ"
+            },
+            "134": {
+                "1": "Vị trí thứ 3 của chuỗi beta trong hemoglobin A là Valin bị thay thể bằng threonin ở chuỗi gamma trong hemoglobin F",
+                "2": "Vị trí thứ 3 của chuỗi alpha trong hemoglobin A là Valin bị thay thể bằng Glutamin ở chuỗi gamma trong hemoglobin F",
+                "3": "Vị trí thứ 6 của chuỗi beta trong hemoglobin A là glutamin bị thay thể bằng valin ở chuỗi gamma trong hemoglobin F",
+                "4": "Vị trí thứ 3 của chuỗi beta trong hemoglobin A là glutamin bị thay thể bằng threonin ở chuỗi gamma trong hemoglobin F",
+                "5": "Vị trí thứ 6 của chuỗi beta trong hemoglobin A là threinin bị thay thể bằng valin ở chuỗi gamma trong \r\nhemoglobin F",
+                "A": "D",
+                "Q": "Hemoglobin A và hemoglobin F khác nhau ở chỗ nào"
+            },
+            "135": {
+                "1": "Vị trí thứ 3 của chuỗi beta trong hemoglobin A  là alanin bị thay thế bằng Glutamin",
+                "2": "Vị trí thứ 6 của chuỗi beta trong hemoglobin A  là Valin bị thay thế bằng Alanin",
+                "3": "Vị trí thứ 3 của chuỗi alpha trong hemoglobin A  là glutamin bị thay thế bằng Valin",
+                "4": "Vị trí thứ 3 của chuỗi alpha trong hemoglobin A  là valin bị thay thế bằng Glutamin",
+                "5": "Vị trí thứ 6 của chuỗi beta trong hemoglobin A  là valin bị thay thế bằng Glutamin",
+                "A": "E",
+                "Q": "hemoglobin A và hemoglobin S khác nhau ở chỗ nào"
+            },
+            "136": {
+                "1": "Một",
+                "2": "Hai",
+                "3": "Ba",
+                "4": "Bốn",
+                "5": "Từ 1 tới 4. tùy thuộc phân áp Oxy",
+                "A": "D",
+                "Q": "Cấu trúc 1 phân tử hemoglobin có mấy ion Fe2++"
+            },
+            "137": {
+                "1": "Oxy nhận điện tử từ Fe2+",
+                "2": "Nhóm imidazole định hướng trên bề mặt hemoglobin liên kết phối trí với Fe2+",
+                "3": "Oxy nhận điện tử từ Nito",
+                "4": "Fe2+ trở thành acid yếu",
+                "A": "B",
+                "Q": "methemoglobin được tạo ra khi"
+            },
+            "138": {
+                "1": "Nhiễm khuẩn mạn tính",
+                "2": "Nhiễm khuẩn cấp tính",
+                "3": "Hen phế quản",
+                "4": "Nhiễm Kí sinh trùng",
+                "5": "Leukemia thể Lympho",
+                "A": "D",
+                "Q": "Xét nghiệm công thức Bạch cầu trong máu ngoại vi của 1 bệnh nhân thấy  N 62%, E 15%, B 0%, L 21%, M 2%. Kết quả này gợi ý bệnh nhân mắc bênh gì"
+            },
+            "name": "SINH LÍ MÁU"
+        }
+    }
+}

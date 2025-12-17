@@ -1,0 +1,593 @@
+{
+    "SINH_LY_HOC_2018": {
+        "sinhlytieuhoa": {
+            "1": {
+                "1": "Histamin làm tăng hưng phấn dây thần kinh X",
+                "2": " Acetylcholin làm tăng hoạt động bơm proton",
+                "3": "Enzym carbonic anhydrase làm tăng chuyển H+ vào tế bào bìa",
+                "4": "Histamin tác động lên thụ thể H2 ở tế bào bìa",
+                "A": "D",
+                "Q": "Các chất hóa học gây tăng tiết HCl từ tế bào bìa là:"
+            },
+            "2": {
+                "1": "Thủy phân liên kết peptid bên trong phân tử protein có nhóm -NH thuộc acid amin thơm",
+                "2": "Thủy phân liên kết peptid bất kỳ",
+                "3": "Thủy phân tất cả các loại protein thức ăn",
+                "4": "Thủy phân liên kết peptid bên trong phân tử caseinogen của sữa",
+                "A": "A",
+                "Q": "Men pepsin của dạ dày có tác dụng "
+            },
+            "3": {
+                "1": "tiêu hóa các phân tử proteoglycan có trong thịt",
+                "2": "hủy phân liên kết este bên trong lipid đã nhũ hóa",
+                "3": "Thủy phân liên kết peptid bất kỳ",
+                "4": "biến caseinogen thành 2 phân tử casein",
+                "A": "D",
+                "Q": "Men chymosin của dạ dày "
+            },
+            "4": {
+                "1": "Thủy phân liên kết peptid bên trong phân tử caseinogen của sữa",
+                "2": "Thủy phân liên kết este bên trong lipid đã nhũ hóa",
+                "3": "Hoạt động tối ưu ở pH là 4,0  biến caseinogen thành 2 phân tử casein",
+                "4": "tiêu hóa các phân tử proteoglycan có trong thịt",
+                "A": "D",
+                "Q": "Men gelatinase của dạ dày"
+            },
+            "5": {
+                "1": "Phân cắt liên kết este giữa những glycerol và acid béo của mỡ đã nhũ tương hóa",
+                "2": "Thủy phân liên kết peptid bất kỳ",
+                "3": "Tách một acid béo khỏi phospholipid để tạo lysolecithin",
+                "4": "Hoạt động tối ưu ở pH là 6,0 và biến caseinogen của sữa thành 2 phân tử casein",
+                "A": "A",
+                "Q": "Men lipase dạ dày"
+            },
+            "6": {
+                "1": "Carboxypeptidase phân cắt 1 acid amin đầu C tận ra khỏi đoạn peptid và giúp hoạt hóa chymotrypsin",
+                "2": "Trypsin có tác dụng hoạt hóa các men chymotrypsin, carboxypeptidase, phosholipase và chính tiền men của nó",
+                "3": "Chymotrypsin và pepsin phân cắt phần lớn protid thức ăn thành các đoạn peptid ngắn",
+                "4": "Các men tiêu hóa protid dịch tụy biến 60-80% protid thức ăn thành các acid amin",
+                "A": "B",
+                "Q": "Tác dụng của các men tiêu hóa protid thuộc dịch tụy:"
+            },
+            "7": {
+                "1": "Có bản chất là glycoprotein và mucopolysaccharid do các tế bào bìa tiết ra",
+                "2": "Có tác dụng trung hòa một phần HCl và pepsin ở trong lòng dạ dày",
+                "3": "Do các tế bào chính tiết ra, có bản chất là glycoprotein và mucopolysaccharid",
+                "4": "Có bản chất là glycoprotein và mucopolysaccharid, là thành phần của yếu tô phá hủy",
+                "A": "B",
+                "Q": "Chất nhầy hòa tan của dạ dày"
+            },
+            "8": {
+                "1": "Do các tế bào phụ tiết ra, là thành phần của yếu tố phá hủy",
+                "2": "Có bản chất là glycoprotein và mucopolysaccharid do các tế bào tiết ra",
+                "3": "Có bản chất là glycoprotein và mucopolysaccharid, là thành phần của yếu tố phá hủy",
+                "4": "Cùng với bicarbonat tạo thành một lớp màng phủ toàn bộ bề mặt niêm mặt dạ dày- hành tá tràng",
+                "A": "D",
+                "Q": "Chất nhầy không hòa tan"
+            },
+            "9": {
+                "1": "do các tế bào bìa tiết ra",
+                "2": "là yếu tố bao vệ ",
+                "3": "do các tế bào chính tiết ra, là thành phần của yếu tố bảo vệ",
+                "4": "do các tế bào chính tiết ra",
+                "A": "B",
+                "Q": "Chất nhầy và bicarbinat"
+            },
+            "10": {
+                "1": "do các tế bào chính và tế bào bìa tiết ra, là yếu tố phá hủy",
+                "2": "do các tế bào chính và lớp tế bào niêm mạc bề mặt dạ dày tiết ra",
+                "3": "do các tế bào phụ và lớp tế bào niêm mạc bề mặt dạ dày tiết ra",
+                "4": "do các tế bào chính và tế bào phụ tiết ra, là thành phần của yếu tố bảo vệ",
+                "A": "A",
+                "Q": "Pepsin và HCl"
+            },
+            "11": {
+                "1": "dịch vị: 1,0-2,0; dịch tụy: 6,0-8,0",
+                "2": "dịch vị: 2,5-3,5; dịch tụy: 7,1-8,0",
+                "3": "dịch vị: 1,0-2,0; dịch tụy: 5,0-7,0",
+                "4": "dịch vị: 0,8-1,0; dịch tụy: 7,8-8,4",
+                "A": "D",
+                "Q": "Cho biết pH của dịch vị, dịch tụy tinh khiết"
+            },
+            "12": {
+                "1": "Kích thích bài tiết dịch tụy",
+                "2": "Biến pepsinogen thành pepsin",
+                "3": "Hoạt hóa men tiêu hóa protid của dịch tụy",
+                "4": "Kích thích bài tiết dịch vị",
+                "A": "D",
+                "Q": "Vai trò cơ bản của gastrin là gì?"
+            },
+            "13": {
+                "1": "Dưới ảnh hưởng của men pepsin",
+                "2": "Dưới ảnh hưởng của men enterokinase ở tá tràng",
+                "3": "Dưới ảnh hưởng của HCl trong dịch vị",
+                "4": "Dưới ảnh hưởng của dịch mật",
+                "A": "B",
+                "Q": "Trong điều kiện nào trypsinogen chuyển thành trypsin"
+            },
+            "14": {
+                "1": "Được chuyển hóa thành dạng hoạt động dưới tác động dưới tác dụng của pepsin",
+                "2": "Được bài tiết bởi tế bào tụy ở dạng tiền men là protrypsin, chymotrypsinogen và procarboxypeptidase",
+                "3": "Ở dạng tiền men chưa hoạt động là trypsinogen, prochymotrypsin và procarboxypeptidase",
+                "4": "Được bài tiết bởi tế bào tụy ở dạng  chưa hoạt động  là trypsinogen, chymotrypsinogen và procarboxypeptidase",
+                "A": "D",
+                "Q": "Trypsin, chymotrypsin và carboxypeptidase"
+            },
+            "15": {
+                "1": "Được xếp vào nhóm exopeptidase",
+                "2": "Được xếp vào nhóm men endopeptidase",
+                "3": "Có tác dụng hoạt hóa enterokinase",
+                "4": "Được hoạt hóa bởi pepsin",
+                "A": "B",
+                "Q": "Trypsin và chymotrypsin  "
+            },
+            "16": {
+                "1": "Tác động vào liên kết peptid bên trong phân tử proteose và các chuỗi polypeptid ",
+                "2": "Được hoạt hóa bởi pepsin",
+                "3": "Chặt đứt liên kết peptid ngoài cùng đầu C tận; được xếp vào nhóm men exopeptidase",
+                "4": "Được xếp vào nhóm endopeptidase",
+                "A": "C",
+                "Q": "Carboxypeptidase  "
+            },
+            "17": {
+                "1": "Pepsin, lipase, gastrin và histamin",
+                "2": "Pepsin, lipase, amylase",
+                "3": "Pepsin, chymosin, lipase",
+                "4": "Pepsin, chymotrypsin, lipase",
+                "A": "C",
+                "Q": "Các men tiêu hóa của dịch vị gồm:"
+            },
+            "18": {
+                "1": "Trypsin, chymotrypsin và carboxypeptidase",
+                "2": "Trypsin, chymosin, lipase",
+                "3": "Trypsin, chymotrypsin, aminopeptidase",
+                "4": "Trypsin, chymotrypsin, pepsin, lipase",
+                "A": "A",
+                "Q": "Các men tiêu hóa protid của dịch tụy gồm:"
+            },
+            "19": {
+                "1": "Lipase, sacarase, phospholipase",
+                "2": "Lipase, phosphorylase, lactase",
+                "3": "Lipase, phospholipase, cholesterolesterase",
+                "4": "Lipase, phospholipase, cholesterolesterase, amylase",
+                "A": "C",
+                "Q": "Các men tiêu hóa lipid của dịch tụy gồm:"
+            },
+            "20": {
+                "1": "Thủy phân cholesterid thành cholesterol và acid béo",
+                "2": "Hoạt động trong môi trường kiềm, có pH tối thuận là 8,0",
+                "3": "Được trypsin hoạt hóa từ prophospholipase thành dạng hoạt động",
+                "4": "Thân giải những liên kết este giữa acid béo và glycerol của triglycerid đã nhũ hóa ",
+                "A": "C",
+                "Q": "Phospholipase tụy:"
+            },
+            "21": {
+                "1": "Amylase, maltase, lipase, lactase",
+                "2": "Amylase, lactase, mucbase, sacarase",
+                "3": "Amylase, lactase, maltase, glucokinase",
+                "4": "Amylase, sacarase, lactase, maltase",
+                "A": "D",
+                "Q": "Các men tiêu hóa glucid trong ống tiêu hóa gồm"
+            },
+            "22": {
+                "1": "Tăng tiết dịch vị nhiều chất nhầy, bicarbonat và dịch tụy giàu men",
+                "2": "Hoạt hóa các men tiêu hóa protid của dạ dày và tụy ",
+                "3": "Tăng tiết dịch vị, giảm tiết dịch tụy",
+                "4": "Tăng tiết dịch vị nhiều acid, pepsin và dịch tụy giàu men",
+                "A": "D",
+                "Q": "Kích thích dây thần kinh X có tác dụng"
+            },
+            "23": {
+                "1": "Gastrin và secretin",
+                "2": "Secretin, gastrin, histamin",
+                "3": "Secretin và CCK- PZ",
+                "4": "Gastrin và dây thần kinh X",
+                "A": "C",
+                "Q": "Yếu tố điều hòa bài tiết dịch tụy mạnh nhất là"
+            },
+            "24": {
+                "1": "Hoạt hóa men trypsin và pepsin",
+                "2": "Hoạt hóa men pepsin và kích thích nhu động dạ dày",
+                "3": "Hoạt hóa men pepsin và lipase dạ dày",
+                "4": "Kích thích nhu động dạ dày và hoạt hóa men lipase tụy",
+                "A": "B",
+                "Q": "HCl thuộc dịch vị có tác dụng:"
+            },
+            "25": {
+                "1": "Gastrin, enterogastrin và secretin",
+                "2": "Dây X, gastrin, histamin và somatostatin",
+                "3": "Gastrin, chymosin, enterogastrin và dây X",
+                "4": "Dây X, enterogastrin, histamin và gastrin",
+                "A": "D",
+                "Q": "Các yếu tố kích thích bài tiết mạnh HCl ở dạ dày gồm"
+            },
+            "26": {
+                "1": "HCl, yếu tố nội, chất nhầy, men pepsin và amylase",
+                "2": "Gastrin, HCl, yếu tố nội, vitamin B12 và chất nhầy",
+                "3": "Men pepsin, HCl, chất nhầy, yếu tố nội",
+                "4": "HCl, men pepsin, men chymosin, yếu tố nội và maltase",
+                "A": "C",
+                "Q": "Thành phần chính của dịch vị gồm"
+            },
+            "27": {
+                "1": "Pepsin phân cắt các chuỗi polypeptid thành các acid amin",
+                "2": "Chymosin phân cắt một loại protein có trong sữa ",
+                "3": "Lipase thủy phân tất cả các loại lipid thức ăn",
+                "4": "Yếu tố nội dạ dày làm tăng hấp thu các vitamin nhóm B ở ruột",
+                "A": "B",
+                "Q": "Các thành phần dịch vị có tác dụng"
+            },
+            "28": {
+                "1": "CCK gây tăng tiết dịch vị nhiều pepsin và chất nhầy",
+                "2": "Dây thần kinh X và gastrin gây tăng tiết dịch vị nhiều HCl và bicarbonat",
+                "3": "Gastrin và histamin gây tăng tiết dịch vị nhiều HCl và pepsin",
+                "4": "Secretin và glucagon gây tăng tiết dịch vị nhiều HCl và pepsin",
+                "A": "C",
+                "Q": "Các yếu tố thần kinh thể dịch điều hòa bài tiết dịch vị"
+            },
+            "29": {
+                "1": "Dịch tụy bài tiết mạnh do tác dụng của CCK, secretin và amylase",
+                "2": "Kích thích dây thần kinh giao cảm làm giảm bài tiết dịch tụy ",
+                "3": "Dịch tụy bài tiết mạnh và kéo dài do tác dụng của CCK và secretin",
+                "4": "Cơ chế thần kinh gây bài tiết dịch tụy mạnh và kéo dài",
+                "A": "C",
+                "Q": "Về cơ chế điều hòa bài tiết dịch tụy"
+            },
+            "30": {
+                "1": "Gastrinlike",
+                "2": "Enterokinase",
+                "3": "Bradykinin",
+                "4": "Secretin",
+                "A": "A",
+                "Q": "Các bệnh nhân măc hội chứng Zollinger- Ellison có mắc chứng loét đường tiêu hóa nặng do tăng tiết acid dạ dày. Nguyên nhân của sự tăng tiết acid là do nồng độ trong máu tăng của chất"
+            },
+            "31": {
+                "1": "Rennin và cholecystokinin",
+                "2": "Gastrin và rennin",
+                "3": "Cholecystokinin và secretin",
+                "4": "Secretin và motilin",
+                "A": "C",
+                "Q": "Chất nào dưới đây ảnh hưởng tới sự bài tiết của dịch tụy"
+            },
+            "32": {
+                "1": "Pancreatase",
+                "2": "Chymotrypsin  ",
+                "3": "Cholesterol esterase",
+                "4": "Amylase",
+                "A": "A",
+                "Q": "Dịch tụy chứa các chất sau, TRỪ"
+            },
+            "33": {
+                "1": "Casein",
+                "2": "Trypsin",
+                "3": "Pepsin",
+                "4": "Chymosin",
+                "A": "D",
+                "Q": "Enzym biến đổi protein sữa ở dạ dày thành dạng như váng sữa là"
+            },
+            "34": {
+                "1": "3-4 lít",
+                "2": "2- 2,5 lít",
+                "3": "0,8- 1 lít",
+                "4": "0,5- 1 lít",
+                "A": "B",
+                "Q": "Số lượng dịch vị hàng ngày ở người lớn tầm vóc trung bình là"
+            },
+            "35": {
+                "1": "0,5- 1 lít",
+                "2": "3,5- 4 lít",
+                "3": "2,5- 4 lít",
+                "4": "1,5- 2 lít",
+                "A": "D",
+                "Q": "Lượng dịch tụy được bài tiết mỗi ngày khoảng"
+            },
+            "36": {
+                "1": "protein",
+                "2": "mỡ",
+                "3": "các vitamin",
+                "4": "tinh bột",
+                "A": "D",
+                "Q": "Amylase là enzym chỉ phân giải"
+            },
+            "37": {
+                "1": "gastrin",
+                "2": "amylase",
+                "3": "chymosin",
+                "4": "chymotrypsin",
+                "A": "A",
+                "Q": "Các hormon làm dạ dày chế tiết các pepsinogen, chất nhày và axit clohydric là"
+            },
+            "38": {
+                "1": "Phân cắt liên kết este giữa những glycerol và acid béo ",
+                "2": "Phân cắt phân tử proteoglycan trong thịt",
+                "3": "Gây đông sữa do kích hoạt caseinogen",
+                "4": "Phân cắt liên kết peptid trong phân tử protein mà nhóm -NH thuộc về acid amin thơm",
+                "A": "D",
+                "Q": "Men pepsin trong dịch vị có tác dụng"
+            },
+            "39": {
+                "1": "1,5- 3,5",
+                "2": "> 5",
+                "3": "là 5-7",
+                "4": "< 1",
+                "A": "A",
+                "Q": "pH tối thuận hóa pepsin là "
+            },
+            "40": {
+                "1": "Tạo môi trường acid cho sự hoạt hóa pepsinogen thành pepsin",
+                "2": "Gây nhũ tương hóa lipid trong thức ăn",
+                "3": "Làm trương protein, phá vỡ mô liên kết trong các thớ thịt",
+                "4": "Tham gia vào cơ chế điều hòa bài tiết dịch tiêu hóa",
+                "A": "B",
+                "Q": "Câu trả lời nào sau đây KHÔNG ĐÚNG về tác dụng của HCl dịch vị"
+            },
+            "41": {
+                "1": "tế bào bìa",
+                "2": "tế bào phụ",
+                "3": "tế bào chính",
+                "4": "tế bào G",
+                "A": "A",
+                "Q": "HCl dịch vị được bài tiết từ"
+            },
+            "42": {
+                "1": "lòng tiểu quản tế bào",
+                "2": "trong tế bào phụ",
+                "3": "trong dịch kế",
+                "4": "trong tế bào chính",
+                "A": "A",
+                "Q": "Quá trình tạo HCl dịch vị diễn ra ở "
+            },
+            "43": {
+                "1": "trypsin",
+                "2": "carboxypeptidase",
+                "3": "chymosin",
+                "4": "chymotrypsin",
+                "A": "C",
+                "Q": "Men tiêu hóa protein của dịch tụy KHÔNG gồm men nào sau đây"
+            },
+            "44": {
+                "1": "phân cắt liên kết peptid mà nhóm -NH- thuộc acid amin kiềm",
+                "2": "phân cắt liên kết peptid mà nhóm -CO- thuộc nhóm axit amin kiềm",
+                "3": "phân cắt liên kết peptid mà nhóm -NH- thuộc acid amin thơm",
+                "4": "phân cắt liên kết peptid mà nhóm -CO- thuộc nhóm aaxit amin thơm",
+                "A": "B",
+                "Q": "Men trypsin do tụy tiết ra có tác dụng"
+            },
+            "45": {
+                "1": "phân cắt liên kết peptid mà nhóm -NH- thuộc acid amin thơm",
+                "2": "phân cắt liên kết peptid mà nhóm -CO- thuộc acid amin thơm",
+                "3": "phân cắt liên kết peptid mà nhóm -NH- thuộc acid amin kiềm",
+                "4": "phân cắt liên kết peptid mà nhóm -CO- thuộc acid amin kiềm",
+                "A": "B",
+                "Q": "Men chymotrypsin do tụy tiết ra có tác dụng"
+            },
+            "46": {
+                "1": "các disaccharide",
+                "2": "các đoạn oligopeptid có trong phân tử lượng thấp",
+                "3": "glycerin và acid béo",
+                "4": "các acid amin",
+                "A": "B",
+                "Q": "Sản phẩm của trypsin và chymotrypsin là"
+            },
+            "47": {
+                "1": "cắt đứt liên kết peptid ngoài cùng đầu N tận để tách ra một đoạn peptid ngắn hơn",
+                "2": "cắt đứt liên kết peptid ngoài cùng đầu N tận để tách một axid amin ra khỏi chuỗi peptid",
+                "3": "cắt đứt liên kết peptid ngoài cùng đầu C tận để tách một acid amin ra khỏi chuỗi peptid",
+                "4": "cắt đứt liên kết peptid ngoài cùng đầu C tận để tách ra một đoạn peptid ngắn hơn",
+                "A": "C",
+                "Q": "Enzym carboxypeptidase có vai trò"
+            },
+            "48": {
+                "1": "Gây tăng tiết dịch vị giàu men trong pha ruột",
+                "2": "Mất khả năng tiết dịch vị trong pha thần kinh",
+                "3": "Gây giảm tiết chất nhầy thành dạ dày",
+                "4": "Gây tăng tiết Gastrin trong pha dạ dày",
+                "A": "B",
+                "Q": "Khi cắt dây X hai bên sẽ gây ra "
+            },
+            "49": {
+                "1": "Nhóm men tiêu hóa protid (1)",
+                "2": "Cả 2 nhóm (1) và (2), không có nhóm (3)",
+                "3": "Nhóm men tiêu hóa lipid (2)",
+                "4": "Nhóm men tiêu hóa glucid (3)",
+                "A": "B",
+                "Q": "Men tiêu hóa ở dạ dày gồm"
+            },
+            "50": {
+                "1": "các acid amin riêng rẽ",
+                "2": "protein không bị phân cắt bởi men pepsin",
+                "3": "các đoạn peptid ngắn: pepton, proteose, albumose",
+                "4": "là các đoạn chuỗi polypeptide dài",
+                "A": "C",
+                "Q": "Sản phẩm sau khi men pepsin phân cắt protein gồm"
+            },
+            "51": {
+                "1": "hoạt hóa men pepsinogen thành men pepsin (1)",
+                "2": "Cả (1), (2), (3) ",
+                "3": "kích thích nhu động của dạ dày, tham gia vào cơ chế đóng mở của tâm vị và môn vị (2)",
+                "4": "tham gia điều hòa bài tiết dịch mật, dịch tụy và dịch ruột (3)",
+                "A": "B",
+                "Q": "Acid HCl trong dịch vị có tác dụng"
+            },
+            "52": {
+                "1": "pepsin của dịch vị",
+                "2": "gastrin",
+                "3": "histamin",
+                "4": "dây thần kinh X",
+                "A": "A",
+                "Q": "Thành phần nào sau đây KHÔNG gây tăng tiết acid HCl của dịch vị?"
+            },
+            "53": {
+                "1": "Có tác dụng bảo vệ niêm mạc hành tá tràng",
+                "2": "Tồn tại cả ở dạng hòa tan và không hòa tan",
+                "3": "Chỉ tồn tại dưới dạng hòa tan trong dịch vị",
+                "4": "Chỉ tồn tại dưới dạng không hòa tan",
+                "A": "A",
+                "Q": "Điều gì là đúng với chất nhầy và bicarbonat trong dịch vị dạ dày"
+            },
+            "54": {
+                "1": "Men enterokinase hoạt hóa men carboxypeptidase",
+                "2": "Men enterokinase hoạt hóa men chymotripsin",
+                "3": "Men chymotripsin hoạt hóa men trypsin",
+                "4": "Men trypsin hoạt hóa men chymotrypsin",
+                "A": "D",
+                "Q": "Nhận định nào là đúng về sự hoạt hóa các men tiêu hóa của dịch tụy?"
+            },
+            "55": {
+                "1": "cắt liên kết peptid  ở tất cả các vị trí ",
+                "2": "cắt liên kết peptid  ngoài cùng đầu C tận, tách một acid amin ra khỏi chuỗi peptid",
+                "3": "cắt liên kết peptid  ở nơi nhóm -CO- thuộc nhân kiềm",
+                "4": "cắt liên kết peptid  ở nơi nhóm -CO- thuộc nhân thơm",
+                "A": "B",
+                "Q": "Men carboxypeptidase của dịch tụy có tác dụng"
+            },
+            "56": {
+                "1": "cắt liên kết peptid ở nơi nhóm -CO- thuộc acid amin kiềm",
+                "2": "cắt liên kết peptid ở đầu tận",
+                "3": "cắt liên kết peptid ở tất cả các vị trí ",
+                "4": "cắt liên kết peptid ở nơi nhóm -CO-  thuộc acid amin thơm",
+                "A": "D",
+                "Q": "Men chymotripsin có tác dụng"
+            },
+            "57": {
+                "1": "chỉ tiêu hóa dược tinh bột chín",
+                "2": "sản phẩm tiêu hóa không tạo ra được các được các đường đơn",
+                "3": "tiêu hóa được cả tinh bột sống và chín",
+                "4": "chỉ tiêu hóa được tinh bột sống",
+                "A": "C",
+                "Q": "Men tiêu hóa glucid của dịch tụy "
+            },
+            "58": {
+                "1": "monoglycerit (3)",
+                "2": "triglycerit (1)",
+                "3": "cả (1), (2), (3)",
+                "4": "diglycerit (2)",
+                "A": "C",
+                "Q": "Men lipase của dịch tụy tiêu hóa được"
+            },
+            "59": {
+                "1": "secretin và CCK- PZ theo máu đến tuyến tụy làm tăng bài tiết dịch",
+                "2": "secretin tăng bào tiết dịch có nhiều chất nhầy và bicarbonate",
+                "3": "HCl và sản phẩm tiêu hóa gây bài tiết secretin và CCK-PZ ở dạ dày",
+                "4": "CCK- PZ tăng bào tiết dịch có nhiều men tiêu hóa",
+                "A": "C",
+                "Q": "Điều nào sau đây không đúng về cơ chế thể dịch điều hòa bài tiết dịch tụy"
+            },
+            "60": {
+                "1": "Phân cắt các liên kết peptid trong phân tử protein mà nhóm -NH2 thuộc về các amin thơm",
+                "2": "Phân cắt các liên kết peptid trong phân tử protein mà nhóm -NH2 thuộc về các amin kiềm",
+                "3": "tạo ra được các acid amin khi phân cắt phân tử protein",
+                "4": "tiêu hóa được khoảng 80% lượng protein thức ăn",
+                "A": "A",
+                "Q": "Men pepsin của dạ dày có tác dụng "
+            },
+            "61": {
+                "1": "Ph là 4",
+                "2": "Ph là 3",
+                "3": "Ph là 6",
+                "4": "Ph là 1",
+                "A": "C",
+                "Q": "Men lipase của dạ dày hoạt động tối ưu ở môi trường có"
+            },
+            "62": {
+                "1": "hoạt hóa pepsinogen thành pepsin ",
+                "2": "hoạt hóa trypsinenogen thành trypsine ",
+                "3": "kích thích nhu động dạ dày",
+                "4": "tham gia vào cơ chế đóng tâm vị và đóng mở môn vị",
+                "A": "B",
+                "Q": " Acid HCL trong dịch vị KHÔNG có tác dụng nào sau đây "
+            },
+            "63": {
+                "1": "HCl",
+                "2": "Men Pepsin ",
+                "3": "Chất nhầy và bicarbonat",
+                "4": "Cả 3 đáp án trên",
+                "A": "C",
+                "Q": "Thành phần nào sau đây có tác dụng bảo vê niêm mạc dạ dày"
+            },
+            "64": {
+                "1": "Bảo vệ niêm mạc dạ dày",
+                "2": "Làm tăng bài tiets acid HCL ",
+                "3": "Có vai trò quan trọng trong hấp thu vitamin B12 ở hồi tràng",
+                "4": "Làm tăng bài tieết men pepsin ",
+                "A": "C",
+                "Q": "yếu tố nội của dạ dày có vai trò "
+            },
+            "65": {
+                "1": "Trypsine có tác dụng cắt kiên kết peptid mà nhóm -CO thuộc acid amin thơm",
+                "2": "Trypsine có tác dụng cắt kiên kết peptid mà nhóm -CO thuộc acid amin kiềm",
+                "3": "Chymotrysine có tác dụng cắt kiên kết peptid mà nhóm -CO thuộc acid amin thơm",
+                "4": "Carboxypeptidase có tác dụng cắt đứt kiên kết peptid ở phía sâu trong phân tử protein",
+                "A": "A",
+                "Q": "Điều nào sau đây KHÔNG đúng về các men tiêu hóa protein của dịch tụy"
+            },
+            "66": {
+                "1": "pepsin do tế bào bìa tiết có tác dụng làm tăng trương protein ",
+                "2": "chymotrypsine do tế bào chính tiết có tác dụng chuyển caseinogen thành casein",
+                "3": "Pepsin do  tế bào chính tiết có tác dụng phân cắt kiên kết peptid ở một số loại protein nhất định",
+                "4": "chymosine do TB cổ tuyến tiết có tác dụng tiêu hóa các phân tử proteoglycan có trong thịt",
+                "A": "C",
+                "Q": "Câu trả lời nào sau đây  ĐÚNG về nguồn gốc và tác dụng chính của các men trong dịch vị"
+            },
+            "67": {
+                "1": "Tiêu hóa protein ",
+                "2": "Tiêu hóa cacbonhidrat",
+                "3": "Trung hòa dịch kiềm từ miệng đưa tới",
+                "4": "Tạm trữ thức ăn",
+                "A": "B",
+                "Q": "Dạ dày KHÔNG có chức năng nào sau đây "
+            },
+            "68": {
+                "1": "Acid amin ",
+                "2": "proteose",
+                "3": "pepton",
+                "4": "chuỗi polypeptit ",
+                "A": "A",
+                "Q": "Dưới tác dụng của men pepsin protein trong thức ăn được chuyển hóa thành các loại sau đây ngoại trừ"
+            },
+            "69": {
+                "1": "Xét nghiệm máu tìm Vi khuẩn H.Pylori",
+                "2": "Định lượng uropepsinogen",
+                "3": "Định lượng urobilinogen",
+                "4": "Cả 3 đáp án trên",
+                "A": "B",
+                "Q": "Trong chẩn đoán bệnh viêm loét dạ dày tá tràng có thể áp dụng xét nghiệm nào sau đây"
+            },
+            "70": {
+                "1": "pepsin",
+                "2": "rennin",
+                "3": "carboxypepsidase",
+                "4": "HCl",
+                "A": "C",
+                "Q": "Thành phần nào sau đây KHÔNG do dạ dày tiết ra"
+            },
+            "71": {
+                "1": "amylase",
+                "2": "trypsine ",
+                "3": "steapsine",
+                "4": "pepsin",
+                "A": "D",
+                "Q": "Enzyme nào sau đây cần môi trường acid để có thể   hoạt động "
+            },
+            "72": {
+                "1": "HCLđược tế bào bìa tổng hợp bài tiết theo cơ chế khuếch tán tăng cường, có sự tham gia của\r\n Co2, H2O, NaCl và gastrin",
+                "2": "HCLđược tế bào cổ tuyến tổng hợp bài tiết theo cơ chế khuếch tán tăng cường, có sự tham gia của Co2, H2O, NaCl và bơm proton ( H+ K+ ATPase) và men carbonicanhydrase",
+                "3": "HCLđược tế bào bìa tổng hợp bào tiết theo cơ chế tích cực có sự tham gia của CO2, H2O, NaCl và gastrin",
+                "4": "HCLđược tế bào bìa tổng hợp bào tiết theo cơ chế tích cực có sự tham gia của CO2, H2O, NaCl và bơm proton ( H+ K+ ATPase)và men carbonicanhydrase",
+                "5": "HCL được tế bào bìa tổng hợp bài tiết theo cơ chế khuếch tán, có sự tham gia của Co2, H2O, NaCl và bơm proton ( H+ K+ ATPase) và men carbonicanhydrase",
+                "A": "D",
+                "Q": "Mệnh đề nào sau đây là đúng về tổng hợp HCl ở dạ dày"
+            },
+            "73": {
+                "1": "155 mEqHCL/l dịch",
+                "2": "15 mEqHCL/l dịch",
+                "3": "55 mEqHCL/l dịch",
+                "4": "85 mEqHCL/l dịch",
+                "5": "285 mEqHCL/l dịch",
+                "A": "A",
+                "Q": "ở  điều kiện bình thường dịch bài tiết thành dạ dày có bao nhiêu HCL"
+            },
+            "name": "SINH LÍ TIÊU HÓA"
+        }
+    }
+}

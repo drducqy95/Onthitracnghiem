@@ -1,0 +1,408 @@
+{
+    "SINH_LY_HOC_2018": {
+        "thankinhtv": {
+            "1": {
+                "1": "Giao cảm: sợi tiền hạch dài có melynin, sợi hậu hạch ngắn không myelin. Phó giao cảm: sợi tiền hạch ngắn có melynin, sợi hậu hạch dài không có myelin",
+                "2": "Giao cảm: sợi tiền hạch ngắn có melynin, sợi hậu hạch dài không myelin. Phó giao cảm: sợi tiền hạch dài có melynin, sợi hậu hạch ngắn không có myelin",
+                "3": "Giao cảm: sợi tiền hạch ngắn có myelin, sợi hậu hạch dài có myelin. Phó giao cảm: sợi tiền hạch dài không myelin, sợi hậu hạch ngắn có myelin",
+                "4": "Giao cảm: sợi tiền hạch dài có melynin, sợi hậu hạch ngắn có myelin. Phó giao cảm: sợi tiền hạch ngắn không myelin, sợi hậu hạch dài không có myelin",
+                "A": "B",
+                "Q": "Câu nào đúng về đặc điểm của sợi thần kinh thực vật"
+            },
+            "2": {
+                "1": "Hạch giao cảm nằm ở gần tạng, hạch phó giao cảm nằm ở thành tạng",
+                "2": "Hạch giao cảm  nằm ở cạnh sống và trước sống , hạch phó giao cảm nằm ở gần tạng hoặc ở thành tạng",
+                "3": "Hạch giao cảm nằm sừng bên đốt sống cổ, lưng và thắt lưng, hạch phó giao cảm nằm ở sừng bên đốt tủy cùng",
+                "4": "Hạch giao cảm nằm ở thành tạng , hạch phó giao cảm nằm ở trước sống và cạnh sống",
+                "A": "B",
+                "Q": "Câu nào đúng về vị trí của hạch thần kinh thực vật"
+            },
+            "3": {
+                "1": "Tăng hoạt động của tim, giảm nhu động ruột, tăng tiết mồ hôi, giãn đồng tử",
+                "2": "Tăng hoạt động của tim, giảm nhu động ruột, giảm tiết mồ hôi, co đồng tử",
+                "3": "Giảm hoạt động của hệ tuần hoàn, tiêu hóa, giảm tiết mồ hôi, co đồng tử",
+                "4": "Tăng hoạt động của tim, tăng nhu động ruột, tăng tiết mồ hôi, co đồng tử",
+                "A": "A",
+                "Q": "Biểu hiện nào đúng khi tăng cường hưng phấn hệ thần kinh giao cảm"
+            },
+            "4": {
+                "1": "Không có myelin, sợi trục dài",
+                "2": "Có myelin, sợi trục ngắn",
+                "3": "Có myelin, sợi trục dài",
+                "4": "Dài, không có myelin",
+                "A": "B",
+                "Q": "Câu nào đúng về sợi tiền hạch của hệ  giao cảm"
+            },
+            "5": {
+                "1": "Không có myelin, sợi trục dài",
+                "2": "Có myelin, sợi trục ngắn",
+                "3": "Không có myelin, sợi trục ngắn",
+                "4": "Có myelin, sợi trục dài",
+                "A": "D",
+                "Q": "Câu nào đúng về sợi tiền hạch của hệ phó giao cảm"
+            },
+            "6": {
+                "1": "Có myelin, sợi trục dài",
+                "2": "Không có myelin, sợi trục dài",
+                "3": "Không có myelin sợi trục ngắn",
+                "4": "Có myelin, sợi trục ngắn",
+                "A": "B",
+                "Q": "Câu nào đúng về sợi hậu hạch giao cảm"
+            },
+            "7": {
+                "1": "Có myelin, sợi trục ngắn",
+                "2": "Có myelin, sợi trục dài",
+                "3": "Không có myelin sợi trục dài",
+                "4": "Không có myelin sợi trục ngắn",
+                "A": "D",
+                "Q": "Câu nào đúng về sợi hậu hạch phó giao cảm"
+            },
+            "8": {
+                "1": "Có 2 chuỗi hạch trước sống và hạch cạnh sống",
+                "2": "Có 2 chuỗi hạch cạnh sống",
+                "3": "Có 2 chuỗi hạch cạnh sống và hạch trước sống",
+                "4": "Có 2 chuỗi hạch trước sống và hạch cạnh sống",
+                "A": "C",
+                "Q": "Câu đúng về hạch giao cảm"
+            },
+            "9": {
+                "1": "Hạch ở cạnh cơ quan hoặc trong thành cơ quan",
+                "2": "Có 2 chuỗi hạch cạnh sống",
+                "3": "Có 2 chuỗi hạch cạnh sống và hach ở trong thành quan",
+                "4": "Có 2 chuỗi hạch trước sống và hạch ở gần cơ quan",
+                "A": "A",
+                "Q": "Câu nào đúng về hạch phó giao cảm"
+            },
+            "10": {
+                "1": "Sợi sau hạch: giao cảm ngắn, phó giao cảm dài, đều không có myelin",
+                "2": "Sợi sau hạch: giao cảm dài, phó giao cảm ngắn, đều không có myelin",
+                "3": "Hạch: giao cảm và phó giao cảm đều tạo thành chuỗi gần trung tâm",
+                "4": "Trung khu: giao cảm ở hành não và tủy sống, phó giao cảm ở thân não",
+                "A": "B",
+                "Q": "Câu nào đúng về cấu trúc hệ thần kinh giao cảm, phó giao cảm"
+            },
+            "11": {
+                "1": "alpha-, beta 2- receptor",
+                "2": "alpha-, beta1-receptor",
+                "3": "alpha-, beta1-, beta2-receptor",
+                "4": "beta-1, alpha và M-receptor",
+                "A": "C",
+                "Q": "Adrenoreceptor gồm những loại nào"
+            },
+            "12": {
+                "1": "Alpha- cholinoreceptor",
+                "2": "beta-cholinoreceptor",
+                "3": "cholinoreceptor M",
+                "4": "cholinoreceptor M và N",
+                "A": "D",
+                "Q": "Cholinoreceptor gồm những loại nào"
+            },
+            "13": {
+                "1": "Sừng bên chất xám tủy sống từ đốt cổ 8 đến đốt thất lưng 5",
+                "2": "Sừng bên chất xám tủy sống từ đốt cổ 8- lưng 1 đến đốt thắt lưng 2-3",
+                "3": "Sừng bên chất xám từ đốt cổ 1 đến đốt thắt lưng 2-3",
+                "4": "Sừng bên chất xám tủy sống từ đốt cổ 8- lưng 1 đến đốt thắt lưng 2-3 và đám rối tim, đám rối dương",
+                "A": "B",
+                "Q": "Câu nào đúng về trung khu của hệ thần kinh giao cảm"
+            },
+            "14": {
+                "1": "Hành- cầu- trung não, đồi thị và 3 đốt tủy cùng",
+                "2": "Hành- cầu- trung não và sừng bên chất xám tủy sống các đốt thắt lưng 1-5",
+                "3": "Hành cầu não và sừng bên chất xám tủy sống đốt cùng 1,2 , 3",
+                "4": "Hành -cầu-trung não và sừng bên chất xám tủy sống đốt cùng 1,2,3",
+                "A": "D",
+                "Q": "Câu nào đúng về trung khu của hệ thần kinh phó giao cảm"
+            },
+            "15": {
+                "1": "Dây giao cảm cổ làm giãn đông tử, giãn phế quản, giảm nhu động dạ dày",
+                "2": "Dây giao cảm cổ làm co đồng tử, giãn phế quản, tăng nhu động dạ dày",
+                "3": "dây tạng làm tăng hoạt động tim, tăng nhu động dạ dày ruột",
+                "4": "dây giao cảm cổ làm giãn phế quản, giãn đồng tử, tăng hoạt động tim",
+                "A": "D",
+                "Q": "Câu nào đúng về tác dụng cảu thần kinh giao cảm lên cac cơ quan"
+            },
+            "16": {
+                "1": "Làm giảm hoạt động tim, co phế quản, tăng co bóp dạ dày- ruột",
+                "2": "Làm giảm hoạt động tim, co đồng tử, giãn phế quản, giảm hô hấp",
+                "3": "Làm giảm hoạt động của tim, giãn đông tử , co phế quản, giảm hô hấp",
+                "4": "Làm giảm hoạt động tim, giãn phế quản, tăng bài tiết dịch vị",
+                "A": "A",
+                "Q": "Câu nào đúng về tác dụng của dây thần kinh X"
+            },
+            "17": {
+                "1": "Trung khu liên tục, sợi tiền hạch ngắn, sợi sau hạch dài nên dẫn truyền chậm",
+                "2": "Trung khu không liên tục, sợi sau hạch dài nên dẫn truyền chậm",
+                "3": "Trung khu liên tục, sợi tiền hạch ngắn, hạch xa trung khu",
+                "4": "Trung khu không liên tục, sợi tiền hạch ngắn, hạch gần trung tâm",
+                "A": "A",
+                "Q": "Câu nào đúngvề đặc điểm cấu tạo hệ thần kinh giao cảm"
+            },
+            "18": {
+                "1": "Trung khu khong liên tục, hạch xa trung tâm nên dẫn truyền chậm",
+                "2": "Trung khu khoông liên tục, sợi tiền hạch ngắn, hạch gần trung tâm",
+                "3": "Trung khu liên tục, sợi hạch ngắn, hạch gần trung tâm",
+                "4": "Trung khu không liên tục, hạch xa trung tâm, sợi sau hạch ngắn",
+                "A": "D",
+                "Q": "Câu nào đúng về đặc điểm cấu tạo hệ thần kinh phó giao  cảm"
+            },
+            "19": {
+                "1": "phế quản",
+                "2": "đồng tử",
+                "3": "thể mi",
+                "4": "tiểu động mạch",
+                "A": "D",
+                "Q": "Noradrenalin sẽ làm co cơ trơn ở"
+            },
+            "20": {
+                "1": "Tăng tính co bóp của cơ tim",
+                "2": "xuất tinh",
+                "3": "giãn cơ trơn phế quản",
+                "4": "cương dương",
+                "A": "D",
+                "Q": "Phản ứng nào sau đây được điều hòa bởi thụ cảm thể M của hệ phó giao cảm"
+            },
+            "21": {
+                "1": "Các hạch nằm ở các cơ quan hoạt động",
+                "2": "các neuron tiền hạch giải phóng acetylcholine",
+                "3": "Các neuron tiền hạch giải phóng norepinephrine",
+                "4": "Các neuron tiền hạch xuất phát từ tủy sống đoạn cổ ngực",
+                "A": "D",
+                "Q": "Đâu là đặc điểm riêng của hệ giao cảm"
+            },
+            "22": {
+                "1": "thụ cảm thể beta-1-adrenegic",
+                "2": "M- cholinoreceptor",
+                "3": "N- cholinoreceptor",
+                "4": "thụ cảm thể beta-2- adrenergic",
+                "A": "A",
+                "Q": "Thụ cảm thể thực vật nào điều hòa việc tăng nhịp tim"
+            },
+            "23": {
+                "1": "cương dương ",
+                "2": "co tống mật",
+                "3": "co đồng tử",
+                "4": "giãn phế quản",
+                "A": "D",
+                "Q": "tăng hoạt động của hệ thần kinh giao cảm gây"
+            },
+            "24": {
+                "1": "cơ vân",
+                "2": "cơ tim",
+                "3": "các tuyến",
+                "4": "cơ trơn",
+                "A": "A",
+                "Q": " hệ thần kinh thực vật không điều khiển trực tiếp cơ phận nào"
+            },
+            "25": {
+                "1": "tăng glucose máu, tăng nhu động ống tiêu hóa, giảm nhịp tim và huyết áp",
+                "2": "giảm glucose máu, tăng nhu động ống tieu hóa, tăng nhịp tim và huyết áp",
+                "3": "tăng glucose máu, giảm  nhu động ống tiêu hóa, tăng nhịp tim và huyết áp",
+                "4": "giảm glucose máu, tăng nhu động ống tieu hóa, giảm nhịp tim và huyết áp",
+                "A": "C",
+                "Q": "hệ thần kinh giao cảm làm"
+            },
+            "26": {
+                "1": "kích thích tuyến mồ hôi tiết mồ hôi",
+                "2": "tăng tốc độ chuyển hóa",
+                "3": "giảm hoạt động của hệ tiêu hóa",
+                "4": "giảm nhịp tim ",
+                "A": "D",
+                "Q": "Tác dụng nào sau đây là đặc trưng của hệ thần kinh phó giao cảm"
+            },
+            "27": {
+                "1": "các vùng sọ, cùng và các sợi hậu hạch tiết acetylcholin",
+                "2": "vùng ngực- lưng và các sợi hậu hạch tiết noradrenalin",
+                "3": "vùng ngực - lưng và các sợi hậu hạch tiết acetylcholin",
+                "4": "các vùng sọ, cùng và các sợi hậu hạch tiết noradrenalin",
+                "A": "B",
+                "Q": "Các sợi giao cảm rời tủy sống ở vùng"
+            },
+            "28": {
+                "1": "Não giữa",
+                "2": "sừng bên chất xám tủy sống, từ đốt ngực 1 đến các đốt thắt lưng 2-3",
+                "3": "tủy cùng S1-3",
+                "4": "Hành cầu não ",
+                "A": "B",
+                "Q": "trung khu của hệ thần kinh giao cảm nằm tại"
+            },
+            "29": {
+                "1": "Trung khu phân bố ở tủy cùng",
+                "2": "trung khu phân bố ở  não giữa",
+                "3": "trung khu phân bố ở hành cầu não",
+                "4": "trug khu phân bố ở sừng bên chất xám tủy sống, từ đốt ngực 1 đến các đốt thắt lưng 2-3",
+                "A": "D",
+                "Q": "Câu trả lời nào sau đây là sai về trung khu của hệ thần kinh phó giao cảm"
+            },
+            "30": {
+                "1": "Sợi dopaminergic",
+                "2": "sợi cholinergic",
+                "3": "sợi glutamatergic",
+                "4": "sợi adrenergic",
+                "A": "B",
+                "Q": "các sợi tiền hạch  của cả hệ thần kinh giao cảm và phó giao cảm đều là  "
+            },
+            "31": {
+                "1": "cơ tim, nút xoang , nút nhĩ thất",
+                "2": "cơ trơn thành ống tiêu hóa, cơ trơn tử cung, bàng quang",
+                "3": "cơ trơn mạch máu ngoại vi, mạch nội tạng, mạch não",
+                "4": "cơ trơn mạch vành, mạch máu cơ vân , cơ Reissessen phế quản",
+                "A": "C",
+                "Q": "Thụ cảm thể alpha có ở"
+            },
+            "32": {
+                "1": "Cơ trơn mach vành, mạch máu cơ vân, cơ Reissessen phế quản",
+                "2": "cơ trơn thành ống tiêu hóa, cơ trơn tử cung, bàng quang",
+                "3": "cơ trơn mach máu ngoại vi, mach nội tạng, mạch não",
+                "4": "cơ tim, nút xoang, nút nhĩ thất",
+                "A": "D",
+                "Q": "Thụ cảm thể beta-1 có ở"
+            },
+            "33": {
+                "1": "cơ trơn machj máu ngoại vi",
+                "2": "cơ tim, nút xoang, mach não",
+                "3": "mạch nội tạng, mạch não",
+                "4": "cơ trơn mạch vành, mạch máu cơ vân , cơ Reissessen phế quản",
+                "A": "D",
+                "Q": " Thụ cảm thể beta 2 có ở"
+            },
+            "34": {
+                "1": "Acetylcholin kết hợp với M2- cholinoreceptor gây hưng phấn",
+                "2": "Noradrenalin kết hợp với Beta-2 adrenoreceptor gây hưng phấn",
+                "3": "Acetylcholin kết hợp với M1- cholinoreceptor gây hưng phấn",
+                "4": "Noradrenalin kết hợp với beta-1 adrenoreceptor gây ức chế",
+                "A": "C",
+                "Q": " Nhận xét nào đúng về tác dụng của các chất dẫn truyền trên thụ cảm thể"
+            },
+            "35": {
+                "1": "sợi tiền hạch của hệ phó giao cảm",
+                "2": "sợi tiền hạch của hệ giao cảm",
+                "3": "sợi hậu hạch của hệ phó giao cảm",
+                "4": "sợi hậu hạch của hệ giao cảm",
+                "A": "D",
+                "Q": "sợi thần kinh nào sau đay là sợi adrenergic"
+            },
+            "36": {
+                "1": "được tổng hợp ở tận cùng sợi trục từ thyrosin",
+                "2": "gồm các chất là adrenalin và noradrenalin",
+                "3": "là chất trung gian dẫn truyền thần kinh của hệ giao cảm ",
+                "4": "được phân hủy nhờ men cholinesterasse",
+                "A": "D",
+                "Q": "Điều nào sau đây là không đúng về catecholame"
+            },
+            "37": {
+                "1": "thụ cảm thể α và β1 Khi kết hợp với adrenaline thì hưng phấn",
+                "2": "thụ cảm thể β2 khi nhận cảm với adrenalin làm tăng co bóp cơ tim",
+                "3": "có 3 loại thụ cảm thể chính: α, β, γ",
+                "4": "là thụ cảm thể nhận cảm với acetylcholime ",
+                "A": "A",
+                "Q": " nhận định nào sau đây đúng về adrenoreceptor"
+            },
+            "38": {
+                "1": "Sợi tiền hạch giao cảm",
+                "2": "Sợi tiền hạch phó giao cảm ",
+                "3": "sợi hậu hạch giao cảm",
+                "4": "sợi hậu hạch phó giao cảm",
+                "A": "C",
+                "Q": "Sợi cholinergic KHÔNG gồm"
+            },
+            "39": {
+                "1": "Sợi tiền hạch giao cảm",
+                "2": "sợi tiền hạch phó giao cảm",
+                "3": "sợi hậu hạch giao cảm",
+                "4": "sợi hậu hạch phó giao cảm",
+                "A": "C",
+                "Q": "Sợi andrenergic "
+            },
+            "40": {
+                "1": "Cơ Reissesen",
+                "2": "Cơ dạ dày ruột",
+                "3": "Cơ vòng bàng quang",
+                "4": "mạch ngoại vi",
+                "A": "C",
+                "Q": "Receptor beta 1 thuộc hệ andenoreceptor có ở"
+            },
+            "41": {
+                "1": "Cơ tia mắt",
+                "2": "Cơ dạ dày ruột",
+                "3": "Mạch não",
+                "4": "Mạch ngoại vi",
+                "A": "C",
+                "Q": "Thụ cảm thể alpha của hệ adrenoreceptor có ở"
+            },
+            "42": {
+                "1": "hạch giao cảm",
+                "2": "hạch phó giao cảm",
+                "3": "tế bào cơ quan do sợ hậu hạch phó giao cảm chi phối",
+                "4": "synap thần kinh cơ",
+                "A": "C",
+                "Q": "Thụ cảm thể N của hệ Cholinoreceptor KHÔNG có ở"
+            },
+            "43": {
+                "1": "thụ cảm thể alpha ( a)",
+                "2": "thụ cảm thể beta ( b)",
+                "3": "thụ cảm thể gamma ( c)",
+                "4": "gồm (a) và (b)",
+                "A": "D",
+                "Q": "Điều nào sau đây là đúng nhất về thụ cảm thể tiếp nhận catecholamine"
+            },
+            "44": {
+                "1": "thụ cảm thể alpha ( a)",
+                "2": "thụ cảm thể beta 1 ( b)",
+                "3": "thụ cảm thể beta 2 ( b)",
+                "4": "cả 3 loại trên",
+                "A": "C",
+                "Q": "Khi tiếp nhận catecholamine thụ cảm thể nào sau đây gây ức chế"
+            },
+            "45": {
+                "1": "Hạch giao cảm",
+                "2": "Hạch phó giao cảm",
+                "3": "Cơ trơn ở ruột",
+                "4": "synap thần kinh cơ",
+                "A": "C",
+                "Q": "Thụ cảm thể thuộc cơ quan nào sau đây KHÔNG phải là nicotinic Cholinoreceptor ( N Cholinoreceptor)"
+            },
+            "46": {
+                "1": "Sợi tiền hạch và hậu hạch giao cảm chứa (a)",
+                "2": "Sợi tiền hạch của cả giao cảm và phó giao cảm chứa (b)",
+                "3": "Sợi tiền hạch giao cảm và hậu hạch phó giao cảm chứa ( c)",
+                "4": "Sợi tiền hạch giao cảm, tiền hạch và hậu hạch phó giao cảm chứa ( d)",
+                "5": "cả 4 đều KHÔNG đúng",
+                "A": "D",
+                "Q": "Đáp án nào là đủ nhất về chất dẫn truyền acetycholin trong hệ thần kinh thực vật"
+            },
+            "47": {
+                "1": "Tần số tim",
+                "2": "Sức bóp cơ tim",
+                "3": "tốc độ dẫn truyền",
+                "4": "thời gian trơ tương đối",
+                "A": "D",
+                "Q": "kích thích sợi thần kinh giao cảm đi tới tim gây giảm"
+            },
+            "48": {
+                "1": "alpha andrenergic ",
+                "2": "beta 1 andrenergic ",
+                "3": "beta 2 andrenergic ",
+                "4": "cả 3 loại trên",
+                "A": "A",
+                "Q": "noradrenaline có thể kết hợp với thụ cảm thể "
+            },
+            "49": {
+                "1": "alpha andrenergic ",
+                "2": "beta 1 andrenergic ",
+                "3": "beta 2 andrenergic ",
+                "4": "cả 3 loại trên",
+                "A": "D",
+                "Q": "Andrenalin có thể kết hợp với thụ cảm thể nào sau đây"
+            },
+            "50": {
+                "1": "Giảm nhu động ruột",
+                "2": "giảm nhịp tim ",
+                "3": "Co đồng tử",
+                "4": "Giãn mạch vành",
+                "A": "A",
+                "Q": "Kích thích thần kinh phó giao cảm KHÔNG có tác dụng nào sau đây"
+            },
+            "name": "THẦN KINH THỰC VẬT"
+        }
+    }
+}

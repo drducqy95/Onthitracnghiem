@@ -1,0 +1,807 @@
+{
+    "BENH_HOC_NOI_KHOA_2018": {
+        "A12": {
+            "1": {
+                "1": "Nhiễm tụ cầu",
+                "2": "Nhiễm liên cầu khuẩn sau viêm họng",
+                "3": "Cả 3 đáp án trên",
+                "4": "Nhiễm liên cầu khuẩn do nhiễm khuẩn ngoài da",
+                "A": "D",
+                "Q": "Viêm cầu thận cấp xuất hiện sau:"
+            },
+            "2": {
+                "1": "Trên 50 tuổi",
+                "2": "Ở tất cả mọi lứa tuổi",
+                "3": "Trẻ em tuổi học đường",
+                "4": "Chỉ ở nam giới",
+                "A": "C",
+                "Q": "Viêm cầu thận cấp hay gặp ở:"
+            },
+            "3": {
+                "1": "Tụ cầu khuẩn",
+                "2": "Tăng Ure máu gây viêm",
+                "3": "Liên cầu khuẩn",
+                "4": "Kháng thể lắng đọng tại cầu thận.",
+                "A": "D",
+                "Q": "Yếu tố gây tổn thương cầu thận trong viêm cầu thận cấp là:"
+            },
+            "4": {
+                "1": "Đau bụng",
+                "2": "Phù",
+                "3": "Cả 3 đáp án trên.",
+                "4": "Sốt 37-38°C",
+                "A": "C",
+                "Q": "Biểu hiện lâm sàng hay gặp của viêm cầu thận cấp có thể là:"
+            },
+            "5": {
+                "1": "Viêm tuỵ",
+                "2": "Cơn đau quặn gan",
+                "3": "Cả 3 đáp án trên.",
+                "4": "Đi lỏng.",
+                "A": "D",
+                "Q": "Biểu hiện rối loạn tiêu hoá ở bệnh nhân viêm cầu thận cấp có thể là:"
+            },
+            "6": {
+                "1": "Đái mủ",
+                "2": "Máu đông",
+                "3": "Nước tiểu như nước rửa thịt.",
+                "4": "Cả 3 đáp án trên.",
+                "A": "C",
+                "Q": "Đặc điểm đại thể của nước tiểu thường gặp ở bệnh nhân viêm cầu thận cấp:"
+            },
+            "7": {
+                "1": "Cả 3 đáp án trên",
+                "2": "Suy tim",
+                "3": "Phù phổi cấp",
+                "4": "Tăng huyết áp",
+                "A": "A",
+                "Q": "Ở bệnh nhân viêm cầu thận cấp có thể có:"
+            },
+            "8": {
+                "1": "Đái mủ",
+                "2": "Đa niệu",
+                "3": "Thiểu niệu",
+                "4": "Đái dưỡng chấp",
+                "A": "C",
+                "Q": "Ở bệnh nhân viêm cầu thận cấp có thể gặp:"
+            },
+            "9": {
+                "1": "Protein 0,5-2g/ngày.",
+                "2": "Đái mủ",
+                "3": "Cặn phosphat",
+                "4": "Đái dưỡng chấp",
+                "A": "A",
+                "Q": "Đặc điểm biến đổi nước tiểu của bệnh nhân viêm cầu thận cấp thường gặp là:"
+            },
+            "10": {
+                "1": "Cả 3 đáp án trên.",
+                "2": "Trụ sáp",
+                "3": "Trụ trong",
+                "4": "Trụ hồng cầu",
+                "A": "A",
+                "Q": "Các trụ niệu có thể thấy khi xét nghiệm nước tiểu bệnh nhân VCTC là:"
+            },
+            "11": {
+                "1": "Cả 3 đáp án trên",
+                "2": "Tử vong",
+                "3": "Chuyển sang VCTM ở 1 số trường hợp",
+                "4": "Hồi phục hoàn toàn",
+                "A": "A",
+                "Q": "Viêm cầu thận cấp thường tiến triển theo xu hướng:"
+            },
+            "12": {
+                "1": "Kháng thể kháng nhân",
+                "2": "Cả 3 đáp án trên",
+                "3": "ASLO",
+                "4": "Kháng thể kháng microsom",
+                "A": "C",
+                "Q": "Ở bệnh nhân viêm cầu thận cấp có thể xác định được một số kháng thể:"
+            },
+            "13": {
+                "1": "Đái máu đại thể hoặc vi thể",
+                "2": "Cả 3 đáp án trên",
+                "3": "Phù",
+                "4": "Protein niệu (+)",
+                "A": "B",
+                "Q": "Chẩn đoán viêm cầu thận cấp có thể dựa vào các triệu chứng sau:"
+            },
+            "14": {
+                "1": "Hồng cầu niệu",
+                "2": "Protein niệu (++)",
+                "3": "Tăng huyết áp",
+                "4": "Mô bệnh học",
+                "A": "D",
+                "Q": "Tiêu chuẩn chẩn đoán viêm cầu thận cấp chính xác nhất là:"
+            },
+            "15": {
+                "1": "Cả 3 đáp án trên.",
+                "2": "Suy tim",
+                "3": "Suy thận cấp",
+                "4": "Tăng huyết áp",
+                "A": "A",
+                "Q": "Biểu hiện nguy hiểm đe doạ tử vong trong viêm cầu thận cấp là:"
+            },
+            "16": {
+                "1": "Cả 3 đáp án trên.",
+                "2": "Thể tăng huyết áp",
+                "3": "Thể tiềm tàng (protein niệu, hồng cầu niệu đơn thuần)",
+                "4": "Thể suy thận cấp tính",
+                "A": "A",
+                "Q": "Thể lâm sàng của viêm cầu thận cấp có thể gặp:"
+            },
+            "17": {
+                "1": "Đề phòng nhiễm khuẩn",
+                "2": "Điều trị tình trạng viêm cầu thận",
+                "3": "Giảm kháng thể lưu hành trong máu",
+                "4": "Chống nhiễm khuẩn.",
+                "A": "D",
+                "Q": "Trong điều trị viêm cầu thận cấp, dùng kháng sinh với mục đích:"
+            },
+            "18": {
+                "1": "Không rõ căn nguyên",
+                "2": "Viêm đường tiết niệu",
+                "3": "Sỏi thận",
+                "4": "Nang thận",
+                "A": "A",
+                "Q": "Viêm cầu thận mạn có thể xuất hiện: "
+            },
+            "19": {
+                "1": "Cả virus và vi khuẩn lắng đọng tại cầu thận",
+                "2": "Vi khuẩn lắng đọng tại cầu thận",
+                "3": "Virus lắng đọng vào cầu thận",
+                "4": "Cơ chế miễn dịch",
+                "A": "D",
+                "Q": "Bệnh sinh viêm cầu thận mạn tiên phát do:"
+            },
+            "20": {
+                "1": "Suy thận",
+                "2": "Ứ muối và nước.",
+                "3": "Suy tim phải",
+                "4": "Tăng huyết áp",
+                "A": "B",
+                "Q": "Phù trong viêm cầu thận cấp xuất hiện do:"
+            },
+            "21": {
+                "1": "Phù kèm gan to, tĩnh mạch cổ nổi",
+                "2": "Phù kín đáo.",
+                "3": "Phù tím, tăng về chiều",
+                "4": "Phù khu trú",
+                "A": "B",
+                "Q": "Phù trong viêm cầu thận cấp có các đặc điểm:"
+            },
+            "22": {
+                "1": "Cả 3 đáp án trên",
+                "2": "Giảm protein và albumin máu",
+                "3": "Cường aldosteron thứ phát",
+                "4": "Tăng bài tiết ADH",
+                "A": "A",
+                "Q": "Những hiện tượng nào có thể là nguyên nhân gây phù trong viêm cầu thận mạn:"
+            },
+            "23": {
+                "1": "Nguyên nhân của bệnh",
+                "2": "Triệu chứng của bệnh.",
+                "3": "Bệnh kết hợp",
+                "4": "Không liên quan",
+                "A": "B",
+                "Q": "Trong viêm cầu thận mạn, tăng huyết áp là biểu hiện:"
+            },
+            "24": {
+                "1": "Qua lọc máu",
+                "2": "Suy tuỷ",
+                "3": "Nhược sản tuỷ",
+                "4": "Giảm erythropoietin",
+                "A": "D",
+                "Q": "Ở bệnh nhân viêm cầu thận mạn chưa có suy thận mạn, thiếu máu xảy ra do:"
+            },
+            "25": {
+                "1": "Bạch cầu niệu",
+                "2": "Hồng cầu niệu",
+                "3": "Protein niệu",
+                "4": "Trụ hạt",
+                "A": "D",
+                "Q": "Biến đổi có ý nghĩa nhất trong nước tiểu của bệnh nhân viêm cầu thận mạn là:"
+            },
+            "26": {
+                "1": "Trụ trong",
+                "2": "Trụ sáp",
+                "3": "Cả 3 đáp án trên",
+                "4": "Trụ hình hạt",
+                "A": "C",
+                "Q": "Loại trụ nào trong nước tiểu của bệnh nhân viêm cầu thận mạn hay gặp:"
+            },
+            "27": {
+                "1": "Lượng protein > 1g/24giờ",
+                "2": "Dương tính mẫu nước tiểu 10 chỉ tiêu",
+                "3": "Protein niệu kết hợp HC niệu dương tính",
+                "4": "Kéo dài, lượng protein > 1g/24 giờ",
+                "A": "D",
+                "Q": "Trong chẩn đoán viêm cầu thận mạn, protein niệu có ý nghĩa khi:"
+            },
+            "28": {
+                "1": "Phù kèm THA",
+                "2": "Trụ niệu dương tính",
+                "3": "Protein niệu và HC niệu dương tính",
+                "4": "Mô bệnh học",
+                "A": "D",
+                "Q": "Chẩn đoán xác định viêm cầu thận mạn dựa trên:"
+            },
+            "29": {
+                "1": "Ure máu tăng",
+                "2": "Phù",
+                "3": "Protein niệu",
+                "4": "Tăng huyết áp",
+                "A": "C",
+                "Q": "Triệu chứng có ý nghĩa nhất chẩn đoán viêm cầu thận mạn là:"
+            },
+            "30": {
+                "1": "Albumin máu < 30g/l",
+                "2": "Protein máu < 60g/l",
+                "3": "Protein niệu ≥ 3,5g/24h.",
+                "4": "Tăng cholesterol máu",
+                "A": "C",
+                "Q": "Xét nghiệm ở bệnh nhân viêm cầu thận mạn thể hội chứng thận hư có giá trị nhất:"
+            },
+            "31": {
+                "1": "Điều trị suy thận",
+                "2": "Điều trị phù",
+                "3": "Ổn định màng nền cầu thận",
+                "4": "Cả 3 đáp án trên",
+                "A": "B",
+                "Q": "Lasix dùng cho bệnh nhân viêm cầu thận mạn nhằm mục đích:"
+            },
+            "32": {
+                "1": "Viêm cầu thận mạn thể THA đơn thuần",
+                "2": "Viêm cầu thận mạn có suy thận mạn tính",
+                "3": "Viêm cầu thận do đái tháo đường",
+                "4": "Viêm cầu thận mạn thể hội chứng thận hư.",
+                "A": "D",
+                "Q": "Corticoid được chỉ định dùng trong các trường hợp:"
+            },
+            "33": {
+                "1": "1-1,5 mg/kg thể trọng/24 giờ.",
+                "2": "1,5-2,0 mg/kg thể trọng/24 giờ.",
+                "3": "<1 mg/kg thể trọng/24 giờ.",
+                "4": "<0,5 mg/kg thể trọng/24 giờ.",
+                "A": "A",
+                "Q": "Liều corticoid trong điều trị hội chứng thận hư người lớn giai đoạn tấn công:"
+            },
+            "34": {
+                "1": "Tự khỏi",
+                "2": "Cả 3 đáp án trên",
+                "3": "Tiến triển nặng dần.",
+                "4": "Khỏi hoàn toàn nếu được điều trị",
+                "A": "C",
+                "Q": "Tiến triển của viêm cầu thận mạn có thể là:"
+            },
+            "35": {
+                "1": "Ure máu > 30mmol/l; creatinin máu > 800µmol/l",
+                "2": "K+ máu > 6,5mmol/l",
+                "3": "pH máu < 7,2",
+                "4": "Cả 3 đáp án trên",
+                "A": "D",
+                "Q": "Chỉ định lọc máu cấp cứu bằng thận nhân tạo: "
+            },
+            "36": {
+                "1": "Cả 3 đáp án trên",
+                "2": "Tách huyết tương",
+                "3": "Thay máu định kỳ",
+                "4": "Thận nhân tạo",
+                "A": "D",
+                "Q": "Phương pháp điều trị suy thận mạn: "
+            },
+            "37": {
+                "1": "Hội chứng thận hư",
+                "2": "Viêm cầu thận mạn tính",
+                "3": "Viêm thận-bể thận mạn tính",
+                "4": "Viêm cầu thận cấp",
+                "A": "C",
+                "Q": "Các bệnh thận gây tiểu nhiều: "
+            },
+            "38": {
+                "1": "Viêm bàng quang",
+                "2": "Suy thận mạn tính",
+                "3": "Viêm cầu thận mạn",
+                "4": "Viêm cầu thận cấp",
+                "A": "A",
+                "Q": "Các nguyên nhân tiểu nhiều lần: "
+            },
+            "39": {
+                "1": "Sỏi bàng quang, sỏi niệu đạo",
+                "2": "Viêm bàng quang cấp",
+                "3": "Viêm niệu đạo",
+                "4": "Cả 3 đáp án trên",
+                "A": "D",
+                "Q": "Nguyên nhân tiểu dắt, buốt: "
+            },
+            "40": {
+                "1": "Đái máu đầu bãi tổn thương niệu đạo",
+                "2": "Đái máu toàn bãi: tổn thương thận.",
+                "3": "Đái máu toàn bãi: tổn thương bàng quang.",
+                "4": "Đái máu cuối bãi tổn thương niệu đạo",
+                "A": "B",
+                "Q": "Đánh giá nghiệm pháp 3 cốc với vị trí tổn thương hệ tiết niệu: "
+            },
+            "41": {
+                "1": "Thận đa nang",
+                "2": "Cả 3 đáp án trên",
+                "3": "Lao thận",
+                "4": "Sỏi thận",
+                "A": "B",
+                "Q": "Nguyên nhân gây tiểu máu: "
+            },
+            "42": {
+                "1": "Đen sẫm",
+                "2": "Đỏ tươi",
+                "3": "Cả 3 đáp án trên",
+                "4": "Có cục máu đông",
+                "A": "A",
+                "Q": "Tiểu Hemoglobin được chẩn đoán quan sát bãi nước tiểu khi thấy:"
+            },
+            "43": {
+                "1": "Cả 3 đáp án trên",
+                "2": "Đái phosphat",
+                "3": "Đái mủ",
+                "4": "Đái dưỡng chấp",
+                "A": "A",
+                "Q": "Nguyên nhân gây đái đục: "
+            },
+            "44": {
+                "1": "Nhiễm độc hoá chất.",
+                "2": "Viêm thận-bể thận mạn tính",
+                "3": "Viêm cầu thận cấp",
+                "4": "Viêm cầu mạn",
+                "A": "A",
+                "Q": "Nguyên nhân đái Hemoglobin: "
+            },
+            "45": {
+                "1": "Cả 3 đáp án trên",
+                "2": "E.Coli",
+                "3": "Proteus",
+                "4": "Trực khuẩn mủ xanh",
+                "A": "A",
+                "Q": "Các loại vi khuẩn có thể gây viêm thận bể thận mạn: "
+            },
+            "46": {
+                "1": "Trực khuẩn mủ xanh",
+                "2": "Proteus",
+                "3": "Krebciella",
+                "4": "E.coli",
+                "A": "D",
+                "Q": "Loại vi khuẩn hay gặp nhất gây viêm thận bể thận mạn: "
+            },
+            "47": {
+                "1": "2 - 3,5g/24h",
+                "2": "< 1g/24h.",
+                "3": "≥3,5g/24h",
+                "4": "1-<2g/24h",
+                "A": "B",
+                "Q": "Protein niệu bao nhiêu trong viêm thận bể thận mạn (nếu không có đái ra mủ, máu): "
+            },
+            "48": {
+                "1": "Thận to.",
+                "2": "Gan to bên phải",
+                "3": "Lách to bên trái",
+                "4": "Tuy to",
+                "A": "A",
+                "Q": " Dấu hiệu chạm thận dương tính có thể gặp trong các bệnh:"
+            },
+            "49": {
+                "1": "Ứ nước, ứ mũ trong bể thận",
+                "2": "Viêm cầu thận cấp",
+                "3": "Cả 3 đáp án trên",
+                "4": "K thận ",
+                "A": "C",
+                "Q": "Dấu hiệu rung thận gặp trong:"
+            },
+            "50": {
+                "1": " Cả 3 đáp án trên",
+                "2": "Chụp thận thuốc tĩnh mạch ( UIV)",
+                "3": "Chụp thận không chuẩn bị",
+                "4": "Chụp bơm hơi sau phúc mạc.",
+                "A": "A",
+                "Q": "Loại chụp Xquang nào để thăm dò hình thái thận:"
+            },
+            "51": {
+                "1": "Xạ hình thận.",
+                "2": "Chụp cắt lớp vi tính",
+                "3": "Chụp thận không chuẩn bị",
+                "4": "Chụp đài thận",
+                "A": "A",
+                "Q": "Xét nghiệm nào để thăm dò chức năng bài tiết của thận: "
+            },
+            "52": {
+                "1": "Trụ hạt",
+                "2": "Trụ bạch cầu.",
+                "3": "Trụ trong",
+                "4": "TRụ hồng cầu",
+                "A": "B",
+                "Q": "Loại trụ nào có giá trị chẩn đoán viêm thận bể thận mạn:"
+            },
+            "53": {
+                "1": " Cả 3 đáp án trên",
+                "2": "Corticoid ",
+                "3": "Aminoglycosid (streptomycin, kanamycin).",
+                "4": "Betalactonin",
+                "A": "C",
+                "Q": "Nhóm thuốc nào độc cho thận:"
+            },
+            "54": {
+                "1": " Cả 3 đáp án trên",
+                "2": "Bơm rửa bàng quang",
+                "3": "Chọn kháng sinh theo kháng sinh đồ.",
+                "4": "Uống nước nhiều 2-2,5 l/24h với cơ địa có sỏi",
+                "A": "C",
+                "Q": "Nguyên tắc điều trị viêm thận bể thận mạn: "
+            },
+            "55": {
+                "1": "Cấy khuẩn theo dõi > 6 tuần",
+                "2": "Cấy khuẩn theo dõi 1 -3 tuần sau khi ngừng kháng sinh",
+                "3": "Cấy khuẩn theo dõi 5- 6 tuần sau khi ngừng kháng sinh",
+                "4": " Dựa trên triệu chứng lâm sàng và xét nghiệm",
+                "A": "D",
+                "Q": "Đánh giá kết quả điều trị viêm thận bể thận mạn dựa trên:"
+            },
+            "56": {
+                "1": "< 7 ngày",
+                "2": "> 14 ngày",
+                "3": "14- 21 ngày",
+                "4": "7 - 14 ngày.",
+                "A": "D",
+                "Q": "Sau khi chọn kháng sinh thích hợp thời gian điều trị viêm thận bể thận mạn là:"
+            },
+            "57": {
+                "1": "Do bệnh hệ thống",
+                "2": "Bệnh thận sau ghép",
+                "3": "Bệnh nhiễm khuẩn, nhiễm vi rut",
+                "4": "Do bệnh đái tháo đường.",
+                "A": "D",
+                "Q": "Hội chứng thận hư nào không dùng thuốc ức chế miễn dịch: "
+            },
+            "58": {
+                "1": "Thiếu máu",
+                "2": "Tắc nghẽn mạch",
+                "3": "Nhiễm khuẩn",
+                "4": "Giảm canxi máu",
+                "A": "B",
+                "Q": "Rối loạn lipid máu liên quan đến biến chứng nào của hội chứng thận hư: "
+            },
+            "59": {
+                "1": "Mạch não",
+                "2": "Mạch phổi",
+                "3": "Mạch mạc treo.",
+                "4": "Mạch thận",
+                "A": "C",
+                "Q": "Tắc nghẽn mạch trong hội chứng thận hư hay gặp nhất ở đâu: "
+            },
+            "60": {
+                "1": "Protein niệu (+)",
+                "2": "MLCT < 60 ml/phút",
+                "3": "Thận giảm kích thước trên siêu âm",
+                "4": "Hồng cầu niệu (+)",
+                "A": "B",
+                "Q": "Tiêu chí nào để chẩn đoán suy thận: "
+            },
+            "61": {
+                "1": "Viêm cầu thận mạn",
+                "2": "Thận đa nang",
+                "3": "Bệnh thận do bệnh hệ thống",
+                "4": "Suy thận cấp.",
+                "A": "D",
+                "Q": "Những nguyên nhân nào sau đây không gây suy thận mạn: "
+            },
+            "62": {
+                "1": "Rối loạn nhịp",
+                "2": "Viêm màng ngoài tim",
+                "3": "Cả 3 đáp án",
+                "4": "Suy tim.",
+                "A": "D",
+                "Q": "Biểu hiện tim mạch nào là nguyên nhân gây suy thận: "
+            },
+            "63": {
+                "1": "Loét miệng ",
+                "2": "Chảy máu tiêu hoá",
+                "3": "Viêm dạ dày",
+                "4": "Cả 3 đáp án ",
+                "A": "D",
+                "Q": "Trong suy thận mạn có thể gặp các triệu chứng nào về tiêu hoá trong các triệu chứng sau: "
+            },
+            "64": {
+                "1": "Cả 3 đáp án ",
+                "2": "Thiếu máu ưu sắc",
+                "3": " Thiếu máu đẳng sắc, nhược sắc.",
+                "4": "Phàn ứng tăng sinh dòng hồng cầu ở tuỷ xương",
+                "A": "C",
+                "Q": "Có thể gặp các triệu chứng nào sau đây về máu trong suy thận mạn:"
+            },
+            "65": {
+                "1": "Tổn thương rễ, dây thần kinh ngoại vi",
+                "2": "Đau xương khớp",
+                "3": "Liệt do tổn thương thần kinh ngoại vi",
+                "4": "Dị cảm : kiến bò, tê bì",
+                "A": "A",
+                "Q": "Các triệu chứng: xương, cơ, thần kinh nào sau đây không gặp trong suy thận mạn:"
+            },
+            "66": {
+                "1": "Lượng nước tiểu được bài xuất trong 1 phút",
+                "2": "Lượng máu hoặc huyết tương đi qua 2 thận được lọc sạch creatinin/phút.",
+                "3": "Lượng creatinin trong nước tiểu",
+                "4": "Lượng nước tiểu đầu tiên được 2 thận tạo ra trong 1 phút",
+                "A": "B",
+                "Q": "Hệ số thanh thải creatinin nội sinh là:"
+            },
+            "67": {
+                "1": "Điều trị khỏi được suy thận mạn.",
+                "2": "Điều trị khỏi được các đợt tiến triển của suy thận mạn.",
+                "3": "Không điều trị khỏi được suy thận mạn",
+                "4": "Nếu suy thân giai đoạn cuối , điều trị thay thế thận là bắt buộc",
+                "A": "A",
+                "Q": "Quan điểm nào sau đây không đúng về điều trị suy thận mạn: "
+            },
+            "68": {
+                "1": "Chỉ cần tiết chế ăn uống không cần dùng viên Ketosterin",
+                "2": "Không cần tiết chế ăn uống, không cần dùng viên Ketosterin",
+                "3": "Uống Ketosterin không cần tiết chế ăn uống",
+                "4": "Uống Ketosterin kèm theo tiết chế ăn uống",
+                "A": "D",
+                "Q": "Quan điểm nào đúng trong điều trị suy thận bằng viên Ketosterin: "
+            },
+            "69": {
+                "1": "Tiết chế uống nước",
+                "2": "Chế độ ăn giảm đạm.",
+                "3": "Chế độ ăn tăng đạm",
+                "4": "Ăn nhạt hoàn toàn",
+                "A": "B",
+                "Q": "Chế độ nào phù hợp ở bệnh nhân suy thận mạn: "
+            },
+            "70": {
+                "1": "Sử dụng một số thuốc độc cho thận",
+                "2": "Nhiễm khuẩn, nhiễm virus",
+                "3": "Ăn hạn chế protein, glucose.",
+                "4": "Rối loạn nước, điện giải",
+                "A": "C",
+                "Q": "Yếu tố nào không làm suy thận mạn nặng lên: "
+            },
+            "71": {
+                "1": "Không thiếu máu",
+                "2": "Hai thận không teo nhỏ",
+                "3": "Creatinin máu, ure máu tăng cao ngay từ đầu khi vô niệu, thiểu niệu.",
+                "4": "THA gây dầy thất trên điện tim và siêu âm tim",
+                "A": "C",
+                "Q": "Đợt tiến triển của suy thận mạn không phải suy thận cấp khi:"
+            },
+            "72": {
+                "1": "Furosemid",
+                "2": "Cả 3 đáp án trên",
+                "3": "Natri bicarbonat",
+                "4": "Canxi gluconat",
+                "A": "B",
+                "Q": "Những thuốc nào sau đây có thể điều trị kali máu cao: "
+            },
+            "73": {
+                "1": "Có thiếu máu",
+                "2": "Có đợt viêm họng, viêm đường hô hấp trên hoặc mụn nhọt trước đó 10-15 ngày khi có triệu chứng của viêm cầu thận.",
+                "3": "Có đợt viêm họng, viêm đường hô hấp trên hoặc mụn nhọt trước đó 2-3 ngày khi có triệu chứng của viêm cầu thận.",
+                "4": "THA thường xuyên hoặc không THA",
+                "A": "B",
+                "Q": "Những nguyên nhân nào sau đây gợi ý chẩn đoán viêm cầu thận cấp: "
+            },
+            "74": {
+                "1": "Spironolacton",
+                "2": "Lasix",
+                "3": "Triamterel",
+                "4": "Hypothiazid",
+                "A": "B",
+                "Q": "Những thuốc lợi tiểu nào sau đây được dùng thông dụng trong bệnh thận: "
+            },
+            "75": {
+                "1": "Giảm hoạt động của hệ thống KKR (kinin-kallicrein)",
+                "2": "Tăng khối lượng máu lưu hành.",
+                "3": "Giữ Na+",
+                "4": "Hệ thống RAA",
+                "A": "B",
+                "Q": "Yếu tố nào không trong cơ chế bệnh sinh của tăng huyết áp trong viêm cầu thận:"
+            },
+            "76": {
+                "1": "Bệnh thận do Amyloidosis (nhiễm tinh bột)",
+                "2": "Viêm cầu thận mạn có suy thận mạn",
+                "3": "Bệnh thận do lupus ban đỏ.",
+                "4": "Bệnh thận do đái tháo đường",
+                "A": "C",
+                "Q": "Sử dụng cyclophosphamid trong những trường hợp nào sau đây:"
+            },
+            "77": {
+                "1": "Lao thận.",
+                "2": "Viêm cầu thận mạn",
+                "3": "Suy thận mạn tính do viêm cầu thận",
+                "4": "Hội chứng thận hư tiên phát",
+                "A": "A",
+                "Q": "Những bệnh thận nào sau đây gây đái máu đại thể:"
+            },
+            "78": {
+                "1": "Thay đổi kích thước lỗ lọc",
+                "2": "Mất điện thế màng nền cầu thận",
+                "3": "Lắng đọng các phức hợp miễn dịch ở màng cầu thận.",
+                "4": "Tăng áp lực trong cuộn mạch cầu thận",
+                "A": "C",
+                "Q": "Cơ chế bệnh sinh nào dưới đây là cơ chế chính gây protein niệu nhiều ở bệnh nhân viêm cầu thận mạn tính nguyên phát:"
+            },
+            "79": {
+                "1": "Thiếu máu nhược sắc.",
+                "2": "Thiếu máu hồng cầu to",
+                "3": "Thiếu máu đẳng sắc",
+                "4": "Thiếu máu ưu sắc",
+                "A": "A",
+                "Q": "Thiếu máu trong suy thận mạn giai đoạn cuối là loại thiếu máu nào: "
+            },
+            "80": {
+                "1": "Thiếu máu hồng cầu nhỏ",
+                "2": "Thiếu máu ưu sắc",
+                "3": "Thiếu máu đẳng sắc.",
+                "4": "Thiếu máu nhược sắc.",
+                "A": "C",
+                "Q": "Thiếu máu trong bệnh thận mạn chưa suy thận là loại thiếu máu nào: "
+            },
+            "81": {
+                "1": "Viêm cầu thận màng",
+                "2": "Xơ cứng cầu thận ổ, đoạn",
+                "3": "Viêm cầu thận tăng sinh gian mạch",
+                "4": "Bệnh thận thay đổi tối thiểu",
+                "A": "D",
+                "Q": "Thể tổn thương mô bệnh học nào ở bệnh nhân hội chứng thận hư tiên phát đáp ứng tốt với corticosteroid: "
+            },
+            "82": {
+                "1": "Thiếu nguyên liệu tạo máu",
+                "2": "Chảy máu và mất máu",
+                "3": "Cả 3 đáp án trên.",
+                "4": "Do cơ quan tạo máu",
+                "A": "C",
+                "Q": "Cơ chế gây thiếu máu ở bệnh nhân suy thận mạn tính bào gồm: "
+            },
+            "83": {
+                "1": "120 UI/kg thể trọng/tuần.",
+                "2": "80 UI/kg thể trọng/tuần.",
+                "3": "100 UI/kg thể trọng/tuần.",
+                "4": "140 UI/kg thể trọng/tuần.",
+                "A": "A",
+                "Q": "Liều Erythropoietin trong điều trị thiếu máu cho bệnh nhân suy thận mạn tính chưa lọc máu giai đoạn tấn công là: "
+            },
+            "84": {
+                "1": "< 140/90 mmHg.",
+                "2": "< 130/80 mmHg.",
+                "3": "< 120/80 mmHg.",
+                "4": "< 135/85 mmHg.",
+                "A": "B",
+                "Q": "Mục tiêu kiểm soát huyết áp tốt ở bệnh nhân suy thận mạn tính chưa lọc máu do viêm cầu thận mạn tính: "
+            },
+            "85": {
+                "1": "Nam: >150 g/l, nữ >140 g/l.",
+                "2": "Nam: 120-130g/l, nữ 110-120g/l.",
+                "3": "Nam: 140-150g/l, nữ 130-140g/l.",
+                "4": "Nam: 130-140g/l, nữ 120-130g/l.",
+                "A": "B",
+                "Q": "Bệnh nhân suy thận mạn tính cần duy trì Hemoglobin máu ngoại vi mức nào: "
+            },
+            "86": {
+                "1": "120 UI/kg thể trọng/tuần.",
+                "2": "140 UI/kg thể trọng/tuần.",
+                "3": "180 UI/kg thể trọng/tuần.",
+                "4": "160 UI/kg thể trọng/tuần.",
+                "A": "C",
+                "Q": "Liều Erythropoietin trong điều trị thiếu máu cho bệnh nhân suy thận mạn tính lọc máu chu kỳ giai đoạn tấn công là: "
+            },
+            "87": {
+                "1": "< 140/90 mmHg.",
+                "2": "< 135/85 mmHg.",
+                "3": "< 120/80 mmHg.",
+                "4": "< 130/80 mmHg.",
+                "A": "A",
+                "Q": "Mục tiêu kiểm soát huyết áp ở bệnh nhân suy thận mạn tính chưa lọc máu do đái tháo đường: "
+            },
+            "88": {
+                "1": "< 10 ml/phút.",
+                "2": "< 20 ml/phút.",
+                "3": "< 25 ml/phút.",
+                "4": "< 15 ml/phút.",
+                "A": "A",
+                "Q": "Theo Nguyễn Văn Xang bệnh nhân suy thận mạn có MLCT bao nhiêu thì phải lọc máu: "
+            },
+            "89": {
+                "1": "Chức năng lọc dễ đánh giá trên lâm sàng",
+                "2": "Cả 3 đáp án trên",
+                "3": "Lọc là chức năng quan trọng nhất",
+                "4": "Lọc là chức năng chỉ có thận thực hiện.",
+                "A": "D",
+                "Q": "Tại sao lại sử dụng chức năng lọc để đánh giá chức năng thận: "
+            },
+            "90": {
+                "1": "10² nước tiểu lấy giữa dòng",
+                "2": "10² nước tiểu lấy từ bàng quang qua Sonde",
+                "3": "10³ nước tiểu lấy giữa dòng",
+                "4": "10³ nước tiểu lấy từ bàng quang qua Sonde",
+                "A": "A",
+                "Q": "Số lượng vi khuẩn bao nhiêu trong 1ml nước tiểu thì có nhiễm khuẩn tiết niệu"
+            },
+            "91": {
+                "1": "Trước thận do mất máu",
+                "2": "Tại thận do thuốc",
+                "3": "Tại thận do nhiễm khuẩn",
+                "4": "Sau thận do tắc nghẽn đường niệu",
+                "A": "B",
+                "Q": "Sử dụng corticoid điều trị suy thận cấp nào"
+            },
+            "92": {
+                "1": "Dịch cao phân tử",
+                "2": "Các dung dịch muối, đường đẳng trường",
+                "3": "Các dung dịch muối, đường ưu trường",
+                "4": "các chế phẩm máu",
+                "A": "B",
+                "Q": "Loại dịch nào được khuyến cáo sử dụng cho BN suy thận cấp"
+            },
+            "93": {
+                "1": "Mức lọc cầu thận từ 30-59 ml/phút",
+                "2": "Mức lọc cầu thận từ 40-59 ml/phút",
+                "3": "Mức lọc cầu thận từ 21-40 ml/phút",
+                "4": "Mức lọc cầu thận từ 11-20 ml/phút",
+                "A": "A",
+                "Q": "Khi nào BN được chẩn đoán bệnh thận mạn tính giai đoạn 3"
+            },
+            "94": {
+                "1": "Khi BN có mức lọc cầu thận <5ml/phút",
+                "2": "Khi BN có mức lọc cầu thận <10ml/phút",
+                "3": "Khi BN có mức lọc cầu thận <15ml/phút",
+                "4": "Khi BN có mức lọc cầu thận <20ml/phút",
+                "A": "C",
+                "Q": "Khi nào BN được chẩn đoán bệnh thận mạn tính giai đoạn cuối"
+            },
+            "95": {
+                "1": "Mức lọc cầu thận từ 50-69 ml/phút",
+                "2": "Mức lọc cầu thận từ 60-79 ml/phút",
+                "3": "Mức lọc cầu thận từ 40-59 ml/phút",
+                "4": "Mức lọc cầu thận từ 60-89 ml/phút",
+                "A": "D",
+                "Q": "Khi nào BN được chẩn đoán bệnh thận mạn tính giai đoạn 2"
+            },
+            "96": {
+                "1": "Vị trí tổn thương ống thận; cầu thận trong viêm cầu thận mạn.",
+                "2": "Vị trí tổn thương cầu thận; ống thận trong bệnh thận do tăng huyết áp.",
+                "3": "Vị trí tổn thương cầu thận; ống thận trong bệnh thận do đái tháo đường",
+                "4": "Vị trí tổn thương cầu, ống thận trong viêm cầu thận, đái tháo đường và tăng huyết áp.",
+                "A": "A",
+                "Q": "Kích thước trụ có giá trị trong chẩn đoán tổn thương bệnh lý nào?"
+            },
+            "97": {
+                "1": "Trụ niệu",
+                "2": "Protein niệu",
+                "3": "Hồng cầu niệu",
+                "4": "Bạch cầu niệu",
+                "A": "B",
+                "Q": "Trong điều kiện không có sinh thiết, chỉ số nào có ý nghĩa nhất trong chẩn đoán viêm cầu thận mạn?"
+            },
+            "98": {
+                "1": "Xét nghiệm hàng tuần vẫn thấy protein niệu, 3 lần liên tiếp",
+                "2": "Xét nghiệm hàng tháng thấy protein niệu, 3 lần liên tiếp",
+                "3": "Xét ngiệm mỗi 2 tuần thấy protein niệu, 3 lần liên tiếp",
+                "4": "Xét nghiệm mỗi 10 ngày thấy protein niệu, 3 lần liên tiếp",
+                "A": "B",
+                "Q": "Đánh giá protein niệu kéo dài trong viêm cầu thận mạn dựa vào tiêu chí nào?"
+            },
+            "99": {
+                "1": "Điều trị tăng huyết áp",
+                "2": "Điều trị giảm thải protein niệu",
+                "3": "Điều trị tăng huyết áp và giảm thải protein niệu",
+                "4": "Điều trị suy tim",
+                "A": "C",
+                "Q": "Ức chế men chuyển có tác dụng gì trong bệnh viêm cầu thận?"
+            },
+            "100": {
+                "1": "Thiếu nguyên liệu tạo máu",
+                "2": "Do cơ quan tạo máu",
+                "3": "Do chảy máu và mất máu",
+                "4": "Do cơ quan tạo máu, thiếu nguyên liệu và chảy mất máu.",
+                "A": "D",
+                "Q": "Thiếu máu ở bệnh nhân suy thận mạn tính là nguyên nhân nào?"
+            },
+            "name": "THẬN NỘI KHOA - AM12"
+        }
+    }
+}

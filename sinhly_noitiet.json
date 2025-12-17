@@ -1,0 +1,1073 @@
+{
+    "SINH_LY_HOC_2018": {
+        "sinhlynoitiet": {
+            "1": {
+                "1": "Thyroxin",
+                "2": "Glucagon",
+                "3": "GH",
+                "4": "Insulin",
+                "A": "D",
+                "Q": "Làm giảm đường máu là hormon"
+            },
+            "2": {
+                "1": "ACTH, TSH, insulin",
+                "2": "Insulin, glucagon, ACTH",
+                "3": "Glucagon, thyroxin, glucocorticoid",
+                "4": "Glucagon, insulin, TSH",
+                "A": "C",
+                "Q": "Các hoormon nào làm tăng đường máu"
+            },
+            "3": {
+                "1": "Glucocorticoid, mineralocorticoid",
+                "2": "Mineralocorticoid, T3, T4",
+                "3": "T3, T4, glucocorticoid",
+                "4": "ACTH, mineralocorticoid, glucocorticoid",
+                "A": "A",
+                "Q": "Các hormon tuyến vỏ thượng thận có"
+            },
+            "4": {
+                "1": "Tăng số lượng và kích thước tế bào tất cả các cơ quan, thúc đẩy  sự cốt hóa sụn ở các xương lớn",
+                "2": "Tăng số lượng và kích thước tế bào tất cả các cơ quan, tăng phát triển sụn liên hợp, phát triển tế bào xương, làm dầy màng xương",
+                "3": "Tăng số lượng và kích thước tế bào tất cả các cơ quan, giúp hoàn thiện chức năng hệ thần kinh",
+                "4": "Làm tăng tốc độ phát triển của cơ thể, làm mau trưởng thành",
+                "A": "B",
+                "Q": "Câu nào đúng về tác dụng phát triển cơ thể của GH"
+            },
+            "5": {
+                "1": "Tăng thoái biến protein, lipid và glucid",
+                "2": "Tăng thoái biến glucid và lipid, tăng tổng hợp protein",
+                "3": "Tăng thoái biến protein, lipid, tăng glucose máu do ức chế hexokinase",
+                "4": "Tăng tổng hợp protein, tăng thoái biến lipid, tăng glucose máu do ức chế hexokinase",
+                "A": "D",
+                "Q": "Câu nào đúng về tác dụng chuyển hóa của GH?"
+            },
+            "6": {
+                "1": "Kích thích tuyến vỏ thượng thận phát triển và hoạt động bài tiết chủ yếu là corticoid khoáng, có ảnh hưởng lên hành vi và trí nhớ",
+                "2": "Kích thích làm phát triển tuyến vỏ thượng thận, bài tiết chủ yếu là androgen. Có tác dụng lên hệ thần kinh trung ương",
+                "3": "Kích thích tuyến vỏ thượng thận phát triển và hoạt động bài tiết corticoid, chủ yếu là corticoid đường. Có ảnh hưởng lên trí nhớ , học tập",
+                "4": "Tăng cường quá trình chuyển hóa protein, lipid  và glucid của cơ thể. Có tác dụng lên hành vi và trí nhớ]",
+                "A": "C",
+                "Q": "Câu nào đúng về tác dụng của ACTH"
+            },
+            "7": {
+                "1": "Kích thích tuyến giáp phát triển và hoạt động bài tiết T3, T4. Có thể gây lồi mắt",
+                "2": "Kích thích tuyến giáp phát triển và hoạt động bài tiết ACTH có thể gây lồi mắt",
+                "3": "Giảm chuyển hóa cơ sở, tăng dự trư năng lượng, gây lồi mắt",
+                "4": "Kích thích sự phát triển của tuyến giáp, tuyến cận giáp, gây lồi mắt",
+                "A": "A",
+                "Q": "Câu nào đúng về tác dụng của TSH"
+            },
+            "8": {
+                "1": "Tăng chuyển hóa tế bào, tăng tốc độ phản ứng hóa sinh, giảm sử dụng oxy, tăng chuyển hóa cơ sở, giảm hoạt động của ty lạp thể",
+                "2": "Tăng chuyển hóa tế bào, giảm tốc độ phản ứng hóa sinh, tăng chuyển hóa cơ sở, không có ảnh hưởng đến ty lạp thể ",
+                "3": "Tăng chuyển hóa tế bào, tăng tốc độ phản ứng hóa sinh, tăng chuyển hóa cơ sở, tăng kích thước và  hoạt động của ty lạp thể",
+                "4": "Tăng chuyển hóa tế bào, giảm tốc độ phản ứng hóa sinh, giảm chuyển hóa cơ sở, không có ảnh hưởng đến ty lạp thể",
+                "A": "C",
+                "Q": "Tác dụng chuyển hóa năng lượng của T3, T4"
+            },
+            "9": {
+                "1": "Tăng tái hấp thu Na+, tăng thải K+ và nước ở ống thận",
+                "2": "Tăng tái hấp thu tích cực Na+ và tăng thải K+ ở ống lượn gần",
+                "3": "Tăng tái hấp thu tích cực Na+, tăng thải K+ và nước ống ở lượn xa và ống góp",
+                "4": "Tăng tái hấp thu tăng tái hấp thu tích cực Na+ và tăng thải K+ ở ống lượn xa",
+                "A": "D",
+                "Q": "Tác dụng chính của mineralocorticoid gồm"
+            },
+            "10": {
+                "1": "Tăng phân giải glycogen ở gan, giảm tân tạo đường để chuyển vào máu, nên tăng đường máu",
+                "2": "Tăng phân giải glycogen ở gan, giảm tân tạo đường để chuyển glucose vào máu, nên tăng đường máu",
+                "3": "Tăng tổng hợp glycogen ở cơ, giảm phân giải glycogen ở gan chuyển glucose vào máu, nên tăng đường máu",
+                "4": "Tăng tổng hợp glycogen ở gan, giảm tân tạo đường nên tăng đường máu",
+                "A": "B",
+                "Q": "Tác dụng của glucagon"
+            },
+            "11": {
+                "1": "TSH là hormon có vai trò quan trọng trong tổng hợp, dự trữ và chuyển hormon giáp vào máu",
+                "2": "T3 có hoạt tính sinh học mạnh nhất vì nó giải phóng iod nhanh",
+                "3": "T3, T4 là hormon do tế bào cạnh nang giáp bài tiết",
+                "4": "Dạng vận chuyển trong máu của hormon giáp là thyroglobulin",
+                "A": "A",
+                "Q": "Về hormon tuyến giáp"
+            },
+            "12": {
+                "1": "Deoxycorticosteron, hydrocortison, corticosteron là các hormon thuộc nhóm glucocorticoid",
+                "2": "Aldosteron có tác dụng chống viêm, chống dị ứng",
+                "3": "Aldosteron, deoxycorticosteron là các hormon thuộc nhóm glucocorticoid",
+                "4": "Nhóm glucocorticoid có tác dụng chống viêm, chống dị ứng, chống ức chế miễn dịch",
+                "A": "D",
+                "Q": "Về hoormon tuyến vỏ thượng thận"
+            },
+            "13": {
+                "1": "Giảm chuyển hóa cở sở, tăng tổng hợp glycogen, gây tích lũy năng lượng",
+                "2": "Thúc đẩy sự phát triển cơ thể,tăng biệt hóa mô, hưng phấn hệ thần kinh trung ương",
+                "3": "Thúc đẩy sự phát triển của tất cả các mô trong cơ thể, giảm hưng phấn hệ thần kinh trung ương",
+                "4": "Không có ảnh hưởng lên phát triển cơ thể, chủ yếu là hứng phấn thần kinh- cơ",
+                "A": "B",
+                "Q": "Câu nào đúng về tác dụng của T3, T4?"
+            },
+            "14": {
+                "1": "Chống viêm chống dị ứng, ưc chế miễn dịch, không làm giảm bạch cầu E và lympho",
+                "2": "Chống viêm chống dị ứng tăng đồng hóa protein và tăng cường miễn dịch",
+                "3": "Chống viêm chống dị ứng, ức chế miễn dịch, phòng chống stress, tăng glucose máu, làm giảm tiết dịch vị",
+                "4": "Tăng đồng hóa protein ở gan, tăng đường máu, chống viêm, chống dị ứng, ức chế miễn dịch, phòng chống stress",
+                "A": "D",
+                "Q": "Câu nào đúng về tác dụng chung của glucocorticoid"
+            },
+            "15": {
+                "1": "Tăng tổng hợp protein, lipid và glucid ở tất cả các mô",
+                "2": "Tăng tổng hợp glycogen từ glucose, tăng phân giải lipid ở các mô mỡ dự trữ",
+                "3": "Tăng tổng hợp protein, lipid, giảm sử dụng glucose ở mô",
+                "4": "Tăng tổng hợp protein và lipid dự trữ, tăng tổng hợp glycogen, tăng thoái biến glucose ở mô ngoài gan",
+                "A": "D",
+                "Q": "Câu nào đúng về tác dụng của insulin"
+            },
+            "16": {
+                "1": "Tăng tính thấm của glucose của màng tế bào, tăng hoạt tính lipase chuyển glucid sang tổng hợp lipid",
+                "2": "Giảm hoạt tính hexokinase, phosphorylase, phosphophatase nên làm giảm đường máu",
+                "3": "Tăng tính thấm của màng tế bào với glucose, hoạt hóa hexokinase, ức chế phosphorylase, phosphophatase, tăng hoạt tính glycogen synthetase",
+                "4": "Tăng hoạt tính hexokinase, phosphorylase, phosphophatase, gây giảm đường máu",
+                "A": "C",
+                "Q": "Câu nào đúng về cơ chế tác dụng của insulin trên chuyển hóa glucid"
+            },
+            "17": {
+                "1": "Nồng độ Na+ máu tăng, nồng độ K+ máu giảm",
+                "2": "phản xạ từ các thụ cảm thể thẩm thấu và thể tích",
+                "3": "Nồng độ Na+ và nồng độ K+ máu tăng",
+                "4": "Hệ RAA, ACTH, nồng độ K+ máu tăng",
+                "A": "D",
+                "Q": "Câu nào đúng về điều hòa bài tiết aldosteron"
+            },
+            "18": {
+                "1": "Tăng chuyển glucose thành glucogen, tăng chuyển acid béo thành glucose làm tăng đường máu",
+                "2": "Tăng kích thích tế bào beta của tụy đảo làm tăng bài tiết insulin và giảm đường máu",
+                "3": "Giảm vận chuyển glucose vào trong tế bào, ức chế hexokinase, giảm oxy hóa glucose, tăng đường máu",
+                "4": "Tăng vận chuyển glucose vào trong tế bào làm tăng tổng hợp lipid dự trữ",
+                "A": "C",
+                "Q": "Câu nào đúng về tác dụng chuyển hóa glucid của GH"
+            },
+            "19": {
+                "1": "Tăng mẫn cảm của cơ tim với adrenalin, tăng nhịp tim, ức chế quá trình hưng phấn của vỏ não, giúp cho quá trình tư duy",
+                "2": "Hoạt hóa hệ thần kinh trung ương, tăng nhịp tim, giảm tốc độ dẫn truyền trên hệ thần kinh",
+                "3": "Hưng phấn vỏ não, ức chế hệ thần kinh giao cảm, tăng tốc độ dẫn truyền trên synap thần kinh cơ",
+                "4": "Hưng phấn vỏ não và hệ thần kinh giao cảm, tăng tốc độ dẫn truyền trên synap thần kinh cơ, tăng hưng phấn cơ tim",
+                "A": "D",
+                "Q": "Câu nào đúng về tác dụng của T3, T4 lên một số cơ quan"
+            },
+            "20": {
+                "1": "Tăng quá trình sử dụng glucocid ở các mô, tăng chuyển glycogen thành glucose ở gan, tăng hấp thu glucose ở ruột, tăng tân tạo đường làm tăng đường máu",
+                "2": "Tăng tổng hợp glycogen ở gan, giảm hấp thu glucose ở ruột, giảm sử dụng glycose ở các mô làm giảm đường máu ",
+                "3": "Tăng chuyển hóa glucose ở các mô, tăng tổng hợp glucogen ở gan, tăng chuyển hóa glucose thành lipid dự trữ làm giảm đường máu",
+                "4": "Tăng chuyển hóa glucose ở mô làm tăng dự trữ ATP, tăng chuyển glycogen thành glucose, giảm hấp thu glucose ở ruột, giảm tân tạo đường làm giảm đường máu",
+                "A": "A",
+                "Q": "Trả lời nào đúng về tác dụng chuyển hóa glucid của T3, T4"
+            },
+            "21": {
+                "1": "Tăng thoái biến lipid ở mô mỡ dự trữ làm tăng acid béo máu chuyển sang tân tạo đường",
+                "2": "Tăng thoái biến lipid ở mô mỡ dự trữ làm tăng acid béo máu, tăng thoái biến acid béo cho năng lượng",
+                "3": "Tăng tổng hợp lipid ở gan làm giảm acid béo máu",
+                "4": "Tăng tổng hợp lipid từ glucose làm tăng mỡ dự trữ",
+                "A": "B",
+                "Q": "Trả lời nào đúng về tác dụng chuyển hóa lipid của GH"
+            },
+            "22": {
+                "1": "Các yếu tố kích thích thần kinh trung ương làm giảm TRH làm giảm TSH làm giảm T3, T4. Tăng glucose máu làm tăng T3, T4",
+                "2": "Các yếu tố kích thích thần kinh trung ương làm tăng TRH làm giảm TSH làm tăng T3, T4. Tăng glucose máu làm tăng T3, T4",
+                "3": "Các yếu tố kích thích thần kinh trung ương làm giảm TRH làm tăng TSH làm giảm T3, T4. GIảm T3, T4 làm tăng TRH, tăng TSH làm giảm T3, T4",
+                "4": "Các yếu tố kích thích thần kinh trung ương làm tăng TRH làm tăng TSH làm tăng T3, T4. Giảm T3, T4 làm tăng TRH, tăng TSH làm giảm T3, T4",
+                "A": "D",
+                "Q": "Câu nào đúng về cơ chế bài tiết T3, T4"
+            },
+            "23": {
+                "1": "Các yếu tố  kích thích thần kinh trung ương làm giảm CRH làm giảm ACTH làm tăng cortisol. Tăng glucose máu làm tăng cortisol",
+                "2": "Các yếu tố  kích thích thần kinh trung ương làm giảm CRH làm giảm ACTH làm tăng cortisol. Giảm cortisol làm giảm CRH, ACTH làm tăng cortisol",
+                "3": "Các yếu tố  kích thích thần kinh trung ương làm tăng CRH làm tăng ACTH làm tăng cortisol. Giảm cortisol làm tăng CRH, ACTH làm tăng cortisol",
+                "4": "Các yếu tố  kích thích thần kinh trung ương làm giảm CRH làm tăng  ACTH làm tăng cortisol. Tăng cortisol làm tăng CRH làm tăng ACTH làm giảm cortisol",
+                "A": "C",
+                "Q": "Câu nào đúng về cơ chế bài tiết cortisol"
+            },
+            "24": {
+                "1": "Bệnh Addison",
+                "2": "Bệnh lùn (cơ thể không cân đối )",
+                "3": "Hội chứng Cushing",
+                "4": "Bệnh lùn (cơ thể cân đối )",
+                "A": "D",
+                "Q": "Trả lời nào đúng khi nhược năng tuyến yên toàn bộ trước tuổi dậy thì"
+            },
+            "25": {
+                "1": "Bệnh Basedow",
+                "2": "Bệnh Myxoedem ",
+                "3": "Bệnh khổng lồ",
+                "4": "Bệnh gầy Simmonds",
+                "A": "D",
+                "Q": "Trả lời nào đúng khi nhược năng tuyến yên toàn bộ sau dậy thì"
+            },
+            "26": {
+                "1": "Bệnh to đầu chi ",
+                "2": "Bệnh gầy Simmonds",
+                "3": "Bệnh Basedow",
+                "4": "Bệnh khổng lồ",
+                "A": "D",
+                "Q": "Trả lời nào đúng khi ưu năng tuyến yên (tế bào ưa acid thùy trước ) trước dậy thì"
+            },
+            "27": {
+                "1": "Bệnh khổng lồ",
+                "2": "Bệnh gầy Simmonds",
+                "3": "Bệnh Basedow",
+                "4": "Bệnh to đầu chi ",
+                "A": "D",
+                "Q": "Trả lời nào đúng khi ưu năng tuyến yên (tế bào ưa acid thùy trước ) sau dậy thì"
+            },
+            "28": {
+                "1": "Bệnh đái tháo nhạt",
+                "2": "Bệnh béo phì",
+                "3": "Bệnh Basedow",
+                "4": "Bệnh đái tháo đường",
+                "A": "D",
+                "Q": "Trả lời nào đúng khi thiếu insulin"
+            },
+            "29": {
+                "1": "Bệnh khổng lồ",
+                "2": "Hội chứng Cushing",
+                "3": "Bệnh đái tháo đường",
+                "4": "Bệnh lùn tuyến yên",
+                "A": "B",
+                "Q": "Trả lời nào đúng về ưu năng nhóm glucocorticoid"
+            },
+            "30": {
+                "1": "Bệnh Addison",
+                "2": "Bệnh tiểu đường",
+                "3": "Bệnh Myxoedema",
+                "4": "Hội chứng Cushing",
+                "A": "A",
+                "Q": "Trả lời nào đúng về nhược năng vỏ tuyến thượng thận mạn tính nguyên phát"
+            },
+            "31": {
+                "1": "Bệnh gầy Simmonds",
+                "2": "Bệnh to đầu chi ",
+                "3": "Bệnh Myxoedem",
+                "4": "Bệnh Basedow",
+                "A": "D",
+                "Q": "Trả lời nào đúng về ưu năng tuyến giáp sau tuổi dậy thì"
+            },
+            "32": {
+                "1": "Bệnh gầy Simmonds",
+                "2": "Bệnh to đầu chi ",
+                "3": "Bệnh Myxoedem",
+                "4": "Bệnh Basedow",
+                "A": "C",
+                "Q": "Trả lời nào đúng về nhược năng tuyến giáp toàn bộ sau tuổi dậy thì"
+            },
+            "33": {
+                "1": "Chống dị ứng, chống viêm dạ dày- tá tràng, chống ức chế miễn dịch",
+                "2": "Chống viêm, chống dị ứng, ức chế miễn dịch",
+                "3": "Chống viêm, chống chảy máu dạ dày- tá tràng, chống dị ứng",
+                "4": "Chống dị ứng, ức chế miễn dịch, chống viêm dạ dày- tá tràng",
+                "A": "B",
+                "Q": "Trả lời nào đúng về tác dụng ngoài chuyển hóa của glucocorticoid"
+            },
+            "34": {
+                "1": "Tăng bài tiết pepsin dịch vị, giảm bạch cầu, giảm miễn dịch, nhưng dùng lâu không có ảnh hưởng gì",
+                "2": "Tăng bài tiết HCl dịch vị, giảm bạch cầu E, L. Dùng lâu làm teo cơ, thưa xương, teo hạch bạch huyết, teo tuyến ức",
+                "3": "Tăng bài tiết HCl dịch vị, gây viêm loét dạ dày, không giảm bạch cầu E, L khi dùng kéo dài",
+                "4": "Giảm bài tiết dịch vị, teo cơ, thưa xương, không gây viêm loét dạ dày tá tràng",
+                "A": "B",
+                "Q": "Câu nào đúng về tác dụng không mong muốn của glucocorticoid"
+            },
+            "35": {
+                "1": "Làm chậm cốt hóa sụn liên hợp, làm dầy màng xương",
+                "2": "Tăng đường máu",
+                "3": "Tăng nồng độ Ca++ máu, giảm đường máu",
+                "4": "Tăng số lượng và kích thước của các tế bào",
+                "A": "C",
+                "Q": "Trả lời nào SAI về tác dụng của GH"
+            },
+            "36": {
+                "1": "Chống viêm, chống dị ứng, ức chế miễn dịch",
+                "2": "Giảm bạch cầu E, L khi dùng kéo dài",
+                "3": "Có thể gây chảy máu dạ dày tá tràng",
+                "4": "Giảm nồng độ Glucose máu",
+                "A": "D",
+                "Q": "Trả lời nào SAI về tác dụng của glucocorticoid"
+            },
+            "37": {
+                "1": "KÍch thích phát triển tuyến vỏ thượng thận",
+                "2": "Kích thích phát triển và hoạt động bài tiết hormon tuyến tủy thượng thận",
+                "3": "Làm tăng trọng lượng tuyến vỏ thượng thận",
+                "4": "Tăng cường chuyển hóa sắc tố dưới da giống như MSH",
+                "A": "B",
+                "Q": "Trả lời SAI về tác dụng của ACTH"
+            },
+            "38": {
+                "1": "Làm giảm bạch cầu E",
+                "2": "Kích thích quá trình bắt iod của tế bào nang giáp, gắn iod vào tyrosin và giải phóng T3, T4 từ thyroglobulin",
+                "3": "Kích thích tuyến giáp phát triển",
+                "4": "Kích thích tuyến giáp hoạt động làm bài tiết T3, T4",
+                "A": "A",
+                "Q": "Trả lời nào sai về tác dụng của TSH"
+            },
+            "39": {
+                "1": "Giảm vận chuyển acid amin vào trong tế bào, tăng hoạt tính enzym tân tạo đường từ acid amin",
+                "2": "Tăng vận chuyển acid amin vào trong tế bào, tăng hoạt tính enzym tân tạo đường từ acid amin",
+                "3": "Giảm vận chuyển acid amin vào trong tế bào, giảm hoạt tính enzym tân tạo đường từ acid amin",
+                "4": "Tăng  vận chuyển acid amin vào trong tế bào, ức chế hoạt tính enzym tân tạo đường từ acid amin",
+                "A": "D",
+                "Q": "Trả lời nào đúng về tác dụng cảu insulin lên chuyển hóa protein"
+            },
+            "40": {
+                "1": "Giảm chuyển glucose thành acid béo, ức chế lipase, giảm tổng hợp mỡ dự trữ",
+                "2": "Tăng chuyển acid béo từ gan tới mô mỡ dự trữ, hoạt hóa lipase",
+                "3": "Tăng tổng hợp glycogen, giảm tổng hợp mỡ dự trữ ",
+                "4": "tăng chuyển glucose thành acid béo ở gan, tăng chuyển acid béo tới mô mỡ, ức chế lipase, tăng tổng hợp mỡ dự trữ",
+                "A": "D",
+                "Q": "Trả lời nào đúng về cơ chế tác dụng của insulin lên chuyển hóa lipid"
+            },
+            "41": {
+                "1": "thyroxin",
+                "2": "thyroglobulin",
+                "3": "3,5,3'- triiodothyronine",
+                "4": "monoiodotyrosne",
+                "A": "B",
+                "Q": "Iod được chứa trong các nang tuyến giáp chủ yếu ở dạng"
+            },
+            "42": {
+                "1": "Nó bị ức chế bởi aldosterone",
+                "2": "Nó có nhịp ngày đêm trên người",
+                "3": "Nó bị giảm đi trong các giai đoạn của stress",
+                "4": "Nó bị kích thích bởi adrenalin",
+                "A": "B",
+                "Q": "Sự chế tiết của ACTH được mô tả một cách chính xác ở câu nào sau đây"
+            },
+            "43": {
+                "1": "cơ tim",
+                "2": "tử cung",
+                "3": "não",
+                "4": "cơ vân xương",
+                "A": "C",
+                "Q": "Hấp thu glucose không phụ thuộc insulin xảy ra ở"
+            },
+            "44": {
+                "1": "kém chịu nóng",
+                "2": "tăng chuyển hóa",
+                "3": "giảm chỉ số khối cơ thể",
+                "4": "hay buồn ngủ",
+                "A": "D",
+                "Q": "Người bị chứng nhược năng tuyến giáp có thể biểu hiện"
+            },
+            "45": {
+                "1": "ngủ sâu",
+                "2": "tăng nồng độ glucose huyết tương",
+                "3": "ACTH",
+                "4": "acid béo tự do huyết tương tăng",
+                "A": "A",
+                "Q": "Chế tiết hormon tăng trưởng (GH ) bị kích thích bởi"
+            },
+            "46": {
+                "1": "tăng hoạt động chuyển hóa của não",
+                "2": "được trữ trong các hoạt động ngoại bào ",
+                "3": "là các hormon tác dụng ngắn",
+                "4": "không có tác dụng lên hoạt động chuyển hóa cơ sở",
+                "A": "A",
+                "Q": "Các hormon tuyến giáp"
+            },
+            "47": {
+                "1": "ức chế gián tiếp việc sủ dụng glucose do thừa acid béo trong máu",
+                "2": "tăng cường hấp thu và sử dụng glucose, ngoại trừ ở não",
+                "3": "giảm giải phóng acid béo từ mô mỡ",
+                "4": "giảm α- glycerophosphate ở gan và các tế bào mỡ",
+                "A": "D",
+                "Q": "Thiếu insulin dẫn tới"
+            },
+            "48": {
+                "1": "ổn định màng tiêu thể (lysosom ) của tế bào",
+                "2": "tăng tạo các tế bào bạch cầu",
+                "3": "tăng giải phóng chí nhiệt tố từ các tế bào hạt",
+                "4": "hoạt hóa phospolipase A",
+                "A": "A",
+                "Q": "Tác dụng chống viêm của corticoid được cho là do"
+            },
+            "49": {
+                "1": "tăng huyết áp",
+                "2": "nồng độ cortisol cao",
+                "3": "tăng kali huyết",
+                "4": "Nồng độ ACTH thấp",
+                "A": "C",
+                "Q": "Các dấu hiệu và triệu chứng của một bệnh nhân suy tuyến thượng thận nguyên phát bao gồm"
+            },
+            "50": {
+                "1": "T4 là hormone hoạt động",
+                "2": "TSH khởi phát sự chế tiết hormone tuyến giáp qua sự hoạt hóa của các thụ cảm thể nhân trong các tế bào tuyến giáp",
+                "3": "TSH được chế tiết từ thùy sau tuyến yên",
+                "4": "Sự chế tiết TSH được điều hòa chủ yếu bởi nồng độ T3 tuyến giáp",
+                "A": "B",
+                "Q": "Câu nào sau đây là đúng"
+            },
+            "51": {
+                "1": "Tăng hoạt động của thần kinh phó giao cảm",
+                "2": "Giảm kali máu",
+                "3": "Giảm phân phối natri tới ống lượn xa",
+                "4": "Giảm áp lực tiểu động mạch đến thận",
+                "A": "D",
+                "Q": "Sự chế tiết aldosterone ở tuyến thượng thận bị kích thích bởi"
+            },
+            "52": {
+                "1": "Lồi mắt",
+                "2": "Tăng nồng độ T3 trong huyết tương",
+                "3": "Tăng nồng độ T4 trong huyết tương",
+                "4": "Tăng nồng độ hormon kích thích tuyến giáp (TSH )",
+                "A": "D",
+                "Q": "Điều nào sau đây không phù hợp với chẩn đoán bệnh bướu cổ lồi mắt (bệnh Grave )"
+            },
+            "53": {
+                "1": "Kích thích thận bài tiết renin khi huyết áp giảm",
+                "2": "Kích thích lớp lưới vỏ thượng thận bài tiết hormon",
+                "3": "kích thích lớp tế bào sắc tố sản xuất sắc tố melanin",
+                "4": "Kích thích lớp bó vỏ thượng thận bài tiết hormon",
+                "A": "A",
+                "Q": "ACTH không có tác dụng nào sau đây "
+            },
+            "54": {
+                "1": "Tăng giải phóng iod ra khỏi tế bào nang giáp",
+                "2": "Tăng khối lượng tuyến giáp ",
+                "3": "Giảm quá trình bắt iod của tế bào tuyến giáp",
+                "4": "Kích thích tuyến giáp sản xuất TSH",
+                "A": "B",
+                "Q": "Tác dụng của TSH là"
+            },
+            "55": {
+                "1": "Kích thích tăng sinh tế bào",
+                "2": "Kích thích biệt hóa tế bào",
+                "3": "Kích thích các tế bào nở to, cơ quan tăng khối",
+                "4": "Kích thích tăng tốc độ phát triển xương dài",
+                "A": "B",
+                "Q": "T3, T4  làm phát triển cơ thể vì"
+            },
+            "56": {
+                "1": "Giảm thoái hóa glucose ở tế bào",
+                "2": "Tăng phân giải glycogen thành glucose",
+                "3": "Tăng hấp thu glucose ở ruột",
+                "4": "Tăng tạo đường mới",
+                "A": "A",
+                "Q": "T3, T4 làm tăng đường huyết do các tác dụng sau đây, trừ"
+            },
+            "57": {
+                "1": "Nhịp tim nhanh",
+                "2": "Run đầu ngón tay",
+                "3": "Gầy sút",
+                "4": "Lồi mắt",
+                "A": "D",
+                "Q": "Các biểu hiện sau đây của bệnh Basedow đều do T3, T4 tăng, TRỪ"
+            },
+            "58": {
+                "1": "Lờ đờ buồn ngủ",
+                "2": "Hồi hộp đánh trống ngực",
+                "3": "Tăng cung lượng tim ",
+                "4": "Kích thích biệt hóa tế bào",
+                "A": "A",
+                "Q": "Biểu hiện nào sau đây có ở một bênh nhân phù niêm"
+            },
+            "59": {
+                "1": "Giảm huyết áp   ",
+                "2": "Tăng huyết áp",
+                "3": "Giảm nồng độ Glucose máu",
+                "4": "Tăng nồng độ Glucose máu",
+                "A": "C",
+                "Q": "Insulin làm"
+            },
+            "60": {
+                "1": "Ú mỡ dưới da",
+                "2": "Mặt căng tròn",
+                "3": "da xạm đen",
+                "4": "Giữ nước",
+                "A": "D",
+                "Q": "Điều nào sau đây không phải là một triệu chứng của hội chứng Cushing"
+            },
+            "61": {
+                "1": "glucagon",
+                "2": "renin  ",
+                "3": "aldosteron",
+                "4": "trypsin",
+                "A": "A",
+                "Q": "Insulin hoạt động như một chất đối kháng với"
+            },
+            "62": {
+                "1": "delta của tụy đảo",
+                "2": "theta của tụy đảo",
+                "3": "alpha của tụy đảo",
+                "4": "beta của tụy đảo",
+                "A": "D",
+                "Q": "Insulin được bài tiết do tế bào"
+            },
+            "63": {
+                "1": "kali",
+                "2": "natri",
+                "3": "clo",
+                "4": "iod  ",
+                "A": "D",
+                "Q": "Thành phần cần thiết trong thức ăn để chức năng tuyến giáp bình thường là"
+            },
+            "64": {
+                "1": "tăng cường sự phát triển các xương dài và cơ xương",
+                "2": "ngăn chế tiết nước tiểu",
+                "3": "gây bệnh Cushing nếu được bài tiết quá nhiều",
+                "4": "do tuyến giáp chế tiết",
+                "A": "A",
+                "Q": "Hormon GH"
+            },
+            "65": {
+                "1": "adrenalin",
+                "2": "cortisol",
+                "3": "erythropoietin",
+                "4": "renin  ",
+                "A": "D",
+                "Q": "Chất do thận chế tiết khi huyết áp giảm, kích thích chế tiết aldosteron, là"
+            },
+            "66": {
+                "1": "GH tác động lên toàn bộ các mô cảu cơ thể, làm tăng kích thước, số lượng tế bào và tăng phân chia tế bào",
+                "2": "GH làm tăng tạo xương , dày màng xương",
+                "3": "GH kích thích làm phát triển sụn liên hợp và đẩy nhanh quá trình cốt hóa sụn này",
+                "4": "GH phối hợp với hormon tuyến giáp, tuyến sinh dục làm cơ thể phát triển hài hòa, cân đối",
+                "A": "C",
+                "Q": "Câu trả lời nào sau đây KHÔNG ĐÚNG về tác dụng của hormon GH"
+            },
+            "67": {
+                "1": "GH làm tăng quá trình thoái biến protein trong tế bào ",
+                "2": "GH làm tăng đường máu do giảm vận chuyển glucose vào trong tế bào, ức chế enzym hexokinase, giảm thoái biến glucose cho năng lượng",
+                "3": "GH làm tăng quá trình chuyển hóa calci và phosphat",
+                "4": "GH làm tăng thoái biến lipid ở các mô mỡ dự trữ",
+                "A": "A",
+                "Q": "Câu trả lời nào sau đây KHÔNG ĐÚNG về tác dụng của hormon GH"
+            },
+            "68": {
+                "1": "ACTH làm tăng sinh tế bào, kích thước vỏ thượng thận",
+                "2": "Kích thích tế bào sắc tố, chuyển hóa melanin",
+                "3": "ACTH làm tăng quá trình tổng hợp, bài tiết các catecholamin",
+                "4": "ACTH giúp cho quá trình học tập và ghi nhớ",
+                "A": "C",
+                "Q": "Câu trả lời nào sau đây KHÔNG ĐÚNG về tác dụng của hormon ACTH"
+            },
+            "69": {
+                "1": "Cường chức năng tuyến yên toàn bộ trước tuổi dậy thì",
+                "2": "Suy giảm chức năng tuyến yên toàn bộ trước tuổi dậy thì",
+                "3": "Cường chức năng tuyến yên toàn bộ sau tuổi dậy thì",
+                "4": "Suy giảm chức năng tuyến yên toàn bộ sau tuổi dậy thì",
+                "A": "B",
+                "Q": "Bệnh lùn tuyến yên là do"
+            },
+            "70": {
+                "1": "Dậy thì sớm",
+                "2": "Dậy thì muộn",
+                "3": "Không có thời kỳ dậy thì",
+                "4": "Cơ thể rất nhỏ bé, không phát triển được cả về thể chất và trí tuệ",
+                "A": "C",
+                "Q": "Người bị bệnh lùn do suy giảm chức năng toàn bộ có đặc điểm"
+            },
+            "71": {
+                "1": "Bàn tay và bàn chân to, nhất là các ngón",
+                "2": "Đái tháo đường do tuyến yên",
+                "3": "Nhi tính",
+                "4": "Dày các xương dẹp dẫn tới đầu to, trán dô, mũi to, gò má cao",
+                "A": "C",
+                "Q": "Biểu hiện nào sau đây không gặp trong bệnh to đầu chi"
+            },
+            "72": {
+                "1": "Suy giảm sự bài tiết TSH",
+                "2": "Tổn thương thùy sau tuyến yên",
+                "3": "Suy giảm sự bài tiết GH",
+                "4": "Cường chức năng tuyến yên",
+                "A": "B",
+                "Q": "Nguyên nhân nào gây bệnh đái tháo nhạt"
+            },
+            "73": {
+                "1": "triiodothyronin",
+                "2": "tetraiodothyronin",
+                "3": "thyroglobulin",
+                "4": "thyroxin",
+                "A": "C",
+                "Q": "Dạng dự trữ của hoormon T3, T4 là "
+            },
+            "74": {
+                "1": "93% T4, 7% T3",
+                "2": "80% T3, 20% T4",
+                "3": "80% T4, 20% T3",
+                "4": "93% T3, 7% T4",
+                "A": "A",
+                "Q": "Tỷ lệ nào ĐÚNG về hormon T3 và T4"
+            },
+            "75": {
+                "1": "93% hormon tuyến giáp giải phóng vào máu  là T4 nhưng T3 có tác dụng nhanh hơn T4 khoảng 4 lần",
+                "2": "93% hormon tuyến giáp giải phóng vào máu  là T4 và nó có tác dụng nhanh hơn T3  khoảng 4 lần",
+                "3": "93% hormon tuyến giáp giải phóng vào máu  là T3 và nó có tác dụng nhanh hơn T4 khoảng 4 lần",
+                "4": "93% hormon tuyến giáp giải phóng vào máu  là T3  nhưng T4 có tác dụng nhanh hơn T3 khoảng 4 lần",
+                "A": "A",
+                "Q": "Nhận xét về hormon T3 và T4"
+            },
+            "76": {
+                "1": "Làm tăng tốc độ phát triển xương, tổ chức thần kinh và cơ",
+                "2": "Trẻ ưu năng tuyến giáp sẽ dậy thì chậm và làm cho thời kỳ trưởng thành của đứa trẻ dài ra",
+                "3": "Hormon tuyến giáp  phối hợp với GH và các hormon khac điều hòa sự phát triển cân đối, hài hòa của các cơ quan và cơ thể ",
+                "4": "Làm phát triển não bộ trong thời kỳ bào thai và những năm đầu sau sinh",
+                "A": "B",
+                "Q": "Nhận xét nào sau đây là KHÔNG ĐÚNG về tác dụng phát triển của hormon T3, T4"
+            },
+            "77": {
+                "1": "Làm tăng lượng cholesterol, phospholipid, triglycerid huyết tương",
+                "2": "Làm tăng hoạt hóa hệ enzym chuyển hóa glucid nội bào",
+                "3": "Làm tăng nhu cầu tiêu thụ các vitamin",
+                "4": "Làm tăng cả quá trình tổng hợp và thoái hóa protein",
+                "A": "A",
+                "Q": "Nhận xét nào sau đây KHÔNG ĐÚNG về tác dụng lên chuyển hóa vật chất của hormon T3, T4"
+            },
+            "78": {
+                "1": "Không ảnh hưởng tới sử dụng glucose ở tế bào não",
+                "2": "Làm tăng tính thấm của cơ với glucose",
+                "3": "Làm tăng hoạt tính và hàm lượng các enzym tham gia tân tạo đường",
+                "4": "Làm tăng thâm nhập glucose vào tế bào tế bào gan; giảm phân giải và tăng tổng hợp glycogen tại đây",
+                "A": "C",
+                "Q": "Nhận xét nào sau đây về tác dụng của insulin là KHÔNG ĐÚNG"
+            },
+            "79": {
+                "1": "Làm tăng hàm lượng lipoprotein máu",
+                "2": "Làm tăng tổng hợp triglycerid",
+                "3": "Làm hoạt hóa enzym lipase",
+                "4": "Làm tăng tổng hợp acid béo từ glucid",
+                "A": "A",
+                "Q": "Tác dụng nào của insulin trên chuyển hóa lipid là KHÔNG ĐÚNG"
+            },
+            "80": {
+                "1": "1 tiểu đơn vị beta và 2 tiểu đơn vị alpha",
+                "2": "1 tiểu đơn vị alpha và 3 tiểu đơn vị beta",
+                "3": "2 tiểu đơn vị alpha và 2 tiểu đơn vị beta",
+                "4": "2 tiểu đơn vị alpha và 1 tiểu đơn vị beta",
+                "A": "C",
+                "Q": "Receptor của insulin gồm có"
+            },
+            "81": {
+                "1": "Tế bào delta tuyến tụy nội tiết tiết ra",
+                "2": "Tế bào gamma tuyến tụy nội tiết tiết ra",
+                "3": "Tế bào beta tuyến tụy nội tiết tiết ra",
+                "4": "Tế bào alpha tuyến tụy nội tiết tiết ra",
+                "A": "D",
+                "Q": "Hormon glucagon do"
+            },
+            "82": {
+                "1": "Làm tăng cường phân giải glycogen ở gan",
+                "2": "Làm hoạt hóa enzym lipase ở tổ chức mỡ",
+                "3": "Làm tăng vận chuyển acid amin vào gan",
+                "4": "Làm ức chế các enzym tham gia quá trình tân tạo đường",
+                "A": "D",
+                "Q": "Nhận xét nào sau đây về tác dụng của glucagon là KHÔNG ĐÚNG"
+            },
+            "83": {
+                "1": "Làm tăng đào thải K+ và tăng tái hấp thu Na+ ở ống lượn xa và phần đầu ống góp",
+                "2": "Làm giảm tính thấm thành mạch, ngăn chặn sự thoát dịch rỉ viêm",
+                "3": "Khi thiếu, gây ra phù niêm dịch",
+                "4": "Mở rộng các vi lỗ trên màng tế bào biểu mô ống thận, làm tăng tái hấp thu nước",
+                "A": "A",
+                "Q": "Hormon aldosteron có đặc điểm"
+            },
+            "84": {
+                "1": "Chống viêm, chống dị ứng",
+                "2": "Điều hòa thể tích dịch ngoại bào và huyết áp",
+                "3": "Điều hòa đường huyết",
+                "4": "Điều hòa chuyển hóa năng lượng",
+                "A": "B",
+                "Q": "Aldosteron có vai trò  quan trọng trong"
+            },
+            "85": {
+                "1": "Tăng cường sử dụng glucose ở tế bào",
+                "2": "Huy động acid amin từ tổ chức ngoài gan",
+                "3": "LÀm tăng chuyển acid lactic thành glucose và glycogen",
+                "4": "Kích thích tân tạo đường từ protein",
+                "A": "A",
+                "Q": "Tác dụng nào sau đây của cortisol lên chuyển hóa glucid là KHÔNG ĐÚNG"
+            },
+            "86": {
+                "1": "Làm tăng nồng độ acid béo tự do trong máu",
+                "2": "Tăng huy động mỡ ở gan và mô mỡ",
+                "3": "Giảm thâm nhập và ức chế oxy hóa acid béo trong tế bào",
+                "4": "Tái phân bố lại mỡ trong cơ thể",
+                "A": "C",
+                "Q": " Tác dụng nào sau đây của cortisol lên chuyển hóa lipid là KHÔNG ĐÚNG"
+            },
+            "87": {
+                "1": "Tăng chuyển hóa glucid theo hướng tích lũy ",
+                "2": "Tăng dự trữ protein ở tế bào ngoài gan, tăng tổng hợp protein ở gan",
+                "3": "Chống stress",
+                "4": "Chống viêm, chống dị ứng",
+                "A": "B",
+                "Q": "Cortisol có tác dụng sau, NGOẠI TRỪ"
+            },
+            "88": {
+                "1": "ưu năng tuyến tủy thượng thận nguyên phát",
+                "2": "ưu năng tuyến vỏ thượng thận nguyên phát",
+                "3": "ưu năng tuyến tủy thượng thận thứ phát",
+                "4": "ưu năng tuyến vỏ thượng thận thứ phát",
+                "A": "B",
+                "Q": "Hội chứng cushing là do"
+            },
+            "89": {
+                "1": "Do tế bào beta của tụy tiết ra",
+                "2": "Có tác dụng hạ đường máu",
+                "3": "Có bản chất la steroid",
+                "4": "Có tác dụng gây tăng đường máu",
+                "A": "D",
+                "Q": "Điều nào sau đây là đúng về hormon glucagon"
+            },
+            "90": {
+                "1": "tăng tổng hợp glycogen",
+                "2": "gây hạ đường máu",
+                "3": "tăng tân tạo đường từ các acid amin",
+                "4": "tăng tổng hợp lipid ở các mô mỡ dự trữ",
+                "A": "C",
+                "Q": "Hormon glucagon có tác dụng"
+            },
+            "91": {
+                "1": "ức chế bài tiết glucagon",
+                "2": "kích thích tế bào alpha của tụy đảo bài tiết insulin",
+                "3": "không ảnh hưởng đến sự bài tiết glucagon",
+                "4": "kích thích bài tiết glucagon",
+                "A": "A",
+                "Q": "Nồng độ glucose máu cao có tác dụng"
+            },
+            "92": {
+                "1": "tuyến đích là tuyến vỏ thượng thận",
+                "2": "là hormon của tuyến vỏ thượng thận",
+                "3": "bản chất là polypeptide, có 39 acid amin",
+                "4": "được sản xuất bới tế bào ưa acid của thùy trước tuyến yên",
+                "A": "B",
+                "Q": "Nhận định nào KHÔNG đúng về hormone ACTH"
+            },
+            "93": {
+                "1": "là hormon của tuyến vỏ thượng thận",
+                "2": "tác dụng lên não ảnh hưởng tới trí nhớ, học tập",
+                "3": "có tác dụng tăng chuyển hóa sắc tố dưới da giống MSH",
+                "4": "tăng đồng hóa protein và chuyển hóa lipid ở vỏ thượng thận",
+                "A": "A",
+                "Q": "Nhận định nào sau đây là KHÔNG ĐÚNG về hormon ACTH"
+            },
+            "94": {
+                "1": "tuyến đích là tuyến giáp",
+                "2": "có bản chất là  acid amin, trọng lượng phân tử 48000 dalton",
+                "3": "là hormon của tuyến giáp",
+                "4": "nơi sản xuất là tế bào ưa kiềm của tuyến giáp",
+                "A": "A",
+                "Q": "Nhận định nào sau đây là đúng về hormon TSH"
+            },
+            "95": {
+                "1": "Có tác dụng lên tái hấp thu Na+ và bài tiết K+",
+                "2": "Được sản xuất bởi tủy thượng thận",
+                "3": "Bản chất là steriod, ở C13 có nhóm aldehyt (-CHO)",
+                "4": "Gồm 2 loại aldosterol và deoxycorticosteron",
+                "A": "B",
+                "Q": "Điều nào sau đây là KHÔNG đúng về hormon corticoid khoáng"
+            },
+            "96": {
+                "1": "tăng tái hấp thu Na+ ở ống lượn xa (1)",
+                "2": "không ảnh hưởng đến thể tích dịch ngoại bào",
+                "3": "cả (1) và (2)",
+                "4": "tăng thải K+ ở ống lượn xa (2)",
+                "A": "C",
+                "Q": "Corticoid khoáng có tác dụng"
+            },
+            "97": {
+                "1": "Nồng độ ion K+ trong máu (2)",
+                "2": "Cả (1), (2), (3)",
+                "3": "Hệ Renin- Angiotensin- Aldosterol (3)",
+                "4": "Nồng độ ion Na+ trong máu (1)",
+                "A": "B",
+                "Q": "Các yếu tố ảnh hưởng đến bài tiết corticoid khoáng"
+            },
+            "98": {
+                "1": "Phát triển cơ thể",
+                "2": "Không làm cốt hóa sụn đầu tiếp hợp xương dài",
+                "3": "Phối hợp với các hormon khác làm cơ thể phát triển cân đối, hài hòa",
+                "4": "Làm biệt hóa cấu trúc tế bào",
+                "A": "B",
+                "Q": "Tác dụng nào không đúng của hormon tuyến giáp T3, T4"
+            },
+            "99": {
+                "1": "Tăng chuyển hóa của tế bào não, phổi, lách và võng mạc",
+                "2": "Làm giảm chuyển hóa cơ sở",
+                "3": "Tăng tốc độ phản ứng hóa sinh, tăng sử dụng oxy",
+                "4": "Không ảnh hưởng đến kích thước và hoạt động của ty thể",
+                "A": "C",
+                "Q": "Nhận định nào đúng về tác dụng của hormon tuyến giáp lên chuyển hóa năng lượng "
+            },
+            "100": {
+                "1": "Gây tăng tổng hợp protein",
+                "2": "Nồng độ quá cao gây thoái biến protein ở mô",
+                "3": "Làm phát triển cơ thể gây biệt hóa ở tế bào và mô",
+                "4": "Nồng độ quá cao gây tăng tổng hợp protein ở mô",
+                "A": "D",
+                "Q": "Tác dụng nào của hormon tuyến giáp lên chuyển hóa protein là KHÔNG đúng"
+            },
+            "101": {
+                "1": "Giảm hấp thu glucose ở ruột",
+                "2": "Giảm tân tạo đường  ",
+                "3": "Tăng thoái biến glucid ở mô",
+                "4": "Tăng tổng hợp glycogen ở gan",
+                "A": "C",
+                "Q": "Tác dụng nào của hormon tuyến giáp lên chuyển hóa glucid là ĐÚNG"
+            },
+            "102": {
+                "1": "Tăng chuyển hóa axit béo thành acetyl- CoA cho năng lượng",
+                "2": "Tăng tổng hợp protein ở gan",
+                "3": "Giảm thoái biến protein và acid amin ở tế bào",
+                "4": "Giảm thoái biến lipid ở mô mỡ",
+                "A": "D",
+                "Q": "Nhận định nào là KHÔNG đúng về tác dụng của hormon GH lên chuyển hóa "
+            },
+            "103": {
+                "1": "giảm tổng hợp protein ở gan",
+                "2": "giảm chuyển acid amin sang tân tạo đường",
+                "3": "giảm vận chuyển acid amin vào tế bào",
+                "4": "tăng thoái biến protein  ở các mô ngoài gan",
+                "A": "D",
+                "Q": "Glucocorticoid tác dụng lên chuyển hóa làm"
+            },
+            "104": {
+                "1": "Gây giảm đường máu",
+                "2": "Giảm thoái biến glucose ở tế bào",
+                "3": "Tăng tổng hợp và dự trữ glycogen ở gan",
+                "4": "Tăng tân tạo đường ở gan",
+                "A": "A",
+                "Q": "Nhận định nào không đúng về tác dụng của glucocorticoid lên chuyển hóa glucid"
+            },
+            "105": {
+                "1": "Tăng thoái biến glucose ở cơ",
+                "2": "Tăng tổng hợp glycogen ở gan",
+                "3": "Giảm chuyển hóa glucose thành acid béo ở gan",
+                "4": "Giảm tân tạo đường",
+                "A": "C",
+                "Q": "Tác dụng nào của insulin lên chuyển hóa glucid là KHÔNG đúng"
+            },
+            "106": {
+                "1": "Tăng phân giải glucosa thành glucose",
+                "2": "Giảm phân giải  glycogen thành glucose",
+                "3": "Tiảm phân giải lipit ở mô mỡ dự trữ",
+                "4": "Giảm tân tạo đường từ acid amin đường",
+                "A": "A",
+                "Q": "Glucagon của tuyến tụy có tác dụng "
+            },
+            "107": {
+                "1": "Có bản chất là steroid",
+                "2": "Được sản xuất bởi tế bào ưa kiềm của tuyến yên",
+                "3": "Có tuyến đích là tuyến giáp",
+                "4": "Kích thích tổng hợp và bài tiết hormon tủy thượng thận",
+                "A": "B",
+                "Q": "hormon kích thích vỏ thượng thận ACTH "
+            },
+            "108": {
+                "1": "Có bản chất là poplpeptit",
+                "2": "Được sản xuất ra bởi tế bào ưa acid của tuyến yên",
+                "3": "Được sản xuất ra bởi tế bào ưa kiềm của tuyến yên",
+                "4": "Có tuyến đích là vỏ thượng thận",
+                "A": "C",
+                "Q": "Hormon kích thích tuyến giáp TSH"
+            },
+            "109": {
+                "1": "Kích thích tuyến giáp phát triển",
+                "2": "Giảm tổng hợp và giải phóng T3, T4",
+                "3": "Tăng găn Iod vào Tyrosin",
+                "4": "Gây lồi mắt khi nồng độ quá cao trong máu",
+                "A": "B",
+                "Q": "Hormon kích thích tuyến giáp TSH KHÔNG có tác dụng "
+            },
+            "110": {
+                "1": "Tăng tái hấp thu ion Na + ở ống lượn xa của thận",
+                "2": "Giảm thải K+ ở ống lươn xa của thận",
+                "3": "Không có tác dụng đối với thể tích dịch ngoại boài",
+                "4": "Giảm thải H+ ở thận",
+                "A": "A",
+                "Q": "Hormon aldosteron của vỏ thượng thận có tác dụng"
+            },
+            "111": {
+                "1": "Nồng đô ion Na+ trong máu",
+                "2": "Nồng đô ion K+ trong máu",
+                "3": "thông qua hệ RAA",
+                "4": "cả 3 yếu tố a,b,c",
+                "A": "D",
+                "Q": "Điều hòa bài tiết aldosterol nhờ"
+            },
+            "112": {
+                "1": "Giảm tốc độ phát triển của cơ thể",
+                "2": "Làm chậm cốt hóa sụn tiếp hợp, đầu xương dài",
+                "3": "Làm biệt hóa cấu trúc chức năng các tế bào và mô",
+                "4": "Làm cơ thể phát triển không cân đối mất hài hòa",
+                "A": "C",
+                "Q": "hormone T3,T4 của tuyến giáp có tác dụng"
+            },
+            "113": {
+                "1": "Làm tăng số lượng và kích thước các tế bào và mô",
+                "2": "Làm chậm sự phát triển hệ xương dài",
+                "3": "Đẩy nhanh quá trình cốt hóa sụn tiếp hợp đầu xương dài",
+                "4": "Gây bệnh khổng lồ",
+                "A": "A",
+                "Q": "Hormone phát triển cơ thể GH có tác dụng "
+            },
+            "114": {
+                "1": "Giam thoái biến Glucid ở mô",
+                "2": "Giảm phân giải Glucose ở gan",
+                "3": "Tăng tân tạo đường",
+                "4": "Giảm hấp thu glucose ở ruột",
+                "A": "C",
+                "Q": "Hormone T3, T4 của tuyến giáp có tác dụng lên chuyển hỏa Glucid"
+            },
+            "115": {
+                "1": "Giảm vận chuyển acid amin vào tế bào",
+                "2": "Tăng tổng hợp protein ở gan",
+                "3": "Giam thoái biến protein ở các mô ngoài da",
+                "4": "Giảm chchuyển acid amin sang tân tạo đường",
+                "A": "B",
+                "Q": "Tác dụng của hormone Glucocorticoid lên chuyển hóa protein"
+            },
+            "116": {
+                "1": "giảm tổng hợp Glycogen ở ganb",
+                "2": "Tăng phân giải glycogen thành glucose",
+                "3": "Tăng chuyển hóa Glucose thành acid béo ở gan",
+                "4": "Tăng tân tạo đường",
+                "A": "C",
+                "Q": "Insulin có tác dụng lên chuyển hóa Glucid"
+            },
+            "117": {
+                "1": "Do tế bào alpha của tụy đảo bài tiết",
+                "2": "Do tế bào của beta của tụy đảo bài tiết",
+                "3": "Có bản chất là Glycoprotein",
+                "4": "Có bản chất là steroid",
+                "A": "B",
+                "Q": "Điều nào sau đây là đúng về hormone insulin"
+            },
+            "118": {
+                "1": "Giảm huy động lipid ở gan",
+                "2": "Giảm oxy hóa acid béo ở các mô",
+                "3": "Làm phân bố lại mỡ trong cơ thể",
+                "4": "Giảm huy động lipid ở các mô",
+                "A": "C",
+                "Q": "Tác dụng hormone Glucocorticoid lên chuyển hóa Lipid"
+            },
+            "119": {
+                "1": "Tăng tổng hợp protein ở gan",
+                "2": "Giảm thoái biến protein và acid amin ở tế bào",
+                "3": "Giảm chuyển acid béo thành acetylcoA cho năng lượng",
+                "4": "Tăng thoái biến lipid ở mô mỡ dẫn đến tăng acid béo máu",
+                "A": "C",
+                "Q": "Điều nào sau đây là KHÔNG đúng về tác dụng của hormone GH lên chuyển hóa"
+            },
+            "120": {
+                "1": "hormone phát triển GH",
+                "2": "Cortisol",
+                "3": "Somatostatin",
+                "4": "Thyroxin",
+                "A": "D",
+                "Q": "Hormone nào sau đây gây ảnh hưởng mạnh nhất đến chuyển hóa cơ sở"
+            },
+            "121": {
+                "1": "Hoạt động thể lực nặng",
+                "2": "Sau uống uống nước đường Glucose",
+                "3": "Ngay trước bữa ăn",
+                "4": "Khi cơ thể bị suy dinh dưỡng kéo dài",
+                "5": "Trong khi ngủ",
+                "A": "B",
+                "Q": "Nồng độ hormone GH giảm thấp trong trường hợp nào sau đây"
+            },
+            "122": {
+                "1": "Thyrotropin releasing hormone ( TRH) tăng",
+                "2": "Trời lạnh",
+                "3": "Nồng độ iod hữu cơ trong cơ thể cao",
+                "4": "thyroid stimulating immunoglobin ( TSI) tăng",
+                "A": "C",
+                "Q": "yếu tố nào sau đây gây ức chế tạo thyroxin trong điều kiện sinh lí"
+            },
+            "123": {
+                "1": "Glucagon",
+                "2": "Thyroxin",
+                "3": "Triiodothyronin",
+                "4": "Dopamin",
+                "5": "Epinephedrine",
+                "A": "A",
+                "Q": "chất nào sau đây không được tạo thành từ axit aminTyrosin"
+            },
+            "124": {
+                "1": "tuyến thượng thận",
+                "2": "tuyến tụy nội tiết",
+                "3": "vùng dưới đồi",
+                "4": "tuyến giáp",
+                "A": "D",
+                "Q": "tuyến nội tiết nào sau đây có khả năng lưu trữ hormone do nó tạo ra"
+            },
+            "125": {
+                "1": "Thyrotropin releasing hormone ( TRH) tăng",
+                "2": "thyroid stimulating immunoglobin ( TSI) tăng",
+                "3": "thyroxin binding globuling TBG",
+                "4": "cả a,b,c đều đúng",
+                "A": "D",
+                "Q": "Chuyển hóa cơ sở của cơ thể KHÔNG bị ảnh hưởng bơi"
+            },
+            "126": {
+                "1": "T4",
+                "2": "T3",
+                "3": "MIT",
+                "4": "DIT",
+                "A": "A",
+                "Q": "Hormone tuyến giáp được bài xuất chủ yếu dưới dạng"
+            },
+            "127": {
+                "1": "T4",
+                "2": "T3",
+                "3": "MIT",
+                "4": "DIT",
+                "A": "B",
+                "Q": "Dạng hormone tuyến giáp có hoạt tính mạnh nhất là"
+            },
+            "128": {
+                "1": "Tăng đường huyết (a)",
+                "2": "Hoạt động thể lực (b)",
+                "3": "Smatostatin (GIH) ( c)",
+                "4": "cả b,c đều đúng",
+                "A": "D",
+                "Q": "hormone GH tăng tiết dưới tác dụng của"
+            },
+            "129": {
+                "1": "Nồng độ GH tăng cao trong pha ngủ có vận động mắt nhanh ( REM)",
+                "2": "Nồng độ hormone smatostatin trong huyết thanh tăng tỉ lệ nghich với mức độ bài tiết GH",
+                "3": "Somatomedine được tiết ra chủ yếu ở lớp cầu của tuyến vỏ thượng thận dưới tác dụng của GH",
+                "4": "Nồng độ hormone GH trong huyết thanh thay dổi theo tuổi và đạt đỉnh trong giai đoạn dậy thì",
+                "A": "B",
+                "Q": "câu trả lời nào sau đây là đúng về hormone GH"
+            },
+            "130": {
+                "1": "Tủy thượng thận",
+                "2": "Vỏ thượng thận ",
+                "3": "Tuyển yen",
+                "4": "Vùng dưới đồi",
+                "A": "B",
+                "Q": "Cortisol được sản xuất ở"
+            },
+            "131": {
+                "1": "Bệnh to đầu chi ",
+                "2": "Hội chứng Cushinh",
+                "3": "Bệnh Addison",
+                "4": "Bệnh khổng lồ",
+                "A": "A",
+                "Q": "bệnh lí gây tăng cường phát triển xương ở bàn tay bàn chân và vùng mặt do tăng hormone Gh được gọi là"
+            },
+            "132": {
+                "1": "nghiệm pháp dung nạp Glucose đường uống (a)",
+                "2": "Nghiệm pháp Coombs (b)",
+                "3": "nghiệm pháp Thorn ©",
+                "4": "cả b,c đều đúng",
+                "A": "D",
+                "Q": "Nghiệm pháp nào đánh giá nhược năng vỏ thượng thận "
+            },
+            "133": {
+                "1": "aldosterol làm tăng tái hấp thu Na+ và tăng thải K+ ở ống lượn xa và phần đầu của ống góp",
+                "2": "Là hormone của tuyến vỏ thượng thận tiết ra",
+                "3": "aldosterol có hoạt tính ATPase gây hoạt hóa bơm Na+ K+ trên màng tế bào ống thận",
+                "4": "aldosterol ngăn chặn mất Na + ở đường tiêu hóa",
+                "A": "D",
+                "Q": "Điều nào sau đây là không đúng về tác dụng của aldosterol"
+            },
+            "name": "SINH LÍ NỘI TIẾT"
+        }
+    }
+}

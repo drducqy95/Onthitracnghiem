@@ -1,0 +1,1480 @@
+{
+    "BENH_HOC_NOI_KHOA_2018": {
+        "AM1": {
+            "1": {
+                "1": ">15 mmHg",
+                "2": "> 5 mmHg",
+                "3": ">12 mmHg",
+                "4": ">10 mmHg",
+                "A": "B",
+                "Q": "Dựa vào chênh áp tĩnh mạch gan (HVPG) ngưỡng để chẩn đoán tăng áp lực tính mạch cửa là khi HVPG"
+            },
+            "2": {
+                "1": "Huyết khối tĩnh mạch lách là nguyên nhân sau gan",
+                "2": "Nguyên nhân tại gan thường gặp nhất do tắc nghẽn đường mật trong gan",
+                "3": "Viêm màng ngoài tim co thắt là nguyên nhân sau gan",
+                "4": "Hội chứng Banti là tăng áp lực tĩnh mạch cửa nguyên nhân do huyết khối tingx mạch gan",
+                "A": "C",
+                "Q": "Phát biểu nào sau đây đúng về nguyên nhân gây tăng áp lực tĩnh mạch cửa?"
+            },
+            "3": {
+                "1": "Xơ gan",
+                "2": "Hội chứng Budd - chỉai",
+                "3": "Huyết khối tĩnh mạch gan",
+                "4": "Huyết khối tĩnh mạch cửa",
+                "A": "D",
+                "Q": "Nguyên nhân nào dưới đây thuộc nhóm nguyên nhân tăng áp lực tĩnh mạch cửa trước gan"
+            },
+            "4": {
+                "1": "Tắc nghẽn tĩnh mạch trong gan.",
+                "2": "Bệnh Wilson, Hemochromatose.",
+                "3": "Xơ gan.",
+                "4": "Huyết khối tĩnh mạch lách.",
+                "A": "D",
+                "Q": "Nguyên nhân nào dưới đây KHÔNG phải là nguyên nhân gây tăng áp lực tĩnh mạch cửa tại gan?"
+            },
+            "5": {
+                "1": "Xơ gan.",
+                "2": "Huyết khối tĩnh mạch cửa.",
+                "3": "Viêm màng ngoài tim co thắt.",
+                "4": "Dò thông động mạch gan và tĩnh mạch cửa.",
+                "A": "C",
+                "Q": "Nguyên nhân nào dưới đây thuộc nhóm nguyên nhân tăng áp lực tĩnh mạch cửa sau gan?"
+            },
+            "6": {
+                "1": "Cổ trướng, phù chân, tĩnh mạch cổ nổi, gan to, lách to.",
+                "2": "Cổ trướng, tuần hoàn bàng hệ cửa chủ, giãn tĩnh mạch thực quản, lách to, trĩ.",
+                "3": "Tuần hoàn bàng hệ cửa chủ, giãn tĩnh mạch thực quản, lách to, gan to.",
+                "4": "Xuất huyết dưới da, niêm mạc; xuất huyết tiêu hóa do giãn vỡ tĩnh mạch thực quản, tâm phình vị; bệnh dạ dày tăng áp cửa.",
+                "A": "B",
+                "Q": "Hội chứng tăng áp lực tĩnh mạch cửa bao gồm các triệu chứng sau đây, chọn câu đúng nhất:"
+            },
+            "7": {
+                "1": "Cổ trướng là triệu chứng khởi đầu và tương ứng với độ nặng của tăng áp lực tĩnh mạch cử",
+                "2": "Giảm các dòng tế bào máu là do lách tăng hoạt động.",
+                "3": "Sao mạch là hình thức nối thông động - tĩnh mạch do tăng áp lực tĩnh mạch cửa.",
+                "4": "Mở thông vòng nối cửa - chủ không phải là triệu chứng quan trọng của tăng áp lực tĩnh mạch cửa vì không thể phát hiện qua thăm khám lâm sàng.",
+                "A": "B",
+                "Q": "Phát biểu nào sau đây đúng về triệu chứng lâm sàng của hội chứng tăng áp lực tĩnh mạch cửa"
+            },
+            "8": {
+                "1": "Giãn tĩnh mạch thực quản, phình vị.",
+                "2": "Dạ dày hình da rắn hay đá lát đường.",
+                "3": "Niêm mạc thực quản - dạ dày có các dấu đỏ.",
+                "4": "Viêm loét 1/3 dưới thực quản.",
+                "A": "D",
+                "Q": "Hình ảnh nội soi đường tiêu hóa trên KHÔNG phải là dấu hiệu của hội chứng tăng áp lực tĩnh mạch cửa?"
+            },
+            "9": {
+                "1": "Kích thước tĩnh mạch cửa và tĩnh mạch lách.",
+                "2": "Kích thước lách.",
+                "3": "Tái lập tuần hoàn rốn.",
+                "4": "Vận tốc các dòng máu lưu thông trong gan.",
+                "A": "D",
+                "Q": "Các thông tin mà siêu âm B-mode và Doppler ổ bụng thường qui cung cấp để xác định hội chứng tăng áp lực tĩnh mạch cửa, NGOẠI TRỪ:"
+            },
+            "10": {
+                "1": "Là tĩnh mạch cửa tại xoang hay sau xoang.",
+                "2": "Cổ trướng là triệu chứng khởi đầu và tương ứng với độ nặng của tăng áp lực tĩnh mạch cử",
+                "3": "Cổ trướng tự do, dịch thấm.",
+                "4": "Độ chênh Albumin huyết thanh và Albumin dịch cổ trướng > 1,1g/dl.",
+                "A": "B",
+                "Q": " Đặc điểm nào sau đây KHÔNG phải là đặc điểm cổ trướng do tăng áp lực tĩnh mạch cửa?"
+            },
+            "11": {
+                "1": "Bilirubin gián tiếp.",
+                "2": "Bilirubin trực tiếp.",
+                "3": "Cả 2 loại Bilirubin.",
+                "4": "Urobilinogen.",
+                "A": "A",
+                "Q": "Giảm khả năng thu nhận Bilirubin vào gan gây tăng trong máu:"
+            },
+            "12": {
+                "1": "Viêm gan siêu vi cấp.",
+                "2": "U đầu tụy.",
+                "3": "Hội chứng Gilbert.",
+                "4": "Hội chứng Dubin - Johnson.",
+                "A": "C",
+                "Q": " Nguyên nhân nào sau đây gây tăng Bilirubin gián tiếp?"
+            },
+            "13": {
+                "1": "Hội chứng Gilbert.",
+                "2": "Viêm gan virus cấp.",
+                "3": "Thuốc Rifamycin.",
+                "4": "Ung thư đường mật.",
+                "A": "B",
+                "Q": "Nguyên nhân nào sau đây gây tăng Bilirubin hỗn hợp?"
+            },
+            "14": {
+                "1": "Bệnh Thalassemi",
+                "2": "Hội chứng Crigler - Najjar.",
+                "3": "Hội chứng Dubin - Johnson.",
+                "4": "Sốt rét.",
+                "A": "C",
+                "Q": "Nguyên nhân nào sau đây gây tăng Bilirubin trực tiếp chiếm ưu thế?"
+            },
+            "15": {
+                "1": "Tăng nồng độ cholesterole máu toàn phần huyết thanh.",
+                "2": "Tăng hoạt độ Phosphatase kiềm huyết thanh.",
+                "3": "Tăng Bilirubin trực tiếp trong nước tiểu.",
+                "4": "Tăng Urobilinogen trong nước tiểu.",
+                "A": "D",
+                "Q": "Bệnh nhân vàng da tắc mật, két quả xét nghiệm nào KHÔNG phù hợp?"
+            },
+            "16": {
+                "1": "Thoát vị hoành trượt.",
+                "2": "Giảm trương lực cơ thắt dưới của thực quản (LES).",
+                "3": "Béo phì, thừa cân, ngồi nhiều, tăng áp lực ổ bụng.",
+                "4": "Do dư a xít dạ dày, tăng áp lực ổ bụng.",
+                "A": "A",
+                "Q": "Nguyên nhân gây bệnh trào ngược dạ dày thực quản (GERD)?"
+            },
+            "17": {
+                "1": "Do tăng trào ngược các chất trong dạ dày lên thực quản.",
+                "2": "Gây nên khó chịu (bệnh nhân cảm nhận) và/hoặc biến chứng (thầy thuốc đánh giá).",
+                "3": "Mang tính chất toàn cầu, liên quan đến nhiều chuyên khoa, có xu hướng tăng dần.",
+                "4": "Tỷ lệ thấp hơn bệnh loét dạ dày- tá tràng.",
+                "A": "D",
+                "Q": "Câu nào hiểu KHÔNG đúng về GERD?"
+            },
+            "18": {
+                "1": "Ợ nóng, trớ và đau bụng vùng thượng vị.",
+                "2": "Ợ nóng, trớ và đau ngực không do tim.",
+                "3": "Ợ nóng, trớ và khó thở.",
+                "4": "Trớ, hen phế quản và khó thở.",
+                "A": "B",
+                "Q": "Các triệu chứng kinh điển của GERD gồm:"
+            },
+            "19": {
+                "1": "Liên quan mật thiết, cùng đồng hành về mức độ và tần suất.",
+                "2": "Không liên quan, nhưng tăng nặng khi người bệnh mất ngủ hoặc lo lắng.",
+                "3": "Ợ nóng là chính còn các triệu chứng khác là phụ.",
+                "4": "Trớ là chính còn các triệu chứng khác là phụ.",
+                "A": "B",
+                "Q": "Các triệu chứng kinh điển của GERD liên quan thế nào với nhau?"
+            },
+            "20": {
+                "1": "Sự tự làm sạch của thực quản.",
+                "2": "Vai trò của cơ thắt dưới của thực quản (LES).",
+                "3": "Vai trò của dịch mật, dịch tụy.",
+                "4": "Vai trò của Hp.",
+                "A": "B",
+                "Q": "Yếu tố nào quan trọng nhất trong bệnh sinh của GERD"
+            },
+            "21": {
+                "1": "Tăng trào ngược dịch dạ dày, giảm áp lực cơ thắt dưới thực quản, tăng áp lực ổ bụng, chậm làm rỗng dạ dày.",
+                "2": "Thực quản ngắn, thực quản dài.",
+                "3": "Thoát vị hoành khe.",
+                "4": "Ăn quá no, cúi gập người thường xuyên.",
+                "A": "A",
+                "Q": "Các yếu tố tấn công gây nên trào ngược gồm:"
+            },
+            "22": {
+                "1": "Đau ngực, sốt, viêm thực quản.",
+                "2": "Đau ngực, sốt, loét thực quản.",
+                "3": "Ho kéo dài, hen do trào ngược và ung thư thực quản.",
+                "4": "Viêm thực quản, loét, hẹp hoặc ung thư thực quản.",
+                "A": "D",
+                "Q": "Các triệu chứng thực thể tại thực quản (biến chứng) có thể gặp?"
+            },
+            "23": {
+                "1": "Nội soi và sinh thiết thực quản- dạ dày.",
+                "2": "Siêu âm ổ bụng.",
+                "3": "Đo áp lực thực quản.",
+                "4": "Đo pH thực quản.",
+                "A": "D",
+                "Q": "Tiêu chuẩn vàng để chẩn đoán GERD"
+            },
+            "24": {
+                "1": "Lâm sàng điển hình có giá trị nhất.",
+                "2": "Bộ câu hỏi GERD-Q có giá trị nhất.",
+                "3": "PPIs test có giá trị nhất.",
+                "4": "Độ nhậy và độ đặc hiệu của các phương pháp như nhau.",
+                "A": "D",
+                "Q": "Giá trị của các phương pháp: lâm sàng điển hình, bộ câu hỏi GERD-Q và PPI test trong chẩn đoán GERD là?"
+            },
+            "25": {
+                "1": "Có các triệu chứng báo động (chảy máu, nôn, thiếu máu, sút cân, khó nuốt…)",
+                "2": "Có triệu chứng GERD điển hình đã điều trị 4-8 tuần PPI hoặc viêm thực quản nặng đã điều trị 2 tháng mà không hết triệu chứng.",
+                "3": "Bệnh nhân trên 50 tuổi, có triệu chứng GERD kéo dài (> 5năm) xuất hiện các triệu chứng: ngủ ngáy, thoát vị hoành, tăng cân, hút thuốc.",
+                "4": "Tất cả các bệnh nhân có triệu chứng.",
+                "A": "D",
+                "Q": "Câu nào SAI khi chỉ định nội soi thực quản dạ dày ở bệnh nhân có triệu chứng GERD?"
+            },
+            "26": {
+                "1": "Với GERD không có tổn thương thực quản thì điều trị hết triệu chứng.",
+                "2": "Với GERD có tổn thương thực quản thì điều trị lành tổn thương.",
+                "3": "Chỉ cần thay đổi lối sống, phối hợp thuốc",
+                "4": "Với GERD chưa có biến chứng điều trị hết triệu chứng và khi có biến chứng thì điều trị hết tổn thương.",
+                "A": "D",
+                "Q": "Mục đích của điều trị GERD là gì?"
+            },
+            "27": {
+                "1": "Kết hợp thay đổi lối sống, phối hợp thuốc và can thiệp.",
+                "2": "Chỉ cần thay đổi lối sống.",
+                "3": "Chỉ cần dùng thuốc",
+                "4": "Chỉ cần can thiệp (nội soi hoặc phẫu thuật).",
+                "A": "A",
+                "Q": "Nguyên tắc điều trị GERD là gì?"
+            },
+            "28": {
+                "1": "Tấn công với GERD chưa tổn thương tối đa 4 tuần, đã có tổn thương cần tối đa 8 tuần, duy trì theo nhu cầu và nguyên tắc.",
+                "2": "Điều trị đến khi hết triệu chứng.",
+                "3": "Điều trị suốt đời.",
+                "4": "Điều trị theo nhu cầu của bệnh nhân.",
+                "A": "A",
+                "Q": "Thời gian của điều trị GERD?"
+            },
+            "29": {
+                "1": "Tim mạch.",
+                "2": "Hô hấp.",
+                "3": "Tai mũi họng.",
+                "4": "Tiết niệu.",
+                "A": "D",
+                "Q": "Chuyên khoa nào KHÔNG liên quan đến GERD?"
+            },
+            "30": {
+                "1": "Hen phế quản mới mắc, ho kéo dài, mất tiếng.",
+                "2": "Ho kéo dài, sốt, sút cân.",
+                "3": "Mòn răng, viêm tai giữa, viêm tai xương chũm.",
+                "4": "Hôi miệng, khàn giọng, loét miệng, rối loạn giấc ngủ.",
+                "A": "B",
+                "Q": "Triệu chứng nào chắc chắn không có liên quan đến GERD?"
+            },
+            "31": {
+                "1": "Băng se niêm mạc dạ dày.",
+                "2": "Kháng H2",
+                "3": "PPIs",
+                "4": "Prokinetic",
+                "A": "C",
+                "Q": "Thuốc nào được ưu tiên lựa chọn trong điều trị GERD?"
+            },
+            "32": {
+                "1": "Nằm gối đầu cao, tránh cúi đầu thấp hoặc sau bữa ăn no.",
+                "2": "Tránh các chất kích thích làm giãn LES như: chocolate, bơ, thuốc lá, cà phê.",
+                "3": "Tập luyện tăng trương lực cơ bụng, mặc quần áo chật, ăn no, tăng bữa ăn đêm.",
+                "4": "Ăn chất dễ tiêu hóa.",
+                "A": "C",
+                "Q": "Ý nào hiểu KHÔNG đúng về thay đổi lối sống ở bệnh nhân GERD?"
+            },
+            "33": {
+                "1": "Có thể có tiền triệu cồn cào, lợm giọng.",
+                "2": "Máu tươi, bầm đen hoặc máu đen.",
+                "3": "Thường kèm đờm dãi.",
+                "4": "Thường kèm thức ăn và dịch vị.",
+                "A": "C",
+                "Q": "Phát biểu nào sau đây không đúng cho nôn máu ở bệnh nhân chảy máu do loét dạ dày-tá tràng?"
+            },
+            "34": {
+                "1": "Chất nôn thường kèm nước bọt và đờm dãi ",
+                "2": "Nôn máu sau ho nhiều, có đuôi khái huyết.",
+                "3": "Thường có triệu chứng đau ngực, khó thở.",
+                "4": "Chất nôn thường kèm thức ăn và cục máu nâu thẫm hay đen.",
+                "A": "D",
+                "Q": "Câu nào đúng trong chẩn đoán chảy máu tiêu hóa cao?"
+            },
+            "35": {
+                "1": "Chảy máu từ khoang miệng, mũi, họng được nuốt vào sau đó nôn máu, ỉa phân máu.",
+                "2": "Hội chứng Mallory-Weiss.",
+                "3": "Chảy máu đường mật.",
+                "4": "Chảy máu do dùng thuốc NSAIDs.",
+                "A": "A",
+                "Q": "Chảy máu nào không được xếp vào xuất huyết tiêu hóa?"
+            },
+            "36": {
+                "1": "Đoạn II tá tràng trở lên.",
+                "2": "Từ dạ dày trở lên.",
+                "3": "Từ góc Treitz trở lên.",
+                "4": "Từ van hồi manh tràng trở lên.",
+                "A": "C",
+                "Q": "Chảy máu tiêu hóa cao được giới hạn là chảy máu từ: "
+            },
+            "37": {
+                "1": "Vỡ giãn tĩnh mạch thực quản do xơ gan.",
+                "2": "Ung thư dạ dày.",
+                "3": "Loét dạ dày tá tràng.",
+                "4": "Hội chứng Mallory-Weiss.",
+                "A": "C",
+                "Q": "Nguyên nhân chảy máu tiêu hóa cao thường gặp nhất là:"
+            },
+            "38": {
+                "1": "Chảy máu do vỡ giãn tĩnh mạch thực quản ở bệnh nhân xơ gan.",
+                "2": "Loét dạ dày tá tràng biến chứng xuất huyết.",
+                "3": "Hội chứng Mallory-Weiss.",
+                "4": "Viêm dạ dày cấp do rượu.",
+                "A": "A",
+                "Q": "Một bệnh nhân nghiện rượu, vào viện vì nôn ra máu tươi không kèm thức ăn, không đau thượng vị, chẩn đoán ưu tiên đặt ra là: "
+            },
+            "39": {
+                "1": "Lớn tuổi.",
+                "2": "Ổ loét lớn.",
+                "3": "Suy tim.",
+                "4": "Ổ loét ở mặt trước tá tràng.",
+                "A": "D",
+                "Q": "Yếu tố nào sau đây không phải là yếu tố tiên lượng nặng trong loét dạdày tá tràng chảy máu: "
+            },
+            "40": {
+                "1": "Thường gặp ở người uống rượu nhiều.",
+                "2": "Thường do nôn nhiều.",
+                "3": "Thương tổn trên nội soi là các vết rách ở tâm vị.",
+                "4": "Thường nôn máu dai dẳng và dễ tái phát.",
+                "A": "D",
+                "Q": "Câu nào không đúng trong hội chứng Mallory-Weiss?"
+            },
+            "41": {
+                "1": "Dai dẳng, dễ tái phát.",
+                "2": "Luôn xuất hiện ở bệnh nhân có tiền sử đau thượng vị.",
+                "3": "Khám thượng vị luôn phát hiện được một mảng mảng cứng.",
+                "4": "Luôn kèm theo triệu chứng hẹp môn vị.",
+                "A": "A",
+                "Q": "Câu nào đúng trong chảy máu do ung thư dạ dày?"
+            },
+            "42": {
+                "1": "Tiêm xơ bằng Polidocanol.",
+                "2": "Thắt tĩnh mạch vỡ bằng vòng cao su.",
+                "3": "Kẹp Clip.",
+                "4": "Tiêm cầm máu bằng Adrenalin.",
+                "A": "B",
+                "Q": "Điều trị cầm máu qua nội soi có kết quả nhất đối với vỡ giãn tĩnh mạch thực quản là: "
+            },
+            "43": {
+                "1": "Hemoglobin dưới 60 g/lit.",
+                "2": "Hemoglobin dưới 70g/lit.",
+                "3": "Hemoglobin dưới 80g/lit.",
+                "4": "Hemoglobin dưới 90g/lit.",
+                "A": "B",
+                "Q": "Chỉ định truyền máu trong chảy máu tiêu hóa cấp tính thường được đặt ra khi: "
+            },
+            "44": {
+                "1": "Kháng sinh.",
+                "2": "Kháng tiết aci",
+                "3": "Phẫu thuật.",
+                "4": "Adrenoxyl.",
+                "A": "C",
+                "Q": "Chỉ định điều trị trong xuất huyết nặng từ túi thừa Meckel là: "
+            },
+            "45": {
+                "1": "Đau theo nhịp điệu. ",
+                "2": "Đau theo chu kỳ, nhịp điệu. ",
+                "3": "Thường kèm theo vàng da vàng mắt. ",
+                "4": "Bạch cầu đa nhân trung tính cao. ",
+                "A": "B",
+                "Q": "Loét dạ dày có đặc điểm chủ yếu sau: "
+            },
+            "46": {
+                "1": "Nội soi dạ dày tá tràng. ",
+                "2": "Xét nghiệm máu. ",
+                "3": "Phim dạ dày tá tràng có Baryte. ",
+                "4": "Đo lượng acid dạ dày. ",
+                "A": "A",
+                "Q": "Phương tiện chính để chẩn đoán loét dạ dày tá tràng hiên nay là. "
+            },
+            "47": {
+                "1": "Thân vị. ",
+                "2": "Phình vị. ",
+                "3": "Hang vị. ",
+                "4": "Môn vị. ",
+                "A": "C",
+                "Q": "Vị trí nào sau đây thường là nơi cư trú của Helicobacter pylori. "
+            },
+            "48": {
+                "1": "Ái khí. ",
+                "2": "Kỵ khí. ",
+                "3": "Ái - kỵ khí. ",
+                "4": "Ái khí tối thiểu. ",
+                "A": "D",
+                "Q": "Vi khuẩn H.P là loại:"
+            },
+            "49": {
+                "1": "Xoắn khuẩn Gram (-). ",
+                "2": "Vi khuẩn Gram (+) ",
+                "3": "Xoắn khuẩn. ",
+                "4": "Trực khuẩn ",
+                "A": "A",
+                "Q": "Vi khuẩn H.P. có đặc tính sau: "
+            },
+            "50": {
+                "1": "Khởi phát nhanh, mất đi nhanh, không để lại di chứng         ",
+                "2": "Tái đi tái lại nhiều lần, hậu quả cuối cùng là dẫn đến viêm dạ dày mạn tính ",
+                "3": "Xuất hiện đột ngột, kéo dài trong nhiều năm ",
+                "4": " Tổn thương lan rộng, trợt loét trên nền của viêm mạn ",
+                "A": "A",
+                "Q": " Đặc điểm của viêm dạ dày cấp tính là: "
+            },
+            "51": {
+                "1": "Thuốc trung hoà acid dịch vị. ",
+                "2": "Thuốc bảo vệ niêm mạc dạ dày bằng cách tạo ra lớp trung hoà điện tích trên bề mặt ổ loét. ",
+                "3": "Thuốc kháng tiết dịch vị. ",
+                "4": "Thuốc ức chế chọn lọc M-Cholin.",
+                "A": "B",
+                "Q": "Câu nào đúng với cơ chế tác dụng của thuốc (Sucralfate)?"
+            },
+            "52": {
+                "1": "Dựa vào tiền sử bệnh kéo dài - dịch vị giảm toan, giảm tiết.",
+                "2": "Nội soi.",
+                "3": "Nội soi - mô bệnh học.",
+                "4": "Lâm sàng + nội soi",
+                "A": "C",
+                "Q": "Viêm dạ dày mạn được chẩn đoán chính xác nhất dựa vào:"
+            },
+            "53": {
+                "1": "Widal. ",
+                "2": "Martin Petit. ",
+                "3": "Waaler Rose.",
+                "4": "Ureasetest. ",
+                "A": "D",
+                "Q": "Xét nghiệm nào sau đây dùng để phát hiện H.Pylori: "
+            },
+            "54": {
+                "1": "Vị trí đau. ",
+                "2": "Nội soi và siêu âm. ",
+                "3": "Liên quan với bữa ăn. ",
+                "4": "CT Scanner bụng. ",
+                "A": "B",
+                "Q": "Phân biệt loét tá tràng và viêm đường mật cần dựa vào."
+            },
+            "55": {
+                "1": "Đau thượng vị khi đói.",
+                "2": "Đau thượng vị sau ăn khi no.",
+                "3": "Cảm giác nóng rát thượng vị.",
+                "4": "Đau quặn thượng vị, giảm sau khi đại tiện.",
+                "A": "D",
+                "Q": "Triệu chứng nào sau đây KHÔNG gợi ý bệnh viêm loét dạ dày - tá tràng?"
+            },
+            "56": {
+                "1": "Dị sản niêm mạc dạ dày ",
+                "2": "Viêm teo niêm mạc ",
+                "3": "Dạ dày giảm toan ",
+                "4": "Loạn sản niêm mạc dạ dày.   ",
+                "A": "D",
+                "Q": "Yếu tố quan trọng nhất được coi là tiền ung thư trong viêm dạ dày mạn                 "
+            },
+            "57": {
+                "1": "Omeprazole tác dụng mạnh hơn Ranitidine. ",
+                "2": "Omeprazole tác dụng mạnh và kéo dài hơn Ranitidine. ",
+                "3": "Omeprazole ít gây dị ứng thuốc hơn Ranitidine. ",
+                "4": "Omeprazole rẻ hơn Ranitidine. ",
+                "A": "B",
+                "Q": "Trong điều trị loét dạ dày tá tràng omeprazole có lợi điểm hơn ranitidine là do: "
+            },
+            "58": {
+                "1": "Trung hoà acid nhưng gây phản ứng dội. ",
+                "2": "Trung hoà acid và gây yếu sinh lý. ",
+                "3": "Kháng thụ thể H2 và không có tác dụng phụ nào. ",
+                "4": "Kháng thụ thể H2 và gây tăng Enzym gan nhẹ. ",
+                "A": "D",
+                "Q": "Tác dụng và tác dụng phụ của Ranitidine trong điều trị loét dạ dày tá tràng là: "
+            },
+            "59": {
+                "1": "1 tuần. ",
+                "2": "2 tuần ",
+                "3": "3 tuần. ",
+                "4": "6 tuần. ",
+                "A": "D",
+                "Q": "Điều trị kháng tiết trong loét dạ dày tá tràng cần :"
+            },
+            "60": {
+                "1": "Các tổn thương viêm, hoại tử nhu mô và tổ chức cơ bản của gan, không có xơ hóa kèm theo kéo dài trên 6 tháng.",
+                "2": "Các tổn thương viêm, hoại tử nhu mô và tổ chức cơ bản của gan, xơ hóa quanh khoảng cửa kéo dài trên 6 tháng.",
+                "3": "Các tổn thương viêm, hoại tử nhu mô và tổ chức cơ bản của gan, xơ hóa bắc cầu (từ khoảng của này đến khoảng của khác, từ khoảng cửa đến tĩnh mạch trung tâm) kéo dài trên 6 tháng.",
+                "4": "Các tổn thương viêm, hoại tử nhu mô và tổ chức cơ bản của gan, xơ hóa đảo lộn cấu trúc tiểu thùy gan.",
+                "A": "D",
+                "Q": "Tình huống nào dưới đây KHÔNG đúng với định nghĩa viêm gan mạn?"
+            },
+            "61": {
+                "1": "Nguyên nhân gây bệnh.",
+                "2": "Mức độ hoạt động mô bệnh học.",
+                "3": "Mức độ của sự tiến triển hoặc giai đoạn bệnh (độ xơ hóa).",
+                "4": "Viêm gan mạn tồn tại và viêm gan mạn tiến triển.",
+                "A": "D",
+                "Q": "Tình huống phân loại viêm gan mạn nào dưới đây KHÔNG được sử dụng?"
+            },
+            "62": {
+                "1": "1 - 3 điểm.",
+                "2": "4 - 8 điểm.",
+                "3": "9 - 12 điểm.",
+                "4": ">12  điểm.",
+                "A": "C",
+                "Q": "Phạm vi điểm hoạt động mô bệnh học theo Knodell nào dưới đây là viêm gan mạn hoạt động mức độ vừa?     "
+            },
+            "63": {
+                "1": "Xơ khoảng cửa không có vách ngăn.",
+                "2": "Xơ khoảng cửa có vài vách ngăn.",
+                "3": "Xơ khoảng cửa có nhiều vách ngăn.",
+                "4": "Xơ khoảng cửa có đảo lộn cấu trúc tiểu thùy gan.",
+                "A": "C",
+                "Q": "Tình huống nào dưới đây là xơ hóa gan giai đoạn F3 theo Metavir?   "
+            },
+            "64": {
+                "1": "Không có triệu chứng lâm sàng.",
+                "2": "Mệt mỏi, ngủ gà ban ngày, đêm mất ngủ, suy giảm trí nhớ và đầy bụng, chậm tiêu, kém ăn xẩy ra thành từng đợt.",
+                "3": "Mệt mỏi, ngủ gà ban ngày, đêm mất ngủ, suy giảm trí nhớ và đầy bụng, chậm tiêu, kém ăn xẩy ra kéo dài.",
+                "4": "Tất cả các tình huống trên.",
+                "A": "D",
+                "Q": "Tình huống nào là đúng cho biểu hiện lâm sàng của viêm gan mạn dưới đây?"
+            },
+            "65": {
+                "1": "Gan phải không to, gan trái không quá 1/3 trên đường ức rốn.",
+                "2": "Gan phải không to, gan trái to vượt quá 1/3 đường ức rốn.",
+                "3": "Gan phải to mấp mé bờ sườn, gan trái to tới ½ đường ức rốn.",
+                "4": "Gan phải to 2 cm dưới bờ sườn và gan trái to vượt quá 1/3 trên đường ức rốn.",
+                "A": "D",
+                "Q": "Trong bệnh gan lan tỏa mạn tính (không có khối), tình huống lâm sàng về khối lượng gan nào dưới đây phù hợp nhất cho bệnh viêm gan mạn tính?"
+            },
+            "66": {
+                "1": "Do thiếu enzyme tụy.",
+                "2": "Do thiếu sắc tố mật.",
+                "3": "Do thiếu acid mật.",
+                "4": "Do thiếu dịch vị.",
+                "A": "C",
+                "Q": "Rối loạn tiêu hóa (chán ăn, đi ngoài phân nhão) trong viêm gan mạn hoạt động mức độ nặng là do tình huống nào dưới đây là chủ đạo?"
+            },
+            "67": {
+                "1": "Vàng da do tăng bilirrubin tự do chiếm ưu thế.",
+                "2": "Vàng da do tăng bilirubin hỗn hợp.",
+                "3": "Vàng da do tăng bilirubin trực tiếp chiếm ưu thế.",
+                "4": "Vàng da đi kèm với nước tiểu vàng do chỉ có urobilin.",
+                "A": "B",
+                "Q": " Tình huống nào dưới đây phù hợp với viêm gan mạn đợt đang hoạt động  "
+            },
+            "68": {
+                "1": "Do giảm albumin máu.",
+                "2": "Do hoạt hóa hệ RA",
+                "3": "Do tăng tính thấm thành mạch.",
+                "4": "Do tăng áp lực thủy tĩnh.",
+                "A": "D",
+                "Q": "Tình huống nào dưới đây KHÔNG phù hợp với cơ chế phù hai chi dưới trong viêm gan hoạt động mức độ nặng?"
+            },
+            "69": {
+                "1": "Virus viêm gan D",
+                "2": "Virus viêm gan B.",
+                "3": "Virus viêm gan C.",
+                "4": "Virus viêm gan E.",
+                "A": "D",
+                "Q": "Các virus viêm gan dưới đây, virus nào không gây viêm gan mạn tính?"
+            },
+            "70": {
+                "1": "HBsAg (+).",
+                "2": "Anti-HBc IgM (+).",
+                "3": "HBeAg (-).",
+                "4": "Anti-HBe (+).",
+                "A": "B",
+                "Q": "Dấu ấn viêm gan virus B nào dưới đây nói lên bệnh cấp tính?"
+            },
+            "71": {
+                "1": "HBsAg (+).",
+                "2": "HBeAg (+).",
+                "3": "Anti-HBc IgG (+).",
+                "4": "Anti-HBc IgM (+).",
+                "A": "C",
+                "Q": "Dấu ấn viêm gan virus B nào dưới đây nói lên bệnh mạn tính?"
+            },
+            "72": {
+                "1": "Tỷ lệ AST/ALT >3.",
+                "2": "Tỷ lệ AST/ALT >2-3.",
+                "3": "Tỷ lệ AST/ALT 1-<2.",
+                "4": "Tỷ lệ AST/ALT <1.",
+                "A": "C",
+                "Q": "Chỉ số De Ritis (tỷ lệ AST/ALT) nào dưới đây có tỷ lệ cao nhất trong tổn thương gan (viêm gan) do rượu?"
+            },
+            "73": {
+                "1": "Tenofovir.",
+                "2": "Adefovir.",
+                "3": "Entecavir.",
+                "4": "Lamivudine.",
+                "A": "D",
+                "Q": "Các thuốc kháng virus viêm gan B nào dưới đây được FDA ( cơ quan thực phẩm và thuốc Kỳ) phê duyệt đầu tiên?"
+            },
+            "74": {
+                "1": "Tenofovir.",
+                "2": "Adefovir.",
+                "3": "Entecavir.",
+                "4": "Lamivudine.",
+                "A": "D",
+                "Q": "Các thuốc kháng virus viêm gan B nào dưới đây có tỷ lệ kháng thuốc cao nhất."
+            },
+            "75": {
+                "1": "Thâm nhiễm tế bào viêm mạn tính vào khoảng cửa và trong các tiểu thùy gan.",
+                "2": "Tổn thương thoái hóa, hoại tử tế bào gan quanh khoảng cửa và trong các tiểu thùy gan.",
+                "3": "Tăng sinh xơ và tái tạo tế bào gan thành các cục tân tạo lan tỏa khắp các tiểu thùy gan.",
+                "4": "Đảo lộn cấu trúc tiểu thùy gan.",
+                "A": "D",
+                "Q": "Tổn thương mô bệnh học quan trọng nhất trong bệnh xơ gan là"
+            },
+            "76": {
+                "1": "Xơ gan nốt lớn.",
+                "2": "Xơ gan nốt nhỏ.",
+                "3": "Xơ gan hỗn hợp (mixed).",
+                "4": "Xơ gan mật.",
+                "A": "D",
+                "Q": "Loại xơ gan nào sau đây KHÔNG thuộc vào cách phân loại xơ gan theo hình thái học?"
+            },
+            "77": {
+                "1": "Các nốt tân tạo kích thước nhỏ và đều nhau.",
+                "2": "Các nốt tân tạo kích thước to, nhỏ không đều nhưng chủ yếu là các nốt tân tạo kích thước nhỏ.",
+                "3": "Tổn tương xơ hóa từ tổ chức liên kết ở khoảng cửa lan vào trong các tiểu thùy.",
+                "4": "Các dải, vách xơ mỏng với chiều dầy đều đặn.",
+                "A": "B",
+                "Q": "Đặc điểm nào sau đây KHÔNG phải là đặc điểm mô bệnh học của xơ gan khoảng cửa?"
+            },
+            "78": {
+                "1": "Hội chứng suy gan đến sớm và biểu hiện rõ với các triệu chứng như phù, vàng da, xuất huyết.",
+                "2": "Hội chứng TALTMC đến sớm và biểu hiện rõ với các triệu chứng như cổ trướng, lách to, vỡ tĩnh mạch thực quản.",
+                "3": "Gan có xu hướng teo nhỏ 2 thùy.",
+                "4": "Mô bệnh học là xơ gan nốt lớn hoặc xơ gan nốt hỗn hợp.",
+                "A": "B",
+                "Q": "Đặc điểm nào sau đây KHÔNG phù hợp với bệnh xơ gan sau hoại tử do virus viêm gan?"
+            },
+            "79": {
+                "1": "Phù hai chi dưới.",
+                "2": "Xuất huyết dưới da và niêm mạc.",
+                "3": "Lách to.",
+                "4": "Cổ trướng.",
+                "A": "D",
+                "Q": "Triệu chứng nào sau đây thường KHÔNG có ở giai đoạn xơ gan còn bù?"
+            },
+            "80": {
+                "1": "Phù hai chi dưới.",
+                "2": "Lách to.",
+                "3": "Cổ trướng.",
+                "4": "Giãn tĩnh mạch thực quản trên nội soi.",
+                "A": "C",
+                "Q": "Triệu chứng nào sau đây đánh dấu xơ gan đã chuyển từ giai đoạn còn bù sang giai đoạn mất bù?"
+            },
+            "81": {
+                "1": "Tĩnh mạch cửa giãn > 13mm.",
+                "2": "Lách to với kích thước dọc lách > 12cm.",
+                "3": "Tăng vận tốc dòng chảy động mạch gan.",
+                "4": "Tăng vận tốc dòng chảy tĩnh mạch cửa. ",
+                "A": "D",
+                "Q": "Dấu hiện nào sau đây KHÔNG phải là dấu hiệu TALTMC do xơ gan trên siêu âm Doppler ổ bụng?"
+            },
+            "82": {
+                "1": "Xơ gan tiến triển theo 3 giai đoạn: xơ gan tiềm tàng, xơ gan còn bù, xơ gan mất bù.",
+                "2": "Xơ gan luôn biểu hiện lâm sàng bởi 2 hội chứng: hội chứng suy chức năng gan và hội chứng tăng áp lực tĩnh mạch cửa.",
+                "3": "Chẩn đoán xơ gan mất bù khi xuất hiện các biến chứng của hội chứng tăng áp lực tĩnh mạch cửa.",
+                "4": "Bệnh nhân xơ gan thường tử vong do các biến chứng của hội chứng tăng áp lực tĩnh mạch cửa.",
+                "A": "B",
+                "Q": "Phát biểu nào sau đây KHÔNG đúng về biểu hiện lâm sàng của xơ gan?"
+            },
+            "83": {
+                "1": "2 giai đoạn.",
+                "2": "3 giai đoạn.",
+                "3": "4 giai đoạn.",
+                "4": "5 giai đoạn.",
+                "A": "C",
+                "Q": " Theo quan điểm hiện nay (Baveno IV), xơ gan được chia thành mấy giai đoạn:"
+            },
+            "84": {
+                "1": "Giãn tĩnh mạch thực quản trên nội soi, chưa có biến chứng vỡ.",
+                "2": "Vỡ giãn tĩnh mạch thực quản.",
+                "3": "Cổ trướng.",
+                "4": "Bệnh não do gan.",
+                "A": "A",
+                "Q": "Theo hội nghị đồng thuận Baveno IV, chẩn đoán xơ gan giai đoạn 2 khi có"
+            },
+            "85": {
+                "1": "Nồng độ Albumin huyết tương.",
+                "2": "Thời gian Prothrombine.",
+                "3": "Nồng độ Bilirubin toàn phần huyết tương.",
+                "4": "Hoạt độ enzym gan AST, ALT.",
+                "A": "D",
+                "Q": "Tiên lượng xơ gan theo thang điểm Child - Pugh không có yếu tố xét nghiệm nào sau đây?"
+            },
+            "86": {
+                "1": "5-6 điểm.",
+                "2": "7-9 điểm.",
+                "3": "5-7 điểm.",
+                "4": "8-10 điểm.",
+                "A": "B",
+                "Q": "Xếp hạng xơ gan Child-Pugh B khi điểm Child-Pugh"
+            },
+            "87": {
+                "1": "Ăn nhạt, hạn chế muối khi có phù và cổ trướng.",
+                "2": "Ăn tăng đường và các vitamin từ hoa quả tươi.",
+                "3": "Ăn tăng mỡ để đảm bảo đủ năng lượng 2500-3000 kcal/ngày.",
+                "4": "Ăn tăng đạm nhất là đạm có nguồn gốc thực vật.",
+                "A": "C",
+                "Q": "Chế độ ăn, uống nào sau đây KHÔNG được khuyến cáo cho bệnh nhân xơ gan?"
+            },
+            "88": {
+                "1": "Chế độ ăn hạn chế muối kết hợp nghỉ ngơi tại giường.",
+                "2": "Sử dụng thuốc lợi tiểu.",
+                "3": "Bổ sung Albumin để nâng áp lực keo.",
+                "4": "Bổ sung muối để đảm bảo nồng độ Natri máu bình thường.",
+                "A": "D",
+                "Q": "Biện pháp nào sau đây thường không được áp dụng trong điều trị cổ trướng do xơ gan?"
+            },
+            "89": {
+                "1": "200mg.                   ",
+                "2": "300mg.               ",
+                "3": "400mg.                ",
+                "4": "600mg",
+                "A": "C",
+                "Q": "Liều lợi tiểu kháng aldosterone (Aldacton) tối đa trong phác đồ điều trị cổ trướng do xơ gan được khuyến cáo là:"
+            },
+            "90": {
+                "1": "Xơ gan sau hoại tử do HCV.",
+                "2": "Xơ gan sau hoại tử do HDV.",
+                "3": "Xơ gan sau hoại tử do HBV.",
+                "4": "Xơ gan do rượu.",
+                "A": "C",
+                "Q": "Nguyên nhân gặp nhiều nhất của ung thư biểu mô tế bào gan tại Việt Nam là do?  "
+            },
+            "91": {
+                "1": "Tần xuất 20-150 trường hợp/100.000 dân.",
+                "2": "Tần xuất 10-<20 trường hợp/100.000 dân.",
+                "3": "Tần xuất 5-<10 trường hợp/100.000 dân.",
+                "4": "Tần xuất  <5 trường hợp/100.000 dân.",
+                "A": "A",
+                "Q": "Tần xuất ung thư biểu bô tế bào gan ở nam giới Việt Nam gặp trong tình huống nào dưới đây?"
+            },
+            "92": {
+                "1": "Hệ thống giai đoạn Okuda.",
+                "2": "Điểm tổng trạng theo ECOG.",
+                "3": "Hệ thống TNM của AJCC  6/7.",
+                "4": "Hệ thống Barcelona (hay BCLC).",
+                "A": "D",
+                "Q": "Hệ thống tiên lượng ung thư biểu mô tế bào gan nào đang được sử dụng rộng rãi nhiều nới trên thế giới nhất?"
+            },
+            "93": {
+                "1": "Biệt hóa cao.",
+                "2": "Biệt hóa vừa.",
+                "3": "Biệt hóa thấp.",
+                "4": "Không biệt hóa.",
+                "A": "D",
+                "Q": "Các mức độ biệt hóa tế bào ung thư biểu mô tế bào gan nào dưới đây có tiên lượng xấu nhất?"
+            },
+            "94": {
+                "1": "Thể khối lớn",
+                "2": "Thể nốt  ",
+                "3": "Thể lan tỏa",
+                "4": "Thể khối lớn + thể nốt ",
+                "A": "C",
+                "Q": "Thể bệnh ung thư (theo phân loại của WHO 1990) biểu mô tế bào gan nào dưới đây có tiên lượng xấu nhất?"
+            },
+            "95": {
+                "1": "Đau tức vùng gan thường xảy ra về đêm.",
+                "2": "Đau tức vùng gan thường xảy ra vào ban ngày.",
+                "3": "Đau vùng gan xẩy ra thời gian bất kỳ và theo từng cơn.",
+                "4": "Đau tức vùng gan xẩy ra khi bệnh nhân vận động nhiều.",
+                "A": "A",
+                "Q": " Triệu chứng đau (giai đoạn muộn) của ung thư biểu mô tế bào gan có đặc điểm nào dưới đây   "
+            },
+            "96": {
+                "1": "Tăng âm.",
+                "2": "Giảm âm.",
+                "3": "Đẳng âm.",
+                "4": "Tăng giảm âm hỗn hợp.",
+                "A": "A",
+                "Q": "Cấu trúc âm (mật độ phản hồi âm) của khối ung thư biểu mô tế bào gan ≥3 cm nào dưới đây thường gặp nhất?"
+            },
+            "97": {
+                "1": "AFP (anpha fetoprotein).",
+                "2": "AFU (alpha L fucosidase).",
+                "3": "VEGF (vascular endothelial growth factor).",
+                "4": "DCP (des gamma carboxy prothrombin).",
+                "A": "A",
+                "Q": "Dấu ấn ung thư nào dưới đây đang được sử dụng rộng rãi nhất cho sàng lọc và chẩn đoán ung thư biểu mô tế bào gan?"
+            },
+            "98": {
+                "1": "AFP >20 ng/mL.",
+                "2": "AFP >200 ng/mL.",
+                "3": "AFP > 400 ng/mL.",
+                "4": "AFP > 1000 ng/mL.",
+                "A": "B",
+                "Q": "Ngưỡng AFP trong huyết thanh nào dưới đây là ranh giới (ngưỡng) chẩn đoán ung thư biểu mô tế bào gan theo qui trình hướng dẫn chẩn đoán của Hiệp hội nghiên cứu bệnh gan Hoa Kỳ năm 2005?  "
+            },
+            "99": {
+                "1": "U quái.",
+                "2": "Viêm gan mạn đợt cấp.",
+                "3": "Xơ gan đợt hoạt động.",
+                "4": "Ung thư biểu mô đường mật trong gan.",
+                "A": "D",
+                "Q": "AFP thường không tăng trong trường hợp nào dưới đây?"
+            },
+            "100": {
+                "1": "Nam giới hay uống rượu nhiều hơn nữ giới.",
+                "2": "Nam giới do có testosterone cao trong huyết thanh.",
+                "3": "Nam giới hút thuốc lá nhiều hơn nữ giới.",
+                "4": "Tỷ lệ nam giới mắc xơ gan nhiều hơn nữ giới.",
+                "A": "B",
+                "Q": "Giới nam bị ung thư biểu mô tế bào gan nhiều hơn nữ từ 2-4 lần là do nguy cơ  nào dưới đây?"
+            },
+            "101": {
+                "1": "Khối u gan 1-2 cm ở người bệnh xơ gan có mẫu mạch tăng sinh điển hình chùng lập ngẫu nhiên ở hai kỹ thuật chẩn đoán hình ảnh. ",
+                "2": "Khối u gan 1-2 cm ở người bệnh xơ gan có mẫu mạch tăng sinh điển hình trên  một kỹ thuật chẩn đoán hình ảnh và AFP>200 ng/mL.",
+                "3": "Khối u gan >2cm ở người bệnh xơ gan có mẫu mạch tăng sinh điển hình trên một kỹ thuật chẩn đoán hình ảnh.",
+                "4": "Khối u gan >2cm ở người bệnh xơ gan có AFP>200 ng/mL.",
+                "A": "B",
+                "Q": "Khối u gan nào dưới đây KHÔNG đạt tiêu chuẩn chẩn đoán ung thư biểu mô tế bào gan theo Hiệp hội nghiên cứu bệnh gan Hoa Kỳ năm 2005 mà phải sinh thiết gan?"
+            },
+            "102": {
+                "1": "20-40 tuổi.",
+                "2": "< 20 tuổi.",
+                "3": "40-60 tuổi.",
+                "4": ">60 tuổi.",
+                "A": "B",
+                "Q": "Sức đề kháng có liên quan đến bệnh ung thư, tuổi nào bị ung thư biểu mô tế bào gan dưới đây có tiên lượng xấu nhất?"
+            },
+            "103": {
+                "1": "Một khối u gan 2cm, giãn tĩnh mạch thực quản độ II, xơ gan Child-Pugh A, Tổng trạng <1 điểm.     ",
+                "2": "Một khối u gan 2cm, lách to (cao >13 cm, rộng >7cm, dày >4 cm) và tiểu cầu <100000 /mm3.       ",
+                "3": "Một khối u gan 2cm, bilirubin tăng >2 lần, xơ gan gan Child-Pugh A, Tổng trạng <1 điểm.      ",
+                "4": "Một khối u gan < 5cm, xơ gan Child-Pugh A, không giãn tĩnh mạch thực quản, bilirubin bình thường, tổng trạng <1 điểm.",
+                "A": "D",
+                "Q": "Trường hợp nào dưới đây được ưu tiên lựa chọn cho cắt gan?  "
+            },
+            "104": {
+                "1": "Do tế bào gan lành có sức chịu xạ thấp hơn tế bào ung thư gan.",
+                "2": "Do gan có nhiều mạch máu.",
+                "3": "Do gan có hệ thống ống mật bên trong.",
+                "4": "Do tế bào ung thư gan kháng xạ trị.",
+                "A": "A",
+                "Q": "Nguyên nhân nào dưới đây làm cho xạ trị ngoài áp dụng không hiệu quả trong điều trị ung thư biểu mô tế bào gan ?"
+            },
+            "105": {
+                "1": "Là đường mật trong gan.",
+                "2": "Là đường mật ngoài gan.",
+                "3": "Túi mật và ống túi mật.",
+                "4": "Bao gồm: ống gan (phải, trái), ống gan chung và ống mật chủ.",
+                "A": "D",
+                "Q": "Hiểu đúng về đường mật chính là gì?"
+            },
+            "106": {
+                "1": "Sỏi sắc số: khi tỷ lệ Bilirubinat chiếm > 50%.",
+                "2": "Cả 3 trường hợp trên đều đúng.",
+                "3": "Sỏi hỗn hợp: khi 2 thành phần trên đều < 50%.",
+                "4": "Sỏi Cholesterol: khi tỷ lệ Cholesterol monohydrate > 50%.",
+                "A": "B",
+                "Q": "Phân loại sỏi mật theo thành phần hóa học?"
+            },
+            "107": {
+                "1": "Rối loạn vận động mật.",
+                "2": "Có tiền sử bị giun chui ống mật.",
+                "3": "Tuổi cao, nữ giới, chủng tộc, di truyền, béo phì, rối loạn chuyển hóa mỡ, chế độ ăn giầu calo.",
+                "4": "Người bị tiểu đường, viêm gan, ứ trệ đường mật kéo dài, phẫu thuật lấy sỏi mật hoặc dùng một số thuốc làm tăng cô đặc dịch mật.",
+                "A": "A",
+                "Q": "Đâu KHÔNG phải là các yếu tố thuận lợi gây sỏi mật?"
+            },
+            "108": {
+                "1": "Đau vùng gan, sốt cao và vàng da",
+                "2": "Đau vùng hạ sườn phải, sốt rét run thành cơn và vàng da tái phát nhiều lần.",
+                "3": "Đau vùng hạ sườn phải, thượng vị và vàng da.",
+                "4": "Đau vùng gan, gai rét và nước tiểu vàng.",
+                "A": "B",
+                "Q": "Tam chứng Charcot điển hình là gì?"
+            },
+            "109": {
+                "1": "Siêm âm, CT- scan, MRCP.",
+                "2": "Siêu âm nội soi.",
+                "3": "ERCP.",
+                "4": "Chụp mật qua da.",
+                "A": "A",
+                "Q": "Đâu là phương pháp KHÔNG xâm phạm trong chẩn đoán sỏi đường mật chính?"
+            },
+            "110": {
+                "1": "Chẩn đoán được coi là tiêu chuẩn vàng, về điều trị được coi là phương pháp ưu việt nhất hiện nay.",
+                "2": "Chỉ có giá trị chẩn đoán.",
+                "3": "Tai biến, biến chứng vẫn cao hơn các phương pháp can thiệp khác.",
+                "4": "Chỉ có giá trị điều trị (lấy sỏi).",
+                "A": "A",
+                "Q": "Giá trị của ERCP trong chẩn đoán và điều trị sỏi đường mật chính ngoài gan?"
+            },
+            "111": {
+                "1": "Chỉ định cho tất cả các trường hợp có sỏi mật.",
+                "2": "Can thiệp qua đường tự nhiên, ít xâm phạm nhất.",
+                "3": "Ưu tiên lựa chọn cho người cao tuổi, nhiều bệnh kết hợp, sỏi tái phát và sỏi sót.",
+                "4": "Hồi phục sức khỏe nhanh, hậu phẫu nhẹ nhàng, thời gian can thiệp và thời gian nằm viện ngắn. ",
+                "A": "A",
+                "Q": "Ý nào KHÔNG phải là ưu điểm của ERCP trong điều trị sỏi đường mật ngoài gan?"
+            },
+            "112": {
+                "1": "Viêm tụy cấp sau ERCP là tai biến hay gặp nhất.",
+                "2": "Tất cả các tai biến đều nhẹ và xử trí dễ dàng bằng thuốc hoặc nội soi.",
+                "3": "Thủng là tai biến nguy hiểm nhất.",
+                "4": "Chảy máu là tai biến thường gặp và dễ kiểm soát.",
+                "A": "B",
+                "Q": "Ý nào hiểu KHÔNG đúng về các tai biến của ERCP can thiệp?"
+            },
+            "113": {
+                "1": "Viêm tụy cấp do sỏi mật.",
+                "2": "Nhiễm trùng và tắc mật.",
+                "3": "Nhiễm trùng đường mật.",
+                "4": "Tắc mật cấp.",
+                "A": "B",
+                "Q": "Bệnh sinh của sỏi ống mật chủ là gì?"
+            },
+            "114": {
+                "1": "Do rối loạn chuyển hóa lipid, dùng một số thuốc kéo dài.",
+                "2": "Thường hình thành ở túi mật, có thể rơi vào đường mật gây nên tắc mật, viêm tụy cấp.",
+                "3": "Thường hình thành ở đường mật, do nhiễm trùng hoặc giun chui ống mật.",
+                "4": "Các yếu tố thuận lợi: tuổi cao, giới nữ.",
+                "A": "C",
+                "Q": "Hiểu SAI về cơ chế bệnh sinh của sỏi Cholesterol?"
+            },
+            "115": {
+                "1": "Dự phòng tái phát sỏi hoặc ở bệnh nhân không có chỉ định can thiệp.",
+                "2": "Bệnh nhân sỏi có lớn đã đặt stent đường mật  hoặc hỗ trợ sau tán sỏi.",
+                "3": "Sỏi cholesterol chưa can xi hóa.",
+                "4": "Sỏi sắc tố đơn thuần.",
+                "A": "D",
+                "Q": "Thuốc tan sỏi tây y KHÔNG chỉ định trong trường hợp nào?"
+            },
+            "116": {
+                "1": "Phosphatase kiềm.",
+                "2": "GGT.",
+                "3": "5- Nucleo peptidase.",
+                "4": "AST, ALT.",
+                "A": "D",
+                "Q": "Enzym không có giá trị chẩn đoán tắc mật?"
+            },
+            "117": {
+                "1": "Viêm túi mật cấp.",
+                "2": "Sứ hóa túi mật.",
+                "3": "Nhiễm trùng đường mật.",
+                "4": "Hoại tử túi mật.",
+                "A": "B",
+                "Q": "Đâu KHÔNG phải là biến chứng cấp tính của sỏi túi mật?"
+            },
+            "118": {
+                "1": "Viêm xơ chít cơ thắt Oddi.",
+                "2": "Viêm gan, xơ gan mật thứ phát.",
+                "3": "Thấm mật phúc mạc, viêm phúc mạc mật, nhiễm trùng đường mật, viêm tụy cấp.",
+                "4": "Viêm teo túi mật, sứ hóa túi mật.",
+                "A": "C",
+                "Q": "Triệu chứng nào KHÔNG phải là biến chứng mạn tính của sỏi đường mật?"
+            },
+            "119": {
+                "1": "Rẻ tiền, có thể giúp nghiên cứu cộng đồng.",
+                "2": "Dễ làm, làm nhiều lần, có thể làm tại giường bệnh.",
+                "3": "Dễ bỏ sót sỏi ở thấp hoặc bệnh nhân béo bụng và phụ thuộc và kinh nghiệm của người làm.",
+                "4": "Độ nhạy tương  đối cao.",
+                "A": "C",
+                "Q": " Đâu là nhược điểm của siêu âm trong chẩn đoán sỏi ống mật chủ?"
+            },
+            "120": {
+                "1": "Mổ mở và đặt dẫn lưu qua Kerh.",
+                "2": "Phẫu thuật nội soi đặt dẫn lưu qua Kerh.",
+                "3": "Chọc mật qua da.",
+                "4": "Dẫn lưu qua ERCP.",
+                "A": "D",
+                "Q": "Phương pháp nào được coi là ưu việt nhất trong dẫn lưu đường mật?"
+            },
+            "121": {
+                "1": "Rượu.",
+                "2": "Sang chấn tụy. ",
+                "3": "Rối loạn chuyển hóa.",
+                "4": "Sỏi mật.",
+                "A": "D",
+                "Q": "Nguyên nhân hàng đầu gây viêm tụy cấp là:"
+            },
+            "122": {
+                "1": "Do hoạt hóa các enzym tụy từ trạng thái chưa hoạt động sang trạng thái hoạt động ngay tại tụy dẫn đến tổn thương tụy.",
+                "2": "Do tác động trực tiếp của các yếu tố nguyên nhân đến tế bào nang tụy.",
+                "3": "Do tăng tính thấm của ống tụy đối với các enzym tụy.",
+                "4": "Do tăng quá mức các gốc tự do gây tổn thương tế bào nang tụy.",
+                "A": "B",
+                "Q": "Phát biểu nào sau đây KHÔNG đúng về cơ chế bệnh sinh của viêm tụy cấp?"
+            },
+            "123": {
+                "1": "Phosphlipase.",
+                "2": "Chymotrypsin.",
+                "3": "Trypsin.",
+                "4": "Lipase.",
+                "A": "C",
+                "Q": "Enzym nào sau đây giữ vai trò chính trong hoạt hóa các enzym tụy, gây viêm tụy cấp?"
+            },
+            "124": {
+                "1": "Đau bụng, sốt, tiêu chảy.",
+                "2": "Đau bụng, nôn, tiêu chảy.",
+                "3": "Đau bụng, nôn, bí trung đại tiện.",
+                "4": "Đau bụng, sốt, vàng da.",
+                "A": "C",
+                "Q": "Triệu chứng lâm sàng hay gặp trong viêm tụy cấp là"
+            },
+            "125": {
+                "1": "Đau cấp tính, liên tục, lan ra sau lưng.",
+                "2": "Đau cấp tính, từng cơn, lan xuống bụng dưới.",
+                "3": "Đau cấp tính, từng cơn, lan lên vai phải.",
+                "4": "Đau cấp tính, liên tục, nằm im không dám cử động.",
+                "A": "A",
+                "Q": "Triệu chứng đau bụng điển hình của bệnh viêm tụy cấp là"
+            },
+            "126": {
+                "1": "Amylase máu thường về giá trị bình thường sau 3-5 ngày.",
+                "2": "Mức độ tăng Amylase máu tương ứng với mức độ nặng của viêm tụy cấp.",
+                "3": "Amylase máu thường tăng song hành cùng với lipase máu trong bệnh viêm tụy cấp.",
+                "4": "Amylase máu là xét nghiệm đặc hiệu chẩn đoán viêm tụy cấp.",
+                "A": "A",
+                "Q": "Chọn câu trả lời đúng nhất về xét nghiệm Amylase máu:"
+            },
+            "127": {
+                "1": "Lipase máu không phải là xét nghiệm đặc hiệu chẩn đoán viêm tụy cấp.",
+                "2": "Lipase máu có giá trị chẩn đoán viêm tụy cấp khi tăng trên 3 lần giới hạn cao nhất của bình thường.",
+                "3": "Lipase máu tăng muộn nhưng kéo dài hơn Amylase trong viêm tụy cấp.",
+                "4": "Lipase máu vừa có giá trị chẩn đoán vừa có giá trị tiên lượng viêm tụy cấp.",
+                "A": "D",
+                "Q": "Xét nghiệm Lipase máu trong bệnh viêm tụy cấp, chọn câu sai:"
+            },
+            "128": {
+                "1": "> 3 lần ULN.",
+                "2": "> 6 lần ULN.",
+                "3": "> 2 lần ULN.",
+                "4": "> 4 lần ULN.",
+                "A": "A",
+                "Q": " Ngưỡng tăng Amylase máu (và/hoặc Lipase máu) có giá trị chẩn đoán viêm tụy cấp là ULN( The upper limit of normal) giới hạn cao nhất của bình thường"
+            },
+            "129": {
+                "1": "Giúp đánh giá các biến chứng tại chỗ và toàn thân của viêm tụy cấp.",
+                "2": "Giúp chẩn đoán xác định các thể bệnh viêm tụy cấp.",
+                "3": "Là xét nghiệm phải có để chẩn đoán viêm tụy cấp.",
+                "4": "Thực hiện an toàn ở mọi bệnh nhân viêm tụy cấp.",
+                "A": "B",
+                "Q": "Chọn câu đúng nhất về chụp CT scan ổ bụng có thuốc cản quang trong chẩn đoán viêm tụy cấp:"
+            },
+            "130": {
+                "1": "Đau bụng liên tục không thuyên giảm > 72h.",
+                "2": "Lâm sàng tiến triển xấu hơn sau 48h.",
+                "3": "Là xét nghiệm thường quy để chẩn đoán viêm tụy cấp.",
+                "4": "Chẩn đoán viêm tụy cấp chưa rõ về lâm sàng và xét nghiệm enzym tụy.",
+                "A": "C",
+                "Q": "Chọn câu trả lời SAI về chỉ định chụp CT scan ổ bụng có thuốc cản quang trong chẩn đoán viêm tụy cấp:"
+            },
+            "131": {
+                "1": "Tụy tăng kích thước.",
+                "2": "Tụy tăng tỷ trọng.",
+                "3": "Thâm nhiễm mỡ quanh tụy.",
+                "4": "Dịch quanh tụy và ổ bụng",
+                "A": "B",
+                "Q": "Hình ảnh nào sau đây KHÔNG phù hợp với viêm tụy cấp trên phim chụp CT scanner ổ bụng?"
+            },
+            "132": {
+                "1": "Bệnh nhân dị ứng thuốc cản quang.",
+                "2": "Bệnh nhân giảm mức lọc cầu thận.",
+                "3": "Chẩn đoán chính xác bệnh lý sỏi mật nhất là sỏi kích thước nhỏ.",
+                "4": "Chẩn đoán ổ hoại tử tụy",
+                "A": "D",
+                "Q": "Yếu tố nào KHÔNG phải là lợi điểm của chụp MRI mật tụy so với chụp CT scan ổ bụng trong chẩn đoán viêm tụy cấp?"
+            },
+            "133": {
+                "1": "Đau bụng cấp vùng bụng trên.",
+                "2": "Nôn nhiều, nôn xong không đỡ đau.",
+                "3": "Amylase máu tăng cao.",
+                "4": "Lipase máu tăng cao.",
+                "A": "B",
+                "Q": "Yếu tố nào KHÔNG phải là căn cứ để chẩn đoán xác định viêm tụy cấp (theo Atlanta)?"
+            },
+            "134": {
+                "1": "Có ít nhất 2 trong 3 yếu tố.",
+                "2": "Phải có đủ cả 3 yếu tố.",
+                "3": "CT scanner ổ bụng là tiêu chí bắt buộc phải có.",
+                "4": "Chỉ có giá trị định hướng, tiêu chuẩn vàng là nội soi ổ bụng.",
+                "A": "A",
+                "Q": "Theo Atlanta 2012, 3 yếu tố để chẩn đoán viêm tụy cấp là: đau bụng cấp tính, tăng Amylase máu (và/hoặc Lipase máu > 3 ULN) và chụp CT scanner ổ bụng, trong đó chẩn đoán xác định khi:"
+            },
+            "135": {
+                "1": "Không cần thiết phải nhịn ăn với viêm tụy cấp nhẹ nếu bệnh nhân không nôn và đau bụng nhẹ.",
+                "2": "Với viêm tụy cấp nhẹ, cho ăn bằng đường miệng không nhất thiết phải bắt đầu bằng chế độ ăn lỏng không chất béo, không chất đạm.",
+                "3": "Chế độ ăn đặc ít chất béo và ít đạm an toàn như chế độ ăn lỏng trong điều trị viêm tụy cấp nhẹ.",
+                "4": "Với bệnh nhân viêm tụy cấp nặng cần nhịn ăn tuyệt đối và nuôi dưỡng toàn bộ bằng đường tĩnh mạch.",
+                "A": "D",
+                "Q": "Phát biểu nào sau đây KHÔNG đúng về chế độ dinh dưỡng trong viêm tụy cấp?"
+            },
+            "136": {
+                "1": "Đường trực tiếp từ chất tiết của bệnh nhân lao phổi hay từ lao hầu hạng, thanh quản, thục quản.",
+                "2": "Đường máu.",
+                "3": "Đường bạch huyết.",
+                "4": "Đường tiếp cận từ lao phúc mạc, lao gan, lao đường mật…",
+                "A": "B",
+                "Q": "Con đường chính vi khuẩn lao đến và gây bệnh ở ruột là:"
+            },
+            "137": {
+                "1": "Hồng hồi tràng.",
+                "2": "Hồi manh tràng.",
+                "3": "Đại tràng.",
+                "4": "Trực tràng và hậu môn.",
+                "A": "B",
+                "Q": "Vị trí tổn thương thường gặp nhất trong lao ruột là:"
+            },
+            "138": {
+                "1": "Thể trạng gầy sút, thiếu máu.",
+                "2": "Sốt và đau bụng nhiều.",
+                "3": "Đại tiện phân lỏng lẫn nhày, máu.",
+                "4": "Hội chứng KÖenig.",
+                "A": "D",
+                "Q": "Triệu chứng lâm sàng nào sau đâyKHÔNG phù hợp với lao ruột thể loét?"
+            },
+            "139": {
+                "1": "Tìm trực khuẩn lao trong phân.",
+                "2": "Chụp XQ tiểu tràng và đại tràng cản quang.",
+                "3": "Siêm âm ổ bụng.",
+                "4": "Soi đại tràng và sinh thiết.",
+                "A": "A",
+                "Q": "Xét nghiệm cận lâm sàng nào ÍT có giá trị nhất trong chẩn đoán bệnh lao ruột?"
+            },
+            "140": {
+                "1": "Hẹp và tắc ruột.",
+                "2": "Viêm phúc mạc do thủng ruột.",
+                "3": "Xuất huyết tiêu hóa.",
+                "4": "K  hóa.",
+                "A": "D",
+                "Q": "Biến chứng nào KHÔNG gặp trong bệnh lao ruột?"
+            },
+            "141": {
+                "1": "Corticoide.",
+                "2": "Thuốc tăng miễn dịch.",
+                "3": "Thuốc giảm đau giãn cơ trơn.",
+                "4": "Thuốc cầm tiêu chảy.",
+                "A": "A",
+                "Q": "Trong điều trị bệnh lao ruột, sử dụng phác đồ chống lao không kết hợp với thuốc nào sau đây?"
+            },
+            "142": {
+                "1": "Đau bụng và sốt.",
+                "2": "Sốt kèm theo tiêu chảy phân nhày máu.",
+                "3": "Tiêu chảy phân nhày máu kèm theo đau bụng.",
+                "4": "Đau bụng, mót rặn, phân lỏng váng mỡ.",
+                "A": "C",
+                "Q": "Triệu chứng lâm sàng thường gặp nhất của bệnh viêm loét trực đại tràng chảy máu là"
+            },
+            "143": {
+                "1": "Triệu chứng lâm sàng tiến triển liên tục đến khi xuất hiện các biến chứng nếu bệnh không được phát hiện và điều trị đúng.",
+                "2": "Triệu chứng biểu hiện tại ruột và có thể ở các cơ quan ngoài ruột.",
+                "3": "Triệu chứng có thể ỉa máu toàn bãi.",
+                "4": "Khi số lần đại tiện nhày máu > 6 lần/ ngày là một trong các dấu hiệu biểu hiện bệnh ở mức độ nặng.",
+                "A": "A",
+                "Q": "Đặc điểm nào sau đây KHÔNG đúng về triệu chứng học bệnh viêm loét đại trực tràng chảy máu?"
+            },
+            "144": {
+                "1": "Ổ loét nông, nhiều giả mạc, dễ chảy máu trên nền niêm mạc phù nề xung huyết, mủn.",
+                "2": "Ổ loét nông, rải rác trên nền niêm mạc gần như bình thường.",
+                "3": "Ổ loét nhỏ, sâu, bờ nham nhở trên nền niêm mạc phù nề xung huyết.",
+                "4": "Ổ loét nhỏ, sâu, bờ nham nhở trên nền niêm mạc gần như bình thường.",
+                "A": "A",
+                "Q": "Hình ảnh tổn thương loét điển hình trên nội soi trong bệnh viêm loét trực đại tràng chảy máu là:"
+            },
+            "145": {
+                "1": "Niêm mạc nhợt màu, mạch máu dưới niêm mạc thưa thớt.",
+                "2": "Ổ loét sâu, kích thước thay đổi, nhiều giả mạc, dễ chảy máu.",
+                "3": "Hình ảnh giả polyp do sự tái tạo niêm mạc",
+                "4": "Tổn thương rò giữa các phần của ống tiêu hóa hoặc rò trực đại tràng với các cơ quan lân cận.",
+                "A": "C",
+                "Q": "Hình ảnh nội soi nào sau đây phù hợp với tổn thương trực đại tràng của bệnh viêm loét trực đại tràng chảy máu trong đợt bột phát:"
+            },
+            "146": {
+                "1": "Xảy ra với tần xuất thấp < 5% nhưng tỷ lệ tử vong cao > 20%.",
+                "2": "Thường xẩy ra khi tổn thương lan rộng toàn bộ đại tràng.",
+                "3": "Các triệu chứng báo hiệu là sốt cao, mạch nhanh, bụng đau nhiều căng chướng, tiêu chảy nặng. ",
+                "4": "Phẫu thuật cắt đại tràng là không cần thiết vì biến chứng này luôn có thể điều trị bằng nội khoa.",
+                "A": "D",
+                "Q": "Biến chứng phình đại tràng nhiễm độc (toxic megacolon) ở bệnh nhân viêm loét trực đại tràng chảy máu, chọn câu sai:"
+            },
+            "147": {
+                "1": "Tăng K+ máu.",
+                "2": "Giảm K+ máu.",
+                "3": "Tăng Ca++ máu.",
+                "4": "Giảm Ca++ máu.",
+                "A": "B",
+                "Q": "Một trong các yếu tố nguy cơ dẫn đến biến chứng phình đại tràng nhiễm độc ở bệnh nhân viêm loét trực đại tràng chảy máu là:"
+            },
+            "148": {
+                "1": "Nguy cơ K xuất hiện ngay khi bệnh mới khu trú ở trực tràng.",
+                "2": "Nguy cơ ung thư chỉ xuất hiện khi tổn thương đã lan ra toàn bộ đại tràng (viêm loét đại tràng toàn bộ).",
+                "3": "Tổn thương ung thư thường xuất hiện ở vị trí đại tràng giãn. ",
+                "4": "Tỷ lệ ung thư hóa tăng lên theo thời gian mắc bệnh.",
+                "A": "D",
+                "Q": "Phát biểu nào sau đây đúng về biến chứng ung thư hóa ở bệnh nhân viêm loét trực đại tràng chảy máu:"
+            },
+            "149": {
+                "1": "Thuốc kháng sinh.",
+                "2": "5-Aminosalicylic acide (5-ASA)",
+                "3": "Corticoide.",
+                "4": "Thuốc ức chế miễn dịch.",
+                "A": "B",
+                "Q": "Thuốc sử dụng đầu tay (thuốc nền) trong điều trị viêm loét trực đại tràng chảy máu là"
+            },
+            "150": {
+                "1": "Thoát vị hoành trượt.",
+                "2": "Giảm trương lực cơ thắt dưới của thực quản (LES).",
+                "3": "Béo phì, thừa cân, ngồi nhiều, tăng áp lực ổ bụng.",
+                "4": "Do dư acid dạ dày, tăng áp lực ổ bụng",
+                "A": "A",
+                "Q": "Nguyên nhân gây bệnh trào ngược dạ dày thực quản ( GERD) "
+            },
+            "151": {
+                "1": "Sự tự làm sạch của thực quản.",
+                "2": "Vai trò của cơ thắt dưới của thực quản (LES).",
+                "3": "Vai trò của dịch mật, dịch tụy.",
+                "4": "Vai trò của Helicobacter pylori",
+                "A": "B",
+                "Q": "Yếu tố nào quan trọng nhất trong bệnh sinh của GERD"
+            },
+            "152": {
+                "1": "Tăng trào ngược dịch dạ dày, giảm áp lực cơ thắt dưới thực quản, tăng áp lực ổ bụng, chậm làm rỗng dạ dày.",
+                "2": "Thực quản ngắn, thực quản dài.",
+                "3": "Thoát vị hoành khe.",
+                "4": "Ăn quá no, cúi gập người thường xuyên.",
+                "A": "A",
+                "Q": "các yếu tố tấn công gây nên bệnh trào ngược dạ dày thực quản ( GERD)  gồm:"
+            },
+            "153": {
+                "1": "Đau ngực, sốt, viêm thực quản.",
+                "2": "Đau ngực, sốt, loét thực quản",
+                "3": "Ho kéo dài, hen do trào ngược và ung thư thực quản.",
+                "4": "Viêm thực quản, loét, hẹp hoặc ung thư thực quản.",
+                "A": "D",
+                "Q": "các triệu chứng thực thể tại thực quản (biến chứng) có thể gặp trong bệnh trào ngược dạ dày thực quản ( GERD)"
+            },
+            "154": {
+                "1": "Lâm sàng điển hình có giá trị nhất.",
+                "2": "Bộ câu hỏi GERD-Q có giá trị nhất.",
+                "3": "PPIs test có giá trị nhất.",
+                "4": "Độ nhậy và độ đặc hiệu của các phương pháp như nhau.",
+                "A": "D",
+                "Q": "Giá trị của các phương pháp: lâm sàng điển hình, bộ câu hỏi GERD-Q và PPI test trong chẩn đoán GERD là?"
+            },
+            "155": {
+                "1": "Các triệu chứng báo động ( chảy máu, nôn, thiếu máu, sút cân, khó nuốt..)",
+                "2": "Các triệu chứng GERD điển hình đã điều trị 4-8 tuần PPI hoặc viêm thực quản nặng đã điều trị 2 tháng mà không hết triệu chứng",
+                "3": "Bn trên 50 tuổi, có triệu chứng GERD kéo dài ( > 5 năm) xuất hiện các triệu chứng : ngủ ngáy, thoát vị hoành, tăng cân..)",
+                "4": "Tất cả các bệnh nhân có triệu chứng.",
+                "A": "D",
+                "Q": "Câu nào sau đây sai khi chỉ định nội soi dạ dày ở BN có thuốc bệnh trào ngược dạ dày thực quản ( GERD) "
+            },
+            "156": {
+                "1": "Ức chế bơm proton ( PPI)",
+                "2": "Prokinetic",
+                "3": "Băng se niêm mạc dạ dày.",
+                "4": "Kháng thụ thể H2-histamin ( H2RA)",
+                "A": "A",
+                "Q": "Thuốc nào sau đây ưu tiên lựa chọn trong điều trị trào ngược dạ dày thực quản ( GERD)"
+            },
+            "157": {
+                "1": "Nằm gối đầu cao, tránh cúi đầu thấp hoặc sau bữa ăn no.",
+                "2": "Tránh các chất kích thích làm giãn LES như: chocolate, bơ, thuốc lá, cà phê.",
+                "3": "Tập luyện tăng trương lực cơ bụng, mặc quần áo chật, ăn no, tăng bữa ăn đêm.",
+                "4": "Ăn chất dễ tiêu hóa.",
+                "A": "C",
+                "Q": "Ý nào hiểu KHÔNG đúng về thay đổi lối sống ở bệnh nhân GERD?"
+            },
+            "158": {
+                "1": "Có thể có tiền triệu cồn cào, lợm giọng.",
+                "2": "Máu tươi, bầm đen hoặc máu đen.",
+                "3": "Thường kèm đờm dãi.",
+                "4": "Thường kèm thức ăn và dịch vị.",
+                "A": "C",
+                "Q": "Phát biểu nào sau đây không đúng cho nôn máu ở bệnh nhân chảy máu do loét dạ dày-tá tràng?"
+            },
+            "159": {
+                "1": "Chất nôn thường kèm nước bọt và đờm dãi ",
+                "2": "Nôn máu sau ho nhiều, có đuôi khái huyết.",
+                "3": "Thường có triệu chứng đau ngực, khó thở.",
+                "4": "Chất nôn thường kèm thức ăn và cục máu nâu thẫm hay đen.",
+                "A": "D",
+                "Q": "Câu nào sau đây đúng trong chẩn đoán chảy máu tiêu hóa cao"
+            },
+            "160": {
+                "1": "Đoạn hai tá tràng trở lên",
+                "2": "Từ dạ dày trở lên.",
+                "3": "Từ góc Treitz trở lên.",
+                "4": "Từ van hồi manh tràng trở lên.",
+                "A": "C",
+                "Q": "Chảy máu tiêu hóa được giới hạn là chảy máu từ"
+            },
+            "161": {
+                "1": "Vỡ giãn tĩnh mạch thực quản do xơ gan.",
+                "2": "Ung thư dạ dày.",
+                "3": "Loét dạ dày tá tràng ",
+                "4": "Hội chứng Mallory-Weiss",
+                "A": "C",
+                "Q": "Nguyên nhân chảy máu tiêu hóa cao thường gặp nhất là:"
+            },
+            "162": {
+                "1": "chảy máu tiêu hóa do vỡ giãn tĩnh mạch thực quản ở Bn xơ gan",
+                "2": "Loét dạ dày tá tràng biến chứng xuất huyết.",
+                "3": "Hoội chứng Mallory-Weiss",
+                "4": "Viêm dạ dày cấp do rượu.",
+                "5": "Thường nôn máu dai dẳng và dễ tái phát",
+                "A": "A",
+                "Q": "Một BN nghiện rượu vào viện vì nôn ra máu tươi không kèm thức ăn, không đau thượng vị, chẩn đoán ưu tiên được đặt ra là"
+            },
+            "163": {
+                "1": "Dai dẳng, dễ tái phát",
+                "2": "Luôn xuất hiện ở BN có tiền sử đau thượng vị",
+                "3": "Khám thượng vị luôn phát hiện được 1 mảng cứng",
+                "4": "Luôn kèm theo triệu chứng hẹp môn vị",
+                "A": "A",
+                "Q": "Câu nào đúng trong chảy máu do ung thư dạ dày"
+            },
+            "164": {
+                "1": "Tiêm xơ bằng Polidocanol",
+                "2": "Thắt tĩnh mạch vỡ bằng vòng cao su",
+                "3": "kẹp clip",
+                "4": "tiêm cầm máu bằng andreầlin",
+                "A": "B",
+                "Q": "Điều trị cầm máu qua nội soi có kết quả nhất đối với vỡ giãn tĩnh mạch thực quản là"
+            },
+            "165": {
+                "1": "Hemoglobin < 60g/l",
+                "2": "Hemoglobin < 70g/l",
+                "3": "Hemoglobin < 80g/l",
+                "4": "Hemoglobin < 90g/l",
+                "A": "B",
+                "Q": "Chỉ định truyền máu trong chảy máu tiêu hóa cấp tính thường được đặt ra khi"
+            },
+            "166": {
+                "1": "Kháng sinh",
+                "2": "Kháng tiets acid",
+                "3": "Phẫu thuật",
+                "4": "adrenoxyl",
+                "A": "C",
+                "Q": "Chỉ định điều trị trong xuất hiện nặng từ túi thừa Merkel là "
+            },
+            "167": {
+                "1": "đau theo nhịp điệu",
+                "2": "đau theo chu kì, nhịp điệu",
+                "3": "Thường kèm theo vàng da vàng mắt",
+                "4": "bạch cầu đa nhân trung tính cao",
+                "A": "B",
+                "Q": "loét dạ dày có đặc điểm chủ yếu là"
+            },
+            "168": {
+                "1": "thân vị",
+                "2": "Phình vị",
+                "3": "hang vị",
+                "4": "Môn vị",
+                "A": "C",
+                "Q": "Vị trí nào sau đây thường là nơi cư trú của H.Pylori "
+            },
+            "169": {
+                "1": "Widal",
+                "2": "Martin Petid",
+                "3": "Waler rose",
+                "4": "Ureasetest",
+                "A": "D",
+                "Q": "Xét nghiệm nào sau đây để phát hiện H.Pylori "
+            },
+            "170": {
+                "1": "tổn thương tại chỗ làm phá vỡ hàng rào thấm của niêm mạc",
+                "2": "Kích thích tăng tiết gastrin máu",
+                "3": "Kích thích tăng tiết pepsinogen máu",
+                "4": "Kích thích tăng tiết natribicarbonat tá tràng",
+                "A": "A",
+                "Q": "cơ chế gây tổn thương dạ dày tá tràng của Aspirin và 1 số NSAIDs là"
+            },
+            "171": {
+                "1": "Các tổn thương viêm hoại tử nhu mô và tổ chức cơ bản của gan, không có xơ hóa kèm theo kéo dài > 6 tháng",
+                "2": "Các tổn thương viêm hoại tử nhu mô và tổ chức cơ bản của gan,  xơ hóa quanh khoảng cửa kéo dài > 6 tháng",
+                "3": "Các tổn thương viêm hoại tử nhu mô và tổ chức cơ bản của gan,  xơ hóa bắc cầu ( từ khoảng cửa này đến khoảng cửa khác, từ khoảng cửa đến tĩnh mạch trung tâm)  kéo dài > 6 tháng",
+                "4": "Các tổn thương viêm hoại tử nhu mô và tổ chức cơ bản của gan,  xơ hóa dảo lộn cấu trúc tiểu thùy gan",
+                "A": "D",
+                "Q": "Phát biểu nào sau đây Không đúng về định nghĩa viêm gan mạn"
+            },
+            "172": {
+                "1": "1-3 điểm",
+                "2": "4-8 điểm",
+                "3": "9-12 điểm",
+                "4": ">12 điểm",
+                "A": "C",
+                "Q": "Pham vi điểm hoạt động mô bệnh học theo Knodell nào dưới đây là viêm gan mạn hoạt động mức độ vừa"
+            },
+            "173": {
+                "1": "Thiếu Enzyme tụy",
+                "2": "Thiếu sắc tố mật",
+                "3": "Thiếu acid mật",
+                "4": "Thiếu dịch vị ",
+                "A": "C",
+                "Q": "Rối loạn tiêu hóa ( chán ănm đi ngoài phân nhão) trong viêm gan mạn hoạt động mức độ nặng có cơ chế chính là do"
+            },
+            "174": {
+                "1": "HBsAg (+)",
+                "2": "HBeAg (+)",
+                "3": "anti-HBC IgG (+)",
+                "4": "anti-HBC IgM (+)",
+                "A": "C",
+                "Q": "Dấu ấn virus viêm gan B nào sau đây nói lên bệnh mạn tính"
+            },
+            "175": {
+                "1": "Hội chứng suy gan đến sơm và biểu hiện rõ với các triệu chứng như phù vàng da, xuất huyết",
+                "2": "Hội chứng tăng áp TMC đến sớm và biểu hiện rõ với các triệu chứng như cổ trướng, lách to, vỡ tĩnh mạch thực quản",
+                "3": "Gan có xu hướng teo nhỏ 2 thùy",
+                "4": "Mô bệnh học là xoa gan nốt lớn",
+                "A": "B",
+                "Q": "Đặc điểm nào sau đây KHÔNG phù hợp với bệnh xơ gan sau hoại tử do virus viêm gan"
+            },
+            "176": {
+                "1": "TMC giãn > 13mm",
+                "2": "lách to với kich thước dọc lách > 12cm",
+                "3": "tăng vận tốc dòng chảy động mạch gan",
+                "4": "tăng vận tốc dòng chảy tĩnh mạch cửa",
+                "A": "D",
+                "Q": "DH nào sau đây KHÔNG phải là dấu hiệu TALTMC do xơ gan trên siêu âm Doppler ổ bụng"
+            },
+            "177": {
+                "1": "tần suất 20-150 trường hợp/100000 dân",
+                "2": "tần suất 10- <20 trường hợp/100000 dân",
+                "3": "tần suất 5-<10 trường hợp/100000 dân",
+                "4": "tần suất <5 trường hợp/100000 dân",
+                "A": "A",
+                "Q": "tần suất ung thư biểu mô Tế bào gan ở nam giới VN gặp trong tình huống nào sau đây"
+            },
+            "178": {
+                "1": "hệ thống giai đoạn Okuda",
+                "2": "Điểm tổng trạng theo ECOG",
+                "3": "Hệ thống TNM của AJCC ( 6/7)",
+                "4": "hệ thống Barcelona ( BCLC)",
+                "A": "D",
+                "Q": "Hệ thống tiên lượng K biểu mô tế bào gan nào đang được sử dụng rộng rãi nhiều nơi trên thế giới nhất"
+            },
+            "179": {
+                "1": "Rối loạn miễn dịch di truyền",
+                "2": "Sỏi mật và rượu",
+                "3": "Sang chấn tụy",
+                "4": "Rối loạn chuyển hóa",
+                "A": "B",
+                "Q": "Nguyên nhân hàng đầu gây viêm tụy cấp "
+            },
+            "180": {
+                "1": "Thể trạng gầy sút thiếu máu",
+                "2": "sốt và đau bụng nhiều",
+                "3": "Đại tiện phân lỏng, nhầy máu",
+                "4": "Hội chứng Koenig",
+                "A": "D",
+                "Q": "Triệu chứng lâm sàng nào sau đây KHÔNG phù hợp với lao ruột thể loét"
+            },
+            "181": {
+                "1": "thường xảy ra sau khi nôn hoặc rặn mạnh nhiều lần",
+                "2": "Thường gặp ở BN nam tuổi trẻ hoặc trung niên",
+                "3": "Lâm sàng biểu hiện xuất huyết tiêu hóa cao cấp tính",
+                "4": "thường chảy máu kéo dài hoặc khó cầm",
+                "A": "D",
+                "Q": "Đặc điểm nào KHÔNG phải là đặc điểm lâm sàng hội chứng Mallory-Weiss"
+            },
+            "182": {
+                "1": "protein CagA",
+                "2": "protein jamA",
+                "3": "tình trạng H.Pylori kháng Metronidazole",
+                "4": "H.Pylori chuyển sang dạng cầu khuẩn",
+                "A": "A",
+                "Q": "Đâu là yếu tố độc lực ( Khả năng gây bệnh ) của H.Pylori"
+            },
+            "183": {
+                "1": "lách to ",
+                "2": "Cổ trướng",
+                "3": "Tuần hoàn bàng hệ cửa chủ",
+                "4": "Giãn tĩnh mạch thực quản trên nội soi",
+                "A": "B",
+                "Q": "yếu tố giúp đánh giá tiên lượng xơ gan theo thang điểm Chil-Pugh"
+            },
+            "184": {
+                "1": "Nguyên nhân gây bệnh",
+                "2": "Mức độ hoạt động mô bệnh học",
+                "3": "Mức độ của sự tiến triển hoặc giai đoạn bệnh ( độ xơ hóa)",
+                "4": "Viêm gan mạn tồn tại và viêm gan mạn tiến triển",
+                "A": "D",
+                "Q": "Tình huống phân loại viêm gan mạn nào dưới đây hiện KHÔNG được sử dụng "
+            },
+            "name": "NỘI TIÊU HOÁ - AM1"
+        }
+    }
+}

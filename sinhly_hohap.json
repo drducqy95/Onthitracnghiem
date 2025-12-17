@@ -1,0 +1,615 @@
+{
+    "SINH_LY_HOC_2018": {
+        "sinhlyhohap": {
+            "1": {
+                "1": "Thể tích hô hấp là lượng khí được huy động trong một động tác thở quy định. Có các thể tích thở: thể tích khí lưu thông, thể tích khí dự trữ hít vào, thể tích khí dự trữ thở ra, thể tích khí cặn",
+                "2": "Thể tích hô hấp là tổng của hai hay nhiều dung tích hô hấp. Có các thể tích thở: thể tích khí lưu thông, thể tích khĩ dự trữ hít vào, thể tích khí dự trữ thở ra, thể tích cặn",
+                "3": "FEV1 là thể tích hít vào trong giây đầu tiên sau khi đã thở ra hết sức",
+                "4": "Có các thể tích thở: thể tích khí lưu thông, thể tích khí dự trữ hít vào, thể tích khí dự trữ thở ra, thể tích cặn. Thể tích khí dự trữ hít vào là lượng khí hiits vào hết sức tính từ mức cuối thì thở ra bình thường",
+                "A": "A",
+                "Q": "Trả lời nào sau đây là ĐÚNG?"
+            },
+            "2": {
+                "1": "Dung tích hít vào là lượng khí hít vào hết sức tính từ mức cuối thì hít vào bình thường",
+                "2": "Tổng dung tích phổi là tổng lượng khí có ở trong phổi khi hít vào tối đa",
+                "3": "Dung tích cặn chức năng là tổng thể của thể tích dự trữ thở ra và thể tích khí dự trữ hít vào",
+                "4": "Tổng dung tích phổi là tổng của thể tích khí dự trữ thở ra và thể tích khí cặn",
+                "A": "B",
+                "Q": "Trả lời nào về thể tích và dung tích và hô hấp sau đây là đúng?"
+            },
+            "3": {
+                "1": "Thể tích khí lưu thông là lượng khí lưu thông của phổi trong một lần thở bình thường",
+                "2": "Thể tích khí cặn là loại thể tích khí không huy động",
+                "3": "Thể tích khí cặn là lượng khí còn trong phổi sau khi đã thở ra tối đa, có thể đưa lượng khí đó ra được",
+                "4": "Thể tích thở là một lượng khí được huy động trong một động tác thở quy định",
+                "A": "C",
+                "Q": "Trả lời nào về thể tích và dung tích hô hấp sau đây là KHÔNG đúng?"
+            },
+            "4": {
+                "1": "Thể tích khí cặn, thể tích khí dự trữ hít vào là các thể tích khí huy động, đo được bằng máy spirograph",
+                "2": "Thể tích khí dự trữ hít vào là lượng khí hít vào được thêm từ vị trí hít vào bình thường đến mức hít vào tối đa",
+                "3": "Thể tích khí lưu thông, thể tích khí dự trữ hít vào, thể tích khí dự trữ thở ra là các thể tích khí huy động",
+                "4": "Dung tích sống và dung tích hít vào là lượng khí huy động",
+                "A": "A",
+                "Q": "Trả lời nào sau đây là KHÔNG đúng?"
+            },
+            "5": {
+                "1": "FEV1 là thể tích thở ra sau khi đã hít vào hết sức ",
+                "2": "FEV1 là thể tích thở ra nhanh, mạnh, tối đa trong giây đầu tiên sau khi đã hít vào hết sức",
+                "3": "FEV1 là thể tích thở ra tối đa sau khi đã hít vào hết sức",
+                "4": "FEV1 là thể tích hít vào trong giây đầu tiên sau khi đã hít vào hết sức",
+                "A": "B",
+                "Q": "Trả lời nào đúng về FEV1?"
+            },
+            "6": {
+                "1": "Khi phân áp oxy thấp gây giamrCO2 vào máu",
+                "2": "Khi phân áp oxy  cao (ở phổi ) gây giảm đào thải CO2 qua phổi",
+                "3": "Khi phân áp CO2 tăng gây giảm phân ly HbO2",
+                "4": "Khi phân áp  oxy cao (ở phổi ) gây tăng đào thải CO2 qua phổi",
+                "A": "D",
+                "Q": "Hiệu ứng Haldane là:"
+            },
+            "7": {
+                "1": "Hiện tượng trao đổi ion Cl- và HCO3+ giữa huyết tương và hồng cầu",
+                "2": "Hiện trượng trao đổi ion H+ và H2O giữa huyết tương và hồng cầu",
+                "3": "Hiện tượng trao đổi ion Na+ và HCO3+ giữa huyết tương và hồng cầu",
+                "4": "Hiện tượng trao đổi ion Cl- và CO2 giữa huyết tương và hồng cầu",
+                "A": "A",
+                "Q": "Hiện tượng hamburger là"
+            },
+            "8": {
+                "1": "ĐM=60, TM=46, Phế nang=100, Mô=40",
+                "2": "ĐM=46, TM=60, Phế nang=104, Mô=40",
+                "3": "ĐM=100, TM=40, Phế nang=104, Mô=40",
+                "4": "ĐM=100, TM=46, Phế nang=100, Mô=40",
+                "A": "C",
+                "Q": "Phân áp oxy (mmHg ) ở máu động mạch (ĐM ), tĩnh mạch (TM ), ở phế nang, ở mô khi cơ thể nghỉ ngơi như sau"
+            },
+            "9": {
+                "1": "Máu động mạch phổi có PO2=100 mmHg; PCO2=40mmHg",
+                "2": "Máu động mạch phổi có PO2=100 mmHg; PCO2=46mmHg",
+                "3": "Máu động mạch phổi có PO2=40 mmHg; PCO2=60mmHg",
+                "4": "Máu động mạch phổi có PO2=40 mmHg; PCO2=46mmHg",
+                "A": "D",
+                "Q": "Về phân áp (P ) oxy và CO2 trong máu động mạch phổi:"
+            },
+            "10": {
+                "1": "VC= IRV+ ERV+ TV",
+                "2": "VC= IRV+FRC ",
+                "3": "VC= IRV+ FRC+ TV",
+                "4": "VC= TLC- FRC",
+                "A": "A",
+                "Q": "Về dung tích sống (VC ) liên quan với các thông số thể tích khí lưu thông (VT ), thể tích khí hít vào (IRV ), thể tích khí dự trữ thở ra (ERV ), thể tích khí cặn (RV ), dung tích cặn chức năng (FRC ) và tổng dung lượng phổi (TLC ) theo công thức"
+            },
+            "11": {
+                "1": "FRC= TLC- RV",
+                "2": "FRC= ERV+ TV",
+                "3": "FRC= IRV+ RV",
+                "4": "FRC= ERV+ RV",
+                "A": "D",
+                "Q": "Về dung tích cặn chức năng (FRC ) liên quan với các thông số thể tích khí lưu thông (TV ), thể tích khí hít vào (IRV ), thể tích khí dự trữ thở ra (ERV ), thể tích khí cặn (RV ),dung tích sống (VC ) và tổng dung lượng phổi (TLC )theo công thức:"
+            },
+            "12": {
+                "1": "Cân nặng và tuổi",
+                "2": "Giới, chiều cao, tuổi và cân nặng",
+                "3": "Chiều cao, cân nặng và tuổi",
+                "4": "Giới, tuổi và nghề nghiệp",
+                "A": "B",
+                "Q": "Dung tích sống phụ thuộc vào:"
+            },
+            "13": {
+                "1": "Dạng hòa tan và kết hợp với MetHb",
+                "2": "Dạng hòa tan và kết hợp với muối kiềm",
+                "3": "Dạng hòa tan và kết hợp với nhóm amin của globin",
+                "4": "Dạng hòa tan và kết hợp với Fe++ của Hem trong hemoglobin",
+                "A": "D",
+                "Q": "Oxy vận chuyển trong máu dưới các dạng:"
+            },
+            "14": {
+                "1": "Dạng chủ yếu là kết hợp với hemoglobin",
+                "2": "Dạng kết hợp với hemoglobin và dạng muối kiềm",
+                "3": "Dạng hòa tan, kết hợp với hemolobin và dạng muối kiềm",
+                "4": "Dạng hòa tan và kết hợp với hemoglobin",
+                "A": "C",
+                "Q": "CO2 vận chuyển trong máu dưới các dạng:"
+            },
+            "15": {
+                "1": "pH máu giảm, 2, 3 DPG giảm tăng phân ly HbO2",
+                "2": "Nhiệt độ máu tăng, PCO2 mô giảm gây tăng phân ly HbO2",
+                "3": "PO2 mô tăng, PCO2 máu tăng gây tăng phân ly HbO2",
+                "4": "PO2 mô giảm, 2, 3 DPG tăng, PCO2 mô tăng gây tăng phân ly HbO2",
+                "A": "D",
+                "Q": "Trả lời nào ĐÚNG về những yếu tố ảnh hưởng tới sự phân ly HbO2"
+            },
+            "16": {
+                "1": "Tiffeneau: 70%; FEV1: 70%",
+                "2": "Tiffeneau: 70%; FEV1: 82%",
+                "3": "Tiffeneau: 73%; FEV1: 80%",
+                "4": "Tiffeneau: 71%; FEV1: 81%",
+                "A": "A",
+                "Q": "Một nam giới 65 tuổi có chỉ số Tiffeneau và FEV1 %dưới đây, câu nào thể hiện ông ta bị rối loạn thông khí tắc nghẽn?"
+            },
+            "17": {
+                "1": "Máu tĩnh mạch phổi có PO2= 100mmHg; PCO2= 60mmHg",
+                "2": "Máu tĩnh mạch phổi có PO2= 46mmHg; PCO2= 100mmHg",
+                "3": "Máu tĩnh mạch phổi có PO2= 100mmHg; PCO2= 46mmHg",
+                "4": "Máu tĩnh mạch phổi có PO2= 100mmHg; PCO2= 40mmHg",
+                "A": "D",
+                "Q": "Về phân áp (P ) oxy và CO2 trong máu tĩnh mạch phổi:"
+            },
+            "18": {
+                "1": "Tích cực ",
+                "2": "Thụ động và tích cực",
+                "3": "Chủ yếu là tích cực, một phần thụ động",
+                "4": "Tự nhiên",
+                "A": "A",
+                "Q": "Động tác hít vào là:"
+            },
+            "19": {
+                "1": "Thụ động ",
+                "2": "Tích cực ",
+                "3": "Tự nhiên",
+                "4": "Chủ yếu là thụ động, một phần tích cực",
+                "A": "B",
+                "Q": "Động tác thở ra cố gắng là:"
+            },
+            "20": {
+                "1": "85% là tăng",
+                "2": "75% là tăng",
+                "3": "85% là bình thường",
+                "4": "74% là bình thường",
+                "A": "C",
+                "Q": "Chỉ số Tiffeneau ở người 40 tuổi khi:\\"
+            },
+            "21": {
+                "1": 0.15,
+                "2": 0.2,
+                "3": 0.26,
+                "4": 0.1,
+                "A": "C",
+                "Q": "Hiệu suất sử dụng oxy của mô khi nghỉ là:"
+            },
+            "22": {
+                "1": "Dung tích sống (VC)",
+                "2": "Thể tích cặn (RV)",
+                "3": "Tổng dung lượng phổi (TLC)",
+                "4": "Dung tích cặn chức năng (FRC)",
+                "A": "A",
+                "Q": "Các thể tích hoặc dung tích nào sau đây có thể đo được bằng máy phế dung kế (spriograph)?"
+            },
+            "23": {
+                "1": "Dung tích sống (VC)",
+                "2": "Thể tích dự trữ thở ra (ERV)",
+                "3": "Thể tích khí lưu thông (TV)",
+                "4": "Dung tích cặn chức năng (FRC)",
+                "A": "D",
+                "Q": "Thể tích, dung tích nào còn trong phổi sau khi thể tích lưu thông đã thở ra hết?"
+            },
+            "24": {
+                "1": "Dung tích cặn chức năng (FRC)",
+                "2": "Dung tích sống (VC)",
+                "3": "Thể tích khí lưu thông (TV)",
+                "4": "Thể tích cặn (RV)",
+                "A": "D",
+                "Q": "Thể tích nào còn lại trong phổi sau khi thở ra tối đa?"
+            },
+            "25": {
+                "1": "Phân áp CO2 trong máu mao tĩnh mạch phổi",
+                "2": "Tốc độ dòng máu qua mao mạch phổi",
+                "3": "Sự chênh lệch phân áp oxy giữa phế nang và máu",
+                "4": "Áp lực phế nang",
+                "A": "C",
+                "Q": "Khả năng khuếch tán của oxy từ phế nang vào máu phụ thuộc vào:"
+            },
+            "26": {
+                "1": "CO2 đi vào hồng cầu và ion Cl- đi ra huyết tương",
+                "2": "Phân áp O2 ở mô thấp hơn phân áp O2 trong máu",
+                "3": "Tăng quá trình bão hòa oxyhemoglobin (HbO2)",
+                "4": "Phân áp CO2 ở mô cao hơn phân áp CO2 trong máu",
+                "A": "D",
+                "Q": "Máu nhận CO2 từ mô do:"
+            },
+            "27": {
+                "1": "Kết hợp với hemoglobin tạo thành oxyhemoglobin",
+                "2": "Kết hợp với ion Fe+++ trong nhân Hem của hemoglobin",
+                "3": "Kết hợp với ion Fe++ tự do trong máu",
+                "4": "Kết hợp với nhóm carbamin của globulin",
+                "A": "A",
+                "Q": "Oxy được vận chuyển trong máu bằng các dạng sau đây:"
+            },
+            "28": {
+                "1": "Dạng kết hợp oxy tuy thể tích nhỏ nhưng là dạng quan trọng vì trao đổi oxy với mô đều qua dạng này",
+                "2": "Ở nhiệt độ cơ thể, có 20ml oxy hòa tan/ 100ml máu",
+                "3": "Dung lượng oxy của máu từ dạng kết hợp gắn với Fe++ của Hem trong hemoglobin là 20ml oxy/ 100 ml máu",
+                "4": "Dạng hòa tan là dạng vận chuyển oxy chủ yếu",
+                "A": "C",
+                "Q": "Câu nào sau đây là đúng?"
+            },
+            "29": {
+                "1": "khoảng 50ml CO2/100ml máu",
+                "2": "khoảng 2,5ml CO2/100ml máu",
+                "3": "khoảng 4,5ml CO2/100ml máu",
+                "4": "khoảng 20ml CO2/100ml máu",
+                "A": "B",
+                "Q": "Với phân áp CO2 trong máu là 46mmHg, thể tích CO2 hòa tan:"
+            },
+            "30": {
+                "1": "khoảng 0,3ml CO2/100ml máu",
+                "2": "khoảng 4,5ml CO2/100ml máu",
+                "3": "khoảng 51ml CO2/100ml máu",
+                "4": "khoảng 45ml CO2/100ml máu",
+                "A": "B",
+                "Q": "CO2 vận chuyển trong máu dưới dạng carbamin:"
+            },
+            "31": {
+                "1": "khoảng 0,3ml CO2/100ml máu",
+                "2": "khoảng 4,5ml CO2/100ml máu",
+                "3": "khoảng 45ml CO2/100ml máu",
+                "4": "khoảng 51ml CO2/100ml máu",
+                "A": "D",
+                "Q": "CO2 vận chuyển trong máu dưới dạng kết hợp muối kiềm:"
+            },
+            "32": {
+                "1": "khoảng 45ml CO2/100ml máu",
+                "2": "chừng 20ml CO2/100ml máu",
+                "3": "chừng 4,5ml CO2/100ml máu",
+                "4": "chừng 58 ml CO2/100ml máu",
+                "A": "D",
+                "Q": "Tổng số CO2 vận chuyển trong máu ở cả ba dạng:"
+            },
+            "33": {
+                "1": "tổng dung tích phổi",
+                "2": "thể tích khí dự trữ hít vào  ",
+                "3": "dung tích sống",
+                "4": "thể tích khí dự trữ thở ra",
+                "A": "C",
+                "Q": "Hoạt động hô hấp tương ứng với tổng lượng khí có thể trao đổi được là:"
+            },
+            "34": {
+                "1": "chymosin",
+                "2": "ion bicarbonat",
+                "3": "carbonmonocid  ",
+                "4": "oxyhemoglobin",
+                "A": "D",
+                "Q": "Oxy gắn với hemoglobin trong máu tạo thành:"
+            },
+            "35": {
+                "1": "3800ml",
+                "2": "1200ml",
+                "3": "1800ml",
+                "4": "500ml",
+                "A": "D",
+                "Q": "Lượng khí được trao đổi trong một lần thở bình thường khoảng:"
+            },
+            "36": {
+                "1": "3000ml",
+                "2": "2300ml",
+                "3": "500ml",
+                "4": "1500ml",
+                "A": "D",
+                "Q": "Lượng khí có thể thở ra cố sau thở ra bình thường là khoảng:"
+            },
+            "37": {
+                "1": "ion bicarbonat",
+                "2": "oxyhemoglobin",
+                "3": "axit carbonic",
+                "4": "carboxyhemoglobin",
+                "A": "A",
+                "Q": "Phần lớn carbon dioxid được hòa tan và vận chuyển trong nhóm máu là"
+            },
+            "38": {
+                "1": "Carbonic anhydrase",
+                "2": "ion bicarbonat",
+                "3": "natri bicarbonat",
+                "4": "carboxyhemoglobin",
+                "A": "B",
+                "Q": "Khi carbon dioxid từ các tế bào mô vào máu, nó được chuyển thành dạng để vận chuyển trong huyết tương là"
+            },
+            "39": {
+                "1": "Là lượng khí phổi thở ra được trong 1 giây đầu tiên sau khi đã hít vào hết sức",
+                "2": "Là lượng khí lưu thông của phổi trong một lần thở bình thường",
+                "3": "Là tổng lượng khí phổi có thể huy động được",
+                "4": "Là lượng khí thở vào thêm được sau khi đã thở vào bình thường",
+                "A": "B",
+                "Q": "Định nghĩa nào đúng về thể tích khí lưu thông (TV)?"
+            },
+            "40": {
+                "1": "0,5 lít",
+                "2": "1,8 lít",
+                "3": "1,5 lít",
+                "4": "1,2 lít",
+                "A": "A",
+                "Q": "Trị số bình thường của thể tích khí lưu thông (TV) ở nam giới trưởng thành khoảng:"
+            },
+            "41": {
+                "1": "2,2 lít",
+                "2": "1,8 lít",
+                "3": "2,5 lít",
+                "4": "0,5 lít",
+                "A": "B",
+                "Q": "Trị số bình thường của thể tích khí dự trữ hít vào (IRV) ở nam giới trưởng thành khoảng:"
+            },
+            "42": {
+                "1": "2,5 lít ",
+                "2": "2,8 lít",
+                "3": "0,5 lít",
+                "4": "1,5 lít",
+                "A": "D",
+                "Q": "Trị số bình thường của thể tích khí dự trữ thở ra (ERV) ở nam giới trưởng thành khoảng:"
+            },
+            "43": {
+                "1": "2,5 lít",
+                "2": "2,2 lít",
+                "3": "0,5 lít",
+                "4": "1,2 lít",
+                "A": "D",
+                "Q": "Trị số bình thường của thể tích khí cặn (RV) ở nam giới trưởng thành khoảng:"
+            },
+            "44": {
+                "1": "Thể tích khí dự trữ hít vào",
+                "2": "Thể tích khí dự trữ thở ra",
+                "3": "Thể tích khí lưu thông",
+                "4": "Thể tích khí cặn",
+                "A": "D",
+                "Q": "Thể tích nào sau đây KHÔNG THỂ xác định được bằng máy phế dung kế (spirograph) ?"
+            },
+            "45": {
+                "1": "VC=TV+ IRC+ FEV1",
+                "2": "VC=TV+ RV+ ERV",
+                "3": "VC=TV+ IC+ FRC",
+                "4": "VC= TV+IRV +ERV",
+                "A": "D",
+                "Q": "Công thức nào sau đây ĐÚNG về dung tích sống (VC) liên quan tới các thông số thể tích khí lưu thông (TV), thể tích khí dự trữ hít vào (IRV), thể tích khí dự trữ thở ra (ERV), dung tích hít vào (IC), thể tích thở ra tối đa trong giây đầu tiên (FEV1) và dung tích cặn chức năng (FRC)?"
+            },
+            "46": {
+                "1": "VC giảm dần theo tuổi",
+                "2": "VC càng cao càng bất lợi cho cơ thể",
+                "3": "Giá trị bình thường vào khoảng 3,8 lít",
+                "4": "VC phản ánh khả năng đáp ứng nhu cầu trao đổi khí của cơ thể",
+                "A": "B",
+                "Q": "Câu trả lời nào sau đây KHÔNG ĐÚNG về dung tích sống (VC)?"
+            },
+            "47": {
+                "1": "Tỷ lệ % FEV1/FRC gọi là chỉ số Tiffeneau",
+                "2": "Là lượng khí tối đa thở ra được trong mỗi giây",
+                "3": "Thông số này hằng định theo tuổi và giới",
+                "4": "Thường có giá trị khoảng 80% dung tích sống",
+                "A": "D",
+                "Q": "Câu trả lời nào sau đây ĐÚNG về thể tích thở ra tối đa giây (FEV1)?"
+            },
+            "48": {
+                "1": "0,3 ml oxy hòa tan",
+                "2": "2,5 ml oxy hòa tan",
+                "3": "1,34 ml oxy hòa tan",
+                "4": "20 ml oxy hòa tan",
+                "A": "A",
+                "Q": "Ở nhiệt độ cơ thể, 100ml máu có: "
+            },
+            "49": {
+                "1": "1,34 ml oxy  ",
+                "2": "20 ml oxy  ",
+                "3": "2,5 ml oxy  ",
+                "4": "0,3 ml oxy  ",
+                "A": "A",
+                "Q": "Mỗi gam hemoglobin có khả năng gắn với:"
+            },
+            "50": {
+                "1": "Giảm từ 100% xuống 80%",
+                "2": "Giảm từ 98% xuống 40%",
+                "3": "Không thay đổi",
+                "4": "Giảm từ 98% xuống 96%",
+                "A": "D",
+                "Q": "Trong khả năng kết hợp và phân ly HbO2, khi phân áp oxy phế nang giảm từ 100 mmHg xuống còn 80 mmHg thì tỷ lệ HbO2:"
+            },
+            "51": {
+                "1": "Phân áp CO2 cao ức chế phân ly HbO2",
+                "2": "Hàm lượng 2,3DPG cao làm tăng phân ly HbO2",
+                "3": "Toan máu làm tăng phân ly HbO2",
+                "4": "Nhiệt độ cơ thể tăng làm tăng phân ly HbO2",
+                "A": "A",
+                "Q": "Câu trả lời nào sau đây KHÔNG ĐÚNG về đồ thị phân ly HbO2:"
+            },
+            "52": {
+                "1": "1,34 ml oxy",
+                "2": "2,5 ml oxy",
+                "3": "5 ml oxy",
+                "4": "15 ml oxy",
+                "A": "C",
+                "Q": "Trong điều kiện bình thường, 100 ml máu mang 19 ml oxy từ phổi tới mô sẽ chuyển cho tổ chức:"
+            },
+            "53": {
+                "1": "dạng hòa tan của CO2 trong máu",
+                "2": "dạng kết hợp của CO với hemoglobin",
+                "3": "dạng kết hợp với CO2 với muối kiềm",
+                "4": "dạng kết hợp của CO2 với hemoglobin",
+                "A": "D",
+                "Q": "Dạng carbamin là"
+            },
+            "54": {
+                "1": "2,5 ml CO2 hòa tan",
+                "2": "4,5 ml CO2 hòa tan",
+                "3": "1,34 ml CO2 hòa tan",
+                "4": "15 ml CO2 hòa tan",
+                "A": "A",
+                "Q": "Với phân áp CO2 trong máu là 46mmHg, 100ml máu có khoảng:"
+            },
+            "55": {
+                "1": "hốc Hem",
+                "2": "nhóm NH2 của phần globin tỏng hemoglobin",
+                "3": "nhân pyrol",
+                "4": "ion Fe2+ của nhân Hem",
+                "A": "B",
+                "Q": "Trong dạng kết hợp với hemoglobin, CO2 gắn vào:"
+            },
+            "56": {
+                "1": "51 ml CO2",
+                "2": "58 ml CO2",
+                "3": "19 ml CO2",
+                "4": "20 ml CO2",
+                "A": "B",
+                "Q": "Ở điều kiện bình thường, 100ml máu vận chuyển được khoảng:"
+            },
+            "57": {
+                "1": "Thể tích khí lưu thông là thể tích nằm trong đường hô hấp",
+                "2": "Thể tích khí cặn là thể tích khí hít vào  và thở ra trong một lần thở",
+                "3": "Thể tích khí dự trữ hít vào là thể tích khí hít vào hết sức",
+                "4": "Thể tích khí dự trữ thở ra là thể tích khí thở ra hết sức sau khi đã thở ra bình thường",
+                "A": "D",
+                "Q": "Định nghĩa nào là đúng về các thể tích hô hấp?"
+            },
+            "58": {
+                "1": "Thể tích khí cặn: 500ml",
+                "2": "Thể tích khí dự trữ thở ra: 500ml ",
+                "3": "Thể tích khí lưu thông: 500ml",
+                "4": "Thể tích khĩ dự trữ hít vào: 500ml",
+                "A": "C",
+                "Q": "Điều nào đúng với các thể tích hô hấp?"
+            },
+            "59": {
+                "1": "VC=TV+ IRV+ RV",
+                "2": "FRC= ERV+ TV",
+                "3": "IC= RV+ IRV",
+                "4": "TLC= VC+ RV",
+                "A": "D",
+                "Q": "Điều nào sau đây là đúng về các dung tích hô hấp theo công thức liên quan với thể tích khí cặn (RV), thể tích khí dự trữ hít vào (IRV), thể tích khí dự trữ thở ra (ERV),thể tích khí lưu thông (TV), dung tích sống (VC), dung tích cặn chức năng (FRc), dung tích hít vào (IC) và tổng dung lượng phổi (TLC)?"
+            },
+            "60": {
+                "1": "Là lượng khí tối đa phổi huy động được trong một lần hít vào ",
+                "2": "Phụ thuộc vào tuổi, giới, cân nặng",
+                "3": "Là lượng khí tối đa huy động được trong một lần thở (hít vào và thở ra tối đa )",
+                "4": "Đánh giá khả năng trao đổi khí của đường hô hấp trên",
+                "A": "C",
+                "Q": "Điều nào là đúng về dung tích sống (VC)?"
+            },
+            "61": {
+                "1": "58 ml/ 100 ml máu",
+                "2": "51 ml/ 100 ml máu",
+                "3": "2,5 ml/ 100 ml máu",
+                "4": "4,5 ml/ 100 ml máu",
+                "A": "B",
+                "Q": "Lượng CO2 vận chuyển dưới dạng muối kiềm trong máu chiếm"
+            },
+            "62": {
+                "1": "Cả yếu tố (1), (2), (3)",
+                "2": "Phân áp CO2 tăng cao (1)",
+                "3": "Nồng độ 2,3 DPG tăng cao (3)",
+                "4": "pH máu giảm, nhiệt độ máu tăng (2)",
+                "A": "A",
+                "Q": "Các yếu tố làm tăng sự phân ly HbO2 gồm:"
+            },
+            "63": {
+                "1": "Đánh giá sự thông thoáng của đường thở",
+                "2": "Đánh giá rối loạn thông khí thể hạn chế",
+                "3": "Là thể tích khí thở ra tối đa trong giây đầu tiên sau khi hít vào cổ",
+                "4": "Thay đổi theo tuổi, giới, chiều cao",
+                "A": "B",
+                "Q": "Nhận xét nào sau đây là không đúng về FEV1?"
+            },
+            "64": {
+                "1": "Bình thường có giá trị nhỏ hơn 75%",
+                "2": "Dùng để đánh giá rối loạn thông khí thể hạn chế",
+                "3": "Bình thường có giá trị lớn hơn 75%",
+                "4": "Chỉ số Tiffeneau= TV/ VC",
+                "A": "C",
+                "Q": "Nhận định nào là đúng về chỉ số Tiffeneau?"
+            },
+            "65": {
+                "1": "Là thể tích khí còn lại trong phổi sau khi đã thở ra hết sức",
+                "2": "Là lượng khí còn lại trong phổi sau khi thở ra bình thường",
+                "3": "Có giá trị từ 1,3 đến 1,8 lít",
+                "4": "Là lượng khí pha trộn với không khí khi thở ra",
+                "A": "B",
+                "Q": "Điều nào là đúng về dung tích cặn chức năng (FRC)?"
+            },
+            "66": {
+                "1": "Ở mô làm tăng thải CO2 (2)",
+                "2": "Ở phổi làm tăng vận chuyển CO2 (3)",
+                "3": "Cả (1), (2), (3) đều đúng",
+                "4": "Là qua trình di chuyển của ion Cl- và HCO3-",
+                "A": "D",
+                "Q": "Điều gì là đúng về hiện tượng Hamburger?"
+            },
+            "67": {
+                "1": "Là thể tích  khí khi ta hít vào bình thường ",
+                "2": "là tổng thể tích  khí khi ta hít vào hết sức",
+                "3": "là thể tích khí khi ta hít vào cố hết sức sau khi đã hít vào bình thường",
+                "4": "Có giá trị bình thường khoảng 1000ml",
+                "A": "C",
+                "Q": "Điều nào sau đây đúng về thể tích  khí dự trũ hít vào ( IRV)"
+            },
+            "68": {
+                "1": "Là lượng khí tối đa thở ra được trong 1 lần thở",
+                "2": "Là lượng khí tối đa hít vào được trong 1 lần thở",
+                "3": "Là lượng khí tối đa phổi huy động được  trong 1 lần thở",
+                "4": "Là lượng khí tối đa phổi huy động được  trong 1 phút",
+                "A": "C",
+                "Q": "Dung tích sống (VC)"
+            },
+            "69": {
+                "1": "Dạng hòa tan (a)",
+                "2": "Dạng carbamin (b)",
+                "3": "Cả hai dạng  a và b",
+                "4": "Dạng kết hợp muối kiềm",
+                "A": "D",
+                "Q": "Dạng nào sau đây KHÔNG có trong vận chuyển oxy trong máu"
+            },
+            "70": {
+                "1": "Tăng vận chuyển oxy ở mô",
+                "2": "Tăng thải CO2 ở phổi",
+                "3": "Tăng vận chuyển CO2 ở phổi",
+                "4": "Tăng thải Oxy ở phổi",
+                "A": "B",
+                "Q": "Hiện tượng Humburger có ý nghĩa"
+            },
+            "71": {
+                "1": "Đánh giá khả năng hô hấp của phổi",
+                "2": "Đánh giá sự thông thoáng của đường thở",
+                "3": "Không thay đổi theo tuổi, giới, chiều cao",
+                "4": "Là thể tích thời gian tối đa giây đầu tiên sau khi hít vào bình thường",
+                "A": "B",
+                "Q": "Điều nào sau đây đúng về thể tích khí thở ra tối đa giây đầu tiên ( FEV1)"
+            },
+            "72": {
+                "1": "Tổng dung tích phổi (TLC)",
+                "2": "Dung tích sống (VC)",
+                "3": "Thể tích thở ra tối đa giây ( FEV1)",
+                "4": "Dung tích hít vào (IC)",
+                "A": "A",
+                "Q": "Dựa vào kết quả ghi được trên máy phế dung khí ( spiroraphe) có thể phân tích được các giá trị thể tích hô hấp sau, NGOẠI TRỪ"
+            },
+            "73": {
+                "1": "Cơ thể bị sốt (a)",
+                "2": "Nhiễm toan chuyển hóa ( b)",
+                "3": "Tăng hàm lượng 2,3 diphosphoglycerat (c )",
+                "4": "Cả a, b,c đều đúng",
+                "A": "D",
+                "Q": "Đường cong phân li oxyhemoglobin chuyển trái khi "
+            },
+            "74": {
+                "1": "Thận tăng tiết erythropoietin (a)",
+                "2": "Giảm tần số hô hấp (b)",
+                "3": "Tăng ái lực oxy với hemoglobin ( c) ",
+                "4": "Cả a,b,c đều đúng",
+                "A": "C",
+                "Q": "Một người sinh sống ở vùng đồng bằng đi du lịch vùng núi có độ cao 2800m so với mực nước biển, đáp ứng nào của cơ thể diễn ra tức thời để duy trì chức năng hô hấp ở mức bình thường "
+            },
+            "75": {
+                "1": "TLC>VC>TV>FRC",
+                "2": "TLC>VC>FRC>TV",
+                "3": "TLC>FRC>VC>TV",
+                "4": "TLC>FRC>TV>VC",
+                "A": "B",
+                "Q": "Câu trả lời nào sau đây là đúng về giá trị của các thể tích , dung tích hô hấp đo được ở người khở mạnh bình thường"
+            },
+            "76": {
+                "1": "Dạng bicarbonat",
+                "2": "Dạng hòa tan trong máu",
+                "3": "Dạng kết hợp với gốc imidazole trong hemoglobin",
+                "4": "Dạng kết hợp với gốc amin (-NH2) trong hemoglobin",
+                "A": "C",
+                "Q": "CO2 KHÔNG được vận chuyển trong máu dưới dạng nào sau đây"
+            },
+            "name": "SINH LÍ HÔ HẤP"
+        }
+    }
+}

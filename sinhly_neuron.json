@@ -1,0 +1,536 @@
+{
+    "SINH_LY_HOC_2018": {
+        "sinhlyneuron": {
+            "1": {
+                "1": "Phản xạ là đường đi của xung động thần kinh từ cơ quan nhận cảm cào trung khu thần kinh",
+                "2": "Phản xạ là sự đáp ứng của cơ thể đối với mọi kích thích thông qua dây thần kinh ly tâm",
+                "3": "Phản xạ là sự đáp ứng của cơ thể đối với các kích thích",
+                "4": "Phản xạ là sự đáp ứng của cơ thể đối với mọi kích thích bên trong và bên ngoài cơ thể thông qua hệ thần kinh trung ương",
+                "A": "D",
+                "Q": "Phản xạ là gì"
+            },
+            "2": {
+                "1": "Dẫn truyền 1 chiều và điện thế giảm dần dọc theo sợi trục",
+                "2": "Dẫn truyền 2 chiều và điện thế không hao hụt",
+                "3": "Dẫn truyền 1 chiều và điện thế không hao hụt ",
+                "4": "Dẫn truyền nhờ chất trung gian hóa học",
+                "A": "B",
+                "Q": "Những nguyên tắc dẫn truyền xung thần kinh trên sợi trục"
+            },
+            "3": {
+                "1": "Tận cùng thần kinh, túi synap và màng sau synap",
+                "2": "Các tận cùng thần kinh, các túi synap và khe synap",
+                "3": "Các túi nhỏ chứa chất trung gian hóa học và thụ cảm thể nhận cảm với chất này",
+                "4": "Màng trước synap, khe synap và màng sau synap",
+                "A": "D",
+                "Q": " Cấu trúc cơ bản của synap hóa học"
+            },
+            "4": {
+                "1": "Trên dây thần kinh và qua synap dẫn truyền không lan tỏa",
+                "2": "Dẫn truyền qua synap là 1 chiều, trên dây thần kinh 2 chiều nhờ chất trung gian hóa học",
+                "3": "Dẫn truyền trên dây thần kinh và qua synap đều nhờ chất trung gian hóa học",
+                "4": "Trên dây thần kinh dẫn truyền 2 chiều, dẫn truyền qua synap là 1 chiều và nhờ chất trung gian hóa học",
+                "A": "D",
+                "Q": "Câu nào đúng về sự dẫn truyền trên dây thần kinh và qua synap"
+            },
+            "5": {
+                "1": "Acetylcholin, noradrenalin, secretin, serotonin",
+                "2": "Acetylcholin, noradrenalin,serotonin, GABA",
+                "3": "Acetylcholin, noradrenalin, sserotonin, chymosin",
+                "4": "Acetylcholin, noradrenalin, mucin, serotonin",
+                "A": "B",
+                "Q": "Các chất trung gian hóa học của hệ thần kinh trung ương gồm"
+            },
+            "6": {
+                "1": "Dẫn truyền 2 chiều, liên tục và tốc độ không đổi",
+                "2": "Dẫn truyền 1 hoặc 2 chiều phụ thuộc vào trạng thái sợi thần kinh",
+                "3": "Dẫn truyền 2 chiều, liên tục và không lan tỏa",
+                "4": "Dẫn truyền 2 chiều, liên tục nhưng tốc độ giảm dần",
+                "A": "C",
+                "Q": "Câu nào đúng về tính chất dẫn truyền xung trên sợi thần kinh"
+            },
+            "7": {
+                "1": "Là tận cùng sợi trục có myelin",
+                "2": "Có nhiều kênh Na+, Ca++ và túi synap",
+                "3": "Là tận cùng sợi trục không myelin, nhiều kênh K+",
+                "4": "Có nhiều kênh Na++, K+ và chất trung gian hóa học ",
+                "A": "B",
+                "Q": "Câu nào đúng về cấu trúc màng trước synap"
+            },
+            "8": {
+                "1": "Màng tế bào tiếp xúc với màng trước synap, có nhiều kênh Ca++",
+                "2": "Màng tế bào tiếp xúc với màng trước synap, có nhiều receptor và enzym đặc hiệu với chất trung gian hóa học ở màng trước",
+                "3": "Màng tế bào tiếp xúc với màng trước synap, có nhiều kênh Na+, K+, Cl-",
+                "4": "Màng tế bào tiếp xúc với màng trước synap, có nhiều receptor và túi synap",
+                "A": "B",
+                "Q": "Câu nào đúng về cấu trúc màng sau synap"
+            },
+            "9": {
+                "1": "Synap hưng phấn: khử cực do mở kênh Na+; synap ức chế: tăng phân cực do mở kênh K+",
+                "2": "Synap hưng phấn: khử cực do mở kênh K+; synap ức chế: tăng phân cực do mở kênh Cl-",
+                "3": "Synap hưng phấn: khử cực do mở kênh Ca++; synap ức chế: tăng phân cực do mở kênh Na+",
+                "4": "Synap hưng phấn: khử cực; synap ức chế: tái cực",
+                "A": "A",
+                "Q": "Câu nào đúng về phản ứng ở màng sau synap hưng phấn và ức chế"
+            },
+            "10": {
+                "1": "Ca++ vào màng trước làm chất trung gian hóa học gắn với receptor đặc hiệu",
+                "2": "Tổng hợp chất trung gian hóa học",
+                "3": "Ca++ vào màng trước túi synap hòa màng và giải phóng chất trung gian hóa học",
+                "4": "Ca++ ra khỏi màng trước làm vỡ túi synap và giải phóng chất trung gian hóa học",
+                "A": "C",
+                "Q": "Khi màng trước synap khử cực sẽ diễn ra quá trình gì"
+            },
+            "11": {
+                "1": "Do sự tổng hợp tại bào tương ở tận cùng sợi trục thần kinh",
+                "2": "Từ dịch mô chuyển vào túi synap",
+                "3": "Từ hành não chuyển xuống",
+                "4": "Từ neuron sừng trước tủy sống chuyển tới",
+                "A": "A",
+                "Q": "Chất trung gian hóa học ở màng trước synap do đâu mà có "
+            },
+            "12": {
+                "1": "Phần lớn vào màng sau, phần nhỏ tái nhập vào màng trước synap",
+                "2": "Khuyếch tán vào dịch mô rồi vào máu",
+                "3": "Bị men đặc hiệu phân hủy rồi vào màng sau synap",
+                "4": "Bị men đặc hiệu phân hủy, một phần sản phẩm tái nhập vào màng trước synap",
+                "A": "D",
+                "Q": "Sau khi gắn lên recepter đặc hiệu ở màng synap, chất trung gian hóa học chuyển đi đâu"
+            },
+            "13": {
+                "1": "Dẫn truyền hưng phấn trên các sợi dây thần kinh tuân theo quy luật toàn vẹn về giải phẫu  và sinh lý",
+                "2": "Dẫn truyền hưng phấn trên các sợi dây thần kinh theo một chiều và dẫn truyền qua synap theo 2 chiều",
+                "3": "Dẫn truyền hưng phấn trên các sợi dây thần kinh tuân theo quy luật dẫn truyền riêng biệt theo từng sợi dây thần kinh",
+                "4": "Sợi myelin dẫn truyền 2 chiều theo bước nhảy qua các eo Ranvier nên nhanh và tiết kiệm năng lượng",
+                "A": "B",
+                "Q": "Câu nào sau đây là không đúng về hoạt động dẫn truyền xung thần kinh"
+            },
+            "14": {
+                "1": "Mức độ myelin hóa",
+                "2": "Chiều dài sợi thần kinh",
+                "3": "Bề dày của màng sợi thần kinh",
+                "4": "Số lượng kênh Na+ và K+ trên sợi thần kinh",
+                "A": "A",
+                "Q": "Tốc độ dẫn truyền xung trên sợi thần kinh phụ thuộc vào yếu tố nào?"
+            },
+            "15": {
+                "1": "GABA và glycin",
+                "2": "Acetylcholin",
+                "3": "GABA và glutamat",
+                "4": "Bradykinin",
+                "A": "A",
+                "Q": "Câu nào đúng về chất dẫn truyền qua synap ức chế"
+            },
+            "16": {
+                "1": "Acetycholin, noradrenalin, serotonin, dopamin, glutamat",
+                "2": "Noradrenalin, acetycholin, adrenalin, secretin",
+                "3": "Serotonin, trypsin, bradykinin, histamin, acetylcholin",
+                "4": "Acetycholin, adrenalin, noradrenalin, dopamin, glycin",
+                "A": "A",
+                "Q": "Câu nào đúng về chất dẫn truyền qua synap hưng phấn?"
+            },
+            "17": {
+                "1": "Sợi có myelin dẫn truyền 2 chiều theo bước nhảy qua các eo Ranvier nên nhanh, nhưng tốn nhiều năng lượng",
+                "2": "Sợi không myelin dẫn truyền 1 chiều, chậm nhưng tiết kiệm năng lượng",
+                "3": "Sợi không myelin dẫn truyền 2 chiều, chậm nhưng tiết kiệm năng lượng",
+                "4": "Sợi melynin dẫn truyền 2 chiều theo bước nhảy qua các eo Ranvier nên nhanh và tiết kiệm năng lượng",
+                "A": "D",
+                "Q": "Câu nào đúng về đặc điểm dẫn truyền trên các sợi thần kinh"
+            },
+            "18": {
+                "1": "Thụ cảm thể→ đường cảm giác và thực vật → trung khu tủy sống → đường vận động → cơ quan thực hiện",
+                "2": "Thụ cảm thể→ đường thực vật → trung khu tủy sống → đường vận động → cơ quan thực hiện",
+                "3": "Thụ cảm thể→ đường cảm giác → trung khu tủy sống → đường thực vật → cơ quan vận động",
+                "4": "Thụ cảm thể→ đường cảm giác  → trung khu tủy sống → đường vận động → cơ quan thực hiện",
+                "A": "D",
+                "Q": "Câu nào đúng về trật tự 5 khâu của cung phản xạ đơn giản"
+            },
+            "19": {
+                "1": "Có đủ các phản xạ cảm giác, vận động và thực vật",
+                "2": "Có nhiều loại thụ cảm thể, nhiều trung khu cảm giác tham gia ",
+                "3": "Trung khu gồm nhiều tầng của hệ thần kinh và hệ nội tiết, có đường ly tâm vận động, thực vật và thể dịch, nhiều loại đáp ứng",
+                "4": "Có sự tham gia của vỏ não",
+                "A": "C",
+                "Q": "Câu nào đúng về sự khác nhau giữa cung phản xạ phức tạp so với cung phản xạ đơn giản"
+            },
+            "20": {
+                "1": "Đường kính: 12-22 micromet, 100-150 m/sec",
+                "2": "Đường kính: 12- 15 micromet, 90-110 m/sec",
+                "3": "Đường kính: 12-22 micromet, 70-120 m/sec",
+                "4": "Đường kính: 9-10 micromet, 50-60 m/sec",
+                "A": "C",
+                "Q": "Đường kính và tốc độ dẫn truyền ở sợi thần kinh loại Aα là bao nhiêu"
+            },
+            "21": {
+                "1": "Đường kính: 4-8 micromet, 15-40 m/sec",
+                "2": "Đường kính: 8-12 micromet, 40-70 m/sec",
+                "3": "Đường kính: 12-15 micromet, 70-80 m/sec",
+                "4": "Đường kính: 8-12 micromet, 70-80 m/sec",
+                "A": "B",
+                "Q": "Đường kính và tốc độ dẫn truyền ở sợi thần kinh loại Aβ là bao nhiêu"
+            },
+            "22": {
+                "1": "Đường kính: 1-3 micromet, 4-12 m/sec",
+                "2": "Đường kính: 8-12 micromet, 40-70 m/sec",
+                "3": "Đường kính: 10-12 micromet, 70-90 m/sec",
+                "4": "Đường kính: 4-8 micromet, 15-40 m/sec",
+                "A": "D",
+                "Q": "Đường kính và tốc độ dẫn truyền ở sợi thần kinh loại Aγ là bao nhiêu"
+            },
+            "23": {
+                "1": "Đường kính: 4-10 micromet, 5-15  m/sec",
+                "2": "Đường kính: 8-12 micromet, 40-70 m/sec",
+                "3": "Đường kính: 1-4 micromet, 5-15 m/sec",
+                "4": "Đường kính: 4-8 micromet, 5-15 m/sec",
+                "A": "C",
+                "Q": "Đường kính và tốc độ dẫn truyền ở sợi thần kinh loại Aδ là bao nhiêu"
+            },
+            "24": {
+                "1": "Đường kính: 0,5-1,0 micromet, 1-4  m/sec",
+                "2": "Đường kính: 4-8 micromet, 15-40 m/sec",
+                "3": "Đường kính: 1-3 micromet, 3-14 m/sec",
+                "4": "Đường kính: 0,5- 1,0 micromet, 0,5-2 m/sec",
+                "A": "D",
+                "Q": "Đường kính và tốc độ dẫn truyền ở sợi thần kinh loại C là bao nhiêu"
+            },
+            "25": {
+                "1": "Là các sợi hướng tâm từ cơ quan Golgi ở gân",
+                "2": "Là các sợi hướng tâm từ thoi cơ",
+                "3": "Có tốc độ dẫn truyền chậm nhất trong các loại sợi thần kinh",
+                "4": "Là sợi thực vật tiền hạch",
+                "A": "C",
+                "Q": "Đâu là đặc điểm của các sợi thần kinh loại C"
+            },
+            "26": {
+                "1": "Là các sợi hướng tâm từ một số thụ cảm thể đau, nhiệt, áp lực",
+                "2": "Có tốc độ dẫn truyền chậm nhất trong các loại sợi thần kinh",
+                "3": "Là các sợi thực vật tiền hạch",
+                "4": "Có tốc độ dẫn truyền nhanh nhất trong các loại sợi thần kinh",
+                "A": "D",
+                "Q": "Đâu là đặc điểm của các sợi thần kinh loại Aα"
+            },
+            "27": {
+                "1": "Thân tế bào gần sợi nhánh",
+                "2": "Cúc tận cùng",
+                "3": "Sợi nhánh (dendrite)",
+                "4": "Đồi axon",
+                "A": "D",
+                "Q": "Phần nào sau đây của neuron tính hưng phấn cao nhất"
+            },
+            "28": {
+                "1": "Cung phản xạ đơn giản gồm 5 khâu và đường thông báo ngược",
+                "2": "Phản xạ là sự đáp ứng đối với kích thích từ môi trường bên ngoài được thực hiện bởi hệ thần kinh thực vật",
+                "3": "Phản xạ là sự đáp ứng của cơ thể đối với kích thích từ môi trường bên ngoài hoặc bên trong cơ thể và được thực hiện bởi hệ thần kinh trung ương",
+                "4": "Cung phản xạ đơn giản nhất được cấu tạo từ 1 neuron",
+                "A": "C",
+                "Q": "Câu nào sau đây về phản xạ là đúng"
+            },
+            "29": {
+                "1": "Các đuôi gai, sợi trục, đồi axon",
+                "2": "Thân neuron, thể Nissl, tơ thần kinh, sợi nhánh",
+                "3": "Tơ thần kinh, sợi nhánh, sợi trục",
+                "4": "Thân neuron, sợi trục, đồi axon, kích thích",
+                "A": "D",
+                "Q": "Câu nào sau đây mô tả có thành phần KHÔNG đúng của neuron"
+            },
+            "30": {
+                "1": "Tăng phân cực của tận cùng synap",
+                "2": "Hòa các túi synap với màng sau synap",
+                "3": "Dòng calci đi vào tận cùng synap",
+                "4": "Tổng hợp của acetylcholinesterase",
+                "A": "C",
+                "Q": "Sự giải phóng của một chất trung gian hóa học tại một synap hóa học trong hệ thần kin trung ương phụ thuộc vào điều nào sau đây"
+            },
+            "31": {
+                "1": "Dòng ion clo đi vào tận cùng synap",
+                "2": "HÌnh dạng của túi synap chứa nó",
+                "3": "Khoảng cách giữa các màng trước và sau synap",
+                "4": "Chức năng của thụ cảm thể ở màng sau synap",
+                "A": "D",
+                "Q": "Hoạt động hưng phấn hoặc ức chế của một chất trung gian hóa học được xác định bởi điều nào sau đây"
+            },
+            "32": {
+                "1": "Tăng nồng độ Na+ ngoại bào thường trực tiếp gây ra một điện thế ức chế sau synap",
+                "2": "Một chất truyền đạt thần kinh mở chọn lọc các kênh kali cho phép K+ dịch chuyển vào trong tế bào",
+                "3": "Các điện thế ức chế sau synap do bất hoạt của 1 chất truyền đạt thần kinh gắn với 1 thụ cảm thể ở màng sau synap",
+                "4": "Vì điện thế Nernst cho clo là khoảng -70 milivolt, các ion clo có xu hướng dịch chuyển ra ngoài tế bào theo sự chênh lệch điện hóa",
+                "A": "B",
+                "Q": "Hiện tượng điện nào sau đây đặc trưng cho các tương tác synap ức chế"
+            },
+            "33": {
+                "1": "Điện thế hoạt động được lan truyền dọc theo các sợi nhánh cho tới khi nó tới thân tế bào",
+                "2": "Khi một điện thế hoạt động được khởi phát, nó luôn lan truyền tới khi kết thúc",
+                "3": "Khi điện thế màng tại đồi axon ở dưới mức \"ngưỡng \", một điện thế hoạt động được khởi phát",
+                "4": "Điện thế hoạt động được khởi phát ở các túi synap",
+                "A": "C",
+                "Q": "Câu nào liên quan tới sự phát sinh của điện thế hoạt động ở tế bào thần kinh là đúng"
+            },
+            "34": {
+                "1": "Bradykinin",
+                "2": "Histamin",
+                "3": "Glutamat  ",
+                "4": "Glycin",
+                "A": "D",
+                "Q": "Chất nào sau đây là chất dẫn truyền thần kinh qua synap ức chế"
+            },
+            "35": {
+                "1": "được khởi phát bởi các chuyển động của ion kali",
+                "2": "liên quan dòng đi ra của các ion dương làm khử cực màng",
+                "3": "liên quan dòng đi ra của các ion âm làm khử cực màng",
+                "4": "là quan trọng cho sự lan truyền xung thần kinh",
+                "A": "D",
+                "Q": "Điện thế hoạt động"
+            },
+            "36": {
+                "1": "calci",
+                "2": "natri",
+                "3": "cả kali và natri",
+                "4": "magie",
+                "A": "B",
+                "Q": "Một điện thế hoạt động là do dòng đi vào tế bào của các ion"
+            },
+            "37": {
+                "1": "eo Ranvier",
+                "2": "thân tế bào  ",
+                "3": "khe synap",
+                "4": "tế bào Schwann",
+                "A": "C",
+                "Q": "Khoảng giữa 2 neuron liên hệ với nhau gọi là"
+            },
+            "38": {
+                "1": "điện thế hoạt động",
+                "2": "Tơ thần kinh, sợi nhánh, sợi trục",
+                "3": "ion",
+                "4": "chất dẫn truyền thần kinh",
+                "A": "D",
+                "Q": "Chất được giải phóng ở các tận cùng sợi trục để lan truyền xung thần kinh gọi là "
+            },
+            "39": {
+                "1": "sợi trục",
+                "2": "tế bào Schwann",
+                "3": "tận cùng sợi trục",
+                "4": "các sợi nhánh",
+                "A": "D",
+                "Q": "Các bộ phận thường tiếp nhận kích thích đến là"
+            },
+            "40": {
+                "1": "eo Ranvier",
+                "2": "nhân",
+                "3": "thân tế bào",
+                "4": "sợi trục",
+                "A": "D",
+                "Q": "Tế bào Schwann tạo thành bao myelin quanh"
+            },
+            "41": {
+                "1": "Cơ quan đáp ứng",
+                "2": "Đường thông báo ngược",
+                "3": "Trung khu thần kinh",
+                "4": "Thụ cảm thể",
+                "A": "B",
+                "Q": "Thành phần nào sau đây không thuộc cung phản xạ đơn giản"
+            },
+            "42": {
+                "1": "1 neuron và không có synap",
+                "2": "1 neuron và 2 synap",
+                "3": "2 neuron và 3 synap",
+                "4": "2 neuron và 1 synap",
+                "A": "D",
+                "Q": "Cung phản xạ đơn giản nhất được cấu thành từ"
+            },
+            "43": {
+                "1": "khe synap",
+                "2": "Sợi trục",
+                "3": "Thân tế bào",
+                "4": "Sợi nhánh",
+                "A": "A",
+                "Q": "Thành phần nào sau đây KHÔNG THUỘC cấu trúc tế bào thần kinh"
+            },
+            "44": {
+                "1": "Nhiều sợi trục, đan thành mạng lưới",
+                "2": "Hai trục, chia nhiều nhánh",
+                "3": "Chỉ một sợi trục, ít chia nhánh",
+                "4": "Nhiều sợi trục, không phân nhánh",
+                "A": "C",
+                "Q": "Từ thân neuron, có thể có"
+            },
+            "45": {
+                "1": "nơi sợi trục phân nhánh",
+                "2": "nơi tiếp giáp giữa thân neuron và sợi trục",
+                "3": "nơi sợi trục không được bọc bởi các tế bào Schwann",
+                "4": "nơi sợi nhánh tiếp giáp với thân tế bào",
+                "A": "C",
+                "Q": "Eo Ranvier là"
+            },
+            "46": {
+                "1": "Quy luật con đường chung cuối cùng",
+                "2": "Quy luật về toàn vẹn về giải phẫu và sinh lý",
+                "3": "Quy luật dẫn truyền 2 chiều",
+                "4": "Quy luật dẫn truyền riêng biệt theo từng sợi thần kinh",
+                "A": "A",
+                "Q": "Điều nào sau đây là SAI về quy luật dẫn truyền hưng phấn trên các sợi thần kinh"
+            },
+            "47": {
+                "1": "không cần tính toàn vẹn về cấu trúc, chức năng",
+                "2": "là sự dẫn truyền theo 1 chiều",
+                "3": "là sự dẫn truyền theo 2 chiều",
+                "4": "là quá trình dẫn truyền lan tỏa",
+                "A": "C",
+                "Q": "Dẫn truyền xung động trên sợi dây thần kinh "
+            },
+            "48": {
+                "1": "Là sự dẫn truyền xung theo kiểu nhảy cách (2)",
+                "2": "Là sự dẫn truyền xung theo tưng điểm (1)",
+                "3": "Cả (2) và (3)",
+                "4": "Cả (1) và(3) Tốc độ dẫn truyền nhanh (3)",
+                "A": "C",
+                "Q": "Dẫn truyền trên sợi thần kinh có myelin"
+            },
+            "49": {
+                "1": "Màng sau synap có các túi chứa chất dẫn truyền thần kinh",
+                "2": "Có khe synap nằm giữa màng trước và màng sau",
+                "3": "Màng sau synap có các thụ cảm thể tiếp nhận chất dẫn truyền thần kinh",
+                "4": "Màng trước synap có các túi chứa chất dẫn truyền thần kinh",
+                "A": "A",
+                "Q": "Điều nào sau đây không đúng về cấu trúc synap"
+            },
+            "50": {
+                "1": "Chất dẫn truyền thần kinh tác động lên thụ cảm thể gây ức chế kênh Na+",
+                "2": "Xuất hiện điện thế hưng phấn sau synap",
+                "3": "Chất dẫn truyền thần kinh tác động lên thụ cảm thể gây hoạt hóa kênh Ca++",
+                "4": "Tăng phân cực ở màng sau synap",
+                "A": "B",
+                "Q": "Nhận định nào về phản ứng của màng sau synap hưng phấn là đúng"
+            },
+            "51": {
+                "1": "Noradenalin găn vào receptor anpha và beta 1, tế bào hưng phấn Noradenalin gắn vào receptor alpha, tế bào hưng phấn",
+                "2": "Adrenalin gắn vào alpha và beta 1, tế bào hưng phấn. Adrenalin gắn vào beta 2, tế bào ức chế",
+                "3": "Noradenalin găn vào receptor anpha và beta 1, tế bào ức chế. Adrenalin gắn vào beta 2, tế bào hưng phấn",
+                "4": "Noradenalin gắn vào receptor beta 2, tế bào ức chế. Adrenalin gắn vào anpha, tế bào hưng phấn. Adrenalin gắn vào beta 1, tế bào ức chế",
+                "A": "B",
+                "Q": "Câu nào đúng về cơ chế tác dụng  của catecholamin"
+            },
+            "52": {
+                "1": "dẫn truyền theo 2 chiều",
+                "2": "dẫn truyền theo 1 chiều",
+                "3": "dẫn truyền không lan tỏa",
+                "4": "toàn vẹn về cấu trúc và chức năng",
+                "A": "B",
+                "Q": "Tính chất nào sau đây KHÔNG đúng về dẫn truyền xung động thần kinh trên sợi thần kinh"
+            },
+            "53": {
+                "1": "các thụ cảm thể tiếp nhận chất trung gian dẫn truyền thần kinh",
+                "2": "các túi synap chứa các trung gian dẫn truyền thần kinh",
+                "3": "có nhiều kênh dẫn truyền Cl-  và HCO3-",
+                "4": "có men phân hủy chất trung gian dẫn truyền thần kinh",
+                "A": "B",
+                "Q": "Màng trước synap có "
+            },
+            "54": {
+                "1": "Dẫn truyền theo 2 chiều",
+                "2": "Dẫn truyền theo 1 chiều",
+                "3": "Có hiện tượng chậm synap",
+                "4": "Có hiện tượng mỏi synap",
+                "A": "A",
+                "Q": "Đặc điểm nào sau đây KHÔNG đúng với dẫn truyền xung động thần kinh qua synap"
+            },
+            "55": {
+                "1": "ức chế kênh K+ hoặc Cl+",
+                "2": "ức chế kênh Na+",
+                "3": "gây khử cực màng sau synap",
+                "4": "Xung động được dẫn truyền qua synap",
+                "A": "A",
+                "Q": "phản ứng của màng sau synap ức chế :"
+            },
+            "56": {
+                "1": "hoạt hóa kênh K+",
+                "2": "hoạt hóa kênh Cl+",
+                "3": "hoạt hóa kênh Na+",
+                "4": "hoạt hóa kênh Mg++",
+                "A": "C",
+                "Q": "Phản ứng của màng sau synap hưng phấn"
+            },
+            "57": {
+                "1": "Là nơi tiếp xúc với màng trước",
+                "2": "Có các thụ cảm thể tiếp nhận chất trung gian hóa học",
+                "3": "Có các túi chứa các chất trung gian hóa học",
+                "4": "Có men phân hủy chất trung gian hóa học",
+                "A": "C",
+                "Q": "Điều nào sau đây Không đúng về màng sau synap "
+            },
+            "58": {
+                "1": "men MAO ( a)",
+                "2": "men COMT (b)",
+                "3": "Cholinesterase (c)",
+                "4": "Cả 3 loại trên",
+                "A": "C",
+                "Q": "men nào sau đây phân hủy acetycholin "
+            },
+            "59": {
+                "1": "Serotonin",
+                "2": "Noradrenaline",
+                "3": "GABA",
+                "4": "Acetycholin",
+                "A": "C",
+                "Q": "Chất nào sau đây là chất trung gian hóa học của màng sau synap ức chế"
+            },
+            "60": {
+                "1": "Sợi trục",
+                "2": "Sợi nhánh",
+                "3": "Synap",
+                "4": "Chất truyền đạt thần kinh",
+                "A": "C",
+                "Q": "Nơi tiếp nối giữa 2 Tế bào thần kinh hay giữa tế bào thần kinh với cơ quan đáp ứng gọi là "
+            },
+            "61": {
+                "1": "1 neuron ",
+                "2": "2 neuron ",
+                "3": "3 neuron ",
+                "4": "nhiều hơn 3 neuron ",
+                "A": "B",
+                "Q": "Cung phản xạ 1 synap có cấu tạo gồm mấy neuron "
+            },
+            "62": {
+                "1": "Thân neuron",
+                "2": "Sợi trục",
+                "3": "Sợi  nhánh",
+                "4": "Đồi axon",
+                "5": "Eo Ranvier",
+                "A": "D",
+                "Q": "Đâu là nơi hình thành điện thế hoạt động của 1 tế bào thần kinh vận động"
+            },
+            "63": {
+                "1": "5-15m/s",
+                "2": "15-40 m/s",
+                "3": "40-70 m/s",
+                "4": "70 -120 m/s",
+                "A": "D",
+                "Q": "Tốc độ dẫn truyền thần kinh trên sợi vận động cơ vân là "
+            },
+            "64": {
+                "1": "sợi A- alpha",
+                "2": "Sợi A-beta",
+                "3": "Sợi A-delta",
+                "4": "Sợi B",
+                "A": "C",
+                "Q": "Cảm giác đau được dẫn truyền vè trung khu qua"
+            },
+            "65": {
+                "1": "Mở kênh Na+",
+                "2": "Đóng kênh Ka+",
+                "3": "Mở kênh Ca++",
+                "4": "Mở kênh Cl-",
+                "A": "A",
+                "Q": "Hoạt động nào sau đây của màng sau synap ứng với quá trình phát sinh điện thế hoạt động sau synap "
+            },
+            "66": {
+                "1": "Mở kênh Na+",
+                "2": "Đóng kênh Na+",
+                "3": "Mở kênh ca++",
+                "4": "Mở kênh Cl-",
+                "A": "D",
+                "Q": "Hoạt động nào sau đây của màng sau synap ứng với quá trình phát sinh điện thế ức chế sau synap "
+            },
+            "name": "SINH LÍ NEURON, SYNAP, PHẢN XẠ"
+        }
+    }
+}

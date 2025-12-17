@@ -1,0 +1,1208 @@
+{
+    "BENH_HOC_NOI_KHOA_2018": {
+        "AM5": {
+            "1": {
+                "1": "Bệnh diễn biến theo chu kỳ thời gian trong năm",
+                "2": "Bệnh diễn biến theo chu kỳ nhất định",
+                "3": "Bệnh diễn biến theo các giai đoạn của bệnh",
+                "4": "Bệnh diễn biến theo các giai đoạn trong cuộc đời mỗi cá thể",
+                "A": "C",
+                "Q": "Bệnh truyền nhiễm được gọi là bệnh có chu kỳ bởi:"
+            },
+            "2": {
+                "1": "Có thể bị hủy bởi men β lactamase",
+                "2": "Gây độc cho thai nên chống chỉ định ở phụ nữ có thai",
+                "3": "Tác động lên vỏ tế bào vi khuẩn",
+                "4": "Có thể gây dị ứng",
+                "A": "B",
+                "Q": "Nhóm kháng sinh β lactam có những đặc tính sau, ngoại trừ"
+            },
+            "3": {
+                "1": "Bệnh diễn biến nặng lên khi bệnh nhân đang được điều trị",
+                "2": "Một mầm bệnh gây ra nhiều triệu chứng lâm sàng khác nhau",
+                "3": "Sự xuất hiện của mầm bệnh sau, khi bệnh đang tiến triển do cùng một mầm bệnh có từ trước",
+                "4": "Cùng một lúc có >= 2 mầm bệnh phối hợp gây bệnh",
+                "A": "D",
+                "Q": "Đồng nhiễm là tình trạng:"
+            },
+            "4": {
+                "1": "Kanamycin",
+                "2": "Erythromycine",
+                "3": "Tobramycin",
+                "4": "Amikacin",
+                "A": "B",
+                "Q": "Thuốc nào sau đây không thuộc nhóm Aminoglycoside:"
+            },
+            "5": {
+                "1": "Là nhiễm trùng thứ phát",
+                "2": "Là cùng một lúc có thêm mầm bệnh phối hợp gây bệnh",
+                "3": "Là khi bệnh đang tiến triển có sự xuất hiện gây bệnh của mầm bệnh khác",
+                "4": "Là nhiễm thêm một mầm bệnh khác với  mầm bệnh ban đầu",
+                "A": "B",
+                "Q": "Chọn đặc điểm không phù hợp với tình trạng bội nhiễm"
+            },
+            "6": {
+                "1": "Tái phát là tình trạng bệnh truyền nhiễm diễn biến theo chu kỳ",
+                "2": "Tái nhiễm là tình trạng mắc lại bệnh truyền nhiễm sau khi đã khỏi bệnh",
+                "3": "Tái nhiễm chỉ gặp trong bệnh sốt ret",
+                "4": "Tái phát bệnh truyền nhiễm đồng nghĩa với tái diễn",
+                "A": "B",
+                "Q": "Lựa chọn câu trả lời đúng trong các câu sau:"
+            },
+            "7": {
+                "1": "Gatifloxacin",
+                "2": "Ceftazidime",
+                "3": "Vancomycine",
+                "4": "Cefotaxime",
+                "A": "B",
+                "Q": "Kháng sinh nào sau đây có tác dụng tốt trên vi khuẩn Ps.aeruginosae"
+            },
+            "8": {
+                "1": "Cúm gia cẩm, viêm màng não do mô não cầu, uốn ván",
+                "2": "Viêm gan virus A, viêm màng não do mô não cầu, tả",
+                "3": "Uốn ván, Viêm màng não do lao, nhiễm khuẩn huyết",
+                "4": "Nhiễm khuẩn huyết, thương hàn, tả",
+                "A": "B",
+                "Q": "Các bệnh truyền nhiễm có khả năng lây và gây thành dịch là:"
+            },
+            "9": {
+                "1": "Dùng kháng sinh phải theo đường tĩnh mạch",
+                "2": "Thời gian dùng kháng sinh tối đa 10 ngày",
+                "3": "Lựa chọn kháng sinh theo kháng sinh đồ",
+                "4": "Các kháng sinh dùng cho mẹ có thể dùng cho con",
+                "A": "C",
+                "Q": "Chọn câu trả lời đúng khi nói về nguyên tắc lựa chọn kháng sinh:"
+            },
+            "10": {
+                "1": "Viêm gan virus A, tả, lỵ, sởi, thương hà, NTNĐĂU",
+                "2": "Tả, lỵ, sởi, thương hàn, NTNĐĂU, viêm gan virus E",
+                "3": "Tả, lỵ, thương hàn, NTNĐĂU, viêm gan virus A và E",
+                "4": "Thương hàn, NTNĐĂU, viêm gan virus A, D và E",
+                "A": "C",
+                "Q": "Các bệnh truyền nhiễm sau thuộc nhóm bệnh lây theo đường tiêu hóa:"
+            },
+            "11": {
+                "1": "Gentamycine",
+                "2": "Pefloxacine",
+                "3": "Metronidazole",
+                "4": "Amikacine",
+                "A": "C",
+                "Q": "Kháng sinh nào sau đây thường được dùng để điều trị nhiểm khuẩn kỵ khí:"
+            },
+            "12": {
+                "1": "Oxacilline",
+                "2": "Erythromycine",
+                "3": "Cotrimoxazole",
+                "4": "Ofloxacine",
+                "A": "A",
+                "Q": "Kháng sinh có nguồn gốc bán tổng hợp là:"
+            },
+            "13": {
+                "1": "Quai bị, thủy đậu, nhiễm khuẩn huyết, ho gà, cúm, sởi",
+                "2": "Cúm, sởi, ho gà, quai bị, thủy đậu, nhiễm khuẩn do màng não cầu.",
+                "3": "Quai bị, thủy đậu, nhiễm khuẩn huyết, nhiễm khuẩn do màng não cầu.",
+                "4": "Cúm, sởi, ho gà, quai bị, sốt rét, thủy đậu, đậu mùa",
+                "A": "B",
+                "Q": "Các bệnh truyền nhiễm sau thuộc nhóm bệnh lây theo đường hô hấp:"
+            },
+            "14": {
+                "1": "Dịch tễ học, vi sinh vật, chẩn đoán hình ảnh",
+                "2": "Vi sinh vật, dịch tễ học, công thức máu",
+                "3": "Lâm sàng, vi sinh vật, dịch tễ học",
+                "4": "Lâm sàng, vi sinh vật, chẩn đoán hình ảnh",
+                "A": "C",
+                "Q": "Chẩn đoán bệnh truyền nhiễm phải dựa vào"
+            },
+            "15": {
+                "1": "Penicilline",
+                "2": "Ciprofloxacine",
+                "3": "Bactrim",
+                "4": "Polumicine",
+                "A": "D",
+                "Q": "Kháng sinh có nguồn gốc từ vi khuẩn là"
+            },
+            "16": {
+                "1": "Cefuroxime",
+                "2": "Ceftriaxone",
+                "3": "Augmentine",
+                "4": "Kanamycine",
+                "A": "C",
+                "Q": "Kháng sinh chống được enzyme β lactamase của vi khuẩn Gram (-)"
+            },
+            "17": {
+                "1": "Triệu chứng khởi phát",
+                "2": "Triệu chứng toàn phát",
+                "3": "Phát triển mầm bệnh",
+                "4": "Dịch tễ",
+                "A": "C",
+                "Q": "Chẩn đoán xác định bệnh truyền nhiễm dựa vào yếu tố:"
+            },
+            "18": {
+                "1": "Tả, nhiễm trùng cơ hội, uốn ván",
+                "2": "Uốn ván, nhiễm trùng cơ hội, sởi",
+                "3": "Viêm màng não do mô não cầu, tả, nhiễm trùng cơ hội",
+                "4": "Sởi, tả, viêm màng não do mô não cầu",
+                "A": "C",
+                "Q": "Có thể dùng kháng sinh để dự phòng các bệnh sau:"
+            },
+            "19": {
+                "1": "Tả, lỵ trực khuẩn, nhiễm khuẩn huyết, thương hàn",
+                "2": "Tả, nhiễm khuẩn huyết, sốt rét, nấm",
+                "3": "Lỵ amip, nhiễm khuẩn huyết, sốt rét, thương hàn",
+                "4": "Lỵ trực khuẩn, nhiễm khuẩn huyết, sốt rét, thương hàn",
+                "A": "A",
+                "Q": "Kết quả nuôi cấy được sử dụng trong chẩn đoán các bệnh"
+            },
+            "20": {
+                "1": "Rifampicine",
+                "2": "Erythromycine",
+                "3": "Peflacine",
+                "4": "Lincocine",
+                "A": "A",
+                "Q": "Kháng sinh có độc tính với gan cao hơn các KS còn lại là:"
+            },
+            "21": {
+                "1": "Metronidazole",
+                "2": "Ciprofloxacine",
+                "3": "Gentamycine",
+                "4": "Sulfamethoxazole",
+                "A": "C",
+                "Q": "Kháng sinh có độc tính với thận cao hơn các KS còn lại là:"
+            },
+            "22": {
+                "1": "Chỉ cần nuôi dưỡng cơ thể trong những trường hợp suy giảm sức đề kháng, miễn dị",
+                "2": "Điều trị theo cơ chế bệnh sinh có ý nghĩa quyết định để bệnh nhân mắc các bệnh TN khỏi bệnh",
+                "3": "Điều trị đặc hiệu có ý nghĩa quyết định để bệnh nhân mắc các bệnh TN khỏi bệnh",
+                "4": "Điều trị triệu chứng là làm cho mầm bệnh bị tiêu diệt",
+                "A": "C",
+                "Q": "Lựa chọn câu trả lời đúng trong các câu sau:"
+            },
+            "23": {
+                "1": "Cephalothine",
+                "2": "Ciprofloxacine",
+                "3": "Gentamycine",
+                "4": "Cefuroxime",
+                "A": "B",
+                "Q": "Kháng sinh không được dùng cho trẻ em dưới 7 tuổi:"
+            },
+            "24": {
+                "1": "Triệu chứng lâm sàng bệnh",
+                "2": "Mầm bệnh",
+                "3": "Cơ địa người bệnh",
+                "4": "Đánh giá hiệu quả điều trị của thuốc",
+                "A": "B",
+                "Q": "Điều trị đặc hiệu trong bệnh truyền nhiễm cần phải dựa vào:"
+            },
+            "25": {
+                "1": "Cefotaxime",
+                "2": "Oxacilline",
+                "3": "Cefuroxime",
+                "4": "Cotrimoxazole",
+                "A": "A",
+                "Q": "Trong các kháng sinh sau, loại nào tốt hơn cả trong điều trị nhiễm khuẩn Gram (-)"
+            },
+            "26": {
+                "1": "Cefuroxime",
+                "2": "Chloramphenicole",
+                "3": "Cefotaxime",
+                "4": "Doxycycline",
+                "A": "D",
+                "Q": "Kháng sinh được dùng để điều trị mầm bệnh trong tế bào là:"
+            },
+            "27": {
+                "1": "Peflacine",
+                "2": "Penicilline",
+                "3": "Gentamycine",
+                "4": "Chloramphenicole",
+                "A": "B",
+                "Q": "Kháng sinh thường gây dị ứng trên lâm sàng:"
+            },
+            "28": {
+                "1": "Triệu chứng đặc hiệu",
+                "2": "Thời gian nung bệnh",
+                "3": "Tình trạng toàn thân",
+                "4": "Đặc điểm mầm bệnh",
+                "A": "D",
+                "Q": "Thời gian cách ly bệnh truyền nhiễm phải dựa vào:"
+            },
+            "29": {
+                "1": "Dịch tả, dịch hạch, sốt rét, cúm gia cầm",
+                "2": "Dịch hạch, dịch tả, Zika, cúm gia cầm",
+                "3": "Dịch hạch, sốt xuất huyết, Ebola, đậu mùa, cúm gia cầm",
+                "4": "Dịch hạch, sốt xuất huyết, sốt rét, dịch tả",
+                "A": "B",
+                "Q": "Các bệnh TN tối nguy hiểm phải báo cáo thành dịch quốc tế gồm:"
+            },
+            "30": {
+                "1": "Nằm viện đủ thời gian quy định của 1 đợt điều trị",
+                "2": "Triệu chứng lâm sàng ổn định, dùng kháng sinh đủ 1 tháng",
+                "3": "Triệu chứng lâm sàng ổn định, các xét nghiệm trở về bình thường",
+                "4": "Tình trạng lâm sàng ổn định, xét nghiệm tình trạng mang và bài tiết mầm bệnh cho thấy không còn là mối đe dọa cho cộng đồng",
+                "A": "D",
+                "Q": "Bệnh nhân truyền nhiễm đủ điều kiện ra viện khi:"
+            },
+            "31": {
+                "1": "Lớp lưới của tủy thượng thận",
+                "2": "Lớp bó của tủy vỏ thượng thận",
+                "3": "Vỏ thượng thận",
+                "4": "Tủy thượng thận",
+                "A": "C",
+                "Q": "Corticoid là một hocmon được tiết ra từ:"
+            },
+            "32": {
+                "1": "Dưới đồi- tuyến yên- tuyến thượng thận",
+                "2": "Tuyến yên - tuyến thượng thận - thụ cảm thể giao cảm",
+                "3": "Thùy sau tuyến yên - tuyến thượng thận - thụ cảm thể phó giao cảm",
+                "4": "Dưới đồi - tuyến yên - thận",
+                "A": "A",
+                "Q": "Điều hòa bài tiết Glucocorticoid được thực hiện bởi trục:"
+            },
+            "33": {
+                "1": "Glucocorticoid tổng hợp",
+                "2": "Glucocorticoid tự nhiên",
+                "3": "Glucocorticoid bán tổng hợp",
+                "4": "Glucocorticoid phối hợp",
+                "A": "B",
+                "Q": "Hydrocortisol là:"
+            },
+            "34": {
+                "1": "Tăng tổng hợp Glucose, tăng tổng hợp Protein, tăng thoái biến lipid",
+                "2": "Tăng tổng hợp Glucose, tăng dị hóa Protein, tăng thoái biến lipid",
+                "3": "Giảm tổng hợp Glucose, tăng tổng hợp Protein, giảm thoái biến lipid",
+                "4": "Tăng tổng hợp Glucose, tăng dị hóa Protein, giảm thoái biến lipid",
+                "A": "B",
+                "Q": "Tác dụng chuyển hóa của Glucocorticoid là làm:"
+            },
+            "35": {
+                "1": "Trong giai đoạn đầu của quá trình viêm và phụ thuộc vào nguyên nhân gây viêm",
+                "2": "Trong giai đoạn cuối của quá trình viêm, không phụ thuộc vào nguyên nhân gây viêm",
+                "3": "Trong giai đoạn đầu của quá trình viêm, không phụ thuộc vào nguyên nhân gây viêm",
+                "4": "Trong tất cả các giai đoạn của quá trình viêm, không phụ thuộc vào nguyên nhân gây viêm",
+                "A": "D",
+                "Q": "Tác dụng chống viêm của Glucocorticoid diễn ra:"
+            },
+            "36": {
+                "1": "Ức chế miễn dịch",
+                "2": "Chống dị ứng",
+                "3": "Kích thích miễn dịch",
+                "4": "Chống viêm",
+                "A": "C",
+                "Q": "Glucocorticoid có tác dụng chính sau đây, ngoại trừ:"
+            },
+            "37": {
+                "1": "Kích thích hoạt hóa Phospholipase A",
+                "2": "Ức chế hoạt hóa Phospholipase C",
+                "3": "Ức chế hoạt hóa Phospholipase A",
+                "4": "Kích thích hoạt hóa Phospholipase B",
+                "A": "B",
+                "Q": "Tác dụng chống dị ứng của Corticoid thông qua cơ chế:"
+            },
+            "38": {
+                "1": "Tăng áp lực nội sọ",
+                "2": "Loãng xương, hoại tử xương",
+                "3": "Rối loạn phân bố mỡ",
+                "4": "Tăng giữ muối và nước gây phù",
+                "A": "A",
+                "Q": "Biểu hiện nào dưới đây không phải tác dụng không mong muốn thường gặp của Corticoid:"
+            },
+            "39": {
+                "1": "Suy thượng thận",
+                "2": "Nhiễm khuẩn toàn thân",
+                "3": "Da khô mỏng, dễ xuất huyết",
+                "4": "Teo cơ, loạn dưỡng cơ",
+                "A": "D",
+                "Q": "Biểu hiện nào dưới đây không phải tác dụng không mong muốn thường gặp của Corticoid:"
+            },
+            "40": {
+                "1": "Giảm nhanh dòng thác viêm",
+                "2": "Ức chế hoạt hóa Phospholipase C",
+                "3": "Ngăn chặn phản ứng miễn dịch",
+                "4": "Cải thiện trương lực mạch",
+                "A": "B",
+                "Q": "Những yếu tố dưới đây là cơ sở sử dụng Glucocorticoid trong điều trị bệnh nhiễm khuẩn, ngoại trừ"
+            },
+            "41": {
+                "1": "Sốt rét ác tính",
+                "2": "Nhiễm khuẩn huyết nặng",
+                "3": "Quai bị với tất cả các thể lâm sàng",
+                "4": "Viêm gan ác tính",
+                "A": "C",
+                "Q": "Glucocorticoid được chỉ định điều trị trong một số bệnh truyền nhiễm sau, ngoại trừ:"
+            },
+            "42": {
+                "1": "Bệnh do Leptospira",
+                "2": "Sốt mò thể sốt kéo dài",
+                "3": "Viêm gan virus thể vàng da ứ mật kéo dài",
+                "4": "Lao màng não",
+                "A": "A",
+                "Q": "Glucocorticoid được chỉ định điều trị trong một số bệnh truyền nhiễm sau, ngoại trừ:"
+            },
+            "43": {
+                "1": "Tăng huyết áp",
+                "2": "Loét dạ dày tá tràng",
+                "3": "Thoái hóa đa khớp",
+                "4": "Đái tháo đường",
+                "A": "C",
+                "Q": "Cẩn trọng khi sử dụng Glucocorticoid trong các bệnh lý sau, ngoại trừ:"
+            },
+            "44": {
+                "1": "Nhiễm ký sinh trùng đường ruột",
+                "2": "Nhiễm khuẩn tại chổ và toàn thân nặng",
+                "3": "Rối loạn tâm thần",
+                "4": "Loãng xương",
+                "A": "A",
+                "Q": "Cẩn trọng khi sử dụng Glucocorticoid trong các bệnh lý sau, ngoại trừ:"
+            },
+            "45": {
+                "1": "Liều cao ngắn ngày",
+                "2": "Liều cao dài ngày",
+                "3": "Liều trung bình hoặc thấp, dùng dài ngày",
+                "4": "Liều Bolus tĩnh mạch, ngắn ngày",
+                "A": "B",
+                "Q": "Liều sử dụng Glucocorticoid nào thường không được áp dụng trên lâm sàng?"
+            },
+            "46": {
+                "1": "Tần số tim > 90 chu kỳ/ phút",
+                "2": "Tần số thở > 20 chu kỳ/ phút",
+                "3": "Huyết áp tâm thu < 100mmHg",
+                "4": "Nhiệt độ cơ thể tăng > 38°C hoặc giảm < 36°C",
+                "A": "C",
+                "Q": "Tiêu chuẩn nào dưới đây không nằm trong tiêu chuẩn chẩn đoán hội chứng đáp ứng viêm hệ thống?"
+            },
+            "47": {
+                "1": "Chướng bụng, liệt ruột cơ năng",
+                "2": "Tần số tim > 90 lần/phút",
+                "3": "Nhiệt độ cơ thể tăng > 38°C hoặc giảm < 36°C",
+                "4": "Bạch cầu > 12G/l hoặc <4G/l, hoặc 10% bạch cầu non",
+                "A": "A",
+                "Q": "Tiêu chuẩn nào dưới đây không nằm trong tiêu chuẩn chẩn đoán hội chứng đáp ứng viêm hệ thống?"
+            },
+            "48": {
+                "1": "Kháng nguyên O, H, Vi",
+                "2": "Kháng nguyên O, K, Vi",
+                "3": "Kháng nguyên A, K, Vi",
+                "4": "Kháng nguyên A, H, K",
+                "A": "A",
+                "Q": "Trực khuẩn thương hàn có các loại kháng nguyên sau:"
+            },
+            "49": {
+                "1": "Đường hô hấp và đường máu",
+                "2": "Đường máu",
+                "3": "Đường da và niêm mạc",
+                "4": "Đường tiêu hóa và đường máu",
+                "A": "B",
+                "Q": "Đường lây của bệnh Nhiễm khuẩn huyết là:"
+            },
+            "50": {
+                "1": "Có các ổ nhiễm khuẩn thứ phát",
+                "2": "Biểu hiện lâm sàng đa dạng",
+                "3": "Dễ phát hiện các ổ nhiễm khuẩn tiên phát",
+                "4": "Có hội chứng nhiễm trùng nhiễm độc toàn thân nặng",
+                "A": "C",
+                "Q": "Những đặc điểm dưới đây thuộc về nhiễm khuẩn huyết thể thông thường ngoại trừ:"
+            },
+            "51": {
+                "1": "Salmonella cholerae suis",
+                "2": "Salmonella typhi, Salmonella paratyphi A, B",
+                "3": "Salmonella enteritidis",
+                "4": "Salmonella tiphimurium",
+                "A": "B",
+                "Q": "Bệnh thương hàn là do vi khuẩn…gây ra"
+            },
+            "52": {
+                "1": "Straphyloccocus aures",
+                "2": "Escherichia coli",
+                "3": "Mycobacteria",
+                "4": "Ascaris lumbricoides",
+                "A": "D",
+                "Q": "Loại mầm bệnh nào dưới đây không gây nhiễm khuẩn huyết trên lâm sàng"
+            },
+            "53": {
+                "1": "Một số trường hợp có thể tự hết sốt mà không cần điều trị kháng sinh",
+                "2": "Có thể tái phát dù điều trị đúng phát đồ",
+                "3": "Phản ứng huyết thanh Widal có thể âm tính",
+                "4": "Là bệnh cảnh nhiễm khuẩn huyết cấp tính diễn biến nhanh chóng dẫn đến sốc nhiễm khuẩn như các vi khuẩn Gram âm khác",
+                "A": "D",
+                "Q": "Đăc điểm nào sau đây không phù hợp với bệnh nhân thương hàn"
+            },
+            "54": {
+                "1": "Dùng kháng sinh theo mầm bệnh và kháng sinh đồ",
+                "2": "Cần phối hợp kháng sinh",
+                "3": "Dùng kháng sinh đường tiêm, tốt nhất là đường tiêm bắp thịt",
+                "4": "Liều kháng sinh phải cao",
+                "A": "C",
+                "Q": "Nguyên tắc nào không đúng trong điều trị nhiễm khuẩn huyết?"
+            },
+            "55": {
+                "1": "Ciprobay",
+                "2": "Penicilline",
+                "3": "Vancomycine",
+                "4": "Ceftriaxone",
+                "A": "C",
+                "Q": "Trong số các kháng sinh dưới đây, kháng sinh nào ngấm kém nhất qua hàng rào máu não"
+            },
+            "56": {
+                "1": "Tuổi cao",
+                "2": "Các thiết bị xâm nhập trong phẫu thuật và cấp cứu",
+                "3": "Mắc các bệnh lý dẫn tới tình trạng suy giảm miễn dịch",
+                "4": "Trẻ em",
+                "A": "D",
+                "Q": "Các yếu tố nào dưới đây không phải là yếu tố nguy cơ của nhiễm khuẩn huyết"
+            },
+            "57": {
+                "1": "Bệnh dễ xảy ra vào mùa nắng nóng",
+                "2": "Miễn dịch sau mắc bệnh bền vững, lâu dài",
+                "3": "Lây qua đường tiêu hóa: nước uống, thức ăn, bàn tay ô nhiễm, ruồi",
+                "4": "Mọi người đều có mắc bệnh, nhất là trẻ nhỏ dưới 3 tuổi",
+                "A": "B",
+                "Q": "Đặc điểm dịch tễ học nào sau đây không phù hợp với nhiễm trùng Shigella"
+            },
+            "58": {
+                "1": "Số lượng bạch cầu",
+                "2": "Procalcitonin",
+                "3": "CPR (C-Reactive Protein)",
+                "4": "Interleukin 6",
+                "A": "B",
+                "Q": "Marker viêm nào dưới đây có giá trị cao nhất trong chẩn đoán, tiên lượng và theo dõi điều trị nhiễm khuẩn huyết?"
+            },
+            "59": {
+                "1": "Hội chứng lỵ điển hình không kèm theo sốt và hội chứng mất nước điện giải",
+                "2": "Hội chứng lỵ điển hình không kèm theo sốt, mất nước điện giải nhẹ",
+                "3": "Hội chứng lỵ điển hình kèm theo sốt và hội chứng mất nước điện giải nhẹ",
+                "4": "Hội chứng lỵ điển hình kèm theo sốt, không có hội chứng mất nước điện giải",
+                "A": "C",
+                "Q": "Bệnh lỵ trực khuẩn thể thông thường điển hình mức độ vừa có các triệu chứng sau:"
+            },
+            "60": {
+                "1": "Cephalosporin thế hệ 2 kết hợp với nhóm Quinolon",
+                "2": "Cephalosporin thế hệ 3 kết hợp với nhóm Quinolon",
+                "3": "Cephalosporin thế hệ 1 kết hợp với nhóm Quinolon",
+                "4": "Cephalosporin thế hệ 1 kết hợp với nhóm beta-lactam",
+                "A": "B",
+                "Q": "Trong các phác đồ sau đây, phác đồ nào phù hợp nhất trong điều trị nhiễm khuẩn huyết do khuẩn Gram (-)"
+            },
+            "61": {
+                "1": "Nội soi đại tràng",
+                "2": "Cấy phân",
+                "3": "Đặc điểm dịch tễ",
+                "4": "Triệu chứng lâm sàng",
+                "A": "B",
+                "Q": "Phương pháp chẩn đoán nào dưới đây có giá trị chẩn đoán xác định bệnh lỵ trực khuẩn?"
+            },
+            "62": {
+                "1": "Da, cơ, mụn nhọt, vết thương nhiễm khuẩn",
+                "2": "Nhiễm khuẩn đường mật",
+                "3": "Dụng cụ y tế, đặt catheter",
+                "4": "Viêm tai, mũi họng, xoang răng",
+                "A": "B",
+                "Q": "Ổ nhiễm khuẩn tiên phát do vi khuẩn Gram (+) thường gặp ở các cơ quan sau, ngoại trừ"
+            },
+            "63": {
+                "1": "Biseptol",
+                "2": "Ampicilline",
+                "3": "Doxycycline",
+                "4": "Chlorocide",
+                "A": "A",
+                "Q": "Trong số kháng sinh dưới đây kháng sinh nào hiện nay được ưu tiên hàng đầu sử dụng điều trị bệnh lỵ trực khuẩn?"
+            },
+            "64": {
+                "1": "Nhiễm khuẩn tiết niệu",
+                "2": "Nhiễm khuẩn da và mô mềm",
+                "3": "Nhiễm khuẩn tiêu hóa",
+                "4": "Nhiễm khuẩn đường mật",
+                "A": "B",
+                "Q": "Ổ nhiễm khuẩn tiên phát do vi khuẩn Gram (-) thường gặp ở các cơ quan sau, ngoại trừ"
+            },
+            "65": {
+                "1": "Huyết áp thấp",
+                "2": "Gan to",
+                "3": "Sốt có gai rét và có nhiều cơn rét run trong ngày",
+                "4": "Thở nhanh nông",
+                "A": "C",
+                "Q": "Triệu chứng lâm sàng có giá trị nhất trong định hướng chẩn đoán nhiễm khuẩn huyết là:"
+            },
+            "66": {
+                "1": "Điều trị dự phòng cho những người tiếp xúc với bệnh nhân",
+                "2": "Tiêm vac xin phòng bệnh",
+                "3": "Phát hiện và điều trị tích cực bệnh nhân",
+                "4": "Đảm bảo nguồn nước sạch, vệ sinh thực phẩm, ăn uống",
+                "A": "D",
+                "Q": "Biện pháp phòng ngừa lỵ trực khuẩn tốt nhất là:"
+            },
+            "67": {
+                "1": "24h",
+                "2": "48h",
+                "3": "72h",
+                "4": "36h",
+                "A": "B",
+                "Q": "Nhiễm khuẩn bệnh viện là nhiễm khuẩn biểu hiện sau khi nhập viện:"
+            },
+            "68": {
+                "1": "Entamoeba Hartmani",
+                "2": "Entamoeba Coli",
+                "3": "Entamoeba Histolytica",
+                "4": "Entamoeba Paratyphy",
+                "A": "C",
+                "Q": "Ký sinh trùng gây ra hội chứng lỵ ở người là:"
+            },
+            "69": {
+                "1": "0,05-0,25ng/ml",
+                "2": "2-10ng/ml",
+                "3": "0,25-0,5ng/ml",
+                "4": "0,5-2ng/ml",
+                "A": "B",
+                "Q": "Nồng độ Procalcitonin trong khoảng nào có giá trị định hướng chẩn đoán nhiễm khuẩn huyết chưa có suy đa tạng?"
+            },
+            "70": {
+                "1": "Fibirinogen giảm",
+                "2": "Nghiệm pháp rượu (+)",
+                "3": "Tiểu cầu giảm",
+                "4": "Chỉ số INR giảm",
+                "A": "D",
+                "Q": "Xét nghiệm nào dưới đây không nằm trong tiêu chuẩn chẩn đoán hội chứng đông máu rải rác trong lòng mạch (DIC-disseminated intravascula coagulation)"
+            },
+            "71": {
+                "1": "Nhóm A, C, W-135, 29E và L",
+                "2": "Nhóm A, B, C, Y, W-135",
+                "3": "Nhóm A, B, Y và 29E",
+                "4": "Nhóm A, C, Y",
+                "A": "B",
+                "Q": "Nhóm màng não cầu khuẩn gây bệnh trên thế giới thường gặp là "
+            },
+            "72": {
+                "1": "Tiêu chảy",
+                "2": "Lỵ amip cấp",
+                "3": "Người mang mầm bệnh không triệu chứng",
+                "4": "Lỵ amip mạn",
+                "A": "C",
+                "Q": "Thể lâm sàng nào dưới đây không phải thể lâm sàng do amip lỵ gây ra"
+            },
+            "73": {
+                "1": "Gia đình có người nhiễm bệnh màng não cầu đã được xác định",
+                "2": "Tiền sử đi cắm trại vùng đồng quê, có lội ruộng, tắm sông",
+                "3": "Tiền sử nhiễm virus đường hô hấp trên trước khi khởi phát bệnh",
+                "4": "Đang lúc có dịch bệnh màng não cầu xảy ra",
+                "A": "B",
+                "Q": "Những điểm sau đây là các yếu tố dịch tễ gợi ý chẩn đoán bệnh nhiễm màng não cầu, ngoại trừ "
+            },
+            "74": {
+                "1": "Sốt cao, ban xuất huyết hoại tử xuất hiện sau vài giờ đến vài ngày",
+                "2": "Sốc xảy ra sớm, trong vòng 12 giờ đầu khởi bệnh và rất nặng",
+                "3": "Hôn mê đột ngột sau 12 giờ khởi phát bệnh",
+                "4": "Biểu hiện viêm màng não xuất hiện trong 12 giờ đầu khởi phát bệnh",
+                "A": "B",
+                "Q": "Biểu hiện nào dưới đây phù hợp với bệnh cảnh nhiễm khuẩn huyết do màng não cầu thể kịch phát?"
+            },
+            "75": {
+                "1": "Nung bệnh kéo dài, sốt nhẹ, nôn nhiều nhưng không đi lỏng",
+                "2": "Nung bệnh trung bình 12-36h, không sốt, không nôn, đi lỏng nhiều",
+                "3": "Nung bệnh trung bình 12-36h, sốt vừa-cao, nôn nhiều, đi lỏng nhiều, mất nước tùy mức độ",
+                "4": "Nung bệnh ngắn 2-4h, thường không sốt, nôn nhiều, mất nước nặng",
+                "A": "C",
+                "Q": "Nhiễm trùng nhiễm độc ăn uống do Salmonella thể thông thường có đặc điểm:"
+            },
+            "76": {
+                "1": "Ciprofloxacine",
+                "2": "Penicilline",
+                "3": "Erythromycine",
+                "4": "Ceftriaxone",
+                "A": "D",
+                "Q": "Trong các kháng sinh dưới đây, KS nào hiện nay được bộ y tế khuyến cáo sử dụng để điều trị viêm màng não do màng não cầu"
+            },
+            "77": {
+                "1": "Tính kháng thuốc của vi sinh vật",
+                "2": "Số lượng vi sinh vật bị nhiễm vào đường tiêu hóa",
+                "3": "Khả năng chịu đựng pH acid của vi sinh vật",
+                "4": "Khả năng xâm nhập tế bào",
+                "A": "A",
+                "Q": "Yếu tố nào trong các yếu tố dưới đây của vi sinh vật ít có vai trò nhất trong cơ chế gây bệnh nhiễm trùng độc ăn uống?"
+            },
+            "78": {
+                "1": "Penicilline",
+                "2": "Rifampicine",
+                "3": "Chloramphenicole",
+                "4": "Tetracycline",
+                "A": "B",
+                "Q": "Trong các kháng sinh dưới đây, KS nào hiện nay được bộ y tế khuyến cáo sử dụng để dự phòng nhiễm khuẩn do màng não cầu"
+            },
+            "79": {
+                "1": "Đau bụng vùng thượng vị kèm nôn nhiều lần trước khi đi lỏng, không có sốt.",
+                "2": "Đau bụng vùng quanh rốn, đi lỏng trước khi nôn, có sốt",
+                "3": "Đau bụng vùng thượng vị, không có đi lỏng, có sốt",
+                "4": "Đau bụng vùng quanh rốn, không có đi lỏng, không có sốt",
+                "A": "A",
+                "Q": "Nhiễm trùng nhiễm độc ăn uống do ngoại độc tố tụ cầu thường có các biểu hiện"
+            },
+            "80": {
+                "1": "Cầu khuẩn, Gram (-), sinh nha bào",
+                "2": "Trực khuẩn kị khí, Gram (+), không sinh nha bào",
+                "3": "Trực khuẩn kị khí, Gram (+), sinh nha bào",
+                "4": "Trực khuẩn kị khí, Gram (-), không sinh nha bào",
+                "A": "C",
+                "Q": "Vi khuẩn uốn ván là:"
+            },
+            "81": {
+                "1": "Cơn giật cứng không liên quan đến tình trạng trương lực cơ",
+                "2": "Cơn giật cứng trên nền cơ co cứng",
+                "3": "Cơn giật cứng trên nền cơ giảm trương lực",
+                "4": "Cơn giật cứng trên nền cơ bình thường",
+                "A": "B",
+                "Q": "Cơn giật của bệnh uốn ván là:"
+            },
+            "82": {
+                "1": "Chỉ cần dùng kháng sinh mạnh và bù đủ nước điện giải",
+                "2": "Phải mở khí quảng, hô hấp hỗ trợ trong trường hợp có liệt cơ hô hấp",
+                "3": "Rửa dạ dày, thụt tháo rửa ruột để loại trừ độc tố còn sót lại",
+                "4": "Dùng huyết thanh kháng độc tố Botulium",
+                "A": "A",
+                "Q": "Phương pháp nào trong các phương pháp điều trị dưới đây không đúng khi điều trị nhiễm trùng nhiễm độc thịt hộp do Clostridium Botulium"
+            },
+            "83": {
+                "1": "Tăng trương lực lan tràn, toàn thân, liên tục",
+                "2": "Tăng trương lực chỉ có một số nhóm cơ, liên tục",
+                "3": "Tăng trương lực lan tràn, toàn thân, lúc tăng, lúc không",
+                "4": "Tăng trương lực chỉ có một số nhóm cơ và lúc tăng, lúc không",
+                "A": "A",
+                "Q": "Tăng trương lực cơ trong bệnh uốn ván toàn thân là"
+            },
+            "84": {
+                "1": "Thuộc họ Flaviviridae, có 3 typ huyết thanh",
+                "2": "Các typ huyết thanh có phản ứng chéo với nhau, kháng thể thu được không trung hòa được các typ còn lại",
+                "3": "Có 6 protein không cấu trúc và 4 typ huyết thanh",
+                "4": "Có nhân AND, có 3 gen cấu trúc protein C, protein M, protein vỏ",
+                "A": "B",
+                "Q": "Đặc điểm của virus Dengue?"
+            },
+            "85": {
+                "1": "Thời gian nung bệnh, thời gian lan bệnh, mức độ khít hàm, đại tiện lỏng",
+                "2": "Thời gian nung bệnh, mức độ khít hàm, số lượng cơn co giật trong ngày, đau cơ",
+                "3": "Thời gian nung bệnh, thời gian lan bệnh, mức độ khít hàm, số lượng cơn co giật trong ngày",
+                "4": "Thời gian nung bệnh, thời gian lan bệnh, số lượng cơn co giật trong ngày, thời gian sốt",
+                "A": "C",
+                "Q": "Nhóm triệu chúng nào dưới đây là các yếu tố tiên lượng mức độ nặng của bệnh nhân uốn ván?"
+            },
+            "86": {
+                "1": "Thành mạch bị tổn thương và tăng tính thấm",
+                "2": "Các yếu tố đông máu giảm do bị tiêu thụ vào quá trình tăng đông",
+                "3": "Tiểu cầu giảm",
+                "4": "Giảm tổng hợp các yếu tố đông máu nhưng không liên quan đến chức năng gan",
+                "A": "D",
+                "Q": "Đặc điểm nào không đúng về nguyên nhân rối loạn đông máu  trong sốt xuất huyết Dengue?"
+            },
+            "87": {
+                "1": "Seduxen",
+                "2": "Gacdenal",
+                "3": "Cloral hydrat",
+                "4": "Bromua caxni",
+                "A": "A",
+                "Q": "Thuốc nào dưới đây được sử dụng làm thuốc nền trong điều trị tình trạng tăng trương lực cơ co giật trong bệnh uốn ván?"
+            },
+            "88": {
+                "1": "Bò",
+                "2": "Ngựa",
+                "3": "Người ",
+                "4": "Lợn",
+                "A": "C",
+                "Q": "TIG là sản phẩm được chiết xuất từ huyết tương…?"
+            },
+            "89": {
+                "1": "Do virus sinh sản trong bạch cầu đơn nhân",
+                "2": "Tăng tính thấm thành mạch làm giảm nồng độ hematocrit",
+                "3": "Do phản ứng kháng nguyên - kháng thể - bổ thể",
+                "4": "Tăng tính thấm thành mạch có thể dẫn đến sốc",
+                "A": "B",
+                "Q": "Đặc điểm nào không đúng về rối loạn tính thấm thành mạch trong sốt xuất huyết Dengue?"
+            },
+            "90": {
+                "1": "Người lớn",
+                "2": "Trẻ nhỏ từ 2 tháng đến 6 tuổi",
+                "3": "Thường có xuất huyết dạng chấm, đốm, thường có sốc",
+                "4": "Thường có nhiễm khuẩn huyết, viêm màng trong tim, viêm phế quản … kèm theo",
+                "A": "A",
+                "Q": "Đặc điểm nào dưới đây ít gợi ý nhất cho chẩn đoán viêm màng não do H.Influenzae"
+            },
+            "91": {
+                "1": "Tình trạng xuất huyết da, niêm mạc và mạch, huyết áp",
+                "2": "Sự thay đổi mạch, huyết áp và ý thức",
+                "3": "Tình trạng hô hấp, tuần hoàn",
+                "4": "Tình trạng xuất huyết và dấu hiệu gan to, enzyme gan tăng",
+                "A": "A",
+                "Q": "Năm 2003, Tổ chức y tế thế giới dựa vào yếu tố nào để phân độ sốt xuất huyết Dengue?"
+            },
+            "92": {
+                "1": "Phối hợp kháng sinh",
+                "2": "Dùng kháng sinh theo kháng sinh đồ",
+                "3": "Dùng kháng sinh ngấm tốt vào dịch não tủy",
+                "4": "Giảm dần liều kháng sinh",
+                "A": "D",
+                "Q": "Nguyên tắc nào dưới đây không đúng khi sử dụng kháng sinh trong viêm màng não mủ?"
+            },
+            "93": {
+                "1": "Chẩn đoán phân biệt với các căn nguyên truyền nhiễm khác",
+                "2": "Sàng lọc, tránh bỏ sót các trường hợp sốt xuất huyết Dengue",
+                "3": "Chẩn đoán xác định bệnh nhân bị sốt xuất huyết Dengue",
+                "4": "Chẩn đoán chính xác nguyên nhân gây xuất huyết",
+                "A": "B",
+                "Q": "Tiêu chuẩn chẩn đoán sốt xuất huyết Dengue theo hướng dẫn của Bộ y tế năm 2011 nhằm mục đích?"
+            },
+            "94": {
+                "1": "Erythromycine",
+                "2": "Penicilline",
+                "3": "Ampicilline",
+                "4": "Ceftriaxone",
+                "A": "A",
+                "Q": "Các kháng sinh sau đây có thể qua được màng não tốt, ngoại trừ:"
+            },
+            "95": {
+                "1": "Gan to > 2 cm, đau vùng gan",
+                "2": "Vật vã hoặc li bì, lừ đừ",
+                "3": "Số lượng tiểu cầu giảm nhanh",
+                "4": "nhịp tim nhanh (> 90 chu kỳ/ phút) hoặc chậm (< 70 chu kỳ/phút)",
+                "A": "D",
+                "Q": "Dấu hiệu nào không có trong tiêu chuẩn chẩn đoán sốt xuất huyết Dengue có dấu hiệu cảnh báo"
+            },
+            "96": {
+                "1": "Ký sinh trùng",
+                "2": "Vi khuẩn",
+                "3": "Lao",
+                "4": "Virus",
+                "A": "A",
+                "Q": "Viêm màng não có tăng bạch cầu ái toan thường do … gây ra"
+            },
+            "97": {
+                "1": "Thường tăng tính thấm thành mạch",
+                "2": "Thường xảy ra quá trình tái hấp thu dịch",
+                "3": "có thể gặp nhịp chậm và thay đổi điện tâm đồ",
+                "4": "Nếu truyền dịch quá mức có thể gây phù phổi, suy tim",
+                "A": "A",
+                "Q": "Đặc điểm nào không đúng trong giai đoạn hồi phục của bệnh sốt xuất huyết Dengue"
+            },
+            "98": {
+                "1": "Viêm não: rối loạn ý thức, liệt nửa người, tổn thương dây thần kinh III, VII…",
+                "2": "Viêm màng não kiểu thanh dịch",
+                "3": "Viêm tủy",
+                "4": "Viêm đa rễ dây thần kinh",
+                "A": "D",
+                "Q": "Loại tổn thương thần kinh nào ít gặp trong bệnh sởi?"
+            },
+            "99": {
+                "1": "Tinh hoàn, màng tinh hoàn",
+                "2": "Tuyến nước bọt mang tai",
+                "3": "Tuyến nước bọt dưới hàm, dưới lưỡi",
+                "4": "Não- màng não",
+                "A": "B",
+                "Q": "Cơ quan bị tổn thương hay gặp nhất trong bệnh quai bị là:"
+            },
+            "100": {
+                "1": "Xuất huyết nặng",
+                "2": "Sốc sốt xuất huyết Dengue",
+                "3": "Sốt xuất huyết Dengue thể não",
+                "4": "Suy tạng",
+                "A": "C",
+                "Q": "Đặc điểm nào không có trong sốt xuất huyết Dengue?"
+            },
+            "101": {
+                "1": "Phân lập virus",
+                "2": "Amylase máu, nước tiểu",
+                "3": "Tinh dịch đồ",
+                "4": "Siêu âm ổ bụng",
+                "A": "B",
+                "Q": "Xét nghiệm thông thường có giá trị trong chẩn đoán bệnh quai bị?"
+            },
+            "102": {
+                "1": "Hạ nhiệt khi sốt cao, an thần",
+                "2": "Xử trí tốt mọi xuất huyết, truyền máu tươi khi xuất huyết phủ tạng nặng",
+                "3": "Bổ sung dịch thể sớm tùy theo mức độ bệnh",
+                "4": "Phát hiện và xử trí sớm sốc",
+                "A": "C",
+                "Q": "Chọn nguyên tắc quan trọng, đầu tiên trong điều trị sốt xuất huyết Dengue?"
+            },
+            "103": {
+                "1": "Dung dịch cao phân tử",
+                "2": "Natriclorid đẳng trương",
+                "3": "Ringer lactat",
+                "4": "Glucose 5%",
+                "A": "D",
+                "Q": "Loại dịch nào ít được khuyến cáo sử dụng trong điều trị sốt xuất huyết Dengue?"
+            },
+            "104": {
+                "1": "Gồm 2 kháng nguyên chính là Hemagglutinin và Hemolysin",
+                "2": "Có sức đề kháng tốt với ngoại cảnh",
+                "3": "Thuộc họ Flaviviridae",
+                "4": "Bộ gen là chuỗi đơn AND",
+                "A": "A",
+                "Q": "Đặc điểm nào phù hợp với virus sởi?"
+            },
+            "105": {
+                "1": "Thời kỳ toàn phát xuất hiện hạt Koplik và ban ngoài da",
+                "2": "Sau khi ban bay thường tạo nên màu da loang lổ gọi là dấu hiệu vằn da hổ",
+                "3": "Ban mọc theo thứ tự ở sau tai, lan ra mặt, xuống ngực 2 tay rồi đến lưng, chân mất theo thứ tự đã mọc",
+                "4": "Thường gặp vào mùa đông-xuân",
+                "A": "A",
+                "Q": "Đặc điểm nào không đúng trong bệnh sởi?"
+            },
+            "106": {
+                "1": "Virus viêm gan B, C và D",
+                "2": "Virus viêm gan A, C và D",
+                "3": "Virus viêm gan C, D và E",
+                "4": "Virus viêm gan A, B và C",
+                "A": "A",
+                "Q": "Các virus gây bệnh viêm gan lây truyền theo đường máu là:"
+            },
+            "107": {
+                "1": "Lây truyền qua đường tiêu hóa",
+                "2": "Thuộc họ Picornavirus",
+                "3": "Acid nhân là AND",
+                "4": "Xét nghiệm chẩn đoán nhiễm HAV là anti HAV-IgG/IgM",
+                "A": "C",
+                "Q": "Chọn đặc điểm không đúng về virus viêm gan A"
+            },
+            "108": {
+                "1": "Thuộc họ Hepadnaviridae",
+                "2": "Có 4 gen là S, C, P, X",
+                "3": "Thời gian nung bệnh sau nhiễm HBV là 1-6 tuần",
+                "4": "Acid nhân là AND",
+                "A": "C",
+                "Q": "Đặc điểm nào không đúng về virus viêm gan B"
+            },
+            "109": {
+                "1": "Sốt Q",
+                "2": "Sốt mò",
+                "3": "Sốt do R.typhi",
+                "4": "Sốt do R.prowazeki",
+                "A": "A",
+                "Q": "Theo phân loại của Woodward T.E, nhóm sốt phát ban do Rickettsia bao gồm các nhóm sau, ngoại trừ"
+            },
+            "110": {
+                "1": "HBV-RNA là acid nhân của virus viêm gan B",
+                "2": "HBcAg có dạng tự do trong huyết thanh",
+                "3": "HBsAg được phát hiện trong huyết thanh sau khoảng 16-24 tuần kể từ khi virus xâm nhập vào cơ thể",
+                "4": "HBeAg phản ánh sự sao chép của virus và tính chất lây nhiễm của bệnh",
+                "A": "D",
+                "Q": "Đặc điểm nào phù hợp với các marker chẩn đoán nhiễm HBV"
+            },
+            "111": {
+                "1": "Rickettsia orientalis",
+                "2": "Rickettsia burnetii",
+                "3": "Rickettsia typhi",
+                "4": "Rickettsia prowazeki",
+                "A": "A",
+                "Q": "Mầm bệnh gây bệnh sốt do ấu trùng mò là:"
+            },
+            "112": {
+                "1": "Khi HBeAg (-)/Anti-HBeAg (+)",
+                "2": "Khi HBV-DNA dưới ngưỡn phát hiện",
+                "3": "Khi Anti HBc-IgM (-)/ Anti HBc-IgC (+)",
+                "4": "Khi qHBsAg dưới ngưỡng phát hiện",
+                "A": "A",
+                "Q": "Thế nào là hiện tượng chuyển đảo huyết thanh ở người nhiễm HBV?"
+            },
+            "113": {
+                "1": "Sốt phát ban thành dịch",
+                "2": "Bệnh sốt phát ban rừng rú",
+                "3": "Bệnh sốt triền sông Nhật Bản",
+                "4": "Bệnh Tsutsugamushi",
+                "A": "A",
+                "Q": "Bệnh sốt mò còn có tên gọi khác, ngoại trừ"
+            },
+            "114": {
+                "1": "Thuộc họ Flaviviradae",
+                "2": "Bộ gen có 9 protein cấu trúc và không cấu trúc",
+                "3": "Thuộc họ Hepadnaviridae",
+                "4": "Acid nhân là AND",
+                "A": "A",
+                "Q": "Chọn đặc điểm đúng về virus viêm gan C"
+            },
+            "115": {
+                "1": "HCcAg (-)",
+                "2": "Anti-HCV (+)",
+                "3": "Anti-HCV (-), HCV-RNA (+)",
+                "4": "HCV-RNA (+)",
+                "A": "D",
+                "Q": "Xét nghiệm nào có giá trị chẩn đoán bệnh nhân đang bị viêm gan do HCV?"
+            },
+            "116": {
+                "1": "Có cấu trúc hình cầu, hình que ngắn và hình sợi",
+                "2": "Có sức đề kháng yếu, dễ bị diệt bởi các thuốc sát trùng thông thường",
+                "3": "Phải sống ký sinh trong tế bào vật chủ",
+                "4": "Chưa có hệ hô hấp độc lập",
+                "A": "D",
+                "Q": "Đặc điểm nào sau đây không đúng về mầm bệnh gây sốt mò?"
+            },
+            "117": {
+                "1": "Có thể gặp trên những người không nhiễm HBV",
+                "2": "HDsAg là marker có giá trị trong chẩn đoán",
+                "3": "Phụ thuộc vào HBV",
+                "4": "Acid nhân là AND",
+                "A": "C",
+                "Q": "Chọn đặc điểm đúng về virus viêm gan D"
+            },
+            "118": {
+                "1": "Người có tiền sử bị động vật gặm nhấm cắn",
+                "2": "Người đi săn, phát rẫy, làm nương",
+                "3": "Người làm nghề chăn nuôi gia súc, thú y",
+                "4": "Người tiếp xúc thường xuyên với sông nước, ao hồ",
+                "A": "B",
+                "Q": "Yếu tố tễ nào liên quan nhiều nhất đến căn cứ chẩn đoán bệnh sốt mò?"
+            },
+            "119": {
+                "1": "Có sức đề kháng cao",
+                "2": "Thuộc họ Flaviviradae",
+                "3": "Có ít nhất 4 kiểu gen",
+                "4": "Lây truyền qua đường máu",
+                "A": "C",
+                "Q": "Chọn đặc điểm đúng về virus viêm gan E"
+            },
+            "120": {
+                "1": "Đường tiêu hoá",
+                "2": "Đường máu ",
+                "3": "Đường hô hấp",
+                "4": "Đường da -niêm mạc",
+                "A": "C",
+                "Q": "Đường lây truyền qua đường thuỷ đậu là:"
+            },
+            "121": {
+                "1": "Sốt kéo dài, rối loạn tiêu hoá, nhiều vết loét da và niêm mạc",
+                "2": "Sốt, vết loét do côn trùng đốt, phát ban và viêm hạch",
+                "3": "Sốt, tử ban, gan lách to, hạch toàn thân",
+                "4": "Vết loét do côn trùng đốt, tử ban, gan lách to.",
+                "A": "B",
+                "Q": "Đặc điểm lâm sàng của bệnh sốt do ấu trùng mò là:"
+            },
+            "122": {
+                "1": "Lúc đầu là ban dát màu đỏ",
+                "2": "Ban mọc rải rác toàn thân, nhiều độ tuổi",
+                "3": "Nốt phỏng thuỷ đậu có nhiều ngăn",
+                "4": "Sau vài giờ thành phỏng nước trong, nông, sau 24-48 giờ ban ngả màu vàng",
+                "A": "C",
+                "Q": "Chọn đặc điểm không đúng về bệnh thuỷ đậu?"
+            },
+            "123": {
+                "1": "Ban mọc toàn thân, có thể ở cả lòng bàn tay và lòng bàn chân",
+                "2": "Thường là ban dát sẩn",
+                "3": "Ban có kích thước lớn, đường kính có thể > 1cm",
+                "4": "Xuất hiện ngay những ngày đầu của bệnh",
+                "A": "B",
+                "Q": "Đặc điểm nào phù hợp với tính chất của ban trong bệnh sốt do ấu trùng mò?"
+            },
+            "124": {
+                "1": "Flaviridae",
+                "2": "Herpesvirus",
+                "3": "Togaviridae",
+                "4": "Lentivirus",
+                "A": "D",
+                "Q": "HIV là virus thuộc họ"
+            },
+            "125": {
+                "1": "Bệnh do Toxoplasma ở hệ thần kinh trung ương",
+                "2": "Sarcoma Kaposi",
+                "3": "Nhiễm nấm Candida ở miệng tái diễn",
+                "4": "Viêm phổi PCP",
+                "A": "C",
+                "Q": "Chọn ý không đúng về nhiễm trùng cơ hội gặp ở người nhiễm HIV giai đoạn lâm sàng IV?"
+            },
+            "126": {
+                "1": "Thường rất đau, ngứa và tức rát",
+                "2": "Số lượng thường một vét loét, hãn hữu có 2 vết loét",
+                "3": "Bong vẩy để lại vết lõm, màu đỏ tươi, không có mủ",
+                "4": "Thường gặp ở vùng da mỏng và ẩm",
+                "A": "A",
+                "Q": "Đặc điểm nào không đúng về vét loét quan sát được trong giai doạn toàn phát của bện sốt do ấu trùng mò?"
+            },
+            "127": {
+                "1": "A và C",
+                "2": "Số lượng tế bào Lympho < 1200 tế bào/mm³",
+                "3": "Giai đoạn lâm sàn III hoặc IV, số lượng TCD4 > 350 tế bào/mm³",
+                "4": "Có bất kỳ bệnh lý nào thuộc giai đoạn 4 hoặc số lượng TCD4 < 200 tế bào/mm³",
+                "A": "D",
+                "Q": "Tiêu chuẩn chẩn đoán AIDS?"
+            },
+            "128": {
+                "1": "Thể thông thường điển hình",
+                "2": "Thể cụt",
+                "3": "Thể ẩn",
+                "4": "Thể nhiễm khuẩn huyết",
+                "A": "D",
+                "Q": "Bệnh sốt do ấu trùng mò bao gồm các thể lâm sàng sau, ngoại trừ"
+            },
+            "129": {
+                "1": "AZT+3TC+LPV/r",
+                "2": "AZT+3TC+ATV/r",
+                "3": "TDF+3TC+EFV/NVP",
+                "4": "TDF+3TC+LPV/r hoặc ATV/r",
+                "A": "C",
+                "Q": "Chọn phác đồ đúng trong các phác đồ bậc 1 điều trị bệnh nhân nhiễm HIV/AIDS?"
+            },
+            "130": {
+                "1": "Sốt rét trong vòng 6 tháng đầu",
+                "2": "Sốt rét được biểu hiện lần đầu ở bệnh nhân",
+                "3": "Sốt rét ở bệnh nhân đã bị nhiễm KST và có sốt rét trước đó",
+                "4": "Sốt rét khi bị nhiễm loại KST SR khác lần trước, bị nhiều lần",
+                "A": "B",
+                "Q": "Sốt rét tiên phát là"
+            },
+            "131": {
+                "1": "Cấy máu phát hiện mầm bệnh",
+                "2": "Phản ứng Weil-Felix",
+                "3": "Sinh thiết da nơi có vết loét",
+                "4": "Sinh thiết hạch",
+                "A": "B",
+                "Q": "Xét nghiệm thường sử dụng để chẩn đoán bệnh sốt do ấu trùng mò là:"
+            },
+            "132": {
+                "1": "Sốt rét được biểu hiện lần đầu ở bệnh nhân",
+                "2": "Sốt rét trong vòng 6 tháng đầu",
+                "3": "Sốt rét ở bệnh nhân đã bị nhiễm KST và có sốt rét trước đó",
+                "4": "Sốt rét khi bị nhiễm loại KST SR khác lần trước, bị nhiều lần",
+                "A": "C",
+                "Q": "Sốt rét tái phát là:"
+            },
+            "133": {
+                "1": "Sử dụng kháng nguyên Oxk của Proteus làm kháng nguyên của phản ứng",
+                "2": "Phản ứng (+) khi hiệu giá kháng thể lần 1 là ≥ 1/160",
+                "3": "Là phản ứng ngưng kết kháng nguyên - kháng thể",
+                "4": "Là xét nghiệm đặc hiệu trong chẩn đoán sốt mò",
+                "A": "D",
+                "Q": "Những đặc điểm dưới đây là của phản ứng Weil-Felix trong chẩn đoán bệnh sốt mò, ngoại trừ:"
+            },
+            "134": {
+                "1": "Sốt rét khi bị nhiễm loại KST SR khác lần trước, bị nhiều lần",
+                "2": "Sốt rét ở bệnh nhân đã bị nhiễm KST và có sốt rét trước đó",
+                "3": "Sốt rét được biểu hiện lần đầu ở bệnh nhân",
+                "4": "Sốt rét trong vòng 6 tháng đầu",
+                "A": "D",
+                "Q": "Sốt rét giai đoạn sơ nhiễm là"
+            },
+            "135": {
+                "1": "Sốt liên tục, hay dao động, chồng cơn",
+                "2": "Sốt thành cơn điển hình với 3 giai đoạn và có chu kỳ rõ rệt",
+                "3": "Sốt nóng liên tục, hình cao nguyên",
+                "4": "Sốt kéo dài với nhiều cơn rét run trong ngày",
+                "A": "A",
+                "Q": "Biểu hiện lâm sàng của sốt rét tiên phát là"
+            },
+            "136": {
+                "1": "Chlorocid",
+                "2": "Aminoglycozid",
+                "3": "Glycopeptid",
+                "4": "Cephalosporin",
+                "A": "A",
+                "Q": "Kháng sinh hiệu quả nhất được lựa chọn trong điều trị bệnh sốt do ấu trùng mò là nhóm:"
+            },
+            "137": {
+                "1": "Sốt nóng liên tục, hình cao nguyên",
+                "2": "Sốt dao động với nhiều cơn rét run trong ngày",
+                "3": "Sốt thành cơn điển hình với 3 giai đoạn và có chu kỳ rõ rệt",
+                "4": "Sốt liên tục, hay dao động, chồng cơn",
+                "A": "C",
+                "Q": "Biểu hiện lâm sàng của sốt rét tái phát là:"
+            },
+            "138": {
+                "1": "Kháng sinh nên lựa chọn là chlorocid và tetracycline",
+                "2": "Thời gian điều trị kháng sinh từ 7-15 ngày có thể hạn chế tỷ lệ tái phát",
+                "3": "Trường hợp kháng thuốc cần sử dụng cephalosporin",
+                "4": "Kháng sinh chỉ có tác dụng ức chế sự phát triển của Rickettsia trong tế bào",
+                "A": "C",
+                "Q": "Những điều dưới đây phù hợp với điều trị bệnh sốt do ấu trùng mò, ngoại trừ"
+            },
+            "139": {
+                "1": "Gan lách to và thiếu máu nặng",
+                "2": "Thường thiếu máu nặng và gan lách không to",
+                "3": "Ít gặp hội chứng thiếu máu và gan lách to",
+                "4": "Thường gặp hội chứng thiếu máu và gan lách to",
+                "A": "C",
+                "Q": "Biểu hiện lâm sàng của sốt rét tiên phát hay gặp là"
+            },
+            "140": {
+                "1": "Dùng các trang bị bảo vệ cá nhân",
+                "2": "Tiêm vaccin",
+                "3": "Tổ chức tuyên truyền nâng cao ý thức vệ sinh cá nhân",
+                "4": "Dùng kháng sinh dự phòng",
+                "A": "A",
+                "Q": "Biện pháp phòng bệnh sốt do ấu trùng mò tốt nhất là:"
+            },
+            "141": {
+                "1": "Ít gặp hội chứng thiếu máu và gan lách to",
+                "2": "Thường gặp hội chứng thiếu máu và gan lách to",
+                "3": "Thường thiếu máu nặng và gan lách không to",
+                "4": "Gan lách to và thiếu máu nặng",
+                "A": "B",
+                "Q": "Biểu hiện lâm sàng của sốt rét tái phát hay gặp là:"
+            },
+            "142": {
+                "1": "Đau cơ",
+                "2": "Không có vết loét",
+                "3": "Sốt đột ngột, da xung huyết",
+                "4": "Mùa dịch là mùa mưa, dịch tễ ở vùng rừng núi",
+                "A": "B",
+                "Q": "Điểm khác nhau cơ bản giữa bệnh do xoắn khuẩn Leptospira so với sốt mò là"
+            },
+            "143": {
+                "1": "Quinin, Artemisinin, Artesunat, Artemether, Dihydroartemisin",
+                "2": "Quinin, Artemisinin, Mefloquin, Pyrimethamin",
+                "3": "Artemether, Dihydroartemisin, Chloroquin, Mefloquin",
+                "4": "Mefloquin, Pyrimethamin, Primaquin diphosphat, Chloroquin",
+                "A": "A",
+                "Q": "Các thuốc sốt rét có nguồn gốc thực vật là"
+            },
+            "144": {
+                "1": "Artemether, Dihydroartemisin, Chloroquin, Mefloquin",
+                "2": "Quinin, Artemisinin, Artesunat, Artemether, Dihydroartemisin",
+                "3": "Chloroquin, Mefloquin, Pyrimethamin, Primaquin diphosphat",
+                "4": "Mefloquin, Pyrimethamin, Quinin, Dihydroartemisin",
+                "A": "C",
+                "Q": "Các thuốc chống sốt rét tổng hợp là:"
+            },
+            "145": {
+                "1": "Quinin 30mg/kg/ngày x 7 ngày + Doxycyclin 3mg/kg/ngày x 7 ngày",
+                "2": "Dihydroartemisin-Piperaquin 3 ngày + Primaquin 0,5 base/kg/ngày x 7 ngày",
+                "3": "Chloroquin 25mg/kg/ngày x 3 ngày + Primaquin 0,25 base/kg/ngày x 14 ngày",
+                "4": "Dihydroartemisin-Piperaquin 3 ngày + Primaquin 0,5 base/kg liều duy nhất",
+                "A": "D",
+                "Q": "Phác đồ nào được sử dụng ưu tiên (first line) trong điều trị sốt rét do P.falciparum?"
+            },
+            "146": {
+                "1": "Chloroquin 25mg/kg/ngày x 3 ngày + Primaquin 0,25 base/kg/ngày x 14 ngày",
+                "2": "Dihydroartemisin-Piperaquin 3 ngày + Primaquin 0,5 base/kg liều duy nhất",
+                "3": "Quinin 30mg/kg/ngày x 7 ngày + Doxycyclin 3mg/kg/ngày x 7 ngày",
+                "4": "Dihydroartemisin-Piperaquin 3 ngày + Primaquin 0,5 base/kg/ngày x 7 ngày",
+                "A": "A",
+                "Q": "Phác đồ nào được sử dụng ưu tiên (first line) trong điều trị sốt rét do P.vivax?"
+            },
+            "147": {
+                "1": "Dihydroartemisin-Piperaquin 3 ngày + Primaquin 0,5 base/kg liều duy nhất",
+                "2": "Quinin 30mg/kg/ngày x 7 ngày + Doxycyclin 3mg/kg/ngày x 7 ngày",
+                "3": "Dihydroartemisin-Piperaquin 3 ngày + Primaquin 0,5 base/kg/ngày x 7 ngày",
+                "4": "Chloroquin 25mg/kg/ngày x 3 ngày + Primaquin 0,25 base/kg/ngày x 14 ngày",
+                "A": "B",
+                "Q": "Phác đồ nào được sử dụng thay thế (second line) trong điều trị sốt rét?"
+            },
+            "148": {
+                "1": "Quinin sulfat, Artesunat, Quinin hydrochlorid, Primaquin, Mefloquin, Pyrimethamin",
+                "2": "Artesunat, Quinin sulfat, Quinin hydrochlorid, Primaquin, Pyrimethamin, Chloroquin",
+                "3": "Chloroquin, Dihydroartemisin-Piperaquin, Artesunat, Quinin sulfat, Quinin hydrochlorid, Primaquin",
+                "4": "Chloroquin, Dihydroartemisin-Piperaquin, Artesunat, Quinin sulfat, Mefloquin, Pyrimethamin",
+                "A": "C",
+                "Q": "Những thuốc nào được bộ y tế khuyến cáo sử dụng hiện nay?"
+            },
+            "149": {
+                "1": "Còn KST vào ngày D4 và nhiệt độ nách ≥ 37,5°C",
+                "2": "Mật độ KST vào ngày D3 ≥ 25% mật độ KST ngày D0",
+                "3": "Từ ngày D4 đến ngày D28 bệnh nhân sốt và có KST trở lại",
+                "4": "Hết sốt và sạch KST sau 3 ngày điều trị cho tới ngày thứ 28",
+                "A": "B",
+                "Q": "Thất bại điều trị sốt rét sớm là khi có biểu hiện sau:"
+            },
+            "150": {
+                "1": "Từ ngày D4 đến ngày D28 bệnh nhân sốt và có KST trở lại",
+                "2": "Mật độ KST vào ngày D3 ≥ 25% mật độ KST ngày D0",
+                "3": "Còn KST vào ngày D4 và nhiệt độ nách ≥ 37,5°C",
+                "4": "Hết sốt và sạch KST sau 3 ngày điều trị cho tới ngày thứ 28",
+                "A": "A",
+                "Q": "Thất bại điều trị sốt rét muộn là khi có biểu hiện sau:"
+            },
+            "name": "NỘI TRUYỀN NHIỄM - AM5"
+        }
+    }
+}
+  
