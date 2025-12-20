@@ -31,7 +31,7 @@ const AddData: React.FC = () => {
   // Danh sách đề mẫu (URL)
   const presetExams = [
     {
-      title: "Nội khoa (Mẫu Mẹ-Con)",
+      title: "Nội khoa",
       description: "Đề nội khoa 2018",
       url: "https://raw.githubusercontent.com/drducqy95/Onthitracnghiem/refs/heads/main/Noi_khoa.json",
       type: "JSON"
