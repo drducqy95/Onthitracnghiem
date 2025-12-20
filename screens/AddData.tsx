@@ -32,13 +32,13 @@ const AddData: React.FC = () => {
   const presetExams = [
     {
       title: "Nội khoa (Mẫu Mẹ-Con)",
-      description: "Cấu trúc phần cấp: Nội khoa -> A11 -> Câu hỏi",
+      description: "Đề nội khoa 2018",
       url: "https://raw.githubusercontent.com/drducqy95/Onthitracnghiem/refs/heads/main/Noi_khoa.json",
       type: "JSON"
     },
     {
       title: "Sinh lý học",
-      description: "Đề ôn thi sau đại học 2018",
+      description: "Đề sinh lý học 2018",
       url: "https://raw.githubusercontent.com/drducqy95/Onthitracnghiem/refs/heads/main/sinhlyhoc.json",
       type: "JSON"
     },
