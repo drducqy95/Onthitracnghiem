@@ -1,0 +1,3750 @@
+{
+  "Ngoại khoa": {
+    "ngoai_than_kinh": {
+      "name": "Ngoại thần kinh",
+      "1": {
+        "1": "đường sắc cạnh, không chạy theo một quy luật nhất định.",
+        "2": "đường răng lược, chạy theo một quy luật nhất định",
+        "3": "đường sắc cạnh, chạy theo một quy luật nhất định,",
+        "4": "đường mờ đậm, bờ gọn, phân bố hình cây.",
+        "A": "D",
+        "Q": "Hình ảnh đường động mạch màng não trên XQ sọ não tư thế nghiêng là:"
+      },
+      "2": {
+        "1": "vỡ toác tất cả các khớp sọ",
+        "2": "thoát não qua lỗ tự nhiên",
+        "3": "hình dấu ấn ngón tay",
+        "4": "vôi hóa các khớp sọ.",
+        "A": "C",
+        "Q": "Hình ảnh XQ sọ não quy ước trong tăng áp lực nội sọ mạn tính là:"
+      },
+      "3": {
+        "1": "Dấu hiệu Brudzinski, dấu hiệu Laseage.",
+        "2": "Dấu hiệu ngón tay chậm đầt, đứng gót.",
+        "3": "Dấu hiệu Schoberg, Sicar.",
+        "4": "Dấu hiệu cứng gáy, Kernig, Brudzinski.",
+        "A": "D",
+        "Q": "Dấu hiệu nào cân lưu ý khi khám hội chứng màng não:"
+      },
+      "4": {
+        "1": "10 mmHg <ICP< 12 mmHg",
+        "2": "ICP >= l5 mmHg",
+        "3": "12mmHg <ICP< 15mmHg",
+        "4": "5mmHg <ICP< 10 mmHg",
+        "A": "B",
+        "Q": "Áp lực nội sọ (ICP) tăng là khỉ?"
+      },
+      "5": {
+        "1": "ICP>=25 mmHg",
+        "2": "ICP >=15 mmHg",
+        "3": "ICP>=16 mmHg",
+        "4": "ICP>15 mmHg",
+        "A": "B",
+        "Q": "Chi sô tăng Áp lực nội sọ (ICP) được xác định là khi (chọn câu đúng nhất)?"
+      },
+      "6": {
+        "1": "hiệu số giữa áp lực động mạch trung bình (MAP) và áp lực nôi sọ (ICP), bình thường lớn hơn 40mmHg",
+        "2": "hiệu số giữa áp lực động mạch trung bình (MAP) và áp lực nội sọ (ICP), bình thường lớn hơn 20mmHg",
+        "3": "hiệu số giữa áp lực động mạch trung bình (MAP) và áp lưc nôỉ sọ (ICP), bình thường lớn hơn 50mmHg",
+        "4": "hiệu số giữa áp lực động mạch trung bình (MAP) và áp lưc nôỉ sọ (ICP), bình thường lớn hơn 30mmHg",
+        "A": "C",
+        "Q": "Áp lực tưới máu não (CPP) là"
+      },
+      "7": {
+        "1": "Hiệu số giữa áp lực động mạch trung bình (MAP) và áp iưc nội sọ (ICP), bình thường lớn hơn 40mmHg",
+        "2": "hỉệu số giữa áp lực động mạch trung binh (MAP) và áp lực nội sọ (ICP), bình thường lớn hơn 60 mmHg",
+        "3": "hiệu số giữa áp lực động mạch trung bình (MAP) và áp lực nội sọ (ICP), bình thường lớn hơn 50mmHg",
+        "4": "hiệu số giữa áp lực động mạch trung bình (MAP) và áp lực nội sọ (ICP) bình thường lớn hơn 30mmHg",
+        "A": "C",
+        "Q": "Công thức tính Áp lực tưới máu não (CPP) bằng (chọn câu đúng nhất)"
+      },
+      "8": {
+        "1": "40 mmHg",
+        "2": "70 mmHg",
+        "3": "50 mmHg",
+        "4": "60mm Hg",
+        "A": "C",
+        "Q": "Thiếu máu não bắt đầu xảy ra khi áp lực tưới máu não (CPP) dưới (chọn câu đúng nhất)"
+      },
+      "9": {
+        "1": "cả ba đáp án trên",
+        "2": "cân cơ thái dương.",
+        "3": "Cốt mạc xương sọ",
+        "4": "màng cứng nhân tạo",
+        "A": "A",
+        "Q": "Mở sọ giảm áp một bên bán cầu, vật liệu vá chùng màng cứng có thể là (Chọn đáp án đúng nhất)"
+      },
+      "10": {
+        "1": "6-8 tuần, các điều kiện toàn trạng bệnh nhân cho phép mổ ghép xương.",
+        "2": "9-12 tuần, các điều kiện toàn trạng bệnh nhân cho phép mổ ghép xương.",
+        "3": "4-5 tuần, các điều kiện toàn trạng bệnh nhân cho phép mổ ghép xương.",
+        "4": ">12 tuần, các điều kiện toàn trạng bệnh nhân cho phép mổ ghép xương.",
+        "A": "A",
+        "Q": "Điều kiện ghép lại mảnh xương sọ sau mở sọ giảm áp cho bệnh nhân là (chọn câu đúng nhất)"
+      },
+      "11": {
+        "1": "Bệnh nhân mê, Thể tích khối máu-tụ >60ml, đường giữa đè đẩy>10mm.",
+        "2": "Thể tích khối máu tụ 60ml, đường giữa đè đẩy>10mm.",
+        "3": "Bệnh nhân tỉnh, thể tích khối máu tụ 30ml",
+        "4": "Thể tích khối máu tụ 80ml, đường giữa đè đẩy>10mm.",
+        "A": "C",
+        "Q": "Khi nào đặt lại nắp xương sọ trong mổ máu tụ ngoài màng cứng cấp tính do chấn thương"
+      },
+      "12": {
+        "1": "Nhẹ=GCS 13-15 điểm,Vừa =9 -12 điểm, Nặng =<9 điểm",
+        "2": "Nhẹ = GCS 14-15 điểm, vừa =9 -13 điểm, Nặng =<8 điểm",
+        "3": "Nhẹ= GCS 13-15 điểm,vừa=9 -12 điểm, Nặng =<8 điểm",
+        "4": "Nhẹ= GCS 14-15 điềm, vừa =9 -13điểm, Nặng =<9 điểm",
+        "A": "B",
+        "Q": "Dựa trên tháng điểm GCS (Glasgow Coma Scale) người ta chia ra mức độ chân thương sọ não?"
+      },
+      "13": {
+        "1": "Nhẹ = GCS 14-15 điểm, vừa= 9-13 điểm, Nặng =5-8 điểm, Nguy kịch = 3-4 điểm",
+        "2": "Nhẹ = GCS 14-15 điểm, vừa= 9 -13 điểm, Nặng =5-8 điểm, Nguy kịch= 3-5 điểm",
+        "3": "Nhẹ = GCS 13-15 điểm, vừa=  9 -12 điểm, Nặng =5-9 điểm,Nguy kịch = 3-4 điểm",
+        "4": "Nhẹ = GCS 13-15 điếm, Vừa = 9 -12 điểm, Nặng =5-8 điểm, Nguy kịch= 3-4 điếm",
+        "A": "A",
+        "Q": "Đánh giá mức độ chấn thương sọ não dựa trên thang điểm GCS (Glasgow Coma Scale)?"
+      },
+      "14": {
+        "1": "Mở mắt (4đỉểm), Lời nói (5điểm), vận động (6 điêm)",
+        "2": "Mở mắt (1- 4 điểm), Ngôn ngữ (1- 5điểm), vận động (1-6 điểm)",
+        "3": "Mở mẳt (1- 4 đỉểm), Lời nói (1- 5điểm), vận động tay (1-6 điểm)",
+        "4": "Mở mắt (1- 4 điểm), Lời nói (1- 5điểm), Vận động (1-6 điểm)",
+        "A": "D",
+        "Q": "Đánh giá thang điểm GCS (Glasgow Coma Scale) được dựa trên 03 đáp ứng, tương ứng với số điểm sau?"
+      },
+      "15": {
+        "1": "giãn đồng tử bên trái, liệt nửa người trái, khoảng tỉnh điển hình.",
+        "2": "Qiãn đồng tử hai bên, liệt nửa ngưởi phải, khoảng tỉnh điển hình.",
+        "3": "giãn đồng tử bên phải, liệt nửa người phải, khoảng tỉnh điển hình.",
+        "4": "khoảng tỉnh điển hình, giãn đồng tử bên phải, liêt nửa nqười trái",
+        "A": "D",
+        "Q": "Đặc điểm lâm sàng điển hình của máu tụ ngoài màng cứng thể tích lớn vùng thái dương đỉnh bên phải là:"
+      },
+      "16": {
+        "1": "giãn đồng tử bên trái, liệt nửa người trái.",
+        "2": "giãn đồng tử bên phải, khoảng tỉnh điển hình.",
+        "3": "giãn đồng từ hai bên, liệt nửa người trái, diễn biến tri giác xấu nhanh.",
+        "4": "khoảng tỉnh điển hình, giãn đồng tử bên trái, Liệt nửa người phải.",
+        "A": "D",
+        "Q": "Đặc điểm lâm sàng điển hình của máu tụ ngoài màng cứng thể tích lớn vùng thái dương - đỉnh bên trái là (chọn câu đúng nhất )"
+      },
+      "17": {
+        "1": "Chấn động não, giập não, tốn thương xương sọ",
+        "2": "Chấn động não, chảy máu trong não, tổn thương",
+        "3": "Chấn động não, máu tụ nội sọ, chảy máu khoang dưới nhện",
+        "4": "Chấn động não, giập não, đè ép não do máu tụ",
+        "A": "D",
+        "Q": "J.L Petit (1773) chia chấn thương sọ não thành các thể sau:"
+      },
+      "18": {
+        "1": "Cấp tính (<3 ngày), bán cấp (<1 tuần), mạn tính (>4 tuần)",
+        "2": "Cấp tính (<3 ngày), bán cấp (<14 ngày), mạn tính (ngày thứ 15 trở đi)",
+        "3": "Cấp tính (<7 ngày),bán cấp(<14 ngày),mạn tính (>21 ngày)",
+        "4": "Cấp tính (<3 ngày), bán cấp (4-14 ngày), mạn tính (15 ngày trở đi)",
+        "A": "D",
+        "Q": "Vê thời gian , máu tụ dưới màng cứng được chia thành:"
+      },
+      "19": {
+        "1": "hình tăng tỷ trọng, thấu kính hai mặt lồi.",
+        "2": "hình tăng tỷ trọng, thấu kính một mặt lồi.",
+        "3": "Chỉ có hình thấu kính hai mặt lồi.",
+        "4": "hình giảm tỷ trọng, hình thấu kính hai mặt lồi.",
+        "A": "A",
+        "Q": "Trên phim chụp cắt lớp vi tính sọ não, hình ảnh điển hình của máu tụ ngoài màng cứng cấp tính là"
+      },
+      "20": {
+        "1": "Chỉ có hình liềm",
+        "2": "hình đồng tỉ trọng, hình liềm",
+        "3": "hình tăng tỷ trọng, hình liềm",
+        "4": "hình giảm tỷ trọng, hình liềm",
+        "A": "C",
+        "Q": "Hình ảnh cắt lớp vi tính điển hình của máu tụ dưới màng cứng cấp tính là"
+      },
+      "21": {
+        "1": "tăng tỷ trọng, ranh giới rõ ràng, phù não nhiều quanh ổ máu tụ .",
+        "2": "tăng tỷ trong, ranh giới không rõ ràng, ít phù não quanh ổ máu tụ",
+        "3": "giảm tỷ trọng, ranh giới không rõ ràng, phù não nhiều quanh ổ máu tụ",
+        "4": "tăng tỷ trọng, ranh giới không rõ ràng, phù não nhiều quanh ổ máu tụ, hay gặp vùng vỏ",
+        "A": "D",
+        "Q": "Hình ảnh hay gặp của máu tụ trong não cấp tính do chấn thương trên cắt lớp vi tính sọ não là"
+      },
+      "22": {
+        "1": "tăng tỷ trọng, ranh giới rõ ràng, ít phù não quanh ổ máu tụ, hay gặp vùng trung tâm.",
+        "2": "giảm tỷ trọng, ranh giới không rõ ràng, phù não nhiều quanh ổ máu tụ.",
+        "3": "tăng tỷ trọng, ranh giới không rõ ràng, phù não nhieu quanh ổ máu tụ.",
+        "4": "tăng tỷ trọng, ranh giới không rõ ràng, ít phù não quanh ô máu tụ.",
+        "A": "C",
+        "Q": "Hình ảnh hay gặp của máu tụ trong não cấp tính do đột quy chảy máu não trên cắt lớp vi tính so não là"
+      },
+      "23": {
+        "1": "Chụp cẳt lớp vi tính sọ não",
+        "2": "Chọc ống sống thắt lưng, xét nghiệm dịch não tủy",
+        "3": "Lâm sàng + Chụp cẳt lớp vi tính sọ não.",
+        "4": "Lâm sàng",
+        "A": "B",
+        "Q": "Chẩn đoán xác định chảy máu khoang dưới nhện do chấn thương dựa vào"
+      },
+      "24": {
+        "1": "Chụp cắt lớp vi tính sọ não có bơm thuốc cản quang",
+        "2": "Chụp động mạch não số hóa xóa nền (DSA).",
+        "3": "Chụp cắt lớp vi tính sọ não không bơm thuốc",
+        "4": "XQ sọ não quy ước",
+        "A": "A",
+        "Q": "Chẩn đoán hình ảnh máu tụ dưới màng cứng mạn tính dựa vào (chọn câu đúng nhất)"
+      },
+      "25": {
+        "1": "Chụp cẳt lớp vi tính sọ não đa dẫy",
+        "2": "Chụp cộng hưởng từ sọ não.",
+        "3": "XQ sọ não quy ước",
+        "4": "Chụp cắt lớp vi tính sọ não không bơm thuốc cản quang",
+        "A": "B",
+        "Q": "Phương pháp chấn đoán hình ảnh nào dưới đây có giá trị nhất chẩn đoán máu tụ dưới màng cứng mạn tính"
+      },
+      "26": {
+        "1": "Lâm sàng + Chụp cắt lớp vi tính sọ não + Chụp cộng hưởng từ sọ não",
+        "2": "Chụp cắt lớp vi tính sọ não không bơm thuốc",
+        "3": "Lâm sàng, chụp cắt lớp vi tính sọ não",
+        "4": "Thời gian bị chấn thương (nguyên nhân máu tụ do chấn thương)",
+        "A": "A",
+        "Q": "Chẩn đoán xác định máu tụ dưới màng cứng mạn tính dựa vào (chọn câu đúng nhất)"
+      },
+      "27": {
+        "1": "Suy dinh dưỡng, mất cân đối giữa chiều cao cân nặng",
+        "2": "Biến chứng của bệnh đái tháo đường, tăng huyết áp.",
+        "3": "Vỡ túi phình, dị dạng mạch máu não.",
+        "4": "Bệnh tim mạch bẩm sinh, bệnh thiếu máu.",
+        "A": "C",
+        "Q": "Chảy máu khoang dưới nhện ở thanh thiếu niên hoặc trẻ em không rõ nguyên nhân chấn thương thường do:"
+      },
+      "28": {
+        "1": "trong não thất, nhu mô não, dưới màng cứng, ngoài màng cứng.",
+        "2": "động mạch cảnh trong, khoang ngoài màng cứng",
+        "3": "trong não thất, dưới màng cứng, ngoài màng cứng.",
+        "4": "khoang ngoài màng cứng, khoang dưới màng cứng, tĩnh mạch cảnh trong.",
+        "A": "A",
+        "Q": "Vị trí đặt điện cực trên sọ não để do áp lực nội sọ (ICP) là"
+      },
+      "29": {
+        "1": "Máu chảy qua mũi, dấu hiệu mắt gấu trúc, có thê tốn thương dây II.",
+        "2": "Máu không đông chảy qua mũi, dấu hiệu mắt gấu trúc, có thể tổn thương dâyII",
+        "3": "Nôn ra máu tươi, dấu hiệu mắt gấu trúc, có thể tổn thương dây II.",
+        "4": "Mất ngửi, dấu hiệu mắt gấu trúc, có thể tồn thương dây II.",
+        "A": "B",
+        "Q": "Dấu hiệu vỡ nền sọ trước điển hình bao gồm các triệu chứng:"
+      },
+      "30": {
+        "1": "Máu không đông chảy qua tai, dấu hiệu bầm tím tai, có thể tổn thương dây VII TW đối bên.",
+        "2": "Máu không đông chảy qua tai, dấu hiệu bầm tím sau trên vành tai, có thể tổn thương dây VII TW.",
+        "3": "Máu không đông chảy qua tai, dấu hiệu bầm tím sau trên vành tai, có thế tốn thương dây VII ngoại vi cùng bên.",
+        "4": "Máu chảy qua tai, dấu hiệu bầm tím sau trên vành tai, có thể tổn thương dây VII ngoại vi.",
+        "A": "C",
+        "Q": "Dấu hiệu vỡ nền sọ giữa điển hình bao gồm các triệu chứng:"
+      },
+      "31": {
+        "1": "Bất động, nằm đầu cao, chống kích thích, đảm bảo thông khí tốt, dùng thuốc Mannitoi 20%.",
+        "2": "Bất động, an thần, chống kích thích, đảm bảo thông khí tốt, dùng thuốc Mannitol 20%.",
+        "3": "Bất động, nằm đầu cao 30cm so với mặt giường, an thần, chống kích thích, đảm bảo thông khí tốt, dùng thuốc Mannitol 20%.",
+        "4": "Nằm đầu cao, an thần, chống kích thích, đảm bảo thông khí tốt, dùng thuốc Mannitol 20%",
+        "A": "C",
+        "Q": "Điều trị chông phù não do chấn thương sọ não bao gồm một số biện pháp như:"
+      },
+      "32": {
+        "1": ">30ml",
+        "2": ">15ml",
+        "3": ">25ml",
+        "4": ">20ml",
+        "A": "A",
+        "Q": "Về thể tích chỉ định mổ cấp cứu máu tụ ngoài màng cứng cấp tính do chấn thương trong mọi trường hợp là?"
+      },
+      "33": {
+        "1": "Bề dày khối máu tụ trên 1 cm, đè đẩy đường giữa trên 0,5cm",
+        "2": "Bề dày khối máu tụ dưới 0,5 cm, đè đẩy đường giữa trên 0,5cm",
+        "3": "Bề dày khối máu tụ trên 0,5 cm, đè đẩy đường giữa trên 0,5cm",
+        "4": "Bề dày khối máu tụ trên 0,5 cm, đè đẩy đường giữa dưới 0,5cm",
+        "A": "A",
+        "Q": "Chỉ định mố cấp cứu máu tụ dưới màng cứng cấp tính do chấn thương dựa trên cắt lớp ví tính sọ não (chọn câu đúng nhất)?"
+      },
+      "34": {
+        "1": "Máu tụ DMC có độ dày dưới l cm, đường giữa di lệch dưới 0,5cm và/ hoặc ICP đo ở nhu mô não lớn hơn 15mmHg.",
+        "2": "Máu tụ DMC có độ dày dưới l cm, đường giữa di lệch dưới 0,5cm và/ hoặc ICP đo ở nhu mô não lớn hơn 12mmHg.",
+        "3": "Máu tụ DMC có độ dày dưới l cm, đường giữa di lệch dưới 0,5cm và/ hoặc ICP đo ở nhu mô não lớn hơn 10mmHg.",
+        "4": "Máu tụ DMC có độ dày dưới l cm, đường giữa di lệch dưới 0,5cm và/ hoặc ICP đo ở nhu mô não lớn hơn 20mmHg.",
+        "A": "D",
+        "Q": "Chỉ dịnh mổ câp cứu máu tụ dưới màng cứng cấp tính do chân thương (chọn đáp án đúng nhất)"
+      },
+      "35": {
+        "1": "Lún sọ có chiều dày trên ¼ bản xương",
+        "2": "Lún sọ có chiều dày trên ½ bản xương",
+        "3": "Lún sọ có chiều dày trên ¾  bản xương",
+        "4": "Lún sọ có chiều dày trên 1 bản xương",
+        "A": "D",
+        "Q": "Chỉ định mổ vổ xương vòm so do chấn thương khi"
+      },
+      "36": {
+        "1": "Rách da đầu, tồn thương xương sọ",
+        "2": "Rách da đầu phức tạp,và tổn thương chất não, không tổn thương xương.",
+        "3": "Rách da đầu, Vỡ xương sọ, rách màng cứng và tổn thương chất não.",
+        "4": "Thấu não, rách da đầu,,vỡ xương sọ, không rách màng cứng.",
+        "A": "C",
+        "Q": "Vết thương thấu não là loại vết thương?"
+      },
+      "37": {
+        "1": "theo tuổi, giới, địa dư của người bị thương",
+        "2": "theo tuổi, địa dư, hình thối vết thương",
+        "3": "theo giới, Địa dư ,tổn thương sọ não.",
+        "4": "theo tác nhân, theo vị trí giải phẫu của hộp sọ, theo đường ống vểt thương",
+        "A": "D",
+        "Q": "Phân loại vết thương sọ não theo dựa theo?"
+      },
+      "38": {
+        "1": "vết thương chột thấu não, vết thương xuyên thấu não, vết thương thấu não tiếp tuyến, vễt thương bật đổi góc.",
+        "2": "Vết thương chột thấu não, vết thương xuyên thấu não, vết thương rách da đầu, vết thương vỡ toác xương sọ.",
+        "3": "vết thương thấu não tiếp tuyến, vết thương bật đổi góc, vết thương rách da đầu, vết thương mạch máu.",
+        "4": "vết thương xuyên thấu não, vết thương sọ não kín, vết thương phần mềm phức tạp, vết thương tổn thương xoang hơi khí.",
+        "A": "A",
+        "Q": "Vết thương thấu não được chia 4 loại sau?"
+      },
+      "39": {
+        "1": "lấy bỏ dị vật và não nát, cầm máu triệt đế và vá kín màng cứng.",
+        "2": "lấy tất cả dị vật ở mọi vị trí và não nát, đóng kín màng não, vất bỏ xương sọ.",
+        "3": "lấy hết dị vật, cầm máu kỹ, để hở màng cứng.",
+        "4": "lấy triệt để dị vật, không để cho nhiễm khuẩn lan rộng hơn, cầm máu kỹ, đóng kín màng não cứng.",
+        "A": "A",
+        "Q": "Nguyên tắc xử trí kỳ đâu vết thương sọ não là?"
+      },
+      "40": {
+        "1": "giai đoạn cấp tính, biển chứng sớm, trung gian, biến chứng muộn, di chứng.",
+        "2": "giai đoạn cấp tính, trung gian, biến chứng sớm, biển chứng muộn, di chứng.",
+        "3": "giai đoạn cấp tính, tổn thương, biến chứng sớm, biến chứng muộn, di chứng.",
+        "4": "giai đoạn cấp tính, trung gian, biến chứng, di chứng, hồi phục.",
+        "A": "A",
+        "Q": "Tiến triển của vết thương sọ não theo phân loại của Smirnop?"
+      },
+      "41": {
+        "1": "Đau cột sống.",
+        "2": "Hạn chế vận động cột sống.",
+        "3": "Co cứng cơ cạnh sống.",
+        "4": "Vẹo cột sống.",
+        "A": "A",
+        "Q": "Triệu chứng lâm sàng nào không phải là triệu chứng thực thể trong thoát vị đĩa đệm cột sống vùng thắt lưng - cùng?"
+      },
+      "42": {
+        "1": "Dejerin.",
+        "2": "Wassermann.",
+        "3": "Lasegue.",
+        "4": "Shober.",
+        "A": "D",
+        "Q": "Dấu hiệu, nghiệm pháp nào không nằm trong hội chứng rễ thần kinh?"
+      },
+      "43": {
+        "1": "Điểm đau cột sống.",
+        "2": "Biến dạng cột sống.",
+        "3": "Đau cột sống.",
+        "4": "Điểm đau cạnh sống.",
+        "A": "D",
+        "Q": "Triệu chứng nào nằm trong hội chứng rễ thần kinh?"
+      },
+      "44": {
+        "1": "Hạn chế xoay, nghiêng cột sống",
+        "2": "Ngón tay chạm đất.",
+        "3": "Tất cả các triệu chứng trên.",
+        "4": "Shober.",
+        "A": "C",
+        "Q": "Triệu chứng hay nghiệm pháp nào có trong hội chứng cột sống của bệnh nhân thoát vị đĩa đệm cột sống thắt lưng - cùng? (chọn đáp án đúng nhất):"
+      },
+      "45": {
+        "1": "Tất cả các căn nguyên trên.",
+        "2": "Đau thần kinh hông to có nguồn gốc từ trong ống sống.",
+        "3": "Đau thần kinh hông to từ bản thân thần kinh hông to.",
+        "4": "Đau thần kinh hông to có nguồn gốc từ xương.",
+        "A": "A",
+        "Q": "Đau thần kinh do thoát vị đĩa đệm cột sống thắt lưng - cùng cần chẩn đoán phân biệt với (chọn đáp án đúng nhất):"
+      },
+      "46": {
+        "1": "Phim x-quang cột sống thẳng.",
+        "2": "Phim X-quang cột sống nghiêng,",
+        "3": "Phim x-quang cột sống cúi, ưỡn tối đa.",
+        "4": "Phim x-quang cột sống thẳng và nghiêng.",
+        "A": "D",
+        "Q": "Tam chứng Barr được thấy trên:"
+      },
+      "47": {
+        "1": "Vị trí chèn ép của đĩa đệm thoát vị.",
+        "2": "Tình trạng lỗ ghép.",
+        "3": "Cả 3 điều trên.",
+        "4": "Đặc điểm ống sống.",
+        "A": "C",
+        "Q": "Diện cắt ngang trục cột sống (axial) trên phim MRI cột sống thắt lưng - cùng cho thấy (chọn đáp án đúng nhất):"
+      },
+      "48": {
+        "1": "Phương pháp hóa tiêu nhân.",
+        "2": "Điều trị phẫu thuật",
+        "3": "Điều trị nội khoa.",
+        "4": "Điều trị bằng Laser",
+        "A": "C",
+        "Q": "Phương pháp điêu trị thoát vị đĩa đệm cột sông thắt lưng - cùng phố biến nhất là:"
+      },
+      "49": {
+        "1": "Động mạch đốt sống cổ",
+        "2": "Hai động mạch tủy sống sau",
+        "3": "Động mạch tùy sống trước",
+        "4": "Cả ba động mạch trên",
+        "A": "D",
+        "Q": "Sự tưới máu của tủy cổ là do (chọn đáp án đúng nhất):"
+      },
+      "50": {
+        "1": "Cả ba loại trên.",
+        "2": "Thoát vị đĩa đệm trung tâm.",
+        "3": "Thoát vị đĩa đệm lỗ ghép.",
+        "4": "Lồi đĩa đệm.",
+        "A": "B",
+        "Q": "Hội chứng chèn ép tủy trong thoát vị đĩa đệm cổ gây ra bởi:"
+      },
+      "51": {
+        "1": "Dấu hiệu Lhermitte",
+        "2": "Dấu hiệu bấm chuông",
+        "3": "Test dang vai.",
+        "4": "Dấu hiệu  Spurling",
+        "A": "C",
+        "Q": "Nghiệm pháp hay dấu hiệu nào làm giảm áp lực nội tủy và giảm căng kéo dây thần kinh?"
+      },
+      "52": {
+        "1": "Hội chứng rễ tủy phối hợp.",
+        "2": "Hội chứng chèn ép rễ.",
+        "3": "Hội chứng chèn ép tủy.",
+        "4": "Hội chứng Brown-Sequard.",
+        "A": "A",
+        "Q": "Hội chứng phố biến nhất trong thoát vị đĩa đệm cột sống cổ là:"
+      },
+      "53": {
+        "1": "Hình ảnh T2W.",
+        "2": "Hình ảnh T1W.",
+        "3": "Cồ 3 hình ảnh trên.",
+        "4": "Hình ảnh T1W có tiêm đối quang từ.",
+        "A": "A",
+        "Q": "Trong thoát vị đĩa đệm cổ có kèm theo phù tủy cổ, hình ảnh nào trên phim cộng hưởng từ cho thấy rõ nhất:"
+      },
+      "54": {
+        "1": "TVĐĐ thắt lưng cùng - TVĐĐ cổ - TVĐĐ ngực",
+        "2": "TVĐĐ cổ - TVĐĐ ngực - TVĐĐ thắt lưng cùng",
+        "3": "TVĐĐ thắt lưng cùng - TVĐĐ ngực - TVĐĐ cổ",
+        "4": "TVĐĐ cổ - TVĐĐ thắt lưng cùng - TVĐĐ ngực",
+        "A": "A",
+        "Q": "Bệnh thoát vị đĩa đệm cột sống hay gặp ở vị trí nào theo thứ tự dưới đây:"
+      },
+      "55": {
+        "1": "Thoát vị đĩa đệm thể giả U",
+        "2": "Thoát vị đĩa đệm cạnh trung tâm",
+        "3": "Thoát vị đĩa đệm lỗ ghép",
+        "4": "Thoát vị đĩa đệm sau bên",
+        "A": "A",
+        "Q": "Tình trạng phân ly albumin - tế bào trong xét nghiệm dịch não tủy có thể gặp trong:"
+      },
+      "56": {
+        "1": "Đứng, cúi và xoay nhẹ",
+        "2": "Ngồi ghế có tựa",
+        "3": "Ngồi ghế không có tựa",
+        "4": "Đứng, cúi thẳng lưng",
+        "A": "A",
+        "Q": "Trong trường hợp nào áp lực nội đĩa đệm tăng cao nhất:"
+      },
+      "57": {
+        "1": "Cụt",
+        "2": "Cùng",
+        "3": "Ngực",
+        "4": "Thắt lưng",
+        "A": "D",
+        "Q": "Ưỡn quá mức (hyperlordosis) cột sống xảy ra ở đoạn cột sống nào sau đây:"
+      },
+      "58": {
+        "1": "Thoát vị đĩa đệm lỗ ghép",
+        "2": "Thoát vị đĩa đệm ra trước",
+        "3": "Thoát vị đĩa đệm đường giữa",
+        "4": "Thoát vị đĩa đệm ra sau lệch bên",
+        "A": "B",
+        "Q": "Trường hợp thoát vị đĩa đệm nào sau đây không gây chèn ép rễ thần kinh:"
+      },
+      "59": {
+        "1": "Dây chằng dọc trước, dây chằng liên gai, dây chằng vàng, dây chằng dọc sau, dây chằng trên gai.",
+        "2": "Dây chằng dọc trước, dây chằng dọc sau,dây chằng vàng, dây chằng liên gai, dây chằng trên gai.",
+        "3": "Dây chằng dọc trước, dây chằng trên gai,dây chằng liên gai, dây chằng dọc sau, dây chằng-vàng.",
+        "4": "Dây chằng vàng, dây chằng liên gai, dây chằng trên gai, dây chằng dọc sau, dây chằng dọc trước.",
+        "A": "B",
+        "Q": "Hệ thống dây chằng cột sống được sắp xếp từ trước ra sau thế nào đúng:"
+      },
+      "60": {
+        "1": "Tất cả dấu hiệu và phản xạ trên",
+        "2": "Phản xạ Hoffmann",
+        "3": "Phản xạ Trõmner",
+        "4": "Dẩu hiệu Wasserman",
+        "A": "D",
+        "Q": "Dâu hiệu hoặc phản xạ nào sau đây để khám thoát vị đĩa đệm cột sống thắt lưng"
+      },
+      "61": {
+        "1": "Phản xạ Tromner",
+        "2": "Phản xạ Babinski",
+        "3": "Phản xạ Hoffmann",
+        "4": "Tất cả các phản xạ trên.",
+        "A": "D",
+        "Q": "Phản xạ nào để khám thoát vị đĩa đệm cổ có chèn ép tuỷ, chọn đáp án đúng nhât?"
+      },
+      "62": {
+        "1": "Cắt lớp vi tính",
+        "2": "Cộng hưởng từ",
+        "3": "Xạ hình xương",
+        "4": "Xquang quy ước",
+        "A": "B",
+        "Q": "Để mô tả tổn thương phần mềm trong thoát vị đĩa đệm, phương thức chẩn đoán hình ảnh nào ưu việt hơn cả:"
+      },
+      "63": {
+        "1": "Hình ảnh T1W có tiêm thuốc đối quang từ",
+        "2": "Hình ảnh T2W",
+        "3": "Hình ảnh T1W",
+        "4": "Tất cả các hình ảnh trên",
+        "A": "B",
+        "Q": "Hình ảnh nào trên phim cộng hưởng từ cho biết tình trạng thoái hoá đĩa đệm rõ nhất:"
+      },
+      "64": {
+        "1": "Cộng hưởng từ",
+        "2": "Xquang quy ước",
+        "3": "Cắt lớp vi tính",
+        "4": "Xạ hình xương",
+        "A": "A",
+        "Q": "Phương thức chẩn đoán nào ít gây bức xạ ion hoá nhất cho bệnh nhân có bệnh lý cột sống:"
+      },
+      "65": {
+        "1": "Diện cắt đứng ngang",
+        "2": "Diện cắt ngang trục cột sống (axial)",
+        "3": "Diện cắt đứng dọc (sagital)",
+        "4": "Tất cả các diện cắt có giá trị như nhau",
+        "A": "B",
+        "Q": "Hướng của thoát vị đĩa đệm cột sống thắt lưng ra sau được thấy rõ nhất trên diện cắt nào của cộng hưởng từ:"
+      },
+      "66": {
+        "1": "Khe L5S1",
+        "2": "Khe L4L5",
+        "3": "Khe S1S2",
+        "4": "Khe L3L4",
+        "A": "A",
+        "Q": "Nghiệm pháp Schober đo tầm vận động cột sống thắt lưng được đo lên trên tính từ khe liên gai nào?"
+      },
+      "67": {
+        "1": "Wassermann",
+        "2": "Siccar",
+        "3": "Bonnet",
+        "4": "Dejerine",
+        "A": "D",
+        "Q": "Dâu hiệu ho, hắt hơi gây đau lan cột sống thắt lưng có tên là gì?"
+      },
+      "68": {
+        "1": "Hội chứng đuôi ngựa",
+        "2": "Đau vùng cồ lan lên vùng chẩm",
+        "3": "Đau thắt ngực",
+        "4": "Tất cả các biểu hiện trên",
+        "A": "A",
+        "Q": "Thoát vị đĩa đệm cổ không gây ra biểu hiện nào sau đây, chọn đáp án đúng nhất:"
+      },
+      "69": {
+        "1": "Lhermitte",
+        "2": "Spurling",
+        "3": "Hoffman",
+        "4": "Không phải 3 dấu hiệu trên",
+        "A": "B",
+        "Q": "Thầy thuốc dùng tay đặt trên đầu bệnh nhân ép theo trục cột sống và nghiêng ưỡn cổ bệnh nhân sang bên gây đau kiểu rễ cùng bên gọi là dấu hiệu:"
+      },
+      "70": {
+        "1": "Cả 3 hội chứng trên.",
+        "2": "HỘI chứng liệt ngoại vi 2 chỉ dưới",
+        "3": "HỘI chứng đuôi ngựa",
+        "4": "Hội chứng Brown - Sequard",
+        "A": "D",
+        "Q": "Có thể gặp hội chứng nào trong thoát vị dĩa đệm cổ:"
+      },
+      "71": {
+        "1": "Máu tụ dưới màng cứng cấp tính do chấn thương",
+        "2": "Viêm não - màng não",
+        "3": "U não lớn",
+        "4": "Dập não ổ lớn do chấn thương",
+        "A": "B",
+        "Q": "Trường hợp nào sau đây được chọc ống sống thắt lưng?"
+      },
+      "72": {
+        "1": "Viêm não - màng não",
+        "2": "Xuất huyết dưới nhện",
+        "3": "U não lớn",
+        "4": "Viêm tuỷ",
+        "A": "C",
+        "Q": "Chống chỉ định chọc ống sống thắt lưng?"
+      },
+      "73": {
+        "1": "Tụt kẹt não, đau đầu",
+        "2": "Tổn thương rễ thần kỉnh, đau đầu",
+        "3": "Tụt kẹt não, tổn thương rễ thần kinh",
+        "4": "Tổn thương rễ thần kinh, nhiễm trùng vị trí chọc",
+        "A": "C",
+        "Q": "Tai biến chọc ông sống thắt lưng?"
+      },
+      "74": {
+        "1": "Viêm não - màng não",
+        "2": "Tràn dịch não",
+        "3": "Áp xe não",
+        "4": "Máu tụ trong não cấp tính do chấn thương",
+        "A": "B",
+        "Q": "Chỉ định chọc não thất?"
+      },
+      "75": {
+        "1": "Tăng sinh xương sọ.",
+        "2": "Tiêu xương sọ",
+        "3": "Vỡ xương sọ",
+        "4": "Hẹp xương sọ",
+        "A": "C",
+        "Q": "Hình ảnh gợi ý máu tụ ngoài màng cứng cấp tính trên phim Xquang sọ não?"
+      },
+      "76": {
+        "1": "Hình bóng bay, hình oval",
+        "2": "Hình tròn, hình oval",
+        "3": "Hình đa cung, hình bóng bay",
+        "4": "Hình thấu kính 2 mặt lồi, hình đa cung",
+        "A": "D",
+        "Q": "Hình ảnh thường gặp máu tụ ngoài màng cứng cấp tính trên phim cắt lớp vi tính sọ não?"
+      },
+      "77": {
+        "1": "AxBxC / 8",
+        "2": "AxBxC / 6",
+        "3": "AxBxC / 4",
+        "4": "AxBxC / 2",
+        "A": "C",
+        "Q": "Cách tính tương đối thể tích máu tụ ngoài màng cứng cấp tính trên phim cắt lớp vi tính sọ não với bề dày lát cắt 5mm ? Trong đó: A chiều dài, B là chiều rộng, C số lát căt?"
+      },
+      "78": {
+        "1": "Cả 3 phương án: A, B, C",
+        "2": "Đo kích thước não thất bên",
+        "3": "Tính số lượng máu tụ",
+        "4": "Đo dịch chuyển đường giữa",
+        "A": "A",
+        "Q": "Đánh giá hiệu ứng choán chỗ máu tụ ngoài màng cứng cấp tính trên phim-Cắt lớp vi tính sọ não?"
+      },
+      "79": {
+        "1": "Tăng tỷ trọng",
+        "2": "Đồng tỷ trọng",
+        "3": "Giảm tỷ trọng",
+        "4": "Tỷ trọng hỗn hợp",
+        "A": "A",
+        "Q": "Tỷ trọng máu tụ dưới màng cứng cấp tính trên phim cắt lớp vi tính sọ não?"
+      },
+      "80": {
+        "1": "Đo dịch chuyển đường giữa",
+        "2": "Hình dáng máu tụ",
+        "3": "Đánh giá tỷ trọng máu tụ",
+        "4": "Vị trí máu tụ",
+        "A": "A",
+        "Q": "Đánh giá hiệu ứng choán chỗ cùa máu tụ dưới màng cứng cấp tính trên phim cắt lớp vi tính sọ não?"
+      },
+      "81": {
+        "1": "Đồng tỷ trọng",
+        "2": "Tăng giảm tỷ trọng hỗn hợp xen kẽ",
+        "3": "Giảm tỷ trọng thuần nhất",
+        "4": "Tăng tỷ trọng thuần nhất",
+        "A": "B",
+        "Q": "Hình ảnh dập não trên phim cắt lớp vi tính sọ não?"
+      },
+      "82": {
+        "1": "Hình liềm tăng tỷ trọng, sát xương sọ",
+        "2": "Hình tăng tỷ trọng trong não thất bên",
+        "3": "Hình tăng tỷ trọng, trong nhu mô não",
+        "4": "Hình giảm tỷ trọng sát xương sọ",
+        "A": "C",
+        "Q": "Hình ảnh máu tụ cấp tính trong não trên phim cắt lớp vi tính sọ não?"
+      },
+      "83": {
+        "1": "Hình thấu kính hai mặt lồi",
+        "2": "Hình quả tạ",
+        "3": "Hình oval",
+        "4": "Hình liềm",
+        "A": "D",
+        "Q": "Hình ảnh máu tụ mãn tính dưới màng cứng trên phim cắt lớp vi tính so não?"
+      },
+      "84": {
+        "1": "> 0,4",
+        "2": "> 0,3",
+        "3": "> 0,5",
+        "4": "> 0,6",
+        "A": "B",
+        "Q": "Chi số xác định giãn não thất (Evans) ở người trưởng thành trên phim chụp cộng hưởng từ (Chọn đáp án đúng nhất)"
+      },
+      "85": {
+        "1": "Seldinger",
+        "2": "Godfrey Hounsfield",
+        "3": "Harvery Cushing",
+        "4": "Evans",
+        "A": "A",
+        "Q": "Phương pháp chụp động mạch não - Số hoá xoá nên của tác giả nào?"
+      },
+      "86": {
+        "1": "Chỉ ngấm thuốc vùng trung tâm của u",
+        "2": "Có ngấm thuốc",
+        "3": "Không ngấm thuốc",
+        "4": "Chỉ ngấm thuốc vùng màng não của u",
+        "A": "B",
+        "Q": "Hình ảnh u màng não trên phim chụp cắt lớp vi tính sọ não có tiêm thuốc cản quang?"
+      },
+      "87": {
+        "1": "Tư thế chếch 3/4",
+        "2": "Tư thế ưỡn tối đa",
+        "3": "Tư thế thẳng",
+        "4": "Tư thể cúi tối đa",
+        "A": "A",
+        "Q": "Hình ảnh \"Scotty dog\" trong hở eo đốt sống chụp phim X -quang cột sống tư thế nào?"
+      },
+      "88": {
+        "1": "Không có ổ áp xe lạnh, phá hủy đốt sống và đĩa đệm",
+        "2": "ổ áp xe lạnh, không bao giờ phá hủy đổt sống và đĩa đệm",
+        "3": "ổ áp xe lạnh, phá hủy thân đốt sống và đĩa đệm",
+        "4": "Hẹp khe gian đốt sống, không bao giờ phá hủy cuống sống và đĩa đệm",
+        "A": "C",
+        "Q": "Hình ảnh lao cột sống trên phim cộng hưởng từ?"
+      },
+      "89": {
+        "1": "Đồng tín hiệu",
+        "2": "Giảm tín hiệu",
+        "3": "Tăng tín hiệu",
+        "4": "Có thể gặp cả 3 phương án: A,B,C",
+        "A": "C",
+        "Q": "Hình ảnh u màng tuỷ trên phím cộng hường từ cột sống pha T2W?"
+      },
+      "90": {
+        "1": "Không có tổn thương thần kinh.",
+        "2": "Không có rối loạn cảm giác",
+        "3": "Không có rối loạn cơ tròn.",
+        "4": "Không có rối loạn vận động.",
+        "A": "A",
+        "Q": "Chấn thương cột sống đơn thuần là?"
+      },
+      "91": {
+        "1": "Có rối loạn cảm giác.",
+        "2": "Có rối loạn cơ tròn.",
+        "3": "Có tổn thương vận động.",
+        "4": "Cả ba phương án trên đều đúng.",
+        "A": "D",
+        "Q": "Chấn thương cột sống - tuỷ sống là?"
+      },
+      "92": {
+        "1": "Cả hai phương án A và C đêu đúng",
+        "2": "Liệt mềm.",
+        "3": "Liệt ngoại vi.",
+        "4": "Liệt cứng.",
+        "A": "B",
+        "Q": "Liệt trong giai đoạn sốc tuỷ là ?(chọn phương án đúng nhất)"
+      },
+      "93": {
+        "1": "Phản xạ hành hang âm tính.",
+        "2": "Phản xạ hành hang dương tính.",
+        "3": "Cả hai phương án A và B đều sai.",
+        "4": "Cả hai phương án A và B đều đúng.",
+        "A": "A",
+        "Q": "Trong sốc tuỷ?"
+      },
+      "94": {
+        "1": "Phản xạ hành hang dương tính trở lại.",
+        "2": "Phản xạ gân xương phục hồi.",
+        "3": "Cả hai phương án A và B đều đúng,",
+        "4": "Cả hai phương án A và B đều sai.",
+        "A": "A",
+        "Q": "Dấu hiệu đầu tiên biểu hiện thoát sốc tuỷ là? (chọn câu đúng nhất)"
+      },
+      "95": {
+        "1": "24 đến 48 giờ.",
+        "2": "Tất cả các phương án trên đều đúng",
+        "3": "Sau vài tuần.",
+        "4": "Sau vài tháng.",
+        "A": "B",
+        "Q": "Thời gian thoát sốc tuỳ có thể là? (chọn câu đúng nhất)"
+      },
+      "96": {
+        "1": "72 giờ đầu sau chấn thương",
+        "2": "24 giờ đầu sau chấn thương.",
+        "3": "48 giờ đầu sau chấn thương.",
+        "4": "Tất cả các phương án trên đều đúng.",
+        "A": "A",
+        "Q": "Thời gian chống phù tuỷ có hiệu quả trong (chọn câu đúng nhất) ?"
+      },
+      "97": {
+        "1": "Tất cả các thành phần trên",
+        "2": "ổng sống và các thành phần trong nó.",
+        "3": "Dây chằng liên gai và dây chằng trên gai.",
+        "4": "Gai sau, mỏm ngang.",
+        "A": "A",
+        "Q": "Theo Denis, cột sau gồm?"
+      },
+      "98": {
+        "1": "Có tỷ lệ tổn thương thần kinh thấp hơn không tổn thương.",
+        "2": "Không bao giờ có tốn thương thần kinh",
+        "3": "Chủ yếu có tốn thương thần kinh.",
+        "4": "Cả đáp án A và C đều đúng",
+        "A": "A",
+        "Q": "Chấn thương cột sống cố cao?"
+      },
+      "99": {
+        "1": "Phim chụp cộng hưởng từ.",
+        "2": "Phim XQ cột sống qui ước.",
+        "3": "Tất cả các phương án trên",
+        "4": "Phim chụp cắt lớp vi tính qua đốt gãy",
+        "A": "B",
+        "Q": "Xác định vị trí gãy cột sống dựa trên?"
+      },
+      "100": {
+        "1": "Tổn thương phần mềm.",
+        "2": "Kém trong phát hiện tổn thương xương",
+        "3": "Tổn thương thần kỉnh.",
+        "4": "Tất cả các điều trên đều đúng.",
+        "A": "D",
+        "Q": "Phim cộng hưỏng từ cột sống cho biết?"
+      },
+      "101": {
+        "1": "Phim cộng hưởng từ cột sống.",
+        "2": "Phim XQ cột sống qui ước.",
+        "3": "Tất cả các phương án trên đều đúng.",
+        "4": "Phim cắt lớp vi tính cột sống.",
+        "A": "C",
+        "Q": "Phân loại tổn thương đốt sống dựa trên?"
+      },
+      "102": {
+        "1": "3 độ từ 0/3 đến 3/3",
+        "2": "4 độ từ 0/4 đến",
+        "3": "5 độ từ 0/5 đến",
+        "4": "6 độ từ 0/6 đến",
+        "A": "C",
+        "Q": "Bảng đánh giá sức cơ gồm?"
+      },
+      "103": {
+        "1": "4 độ",
+        "2": "6 độ",
+        "3": "5 độ.",
+        "4": "3 độ.",
+        "A": "C",
+        "Q": "Mức độ tốn thương thần kinh theo Frankel gồm?"
+      },
+      "104": {
+        "1": "Frankel A,B.",
+        "2": "Frankel A, B, C.",
+        "3": "Prankel A.",
+        "4": "Frankel A,B,C,D.",
+        "A": "D",
+        "Q": "Theo Frankel có tốn thương thân kinh gồm?"
+      },
+      "105": {
+        "1": "Tuỷ trung tâm.",
+        "2": "Tuỷ sau.",
+        "3": "Brown- sequard.",
+        "4": "Tủy trước",
+        "A": "C",
+        "Q": "Tổn thương nửa tuỷ gây hội chứng ?"
+      },
+      "106": {
+        "1": "Phim cắt lớp vi tính cột sống.",
+        "2": "Phim XQ cột sống qui ước.",
+        "3": "Phim cộng hưởng từ cột sống.",
+        "4": "Tất cả các phương án trên đều đúng.",
+        "A": "A",
+        "Q": "Tốn thương xương được xác định rõ nhất trên?"
+      },
+      "107": {
+        "1": "Vi khuẩn",
+        "2": "Vi rút",
+        "3": "Nấm",
+        "4": "Ký sinh trùng",
+        "A": "B",
+        "Q": "Nguyên nhân áp xe não không do?"
+      },
+      "108": {
+        "1": "Vết thương sọ não.",
+        "2": "Bệnh tim bẩm sinh có tím",
+        "3": "Chấn thương sọ não kín.",
+        "4": "Bệnh HIV/AIDS.",
+        "A": "C",
+        "Q": "Yếu tố nào không phải là yếu tố thuận lợi nhất gây áp xe não?"
+      },
+      "109": {
+        "1": "Trong xoang trán.",
+        "2": "Dưới màng cứng",
+        "3": "Trong nhu mô não",
+        "4": "Ngoài màng cứng",
+        "A": "C",
+        "Q": "Vị trí ổ áp xe não thường gặp nhất?"
+      },
+      "110": {
+        "1": "Bốn giai đoạn",
+        "2": "Hai giai đoạn",
+        "3": "Năm giai đoạn",
+        "4": "Ba giai đoạn",
+        "A": "A",
+        "Q": "Sự tiến triển của áp xe não gồm mấy giai đoạn?"
+      },
+      "111": {
+        "1": "Giai đoạn hình thành ổ áp xe muộn",
+        "2": "Giai đoạn viêm não muộn",
+        "3": "Giai đoạn hình thành vỏ ổ áp xe sớm",
+        "4": "Giai đoạn viêm não sớm.",
+        "A": "C",
+        "Q": "Giai đoạn ba trong tiến triển ổ áp xe não là giai đoạn nào?"
+      },
+      "112": {
+        "1": "Buồn nôn và nôn",
+        "2": "Đau đầu",
+        "3": "Sốt",
+        "4": "Dấu hiệu đeo kính râm",
+        "A": "D",
+        "Q": "Triệu chứng lâm sàng không phải của áp xe não:"
+      },
+      "113": {
+        "1": "Khi hình thành ổ áp xe muộn",
+        "2": "Khi ổ áp xe vỡ vào não thất",
+        "3": "Khi viêm não muộn",
+        "4": "Khi hình thành vỏ ổ áp xe sớm",
+        "A": "B",
+        "Q": "Trong áp xe não, hội chứng nhiễm khuẩn rõ nhất trong trường hợp nào sau đây?"
+      },
+      "114": {
+        "1": "Viêm da dị ứng",
+        "2": "Viêm họng mạn tính",
+        "3": "Viêm mũi dị ứng",
+        "4": "Viêm tai xương chũm",
+        "A": "D",
+        "Q": "Áp xe não là hậu quả hay gặp nhất của:"
+      },
+      "115": {
+        "1": "Chụp cắt lớp vi tính sọ não",
+        "2": "Chụp mạch máu não",
+        "3": "Siêu âm xuyên sọ",
+        "4": "X quang sọ não thường quy",
+        "A": "A",
+        "Q": "Chấn đoán hình ảnh áp xe não dựa vào: (chọn phương án đúng nhất)"
+      },
+      "116": {
+        "1": "Cả ba phương pháp trên",
+        "2": "Phẫu thuật bóc bao ổ áp xe",
+        "3": "Phẫu thuật chọc hút ổ áp xe",
+        "4": "Phẫu thuật dẫn lưu ổ áp xe",
+        "A": "A",
+        "Q": "Các phương pháp phẫu thuật điều trị áp xe não:"
+      },
+      "117": {
+        "1": "Cả 3 triệu chứng trên",
+        "2": "Động kinh",
+        "3": "Buồn nôn và nôn vào buổi sáng sau khi ngủ dậy",
+        "4": "Đau đầu",
+        "A": "A",
+        "Q": "Triệu chứng lâm sàng u màng não thường:"
+      },
+      "118": {
+        "1": "Tỳ lệ cao là",
+        "2": "Tỷ lệ cao là lành tính",
+        "3": "Lành tính",
+        "4": "Ác tính",
+        "A": "B",
+        "Q": "U màng não là loại u:"
+      },
+      "119": {
+        "1": "Di lệch đường giữa",
+        "2": "Dấu hiệu đuôi màng não",
+        "3": "Chèn ép dây thần kinh sọ",
+        "4": "Chèn ép các não thất",
+        "A": "B",
+        "Q": "Hình ảnh đặc trưng u màng não trên cắt lớp ví tính có tiêm thuốc càn quang:"
+      },
+      "120": {
+        "1": "Rãnh khứu",
+        "2": "Nẵo thất bên",
+        "3": "Cạnh đường giữạ.",
+        "4": "Lỗ chẩm",
+        "A": "A",
+        "Q": "Hội chứng Foster - Kennedy thường gặp trong u màng não vùng:Tăng áp lực NS, chèn thị giác"
+      },
+      "121": {
+        "1": "Lành tính, phát triển từ thùy trước tuyến yên, chiếm khoảng 50% u trong sọ.",
+        "2": "Lành tính, phát triển từ thùy trước tuyến yên, chiếm khoảng 10% u trong sọ.",
+        "3": "Lành tính, phát triển từ thùy sau tuyến yên, chiếm khoảng 10% u trong sọ.",
+        "4": "Ác tính, phát triển từ thùy trước tuyến yên, chiếm khoảng 10% u trong sọ.",
+        "A": "B",
+        "Q": "U tuyến yên là loại u:"
+      },
+      "122": {
+        "1": "Tăng tiết prolactin, FT4, ACTH, TSH",
+        "2": "Tăng tiết prolactin, GH, ACTH, TSH",
+        "3": "Tăng tiết prolactin, T3,T4, TSH",
+        "4": "Tằng tiết prolactin, FT3, ACTH, TSH",
+        "A": "B",
+        "Q": "U tuyến yên tăng tiết bao gồm:"
+      },
+      "123": {
+        "1": "Giảm thị lực, bán manh thải dương, đau đầu, to đầu chi.",
+        "2": "Giảm thị lực, bán manh thái dương, đau đầu, giảm khả năng tình dục,",
+        "3": "Giảm thỉ lực, bán manh thái dương, đau đầu, tiết sữa bất thường.",
+        "4": "Giảm thị lực, bán manh thái dương, đau đầu, mặt Cushing.",
+        "A": "B",
+        "Q": "Triệu chứng lâm sàng của u tuyến yên không tăng tiết:"
+      },
+      "124": {
+        "1": "Xạ phẫu là phương pháp duy nhất",
+        "2": "Nội khoa",
+        "3": "Ngoai khoa kết hợp nội khoa thường được sử dụng",
+        "4": "Ngoại khoa là phương pháp duy nhất",
+        "A": "C",
+        "Q": "Điều trị u tuyến yên:"
+      },
+      "125": {
+        "1": "Tắc ở lỗ Monro",
+        "2": "Tăng sản dịch não tủy",
+        "3": "Tắc ở lỗ Magiendie",
+        "4": "Tắc ở cống Sylvius",
+        "A": "B",
+        "Q": "Tràn dịch não thế thông thương do:"
+      },
+      "126": {
+        "1": "Tăng sản dịch não tùy",
+        "2": "U nhú đám rối mạch mạc",
+        "3": "Tắc ở cống Sylviụs",
+        "4": "Giảm khả năng hấp thu dịch não tủy",
+        "A": "C",
+        "Q": "Tràn dịch não thể tắc nghẽn do:"
+      },
+      "127": {
+        "1": "1/2 trước thân đốt sống và đĩa đệm",
+        "2": "1/2 trước thân đốt sống",
+        "3": "1/2 đĩa đệm phía trước, dây chằng dọc trước",
+        "4": "1/2 trước thân đốt sống và đĩa đệm, dây chằng dọc trước",
+        "A": "D",
+        "Q": "Theo Denis, cột trước gồm?"
+      },
+      "128": {
+        "1": "1/2 sau thân đốt sống và đĩa đệm",
+        "2": "1/2 đĩa đệm phía sau, dây chằng dọc sau",
+        "3": "1/2 sau thân đốt sống",
+        "4": "1/2 sau thân đốt sống và đĩa đệm, dây chằng dọc sau",
+        "A": "D",
+        "Q": "Theo Denis, cột giữa gôm:"
+      },
+      "129": {
+        "1": "Frankel E",
+        "2": "Frankel E, D",
+        "3": "Frankel E, D, C",
+        "4": "Frankel D, C",
+        "A": "A",
+        "Q": "Theo Frankel, không có tôn thương thân kinh gôm:"
+      },
+      "130": {
+        "1": "Lực nén ép theo trục dọc",
+        "2": "Lực xoắn vặn",
+        "3": "Tất cả các phương án trên",
+        "4": "Lực xoay, lực cắt",
+        "A": "C",
+        "Q": "Cơ chế chấn thương cột sống ngực - thắt lưng gồm:"
+      },
+      "131": {
+        "1": "Mất vận động, còn cảm giác",
+        "2": "Do tốn thương sừng vận động, không tồn thương sừng sau",
+        "3": "Tổn thương nửa trước tủy",
+        "4": "Tất cả các phương án trên",
+        "A": "D",
+        "Q": "Hội chứng tủy trước là:"
+      },
+      "132": {
+        "1": "Do tồn thương kéo dãn tủy, còn cảm giác vùng tầng sinh môn",
+        "2": "Tất cả các phương án trên",
+        "3": "Do tổn thương đường dẫn vỏ - tủy",
+        "4": "Tổn thương chỉ trên nặng hơn chi dưới",
+        "A": "B",
+        "Q": "Hội chứng tủy trung tâm là:"
+      },
+      "133": {
+        "1": "Tất cả các phương án trên đều đúng",
+        "2": "Vị trí đốt gãy",
+        "3": "Đường liên gai, đường liên gai ngang",
+        "4": "Đường liên cuống sống",
+        "A": "A",
+        "Q": "Trên phim X - Quang qui ước thẳng xác định được:"
+      },
+      "134": {
+        "1": "Đường kính cuống sống",
+        "2": "Mảnh xương vơ, vị trí mảnh xương vỡ",
+        "3": "Tất cả các phương án trên",
+        "4": "Mức độ chèn èp ống sống",
+        "A": "C",
+        "Q": "Trên phim cắt lớp vi tính cột sống xác định được:"
+      },
+      "135": {
+        "1": "Đường mảnh, sắc cạnh, chạy không theo một quy luật nhất định",
+        "2": "Đường mảnh, sắc cạnh, không chạy theo một quy luật nhất định",
+        "3": "Đường răng lược, đối xứng hai bên, chạy theo một quy luật nhất định",
+        "4": "Đường đậm, đổi xứng hai bên, chạy theo một quy luật nhất định",
+        "A": "B",
+        "Q": "Hình ảnh vỡ rạn xương sọ trên XQ sọ não tư thế nghiêng là:"
+      },
+      "136": {
+        "1": "đường cài răng lược, chạy theo một quy luật nhất định, đối xứng hai bên",
+        "2": "đường  cài răng lược, chạy theo  một quy luật, không đối xứng hai bên",
+        "3": "đường  sắc cạnh, chạy theo một quy luật nhất định",
+        "4": "đường  mờ đậm, chạy theo một quy luật nhất định",
+        "A": "A",
+        "Q": "Hình ảnh đường khớp sọ trên XQ sọ não tư thế thẳng và nghiêng là:"
+      },
+      "137": {
+        "1": "4-5 tuần",
+        "2": "6-8 tuần",
+        "3": "9 - 12 tuần",
+        "4": ">12 tuần",
+        "A": "B",
+        "Q": "Thời gian ghép lại mảnh xương sọ sau mở sọ giảm áp cho bệnh nhân là (chọn câu đúng nhất)"
+      },
+      "138": {
+        "1": "Mắt (1- 4 điếm), Lời nói (1- 5 điểm), Vận động (1-6 điểm)",
+        "2": "Mở mắt (1-4 điếm), Lời nói (1- 5 điểm), Vận động (1-6 điểm)",
+        "3": "Mở mắt (1-4 điểm), Lời nói (1- 5 điểm), Vận động tay (1-6 điểm)",
+        "4": "Mở mắt (1-4 điếm), Lời nói  (1- 5đỉểm), Vận động chân (1-6 điếm)",
+        "A": "B",
+        "Q": "Thang điểm GCS (Glasgow Coma Scale) được dựa trên 03 đáp ứng, tương ứng với số điểm sau?"
+      },
+      "139": {
+        "1": "Mở mắt (4 điểm), Ngôn ngữ ( 5 điểm), Vận động tay (6 điểm)",
+        "2": "Mở mắt (4 điểm), Lời nói (5điếm), vận động (6 điểm)",
+        "3": "Mở mắt (1- 4 điểm), Lời nói (1- 5 điểm), vận động tay (1-6 điểm)",
+        "4": "Mở mắt (1- 4 điểm), Lời nói (1- 5điểm), vận động (1-6 điểm)",
+        "A": "D",
+        "Q": "Thang điểm GCS (Glasgow Coma Scale) được dựa trên 03 đáp ứng, tương ứng với số điểm sau?"
+      },
+      "140": {
+        "1": "Máu tụ thể tích trên",
+        "2": "Máu tụ thể tích trên",
+        "3": "Máu tụ thể tích trên",
+        "4": "Máu tụ thể tích trên",
+        "A": "C",
+        "Q": "Chỉ định mổ máu tụ trong não cấp tính do chấn thương khi (chọn phương án đúng nhất):"
+      },
+      "141": {
+        "1": "rách màng não, chảy máu ngoài màng cứng, nhiễm trùng vết mổ, động kinh",
+        "2": "rách  màng não, rò dịch não tủy, u não",
+        "3": "rách màng não, rò dịch não tủy, u tủy",
+        "4": "rách  màng não, áp xe não, co giật",
+        "A": "A",
+        "Q": "Tai biến, biến chứng có thể gặp trong phẫu thuật viêm xương sọ?"
+      },
+      "142": {
+        "1": "để nguyên tóc người bệnh, thăm khám các tổn thương",
+        "2": "để nguyên tóc người bệnh, chỉ thăm khám các xét nghiệm cận lâm sàng",
+        "3": "cạo sạch tóc, xác định vị trí kích thước các vết thương, không đưa sâu các dụng cụ thăm khám vào tổ chức não.",
+        "4": "cạo sach tóc, chỉ thăm khám thật sâu những nơi có não nát chảy ra.",
+        "A": "C",
+        "Q": "Một số điểm lưu ý khi thăm khám vết thương sọ não là?"
+      },
+      "143": {
+        "1": "Sốc tuỷ gặp trong mọi chấn thương tuỷ.",
+        "2": "Sốc tuỷ có thế gặp trong chấn thương tuỷ.",
+        "3": "Sốc tuỷ gặp trong hầu hết chấn thương tuỷ",
+        "4": "Sốc tủy không gặp trong chấn thương tuỷ.",
+        "A": "B",
+        "Q": "Chọn câu đúng nhất trong các câu sau?"
+      },
+      "144": {
+        "1": "30 mg/kg cân nặng.",
+        "2": "20 mg/kg cân nặng",
+        "3": "15 mg/kg cân nặng.",
+        "4": "10 mg/kg cân nặng.",
+        "A": "A",
+        "Q": "Liều điều trị khởi đầu của corticoid trong chống phù tuỷ do chấn thương?"
+      },
+      "145": {
+        "1": "Vững",
+        "2": "Mất vững",
+        "3": "Có thể là gãy mất vững hoặc gãy vững",
+        "4": "Tất cả các đáp án đều đúng",
+        "A": "B",
+        "Q": "Theo Denis gãy vỡ thân đốt nhiều mảnh là loại gãy (chọn câu đúng nhất)?"
+      },
+      "146": {
+        "1": "Gãy mất vững",
+        "2": "Gãy vững",
+        "3": "Có thể là gãy vững hoặc gãy mất vững",
+        "4": "Tất cả các đáp án đều đúng",
+        "A": "A",
+        "Q": "Gãy trật là loại (chọn câu đúng nhât)?"
+      },
+      "147": {
+        "1": "Tổn thương tường sau thân đốt",
+        "2": "Không có tổn thương tường sau thân đốt",
+        "3": "Có thể không tổn thương tường sau thân đốt",
+        "4": "Không thể tổn thương tường trước thân đốt",
+        "A": "C",
+        "Q": "Gãy vỡ thân đốt nhiều mảnh có đặc điểm (chọn câu đúng nhất )?"
+      },
+      "148": {
+        "1": "Có tổn thương một trong ba cột",
+        "2": "Có tổn thương từ hai cột trở lên",
+        "3": "Tổn thương cả ba cột",
+        "4": "Tổn thương hai cột nhưng không tổn thương cột giữa",
+        "A": "B",
+        "Q": "Theo Denis gãy mất vững là loại gãy (chọn câu đúng nhất)?"
+      },
+      "149": {
+        "1": "Phim XQ cột sống qui ước",
+        "2": "Phim cắt lớp vi tính cột sống",
+        "3": "Phim cộng hưởng từ cột sống",
+        "4": "Tất cả các đáp án đều đúng",
+        "A": "C",
+        "Q": "Tổn thương phần mềm cột sống được xác định rõ nhất trên (chọn câu đúng nhất)?"
+      },
+      "150": {
+        "1": "Phim chụp mạch máu tủy sống",
+        "2": "Phim cắt lớp vi tính cột sống",
+        "3": "Phim cộng hưởng từ cột sống",
+        "4": "Tất cả các đáp án đều đúng",
+        "A": "C",
+        "Q": "Tổn thương tủy sống được xác định rõ nhất trên (chọn câu đúng nhất)?"
+      },
+      "151": {
+        "1": "Phim chụp mạch máu tủy sống",
+        "2": "Phim cắt lớp vi tính cột sống ít dẫy",
+        "3": "Phim cộng hưởng từ cột sống",
+        "4": "Cả hai phương án B và C đều đúng",
+        "A": "A",
+        "Q": "Tốn thương dị dạng mạch máu tủy sống được xác định rõ nhất trên (chọn câu đúng nhất)?"
+      },
+      "152": {
+        "1": "7 độ",
+        "2": "5 độ",
+        "3": "3 độ",
+        "4": "1 độ",
+        "A": "B",
+        "Q": "Mức độ tốn thương thần kinh theo Frankel gồm?"
+      },
+      "153": {
+        "1": "Frankel A, B",
+        "2": "Frankel B, C",
+        "3": "Frankel A, B, C",
+        "4": "Frankel A, B, C, D",
+        "A": "D",
+        "Q": "Theo Frankel có tồn thương thần kinh gồm (chọn câu đúng nhất)?"
+      },
+      "154": {
+        "1": "Frankel E",
+        "2": "Frankel B",
+        "3": "Frankel A",
+        "4": "Frankel C, D, E",
+        "A": "A",
+        "Q": "Theo Frankel không tổn thương thần kinh gồm?"
+      },
+      "155": {
+        "1": "Mất trương lực cơ thắt",
+        "2": "Giảm trương lực cơ thắt",
+        "3": "Giảm hoặc mất trương lực cơ thắt",
+        "4": "Tất cả các đáp án đều đúng",
+        "A": "C",
+        "Q": "Rối loạn cơ tròn kiểu ngoại vi là (chọn câu đúng nhất)?"
+      },
+      "156": {
+        "1": "Tăng trương lực cơ thắt.",
+        "2": "Giảm hoặc mất trương lực cơ thắt.",
+        "3": "Trương lực cơ thắt bình thường.",
+        "4": "Tất cả các đáp án đều đúng",
+        "A": "B",
+        "Q": "Rối loạn cơ tròn kiều ngoại vi là?"
+      },
+      "157": {
+        "1": "Brown- sequard",
+        "2": "Tuỷ trung tâm",
+        "3": "Tuỷ sau",
+        "4": "Tất cả các đáp án đều đúng",
+        "A": "A",
+        "Q": "Tổn thương nửa tuỷ gây hội chứng?"
+      },
+      "158": {
+        "1": "Mất hoàn toàn vận động, cảm giác",
+        "2": "Mất hoàn toàn phản xạ",
+        "3": "Rối loạn thần kinh thực vật",
+        "4": "Tất cả các đáp án đều đúng",
+        "A": "D",
+        "Q": "Tổn thương tuỷ hoàn toàn có biểu hiện?"
+      },
+      "159": {
+        "1": "Mất hoàn toàn vận động, cảm giác, phản xạ, rối loạn thần kinh thực vật.",
+        "2": "Chỉ mất hoàn toàn vận động và cảm giác.",
+        "3": "Rối loạn thần kinh thực vật",
+        "4": "Tất cả các đáp án đều đúng",
+        "A": "A",
+        "Q": "Tổn thương tuỷ hoàn toàn là hiện tương (chọn câu đúng nhất)?"
+      },
+      "160": {
+        "1": "Vị trí đốt gãy, đường liên gai",
+        "2": "Đường liên gai",
+        "3": "Đường liên cuống sống, đường liên gai ngang",
+        "4": "Tất cả các đáp án đều đúng",
+        "A": "D",
+        "Q": "Trên phim XQ qui ước thẳng xác định được (chọn câu đúng nhất)?"
+      },
+      "161": {
+        "1": "Phim XQ cột sống qui ước",
+        "2": "Phim chụp cắt lớp vi tính qua đốt gãy",
+        "3": "Phim chụp cộng hưởng từ",
+        "4": "Tất cả các đáp án đều đúng",
+        "A": "A",
+        "Q": "Xác định vị trí gãy cột sống dựa trên?"
+      },
+      "162": {
+        "1": "Chảy máu, máu tụ nội sọ",
+        "2": "Tụt huyết áp, đau đầu",
+        "3": "Tụt huyết áp, hội chứng màng não",
+        "4": "Viêm não - màng não",
+        "A": "A",
+        "Q": "Tai biến chọc não thất?"
+      },
+      "163": {
+        "1": "Đo dịch chuyển đường giữa",
+        "2": "Đo bề dày máu tụ",
+        "3": "Đo kích thước não thất bên",
+        "4": "Tất cả các phương án đều đúng",
+        "A": "D",
+        "Q": "Trên phim cắt lớp vi tính sọ não đánh giá hiệu ứng choán chỗ dựa trên yếu tố nào?"
+      },
+      "164": {
+        "1": "Hình tròn",
+        "2": "Hình thấu kính hai mặt lồi",
+        "3": "Hình oval",
+        "4": "Hình liềm",
+        "A": "D",
+        "Q": "Hình ảnh hay gặp máu tụ dưới màng cứng cấp tính trên phim cắt lớp vi tính sọ não?"
+      },
+      "165": {
+        "1": "Dưới màng cứng cấp tính",
+        "2": "Xuất huyết não thất",
+        "3": "Máu tụ trong não",
+        "4": "Ngoài màng cứng cấp tính",
+        "A": "C",
+        "Q": "Hình ảnh \"Tàng băng nổi\" trên phim cắt lớp vi tính sọ não có thể gặp trong loại máu tụ nào?"
+      },
+      "166": {
+        "1": "Tăng tỷ trọng",
+        "2": "Giảm tỷ trọng",
+        "3": "Đồng tỷ trọng",
+        "4": "Tất cả các đáp án đều đúng",
+        "A": "B",
+        "Q": "Tỷ trọng máu tụ mạn tính dưới màng cứng trên phim cắt lớp vi tính sọ não (Chọn đáp án đúng nhất)?"
+      },
+      "167": {
+        "1": "Ổ máu tụ và vỏ ổ máu tụ ngấm thuốc cản quang mạnh",
+        "2": "Ổ máu tụ không ngấm thuốc cản quang, vỏ ổ máu tụ ngấm thuốc cản quang",
+        "3": "Vỏ ổ máu tụ ngấm thuốc cản quang",
+        "4": "Vỏ ổ máu tụ không ngấm thuốc cản quang",
+        "A": "B",
+        "Q": "Hình ảnh máu tụ mạn tính dưới màng cứng trên phim cắt lớp vi tính sọ não có tiêm thuôc cản quang (chọn đáp án đúng nhất)?"
+      },
+      "168": {
+        "1": "Tăng tín hiệu",
+        "2": "Giảm tín hiệu",
+        "3": "Đồng tín hiệu",
+        "4": "Tất cả các đáp án đều đúng",
+        "A": "B",
+        "Q": "Hình ảnh tín hiệu trên T2W phim cộng hưởng từ của máu tụ mạn tính dưới màng cứng?"
+      },
+      "169": {
+        "1": "Hình  vòng tròn vành xe",
+        "2": "Hình  thả bóng bay",
+        "3": "Hình  sao",
+        "4": "Hình quả tạ",
+        "A": "A",
+        "Q": "Hình ảnh điển hình áp xe não giai đoạn hóa mủ trên phim cắt lớp vi tính sọ não?"
+      },
+      "170": {
+        "1": "Tăng tỷ trọng vỏ, giảm tỷ trọng ổ áp xe",
+        "2": "Tăng tỷ trọng cả vỏ và ổ áp xe",
+        "3": "Chỉ tăng tỷ trọng ổ áp xe",
+        "4": "Đồng tỷ trọng với nhu mô não",
+        "A": "A",
+        "Q": "Tỷ trọng ổ áp xe não giai đoạn hóa mù trên phim cắt lớp vi tính sọ não không tiêm thuốc cản quang?"
+      },
+      "171": {
+        "1": "u não",
+        "2": "áp xe não",
+        "3": "Bệnh lý mạch máu não",
+        "4": "Tất cả các đáp án đều đúng",
+        "A": "C",
+        "Q": "Phương pháp chụp động mạch não - số hoá xoá nền để chẩn đoán xác định bệnh lý nào?"
+      },
+      "172": {
+        "1": "Giảm tỷ trọng",
+        "2": "Tăng tỷ trọng",
+        "3": "Đồng tỷ trọng",
+        "4": "Tất cả các đáp án đều đúng",
+        "A": "D",
+        "Q": "Tỷ trọng của u màng não trên phim cắt lớp vỉ tính sọ não (Chọn đáp án đúng nhất)?"
+      },
+      "173": {
+        "1": "Tăng tín hiệu",
+        "2": "Giảm tín hiệu",
+        "3": "Đồng tín hiệu",
+        "4": "Tất cả các đáp án đều đúng",
+        "A": "B",
+        "Q": "Hình ảnh u màng não trên phim cộng hưởng từ pha T1W ?"
+      },
+      "174": {
+        "1": "Vẹo cột sống, mất đường cong sinh ly, gập góc cột sống.",
+        "2": "Hẹp khe gian đốt sống, mất đường cong sinh lý, vẹo cột sống",
+        "3": "Hẹp ống sống, mất đường cong sinh lý. vẹo cột sống",
+        "4": "Mất đường cong sinh lý cột sống, hẹp khe gian đốt và ống sống",
+        "A": "B",
+        "Q": "Tam chứng Barr trên phim chụp cột sống thắt lưng quy ước của bệnh nhân thoát vị đĩa đệm cột sống thắt lưng cùng bao gôm?"
+      },
+      "175": {
+        "1": "Chếch 3/4",
+        "2": "Thẳng",
+        "3": "Nghiêng",
+        "4": "Thẳng há miệng",
+        "A": "D",
+        "Q": "Xác định gãy mỏm nha C2 chụp phim X- quang cột sống cổ tư thế nào?"
+      },
+      "176": {
+        "1": "Dây chằng vàng",
+        "2": "Dây chằng bao khớp",
+        "3": "Đốt sống",
+        "4": "Dây chằng liên gai sau",
+        "A": "C",
+        "Q": "Chụp cắt lớp vi tính cột sống đánh giá được thành phần nào (chọn phương án đúng nhất)?"
+      },
+      "177": {
+        "1": "Hẹp lỗ ghép",
+        "2": "Hẹp ống sống",
+        "3": "Ổ áp xe lạnh",
+        "4": "Hẹp khe gian đốt",
+        "A": "D",
+        "Q": "Trong bệnh lao cột sống chụp X quang quy ước thấy hình ảnh nào rõ nhãt?"
+      },
+      "178": {
+        "1": "Thân đốt sống",
+        "2": "Đĩa đệm",
+        "3": "Cuống sống",
+        "4": "Tất cả các đáp án đều đúng",
+        "A": "A",
+        "Q": "Chụp cắt lớp vi tính cột sống trong bênh lý lao cột sống để xác định tổn thương thành phần nào (Chọn đáp án đúng nhất)?"
+      },
+      "179": {
+        "1": "Giảm tín hiệu",
+        "2": "Tăng tín hiệu",
+        "3": "Tín hiệu hỗn hợp",
+        "4": "Tăng tín hiệu, tín hiệu hỗn hợp",
+        "A": "A",
+        "Q": "Hình ảnh ổ áp xe lạnh trên phim cộng hưởng từ cột sống pha T2W?"
+      },
+      "180": {
+        "1": "Viêm não – màng não",
+        "2": "U não",
+        "3": "Giãn não thất",
+        "4": "Hôn mê do chấn thương sọ não",
+        "A": "B",
+        "Q": "Chỉ định chụp động mạch não?"
+      }
+    },
+    "ngoai_chan_thuong": {
+      "name": "Ngoại chấn thương",
+      "1": {
+        "1": "Sưng nề",
+        "2": "Vết tím bầm",
+        "3": "Lạo xạo xương và cử động bất thường",
+        "4": "Đau chói tại chỗ gãy",
+        "A": "",
+        "Q": "Trong các triệu chứng (TC) sau đây, TC nào là TC cơ năng khi gãy xương? [cite: 2]"
+      },
+      "2": {
+        "1": "Điểm đau chói cố định.",
+        "2": "Bất lực vận động",
+        "3": "Biến dạng chi",
+        "4": "Cử động bất thường",
+        "A": "B",
+        "Q": "Trong các TC sau đây, TC nào không phải là triệu chứng thực thể khi gãy xương? [cite: 3, 733]"
+      },
+      "3": {
+        "1": "Sưng nề",
+        "2": "Chi cong vẹo, quai lồi",
+        "3": "Ngắn chi",
+        "4": "Vết tím bầm",
+        "A": "D",
+        "Q": "Trong các TC sau, TC nào không phải là biến dạng chi khi gãy xương? [cite: 4, 733]"
+      },
+      "4": {
+        "1": "Đo khoảng cách từ hai mốc trên cùng một xương.",
+        "2": "Là khoảng cách đo từ hai mốc, có một mốc không ở trên xương đó",
+        "3": "Đo từ hai mốc nằm ngoài xương đó",
+        "4": "Phải đo từ hai khe khớp",
+        "A": "A",
+        "Q": "Đâu là cách xác định độ dài tuyệt đối của một xương ? [cite: 5, 733]"
+      },
+      "5": {
+        "1": "Điểm đau chói cố định",
+        "2": "Chi sưng nề",
+        "3": "Hạn chể vện động.",
+        "4": "Lạo xạo xương và cử động bất thường",
+        "A": "D",
+        "Q": "Trong điều kiện chưa có phim XQ, triệu chứng nào sau đây có giá trị chẩn đoán là chắc chắn gãy xương? [cite: 6, 733]"
+      },
+      "6": {
+        "1": "Toàn thân, toàn diện.",
+        "2": "Phải có người hộ tổng.",
+        "3": "Khám có trình tự: nhìn, sờ, đo, vận động, cảm giác",
+        "4": "So sánh với bên lành",
+        "A": "B",
+        "Q": "Khi khảm một bệnh nhân gãy xương mới, yêu cầu nào dưói đây được coi là không cần thiết? [cite: 7, 733]"
+      },
+      "7": {
+        "1": "Đau chói cố định",
+        "2": "Đau âm ỉ",
+        "3": "Đau tại chỗ, khỉ cố định đỡ đau",
+        "4": "Đau tại chỗ, khi nắn hết sai khớp thì hết đau",
+        "A": "D",
+        "Q": "Triệu chứng đau như thể nào là của sai khớp mới? [cite: 8, 733]"
+      },
+      "8": {
+        "1": "Điểm đau chóỉ cố định",
+        "2": "Sưng nề vùng khớp",
+        "3": "Chỉ ở tư thế bắt buộc",
+        "4": "Bất lực vận động",
+        "A": "C",
+        "Q": "Trong các TC sau đây, TC nào chỉ có trong sai khớp? [cite: 9, 733]"
+      },
+      "9": {
+        "1": "Tuổi thiếu nhi",
+        "2": "Tuổi thanh niên",
+        "3": "Tuổi giả.",
+        "4": "Tuổi nhỉ đồng",
+        "A": "B",
+        "Q": "Trong các nhóm tuổi dưới đây, nhóm tuổi nào hay bị sai khớp? [cite: 10, 733]"
+      },
+      "10": {
+        "1": "Khớp háng",
+        "2": "Khớp vai",
+        "3": "Khớp khuỷu",
+        "4": "Khớp gối",
+        "A": "B",
+        "Q": "Trong 4 khớp sau đây, khớp nào hay bị sai nhất? [cite: 11, 733]"
+      },
+      "11": {
+        "1": "Xác định có sai khớp không",
+        "2": "Di lệch của chỏm xương",
+        "3": "Hình ảnh tổn thương dây chằng",
+        "4": "Tổn thương xương kết hợp",
+        "A": "C",
+        "Q": "Gía trị của phim XQ trong chẩn đoán sai khớp không bao gồm yếu tố nào sau đây? [cite: 12, 733]"
+      },
+      "12": {
+        "1": "Chi ở tư thế bắt buộc",
+        "2": "Sờ thấy ổ khớp rỗng",
+        "3": "Dấu hiệu lò xo",
+        "4": "Độ dài tương đối của xương đùi ngắn hơn bên lành.",
+        "A": "B",
+        "Q": "Triệu chứng nào dưới đây không thể khá thấy gặp trong sai khớp háng thể chậu? [cite: 13, 733]"
+      },
+      "13": {
+        "1": "Đứt dây chằng",
+        "2": "Rách bao khớp",
+        "3": "Tràn máu khớp",
+        "4": "Gãy xương",
+        "A": "D",
+        "Q": "Tổn thương nào sau đây không gặp trong sai khớp đơn thuần? [cite: 14, 733]"
+      },
+      "14": {
+        "1": "Chi ở tư thế bắt buộc",
+        "2": "Dấu hiệu phím đàn",
+        "3": "Dấu hiệu lạo xạo xương",
+        "4": "Sờ thấy ổ khớp rỗng",
+        "A": "B",
+        "Q": "Triệu chứng nào dưới đây khám thấy sai khớp cùng đòn: [cite: 15, 733]"
+      },
+      "15": {
+        "1": "Chi ở tư thế bắt buộc",
+        "2": "Dấu hiệu phím đàn",
+        "3": "Rãnh Delta ngực đầy",
+        "4": "Sờ thấy ổ khớp rỗng",
+        "A": "B",
+        "Q": "Triệu chứng nào dưới đây, không có trong sai khớp vai? [cite: 16, 733]"
+      },
+      "16": {
+        "1": "Vết thương ô nhiễm.",
+        "2": "Vết thương chẩy máu lẫn váng mỡ.",
+        "3": "Vết thương lộ xương.",
+        "4": "Vết thương có nhiều dị vật",
+        "A": "B",
+        "Q": "Trong những đặc điểm sau, đặc điểm nào chỉ có ở vết thương gãy xương mở? [cite: 18, 733]"
+      },
+      "17": {
+        "1": "Vết thương nhỏ đường kính < lcm",
+        "2": "Vết thương chưa có sưng tấy đỏ",
+        "3": "Vết thương mà vi khuẩn tại đó chưa sinh sản",
+        "4": "Vết thương không có dị vật đất cát",
+        "A": "C",
+        "Q": "Vết thương ô nhiễm là vết thương nào sau đây? [cite: 19, 733]"
+      },
+      "18": {
+        "1": "Vết thương gãy hở từ trong ra.",
+        "2": "Vết thương gãy hở do chấn thương trực tiếp.",
+        "3": "Vết thương gãy hở đến muộn",
+        "4": "Vết thương gãy hở độ III trở lên (Theo Gustílo)",
+        "A": "A",
+        "Q": "Vết thương gãy xương hở nào sau đây ít nguy cơ nhíễm khuẩn nhất? [cite: 20, 733]"
+      },
+      "19": {
+        "1": "Quanh chỗ vết thương sưng, tấy đỏ",
+        "2": "Vết thương chảy dịch hôi",
+        "3": "Vết thương vẫn còn chảy máu",
+        "4": "Vết thương có nhiều tổ chức hoại tử",
+        "A": "C",
+        "Q": "Triệu chứng nào sau đây không phải là biểu hiện của vết thương gãy xương hở đã có biến chứng nhiễm khuẩn? [cite: 21, 733]"
+      },
+      "20": {
+        "1": "Tổn thương phần mềm.",
+        "2": "Đường kính vét thương.",
+        "3": "Tình trạng di lệch tạí ổ gẫy.",
+        "4": "Thời gian từ lúc bị thương đến lúc vào viện.",
+        "A": "D",
+        "Q": "Phân loại gãy xương hớ của Gustílo không dựa vảo yếu tố nào dưới đây ? [cite: 22, 733]"
+      },
+      "21": {
+        "1": "Độ I",
+        "2": "Độ II",
+        "3": "Độ III A",
+        "4": "Độ III C",
+        "A": "C",
+        "Q": "Vết thương gãy xương hở mất da rộng lộ xương, tại vết thương có nhiều dị vật đất cát, là độ mấy theo phân loại của Gustilo? [cite: 23, 733]"
+      },
+      "22": {
+        "1": "Độ I",
+        "2": "Độ II",
+        "3": "Độ III A",
+        "4": "Độ III B",
+        "A": "D",
+        "Q": "Vết thương gãy xương hở ô nhiễm nặng, kèm theo mất da rộng. Sau khi cắt lọc vết thương phần da còn lại không thể che phủ kín ổ gãy, cần phải phẫu thuật tạo hình bổ sung, đồng chí xếp vào độ mấy theo Gustilo? [cite: 24, 733]"
+      },
+      "23": {
+        "1": "Phân độ gãy xương hở của Gustilo.",
+        "2": "Thời gian từ lúc bị thương đến khi được xử trí phẫu thuật",
+        "3": "Tiêm kháng sinh ngay từ khi sơ cứu",
+        "4": "Điểm Glasgow của bệnh nhân",
+        "A": "D",
+        "Q": "Yếu tố nào dưới đây không có giá trị tiên lượng diễn biến tại vết thương trong xử trí cấp cứu gãy xương hở ? [cite: 25, 733]"
+      },
+      "24": {
+        "1": "Mổ cấp cứu cảng sớm càng tốt, tốt nhất trong 6 giờ đầu.",
+        "2": "Thời gian mổ càng ngắn càng tốt",
+        "3": "Cắt lọc triệt để tổ chức dập nát, tưới rửa, dẫn lưu",
+        "4": "Cố định ổ gãy vững chắc",
+        "A": "B",
+        "Q": "Đâu không phải là nguyên tắc xử trí kỳ đẩu vết thương gãy xuơng hở? [cite: 26, 733]"
+      },
+      "25": {
+        "1": "Chống nhiễm khuẩn, làm liền vết thương",
+        "2": "Tránh nguy cơ di lệch thứ phát",
+        "3": "Giảm đau, phòng chống sốc",
+        "4": "Nắn chỉnh xương gãy và cố định vững chắc",
+        "A": "A",
+        "Q": "Mục tiêu của mổ cấp cứu trong xử trí kỳ đầu vết thương gãy xương hở là gì? [cite: 27, 733]"
+      },
+      "26": {
+        "1": "Mổ cấp cứu trước 6 giờ",
+        "2": "Cắt lọc triệt để phần mềm dập nát, tước rửa, dẫn lưu",
+        "3": "Kết xương bên trong bằng nẹp vít hoặc đinh nội tủy",
+        "4": "Kháng sinh phổ rộng liều cao",
+        "A": "C",
+        "Q": "Trong các biện pháp sau đây, biện pháp nào không có tác dụng dự phòng biến chứng nhiễm khuẩn trong điều trị vết thương gãy xương hở? [cite: 28, 733]"
+      },
+      "27": {
+        "1": "Cắt lọc vết thương gãy xương hở, kết xương bên trong bằng nẹp vít",
+        "2": "Cắt lọc vết thương gãy xương hở, kết xương bên trong đinh nội tủy",
+        "3": "Cắt lọc vết thương gãy xương hở, kết xương bằng khung cố định ngoài.",
+        "4": "Không cắt lọc vết thương gãy xương hở, chi bó bột.",
+        "A": "C",
+        "Q": "Đứng trước một trường hợp gãy hở độ III A (theo phân loại của Gustilo) phải xử trí mổ cấp cứu, đâu là phương pháp điều trị đúng. [cite: 29, 733]"
+      },
+      "28": {
+        "1": "Cắt lọc vết thương gãy xương hở, kết xương bên trong bằng nẹp vít.",
+        "2": "Cắt lọc vết thương gãy xương hở, kết xương bên bằng đinh nội tủy",
+        "3": "Cắt lọc vết thương gãy xương hở, kết xương bằng khung cố định ngoài.",
+        "4": "Cắt lọc vết thương gãy xương hở, bó bột.",
+        "A": "C",
+        "Q": "Đứng trước một trường hợp gãy hở độ III B (theo phân loại của Gustilo), đâu là phương pháp cố định ổ gãy xương phù hợp nhất? [cite: 30, 733]"
+      },
+      "29": {
+        "1": "Vết thương gãy hở do hỏa khí",
+        "2": "Vết thương gãy hở độ I, độ II đến sớm trước 6 giờ",
+        "3": "Vết thương gãy hở đến muộn, tại chỗ đang sưng tấy đỏ",
+        "4": "Vết thương gãy hở dập nát phẩn mềm, nhiều đất cát",
+        "A": "B",
+        "Q": "Trường hợp nào sau đây được đóng kín vết thương trong xử trí phẫu thuật cấp cứu vết thương gẫy xương hở ? [cite: 31, 733]"
+      },
+      "30": {
+        "1": "V ết thương gãy hở do hỏa khí",
+        "2": "Vết thương gãy hở độ I đến sớm trước 6 giở.",
+        "3": "Vết thương gãy hở đến muộn, tại chỗ đang sưng tấy đỏ",
+        "4": "Vết thương gãy hở dập nát phần mềm, nhiều.",
+        "A": "B",
+        "Q": "Trường hợp nào sau đây được kết xương bên trong khi phẫu thuật xử trí cấp cứu vết thương gẫy xương hở ? [cite: 32, 733]"
+      },
+      "31": {
+        "1": "Vết thương gãy hờ do hỏa khí",
+        "2": "Vết thương gãy hở dập nát chi thể, không có khả năng bảo tồn, sốc chấn thương hồi sức không hiệu quả",
+        "3": "Vết thương gãy hở đến muộn, tại chỗ đang sưng tấy đỏ",
+        "4": "Vết thương gãy hở dập nát phần mềm, nhiều dị vật đất cát.",
+        "A": "B",
+        "Q": "Trường hợp nào sau đây chỉ định cắt cụt cấp cứu trong xử trí vết thương gẫy xương hở ? [cite: 33, 733]"
+      },
+      "32": {
+        "1": "Gãy nhiều mảnh",
+        "2": "Gãy ngang",
+        "3": "Gãy xoắn vặn",
+        "4": "Gãy có mảnh hình cánh bướm",
+        "A": "B",
+        "Q": "Trong số các loại gãy sau đây của xương chầy, loại gãy nào là gãy vững? [cite: 35, 733]"
+      },
+      "33": {
+        "1": "Nắn chỉnh và cố định ổ gẫy",
+        "2": "Điều trị bằng thuổo chống co mạch",
+        "3": "Điều trị bằng thuốc chống đông.",
+        "4": "Siêu âm mạch máu xác định nguyên nhân và biện pháp xử trí.",
+        "A": "D",
+        "Q": "Trước 1 bệnh nhân bị gãy 2 xương cẳng chân, không bắt được mạch vùng cổ chân, thái độ xử trí nào nên lựa chọn? [cite: 36, 733]"
+      },
+      "34": {
+        "1": "1 tháng",
+        "2": "2 tháng",
+        "3": "3 tháng",
+        "4": "6 tháng",
+        "A": "C",
+        "Q": "Thời hạn liền xương trung bình của gãy kín thân xương cẳng chân là: [cite: 37, 733]"
+      },
+      "35": {
+        "1": "Cử động bất thường tại ổ gãy",
+        "2": "Bất lực vận động",
+        "3": "Ngắn chỉ",
+        "4": "Viêm tấy đỏ và chẩy dịch",
+        "A": "D",
+        "Q": "Trước 1 gãy hở 2 xương cẳng chân, dấu hiệu lâm sàng nào là biểu hiện của nhiễm khuần? [cite: 38, 733]"
+      },
+      "36": {
+        "1": "Hình ảnh những ổ tiêu xương",
+        "2": "Còn khe dãn cách 2 đầu gãy",
+        "3": "Các đầu gãy bè rộng hình chân voi",
+        "4": "Gãy phương tiện kết xương",
+        "A": "A",
+        "Q": "Trước 1 trường hợp gãy hở 2 xương cẳng chân, những dấu hiệu XQ nào là biểu hiện của 1 viêm xương tủy xương ổ gẫy xương chầy? [cite: 39, 733]"
+      },
+      "37": {
+        "1": "Cắt lọc vết thương",
+        "2": "Vô cảm tốt",
+        "3": "Sử dụng kháng sinh",
+        "4": "Bất động ổ gãy",
+        "A": "B",
+        "Q": "Biện pháp nào sau đây không có tác dụng trực tỉếp dự phòng biến chứng nhiễm khuẩn trong xử trí phẫu thuật gãy hở hai xương cẳng chân? [cite: 40, 733]"
+      },
+      "38": {
+        "1": "Vết thương phần mềm nhỏ đường kính < 1 cm, phần mềm tổn thương không nhiều, xương gãy đơn giản",
+        "2": "Vết thương bị bầm dập dễ bị hoại tử da sau khi khâu",
+        "3": "Vết thương gãy hở có khuyết hổng tổ chức lộ xương, cần tạo hình phủ bổ sung.",
+        "4": "Vết thương gãy xương hở có vết thương vòng quanh chu vi chi.",
+        "A": "A",
+        "Q": "Đâu là gãy hở độ I theo phân loại của Gustilo? [cite: 41, 733]"
+      },
+      "39": {
+        "1": "Ổ gẫy không liền xương và có viêm rò kéo dài.",
+        "2": "Là biến chứng gặp nhiều sau gãy xương hở hơn gãy kín.",
+        "3": "Điều trị thường khó khăn, phức tạp",
+        "4": "Có những trường hợp điều trị thất bại phải cắt cụt chi",
+        "A": "A",
+        "Q": "Thế nào là khớp giả nhiễm trùng là: [cite: 42, 733]"
+      },
+      "40": {
+        "1": "Thần kinh hông khoeo ngoài chạy qua vùng cổ xương mác",
+        "2": "Thần kinh hông khoeo ngoài chạy trong khoang trước cẳng chân",
+        "3": "Thần kinh hông khoeo ngoài chi phối các cơ gấp mu bàn chân",
+        "4": "Thần kinh hông khoeo trong chi phối cảm giác da mu chân",
+        "A": "D",
+        "Q": "Ý nào sau đây là không chính xác trong phân bố thần kinh của cẳng chân? [cite: 43, 733]"
+      },
+      "41": {
+        "1": "XQ hình ảnh ổ gãy xương chầy không liền xương",
+        "2": "Cử động bất thường tại ổ gãy",
+        "3": "Lỗ rò, chẩy mủ ở căng chân",
+        "4": "Lệch trục của chi dưới",
+        "A": "D",
+        "Q": "Dấu hiệu lâm sàng nào dưới đây không phải là điển hình của 1 khớp giả nhiễm trùng ổ gãy chày? [cite: 44, 733]"
+      },
+      "42": {
+        "1": "Còn tồn tại khe đường gãy",
+        "2": "Hình ảnh các đầu xương bè rộng hình chân voi",
+        "3": "Hai đầu gãy teo nhọn như bút chi",
+        "4": "Có mảnh xương chết tại ổ gãy",
+        "A": "D",
+        "Q": "Những dấu hiệu XQ nào sau đây không phải là biểu hiện của khớp giả thân xương chầy? [cite: 45, 733]"
+      },
+      "43": {
+        "1": "Khâu kín vết thương và bó định bột",
+        "2": "Không cắt lọc vết thương, chỉ băng kín vết thương và bó định bột",
+        "3": "Cắt lọc vết thương, kết hợp xương bên trong",
+        "4": "Mổ cấp cứu, cắt lọc vết thương, cố định ổ gẫy bàng khung cố định ngoài.",
+        "A": "D",
+        "Q": "Một bệnh nhân bị gãy hở xương chày độ III A, xương gãy nhiều mảnh, nhiễm bẩn, những biện pháp xử lý nào sau đây là đúng: [cite: 46, 733]"
+      },
+      "44": {
+        "1": "Cố định ngoài",
+        "2": "Nẹp vít",
+        "3": "Đinh nội tủy",
+        "4": "Bột đùi bàn chân",
+        "A": "A",
+        "Q": "Bệnh nhân gẫy hở độ III A thân xương chầy, phương pháp cố định ổ gãy nào sau đây là an toàn nhất? [cite: 47, 733]"
+      },
+      "45": {
+        "1": "Chậm liền xương",
+        "2": "Khớp giả nhiễm trùng.",
+        "3": "Viêm xương trên ổ gẫy chưa liền",
+        "4": "Liền xương xấu",
+        "A": "B",
+        "Q": "Trường hợp bệnh nhân gẫy hở độ IIIA thân xương chầy đến khám ỉại sau 3 tháng cho thấy có cảc ỉễ dò nhiều dịch mủ tại cẳng chân, không tỳ nén được trên chân bị thương, XQ cho thấy 0 gãy xương chầy chưa liền thì chẩn đoán nào sau đây là đúng? [cite: 48, 733]"
+      },
+      "46": {
+        "1": "Cố định ngoài",
+        "2": "Nẹp vít",
+        "3": "Đinh nội tủy có chốt",
+        "4": "Bột đùi bàn chân",
+        "A": "C",
+        "Q": "Bệnh nhân gẫy hở độ II thân xương chầy đến sớm, phương pháp cố định ổ gãy nào sau đây là an toàn nhất? [cite: 49, 733]"
+      },
+      "47": {
+        "1": "Hoại tử da",
+        "2": "Đứt động mạch chày sau",
+        "3": "Tắc tĩnh mạch",
+        "4": "Liệt thần kinh hông khoeo ngoài",
+        "A": "A",
+        "Q": "Biến chửng sớm tại chỗ thường gặp nhất của gãy 2 mắt cá chân là: [cite: 51, 733]"
+      },
+      "48": {
+        "1": "1 tháng",
+        "2": "2 tháng",
+        "3": "3 tháng",
+        "4": "4 tháng",
+        "A": "B",
+        "Q": "Thời gian liền xương trung bình của gãy 2 mắt cá là: [cite: 52, 733]"
+      },
+      "49": {
+        "1": "Hoại tử da do mảnh gãy đội căng da.",
+        "2": "Thưa xương",
+        "3": "Hội chứng rối loạn dinh dưỡng đau",
+        "4": "Khớp giả",
+        "A": "A",
+        "Q": "Đâu không phải là biến chứng muộn của gãy 2 mắt cá là: [cite: 53, 733]"
+      },
+      "50": {
+        "1": "Ngã trong tư thế bàn chân xoay sấp",
+        "2": "Đường gãy của mắt cá trong nằm ngang",
+        "3": "Đường gãy xương mác ở trên dây chằng chày mác dưới",
+        "4": "Dây chằng mác dưới không bị tổn thương",
+        "A": "D",
+        "Q": "Các yếu tố nào sau đây là không đúng trong gãy Dupuytren? [cite: 54, 733]"
+      },
+      "51": {
+        "1": "Đứt dây chằng mác dưới",
+        "2": "Doãng mộng chày mác.",
+        "3": "Bán sai khớp xương sên ra ngoài",
+        "4": "Gãy mắt cá Destot.",
+        "A": "D",
+        "Q": "Các yếu tố nào sau đây không bắt buộc phải có trong gãy Dupuytren? [cite: 55, 733]"
+      },
+      "52": {
+        "1": "Bao gồm 2 xương cánh chậu, xương cùng và xương cụt.",
+        "2": "Xương chậu, xương ngồi và xương mu.",
+        "3": "Xương chậu và xương cùng.",
+        "4": "Xương chậu và xương mu.",
+        "A": "A",
+        "Q": "Khung chậu cấu tạo từ các xương nào? [cite: 57, 733]"
+      },
+      "53": {
+        "1": "Gãy gai chậu trước trên, gãy gai chậu trước dưới",
+        "2": "Gãy ngành mu chậu, ngành ngồi chậu..",
+        "3": "Gãy xương cùng.",
+        "4": "Gẫy trần ổ cối",
+        "A": "D",
+        "Q": "Loại gãy nào dưới đây không thuộc gãy thành chậu ? [cite: 58, 733]"
+      },
+      "54": {
+        "1": "Gãy dọc cánh xương chậu một bên",
+        "2": "Gãy ổ cốỉ trật khớp háng trung tâm",
+        "3": "Gãy Malgaingne và gãy Voillermier",
+        "4": "Gãy cánh xương cùng một bên",
+        "A": "C",
+        "Q": "Loại gãy nào dưới đây là gãy khung chậu? [cite: 59, 733]"
+      },
+      "55": {
+        "1": "Gãy n gành mu chậu. ngồi chậu của cung trước và gãy dọc cánh chậu cùngbên của cung sau.",
+        "2": "Gãy cánh xuơng cùng + gãy ngành mu chậu và ngồi chậu.",
+        "3": "Sai khớp mu.",
+        "4": "Sai khớp cùng chậu",
+        "A": "A",
+        "Q": "Trong sổ các tổn thương sau đây, tồn thương nào gặp trong gãy khung chậu kỉểu Malgaigne: [cite: 60, 733]"
+      },
+      "56": {
+        "1": "Gãy ngành mu chậu, ngồi chậu của cung trước và gãy dọc cánh chậu cùng bên cùa cung sau.",
+        "2": "Gãy ngành mu chậu và ngồi chậu của cung trước + gãy cánh xương cùng hoặc sai khớp cùng chậu hoặc trật khớp mu",
+        "3": "Gãy ngành mu chậu và ngồi chậu cả hai bên",
+        "4": "Sai khớp cùng chậu.",
+        "A": "B",
+        "Q": "Trong sổ các tổn thương sau đây, tổn thương nào gặp trong gãy khung chậu kiểu Voillermier? [cite: 61, 733]"
+      },
+      "57": {
+        "1": "Sưng nề, tụ máu vùng gãy xương.",
+        "2": "Ép bửa khung chậu đau chói.",
+        "3": "Bất lực vận động: không tự nâng được chân lên khỏi giường.",
+        "4": "Đái ra máu toàn bãi.",
+        "A": "D",
+        "Q": "Trong sổ các triệu chứng sau đây của gãy khung chậu, triệu chứng nào không phải là biểu hiện của tổn thương ở xương chậu? [cite: 62, 733]"
+      },
+      "58": {
+        "1": "Tổn thương lách",
+        "2": "Tổn thương âm đạo",
+        "3": "Tổn thương niệu đạo, bàng quang, niệu quản",
+        "4": "Tổn thương trực tràng",
+        "A": "A",
+        "Q": "Bệnh nhân gãy khung chậu có thể kèm theo các tổn thương kết hợp, tổn thương nào dưới đây không liên quan trực tiếp với gãy khung chậu? [cite: 63, 733]"
+      },
+      "59": {
+        "1": "Gây xương chậu đau đớn nhiều",
+        "2": "Gây khung chậu chẩy nhiều máu.",
+        "3": "Thường có tổn thương kết hợp",
+        "4": "Do không được cấp cứu ban đầu tốt.",
+        "A": "C",
+        "Q": "Bệnh nhân gãy khung chậu có tỷ lệ sốc cao do nghiều nguyên nhân. Trong các ý dưới đây, đâu không phải là nguyên nhân dẫn đến tỷ lệ sốc chẩn thương trong gãy khung chậu cao ? [cite: 64, 733]"
+      },
+      "60": {
+        "1": "Chảy mấu đầu miệng sáo",
+        "2": "Bầm tím, sưng nề vùng tầng sinh môn",
+        "3": "Cầu bàng quang căng,",
+        "4": "Đái ra máu,",
+        "A": "D",
+        "Q": "Khi thăm khám bệnh nhân gãy khung chậu, trong các dấu hiệu lâm sàng sau đây, dâu hiệu nào không có giá trị chẩn đoán đứt niệu đạo? [cite: 65, 733]"
+      },
+      "61": {
+        "1": "Chuyển bệnh nhân bằng cáng cứng.",
+        "2": "Chuyển bệnh nhân bằng Võng.",
+        "3": "Cõng bệnh nhân.",
+        "4": "Chuyển bệnh nhân bàng cáng cứng có băng ép khung chậu.",
+        "A": "D",
+        "Q": "Đâu là cách vận chuyển tốt nhất trong sơ cứu bệnh nhân gãy khung chậu? [cite: 66, 733]"
+      },
+      "62": {
+        "1": "Vết thương cỏ chày mảu lẫn váng mỡ",
+        "2": "Chẩy máu hậu mon, thăm trực trạng thấy vêt thương và sờ thây đâu gãy.",
+        "3": "Chảy máu âm đạo, thăm âm đạo sờ thấy đầu gãy.",
+        "4": "Đi đái ra máu.",
+        "A": "D",
+        "Q": "Triệu chứng dưới đây không phải là biểu hiện của gãy hở khung chậu? [cite: 67, 733]"
+      },
+      "63": {
+        "1": "Ép bửa khung chậu đau",
+        "2": "Chẩy máu hậu môn, thăm trực tràng sờ thấy vết thương và đầu xương",
+        "3": "Da xanh, niêm mạc nhợt",
+        "4": "Khám thấy có cầu bàng quang",
+        "A": "B",
+        "Q": "Triệu chứng nào dưới đây không phải là biểu hiện của gãy kín khung chậu? [cite: 68, 733]"
+      },
+      "64": {
+        "1": "Sốc chấn thương",
+        "2": "Tổn thương niệu đạo",
+        "3": "Tổn thương bàng quang",
+        "4": "Liền lệch khung chậu",
+        "A": "D",
+        "Q": "Biến chứng nào dưới đây không phải là biến chứng sớm của gãy kín khung chậu? [cite: 69, 733]"
+      },
+      "65": {
+        "1": "Xương quay gãy trên khe khớp 1,5 - 2 cm",
+        "2": "Đầu ngoại vi di lệch ra sau.",
+        "3": "Đầu ngoại vi di ỉệch ra ngoài",
+        "4": "Đương gãy xương quay phạm khớp",
+        "A": "A",
+        "Q": "Tiêu chí nào không phải là gãy Pouteau 1 Colles? [cite: 71, 733]"
+      },
+      "66": {
+        "1": "Đau chói ở cẳng tay",
+        "2": "Cẳng tay sưng nề",
+        "3": "Không sấp ngửa được cẳng tay",
+        "4": "Dấu hiệu lạo xạo xương và cử động bất thường",
+        "A": "D",
+        "Q": "Triệu chứng nào không phải là triệu chứng cơ năng trong gãy xương cẳng tay: [cite: 72, 733]"
+      },
+      "67": {
+        "1": "Cẳng tay sưng nề.",
+        "2": "Điểm đau chói cố định ở 1/3 trên xương quay.",
+        "3": "Độ dài tuyệt đối xương quay ngắn hơn bên lành.",
+        "4": "Bàn tay ngửa hoàn toàn",
+        "A": "D",
+        "Q": "Trong gãy 2 xương cẳng tay, nếu xương quay gãy ở 1/3 ưên cơ sấp tròn thì triệu chủng nàọ sau đây không phù hợp? [cite: 73, 733]"
+      },
+      "68": {
+        "1": "Di lệch chồng.",
+        "2": "Di lệch sang bên",
+        "3": "Di lệch xoay.",
+        "4": "Di lệch giãn cách.",
+        "A": "D",
+        "Q": "Loại di lệch nào không gập trong gãy hai xựơng cẳng tay? [cite: 74, 733]"
+      },
+      "69": {
+        "1": "1 tuần",
+        "2": "3 tuần.",
+        "3": "8 -10 tuần",
+        "4": "15 tuần.",
+        "A": "C",
+        "Q": "Thời gian liền xương trong gãy kín thân hai xương cẳng tay ở người lớn nếu điều trị bó bột là bao nhiêu? [cite: 75, 733]"
+      },
+      "70": {
+        "1": "Đầu xương gãy chọc thừng da thành gãy hở.",
+        "2": "Liền xương lệch.",
+        "3": "Khớp giả.",
+        "4": "cốt hóa màng liên cổt.",
+        "A": "A",
+        "Q": "Trong các biến chứng dướì đây, biến chứng nào là biến chứng sớm trong gãy kín thân xương cẳng tay. [cite: 76, 733]"
+      },
+      "71": {
+        "1": "Chậm liền xương, khớp giả.",
+        "2": "Liền xương lệch.",
+        "3": "Hạn chế sấp ngửa cẳng tay.",
+        "4": "Đầu xương gãy chọc thủng da thành gẫy hở.",
+        "A": "D",
+        "Q": "Trong các biến chứng dưới đây, biến chứng nào là không phải là biến chứng muộn cùa gãy kín thân hai xương cẳng tay? [cite: 77, 733]"
+      },
+      "72": {
+        "1": "Gãy hở hai xương cẳng tay.",
+        "2": "Gãy kín hai xương cẳng tay di lệch lớn.",
+        "3": "Liền xương lệch hai xương cẳng tay.",
+        "4": "Chậm liền xương.",
+        "A": "A",
+        "Q": "Trong cảc trường hợp sau đây, trường hợp nào chi định mổ cấp cứu? [cite: 78, 733]"
+      },
+      "73": {
+        "1": "Ổ gãy liên xương nhưng còn di lệch chông.",
+        "2": "Cốt hóa màng liên cốt",
+        "3": "Di lệch kiểu chữ X.",
+        "4": "Di lệch kiểu chữ K.",
+        "A": "A",
+        "Q": "Trong các trường hơp sau đây, trường hợp nào ít gây ảnh hưởng đên chức năng sấp ngửa cẳng tay? [cite: 79, 733]"
+      },
+      "74": {
+        "1": "Giảm đau rồi cố định bằng hai nẹp cẳng tay bàn tay, treo tay bất động.",
+        "2": "Chỉ cố định bằng hai nẹp cẳng tay.",
+        "3": "C hỉ cần tiêm thuốc giảm đau và treo tay bất động.",
+        "4": "Tiêm thuốc giảm đau và kháng sinh.",
+        "A": "A",
+        "Q": "Cách sơ cứu nào là đúng và đủ đối với bệnh nhân gãy kín hai xương cẳng tay? [cite: 80, 733]"
+      },
+      "75": {
+        "1": "Gãy kín hai xương cẳng tay không di lệch.",
+        "2": "Gẵy hở hai xương cẳng tay.",
+        "3": "Gãy kín hai xương cẳng tay cố tổn thương mạch máu.",
+        "4": "Gãy kín hai xương cẳng tay ở đoạn 1/3 trên di lệch lớn.",
+        "A": "A",
+        "Q": "Trong các trường hợp gãy kín hai xương cẳng tay ở người lớn dưới đây, trường hợp nào chọn phương pháp điều trị bảo tồn bằng bó bột? [cite: 81, 733]"
+      },
+      "76": {
+        "1": "Bó bột cẳng bàn tay.",
+        "2": "Bó bột rạch dọc 1/3 G cánh tay 1 bàn tay, bàn tay ngửa hoàn toàn",
+        "3": "Bó bột rạch dọc 1/3 G cánh tay - bàn tay, bàn tay để sấp.",
+        "4": "Bó bột rạeh dọc 1/3 G cánh’tay - bàn tay, bàn tay để tư thế trung binh.",
+        "A": "B",
+        "Q": "Trong điều trị gãy kín 1/3 trên hai xương cẳng tay bằng bó bột, trường họp nào dưới đây là đúng? [cite: 82, 733]"
+      },
+      "77": {
+        "1": "Cố định ổ gãy vững chắc.",
+        "2": "Không phải bó bột, tập vận động sớm.",
+        "3": "Phục hồi đúng hình thể giải phẫu của xương.",
+        "4": "It nguy cơ nhiễm khuẩn?",
+        "A": "D",
+        "Q": "Đâu không phải là ưu điểm của phẫu thuật kết xương nẹp vít đôi với gãy kín hai xương cẳng tay ở người lớn? [cite: 83, 733]"
+      },
+      "78": {
+        "1": "Phục hôi giải phâu, cô định ồ gãy vững chắc, tập vận động sớm.",
+        "2": "Dự phòng nguy cơ nhiễm khuẩn, viêm xương.",
+        "3": "Dự phòng biến chứng khớp giả.",
+        "4": "Chong thoài hóa khớp.",
+        "A": "A",
+        "Q": "Điều trị phẫu thuật kết xương nẹp vít điều trị gãy kín hai xương căng tay ở người lớn nhằm mục đích nào? [cite: 84, 733]"
+      },
+      "79": {
+        "1": "Chảy máu tại vết mổ.",
+        "2": "Phẫu thuật gây tổn thương mạch máu, thần kinh.",
+        "3": "Nhiễm khuẩn vết mổ.",
+        "4": "Gãy nẹp, bật vít.",
+        "A": "D",
+        "Q": "Biến chứng nào sau đây là biến chứng muộn của phẫu thuật kết xương nẹp vít điều trị gãy kín hai xương cẳng tay? [cite: 85, 733]"
+      },
+      "80": {
+        "1": "Gãy thân xương đùi là gãy đoạn giới hạn từ dưới mấu chuyển nhỏ đến trên lồi cầu xương đùi.",
+        "2": "Gãy thân xương đùi dễ bị sốc do đau và mất máu.",
+        "3": "Do nhiều cơ khỏe, co kẻo mạnh nên thường di lệch lớn.",
+        "4": "Gãy thân xương đùi chủ yếu gặp ở người cao tuổi do thưa loãng xương nặng.",
+        "A": "D",
+        "Q": "Ý nào dưới đây không được coi là đặc điểm chung của gãy thân xương đùi? [cite: 87, 733]"
+      },
+      "81": {
+        "1": "Quai ra trước và ra ngoài.",
+        "2": "Quai lồi ra trước.",
+        "3": "Quai lôi rạ sau.",
+        "4": "Quai lồi vào trong",
+        "A": "A",
+        "Q": "gây kín 1/3 trên xương đùi, biến dạng quai lồi điển hình như thế nào gì? [cite: 88, 733]"
+      },
+      "82": {
+        "1": "Gãy thân xương đùi ở 1/3 trên.",
+        "2": "Gầy thân xương đùi đoạn 1/3 giữa.",
+        "3": "Gãy thân xương đùi 1/3 dứới.",
+        "4": "Gay thân xương đùi ở chỗ nối 1/3 trên và 1/3 giữa.",
+        "A": "C",
+        "Q": "Trong gãy kín thân xương đùi, vị trí nào hay gặp biên chứng tổn thương bó mạch khoeo nhất? [cite: 89, 733]"
+      },
+      "83": {
+        "1": "Gồm có 5 mức, từđộ 0 đến độ IV.",
+        "2": "Gồm 4 mức, từ độ I đến độ IV.",
+        "3": "Gồm 4 mức, từ độ 0 đến độ m.",
+        "4": "Gồm 5 mức, từ độ I đến độ V.",
+        "A": "A",
+        "Q": "Bảng phân loại gẫy thân xương đùi cùaWinquist và Hansen như thế nào là chính xác ? [cite: 90, 733]"
+      },
+      "84": {
+        "1": "Đùi gãy sưng nề, quai lồi.",
+        "2": "Độ dài tuyệt đối và tương đối xương đùi ngắn hơn bên lành.",
+        "3": "Có điểm đau chói cố định.",
+        "4": "Da xanh niêm mạch nhợt.",
+        "A": "D",
+        "Q": "Triệu chứng nào sau đây không phải là triệu chứng lâm sàng tại chỗ của gãy kín thân xương đùi? [cite: 91, 733]"
+      },
+      "85": {
+        "1": "Đầụ xương gãy chọc thủng da thành gãy hở.",
+        "2": "Liền xương lệch.",
+        "3": "Khớp giả.",
+        "4": "Teo cơ, hạn chế vận động khớp gối.",
+        "A": "A",
+        "Q": "Trong cấc biến chứng dựói đây, biến chứng nào lả biến chứng sớm ừong gãy kín thân xương đùi ? [cite: 92, 733]"
+      },
+      "86": {
+        "1": "Chậm liền xương, khớp giả.",
+        "2": "Liền xương lệch.",
+        "3": "Teo cơ, hạn chế vận động khớp gối.",
+        "4": "Tổn thương bó mạch khoeo.",
+        "A": "D",
+        "Q": "Trong các biến chứng dưới đây, biến chứng nào là không phâi là biến chứng muộn của gậy km thân xương đùi? [cite: 93, 733]"
+      },
+      "87": {
+        "1": "Gãy hở thân xương đùi.",
+        "2": "Gãy kín xương đùi di lệch lớn.",
+        "3": "Liền xương lệch xương đùi.",
+        "4": "Gầy kín thân xương đùi có tràn máu khỏp gối.",
+        "A": "A",
+        "Q": "Trong các trường hợp sau đây, trường họp nào chỉ định mổ cấp cứu? [cite: 94, 733]"
+      },
+      "88": {
+        "1": "Gãy ngang 1/3 giữa thân xương đùi.",
+        "2": "Gãy ngang 1/3 dưới thân xương đùi.",
+        "3": "Gẫy chéo vát có mảnh rời 1/3 giữa thân xương,",
+        "4": "Gãy thân xương dùi ở 2 vị trí 1/3 giữa và 1/3 dưới",
+        "A": "A",
+        "Q": "Trong các trường hợp gãy kín thân xương đùi dưới đây, trường hợp nào chỉ định đóng đinh nội tủy Kuntscher lả tốt ? [cite: 95, 733]"
+      },
+      "89": {
+        "1": "Giảm đau rôi cố định bằng hai nẹp, nẹp ngoài từ hõm nách. đến gót chân, nẹp trong từ nêp bẹn đến mật ừong gót chân.",
+        "2": "Chỉ cô định bằng hai nẹp từ nếp bẹn và mào chậu đến gót chân.",
+        "3": "Giảm đau roi cố định bằng ba nẹp, nẹp ngoài tò hõm nách đến mặt ngoài gót chân, nẹp trong từ nếp bẹn, nẹp sau từ góc xương bả đến mặt trong và sau gót chân.",
+        "4": "Chi cần tiêm thuốc giảm đau và cho nằm ừên cáng cứng là đủ..,",
+        "A": "C",
+        "Q": "Cau 10: Cach sơ cứu nào là đúng và đủ đối với bệnh nhân gãy kín thân xương đùi? [cite: 96, 733]"
+      },
+      "90": {
+        "1": "Gãy kín thân xương đùi có đường gãy ngang.",
+        "2": "Gãy kín thân xương đùi ba đoạn.",
+        "3": "Gãy kín thân xương đùi có mảnh rời.",
+        "4": "Gãy kín thân xương đùi, ống tủy hẹp hoặc bị biến dạng.",
+        "A": "D",
+        "Q": "Trong các trường hợp gãy kín thân xương đùi ở người lớn dưới đây, trường hợp nào không chọn kết xương bằng đinh nội tủy có chốt? [cite: 97, 733]"
+      },
+      "91": {
+        "1": "Gay kín thân xương đùi nắn chỉnh không đạt.",
+        "2": "Gay kín thân xương đùi di lệch lớn.",
+        "3": "Gãy kín thân xương đùi có tổn thương mạch máu..",
+        "4": "Gầy kín thân xương đùi có nhiều mảnh.",
+        "A": "C",
+        "Q": "Trong các trường hợp sau đây, trường hợp nào chỉ định mổ Gấp cứu? [cite: 98, 733]"
+      },
+      "92": {
+        "1": "Cố định ổ gãy vững chạc, chống được di lệch xoay và di lệch chồng.",
+        "2": "Không phải bó bột, tập đi sởm, càng đi càng nhạnh liền xương",
+        "3": "Phục hồi đúng hình, thể giải phẫu của xương.",
+        "4": "Kỹ thuật bắt các vít chốt đơn giản 7",
+        "A": "D",
+        "Q": "Đâu không phải là ưu điểm của phẫu thuật kết xương đinh nội tủy có chốt đối với gãy kín thân xương đùi ở người lớn ? [cite: 99, 733]"
+      },
+      "93": {
+        "1": "Kết xương nẹp vít.",
+        "2": "Đổng đinh nội tủy có chôt.",
+        "3": "Đóng đinh nội tủy Kuntscher.",
+        "4": "Bắt vỉt + buộc vòng thép.",
+        "A": "A",
+        "Q": "Trong điều trị gãy kín thân xương đùi ở trẻ em băng phau thuật kết xương, phương pháp kêt xương nào nên chọn? [cite: 100, 733]"
+      },
+      "94": {
+        "1": "Gãy kín 1/3 dưới thân xương đùi",
+        "2": "Gãy kín 1/3 giữa thân xương đùi có đường gãy ngang.",
+        "3": "Gãy kín đầu dưới xương đùi",
+        "4": "Gãy kín 1/3 giữa thân xương đùi, đường gãy chéo vát dài.",
+        "A": "B",
+        "Q": "Đâu là chỉ định phẫu thuật kết xương đinh nội tủy Kuntscher đối với gãy kín xương đùi ở người lớn? [cite: 101, 733]"
+      },
+      "95": {
+        "1": "Gãỵ cổ xương đùi là gãy đoạn giới hạn từ sát chỏm đến liên mấu chuyển xương đùi.",
+        "2": "Gãy cổ xương đùi dễ có nguy cơ khóp giả và tiêu chỏm.",
+        "3": "Gầy cổ xương đùi mất nhiều máu, dễ bị sốc.",
+        "4": "Gãy cổ xương đùi chủ yếu gặp ở người cao tuổi do thưa loãng xương nặng.",
+        "A": "C",
+        "Q": "Ý nào dưới đây không được coi là đặc điểm chung của gãy cổ xương đùi? [cite: 103, 733]"
+      },
+      "96": {
+        "1": "Quai lồi ra trước và ra ngoài.",
+        "2": "Bàn chân đổ ngoài.",
+        "3": "Độ dài tuyêt đối của xương đùi không thay đổi.",
+        "4": "Đau chói khi án vào điểm giữa cung đùi.",
+        "A": "A",
+        "Q": "Triệu chứng nào dưới đây không phải là triệu chứng của gẫy kín cổ xương đùi ? [cite: 104, 733]"
+      },
+      "97": {
+        "1": "sổc do mất máu nhiều.",
+        "2": "Khớp giả cổ xương đùi",
+        "3": "Liên lệch cổ xương đùi",
+        "4": "Ngắn chi",
+        "A": "B",
+        "Q": "Trong gãy kín cổ xương đùi, biến chứng nào hay gặp nhâi? [cite: 105, 733]"
+      },
+      "98": {
+        "1": "Gom có 5 mức, từ độ 0 đến độ IV.",
+        "2": "Gồm 4 mức, từ độ I đến độ IV.",
+        "3": "Gồm 4 mực, từ độ 0 đến độ ỊỊL",
+        "4": "Gồm 5 mức, từ độ I đến độ V.",
+        "A": "B",
+        "Q": "Bảng phân loại gẫy Gổ xương đùi của Garden như thế nào là chính xác ? [cite: 106, 733]"
+      },
+      "99": {
+        "1": "Sưng nề vùng mấu chuyển lớn.",
+        "2": "Độ dài tương đối xương đùi ngắn hơn bên lành.",
+        "3": "Có điểm đau chói cố định khi ấn vào vùng mấu chuyển lớn,",
+        "4": "Da xanh niêm mạch nhớt.",
+        "A": "D",
+        "Q": "Triệu chứng nào sau đây không phải là triệu chứng lâm sàng tạí chỗ của gãy kín liên mấu chuyển xương đùi? [cite: 107, 733]"
+      },
+      "100": {
+        "1": "Sốc do đau đón và mất máu.",
+        "2": "Liền xương lệch.",
+        "3": "Khớp giả.",
+        "4": "Teo cơ, hạn chế vận động khớp háng.",
+        "A": "A",
+        "Q": "Trong các biến chứng dưới đây, biến chứng nào là biến chứng sớm ừong gãy kín liên mẩu chuyển xương đùi ? [cite: 108, 733]"
+      },
+      "101": {
+        "1": "Chậm liền xương, khóp giả.",
+        "2": "Liền xương lệch",
+        "3": "Ngắn chi",
+        "4": "Ton thương dây thần kinh hông to",
+        "A": "D",
+        "Q": "Trong các biến chứng dưói đây, biến chứng nào là không phâi là biến chứng muộn của gãy kín liên mấu chuyển xương đùí? [cite: 109, 733]"
+      },
+      "102": {
+        "1": "Gay kín liên mấu chuyển xương đùi ở người frẻ",
+        "2": "Gãy kín cổ xương đùi ở người ừẻ.",
+        "3": "Gây kín Uên mấu chuyển xương đùi ở người già nhưng chất lượng xương còn tốt.",
+        "4": "Gay kín cổ xương đùi Garden rv ở người trên 60 tuổi.",
+        "A": "D",
+        "Q": "Trong các trường họp sau đây, trường hợp nào không nên chỉ định mổ kết xương. [cite: 110, 733]"
+      },
+      "103": {
+        "1": "Đóng đinh nội tủy Gam ma.",
+        "2": "Đóng đinh nội tủy Kuntscher.",
+        "3": "Đóng đỉnh Ender.",
+        "4": "Kết xương bằng nẹp DHS.",
+        "A": "B",
+        "Q": "Trong điều trị gãy liên mấu chuyển xương đùi, phương pháp kết xương nào không được chọn ? [cite: 111, 733]"
+      },
+      "104": {
+        "1": "Giảm đau rồi cố định bằng hai nẹp, nẹp ngoài từ hõm nách đến gót chân, nẹp trong từ nêp bẹn đên mặt trong gót chân.",
+        "2": "Giảm đau và cố định bằng nẹp chống xoay đùi bàn chân.,",
+        "3": "Giảm đau rồi cố định bằng ba nẹp, nẹp ngoài từ hõm nách đến mặt ngoài gót chân, nẹp trong từ nêp bẹn, nẹp sau từ góc xương bả đên mặt trong và sau gót chân.",
+        "4": "",
+        "A": "C",
+        "Q": "Cách sơ cứu nào là đúng và đủ đối với bệnh nhân gãy kín cổ xương đùi? [cite: 112, 733]"
+      },
+      "105": {
+        "1": "Phục hồi về hình thể giải phẫu.",
+        "2": "Giảm đau và giúp cho bệnh nhân ngồi dậy sớm, tránh các biến chứng toàn thân do nằm lâu.",
+        "3": "Phục hồi chức năng chi thể.",
+        "4": "Nâng cao chất lượng cuộc sống.",
+        "A": "B",
+        "Q": "Trong điều trị gãy cổ xương đùi ỏ người cao tuổi bằng phẫu thuật thay khớp háng bán phần Bipolar, mục tiêu nào sau đây là sổ 1 ? [cite: 113, 733]"
+      },
+      "106": {
+        "1": "Cố định ổ gãy vững chắc.",
+        "2": "Phục hồi đung hỉnh thể giải phẫu của xương.",
+        "3": "Tránh phải nằm bất động lâu ngày.",
+        "4": "Kỹ thuật kết xương đơn giản ?",
+        "A": "D",
+        "Q": "ý nào dưới đây không phải là ưu điểm của phẫu thuật kết xương điều trị gẫy liên mấu chuyển xương đùi đối với người cao tuổi ? [cite: 114, 733]"
+      },
+      "107": {
+        "1": "Kêt xương bằng nẹp DHS.",
+        "2": "Bỏ bộtWhitmaim.",
+        "3": "Kéo liên tục.",
+        "4": "Thay khớp háng bán phần Bipolar.",
+        "A": "D",
+        "Q": "Đổi với bệnh nhân cao tuổi ( > 60) gẫy cổ xương đùi, phương pháp điều ừị nào hiện nay là phổ biến nhất? [cite: 115, 733]"
+      },
+      "108": {
+        "1": "Bột ngực chậu bàn chân, đùi giạng 45 độ, gối gấp 5 độ, bàn chân xoay trong tối đa.",
+        "2": "Bột ngực - chậu I bàn chân đùi giạng 30 độ.",
+        "3": "Bột ngực -chậu - bàn chân đùi giạng 45 độ, bàn chân xoay ngoài.",
+        "4": "Bột chậu I bàn chân vuông góc.",
+        "A": "A",
+        "Q": "Trong các loại bột dưới đây, loại nào là bột Whitman ? [cite: 116, 733]"
+      },
+      "109": {
+        "1": "Loét mặt sau xương cùng,",
+        "2": "Viêm phổi.",
+        "3": "Viêm đường tiết niệu.",
+        "4": "Tiêu chỏm xương đùi.",
+        "A": "D",
+        "Q": "Biến chứng nào dưới đây không liên quan đến nằm bất động lâu ngày ở bệnh nhân gãy cổ xương đùi ? [cite: 117, 733]"
+      },
+      "110": {
+        "1": "Gãy đầu ngoài xưong đòn.",
+        "2": "Gầy ở đầu trong xương đòn.",
+        "3": "Gẫy 1/3 giữa xưong đòn.",
+        "4": "Chỗ nối giữa 1/3 ngoài và 1/ 3 giữa.",
+        "A": "D",
+        "Q": "Gãy xương đòn hay gặp ở vị trí nào nhất? [cite: 119, 733]"
+      },
+      "111": {
+        "1": "Đau chói ở vùng vai.",
+        "2": "Bất lực vận động khóp vai.",
+        "3": "Sưng nề vùng vai.,",
+        "4": "Dấu hiệu lạo xạo xương và cử động bất thường.",
+        "A": "D",
+        "Q": "Triệu chứng nào không phải là triệu chứng cơ nãng trong gẫy xương đòn? [cite: 120, 733]"
+      },
+      "112": {
+        "1": "Đầu trung tâm bị cơ ức 1 đòn 1 chũm kéo lện trên và ra sau.",
+        "2": "Đầu ngoại vị bị kéo ra trước và xuống dưới do cơ ngực lớn, cơ Delta và sức nặng của chi.",
+        "3": "Đầu ngoại vi bị cơ dưới đòn kéo vào trong.",
+        "4": "Đầu ngoại vi bị cơ nhị đầu kéo xuống dưới.",
+        "A": "D",
+        "Q": "Khi gẫy 1/3 giữa xương đòn, di lệch nào dưới đây là không đứng. [cite: 121, 733]"
+      },
+      "113": {
+        "1": "Gẫy hở xương đòn.,",
+        "2": "Gãy kín xương đòn có biến chứng tràn máu, ưàn khí không màng phổi",
+        "3": "Gãy kín xương đòn cổ tổn thương mạch máu.",
+        "4": "Gãy kín xương đòn có tổn thương đám rối thần kinh cánh tay.",
+        "A": "D",
+        "Q": "Trong các trường hợp sau đây, trường hợp nào không chỉ đinh mọ cấp cứu? [cite: 122, 733]"
+      },
+      "114": {
+        "1": "Kết xương đòn bằng nẹp vít",
+        "2": "Kết xương đòn bằng nẹp Hook.",
+        "3": "Kết xương đòn bằng đinh nội tủy.",
+        "4": "Kết xương đòn bằng đinh nội tủy + buộc vòng thép",
+        "A": "A",
+        "Q": "Phương pháp kết xương riao hay được chọn để điều tri gãy kín 1/3 giữa xương đòn hiện nay ? [cite: 123, 733]"
+      },
+      "115": {
+        "1": "Cố định bằng đai số 8",
+        "2": "Bất động bằng áo Desault",
+        "3": "Bó bột kiểu Desault.",
+        "4": "Bó bột ngực cánh bàn tay.",
+        "A": "D",
+        "Q": "Đối với gẫy kín xương đòn, phương pháp điều trị nào sau đây không được sử dụng? [cite: 124, 733]"
+      },
+      "116": {
+        "1": "Nhiễm khuẩn vết mổ.",
+        "2": "Khồp giả xương đòn.",
+        "3": "Hạn chế vận động khớp vai.",
+        "4": "Gẫy nẹp, bật nẹp.",
+        "A": "A",
+        "Q": "Biến chúng nào sau đây không phải là biến chứng muộn trong gẫy xương đòn? [cite: 125, 733]"
+      },
+      "117": {
+        "1": "Nhiếm khuẩn vết mổ",
+        "2": "Khớp giả xương đòn",
+        "3": "Tổn thương đinh phoi",
+        "4": "Tổn thương đám rối thần kinh cánh tay.",
+        "A": "B",
+        "Q": "Biến chứng nào sau đây không phải là biến chứng sớm trong gây xương đòn? [cite: 126, 733]"
+      },
+      "118": {
+        "1": "Từ dưới mấu động đến trên mỏm trên lồi cầu 3-4 cm",
+        "2": "Từ dưới mấu động đến mỏm ưên ròng rọc 3-4 cm",
+        "3": "Từ dười mỏm cùng vai đến mỏm trên lồi cầu",
+        "4": "Từ dười mấu động đến mỏm trên lồi cầu",
+        "A": "A",
+        "Q": "Giới hạn của gãy thân xưomg cánh tay như thế nào? [cite: 128, 733]"
+      },
+      "119": {
+        "1": "Sưng nề biến dạng chi",
+        "2": "Lạo xạo xương và cử động bất thường",
+        "3": "Đo chiểu dài tuyệt đối và tương đói xương cánh tay ngắn hơn bên lành",
+        "4": "Đau ở chi gẫy",
+        "A": "D",
+        "Q": "Trong gãy thân xương cánh tay, triệu chứng nào dưới đây không phải là triệu chứng phải là triệu chứng thực thể? [cite: 129, 733]"
+      },
+      "120": {
+        "1": "Thần kinh quay.",
+        "2": "Thần kinh trụ.",
+        "3": "Thần kinh giữa.",
+        "4": "Thần kinh cơ bì",
+        "A": "A",
+        "Q": "Trong gãy thân xương cánh tay, nếu gãy xương ở vị trí 1/3 giữa thi hay gặp ton thương dây thần kinh nào nhất? [cite: 130, 733]"
+      },
+      "121": {
+        "1": "Gãy dưới mấu động và trên chỗ bám của cơ ngực lớn",
+        "2": "Gãy dưới chỗ bám cơ ngực lớn và ừên chỗ bám của cơ Delta",
+        "3": "Gãy dưới chỗ bám của cơ Delta.",
+        "4": "Gãy dưới chỗ bám của cơ Delta ừên chỗ bám cơ ngực lớn",
+        "A": "D",
+        "Q": "Cach phân loại vị trí gây 1/3 trên thân xương cấũh tay dưới đây, có ý nào không đứng? [cite: 131, 733]"
+      },
+      "122": {
+        "1": "Di lệch chồng.",
+        "2": "Di lệch sang bên",
+        "3": "Di Ịệch gấp góc",
+        "4": "Di lệch giãn cách",
+        "A": "D",
+        "Q": "Loại di lệch nào không gập trong gãy xương cánh tay? [cite: 132, 733]"
+      },
+      "123": {
+        "1": "2 tuần",
+        "2": "3 tuần",
+        "3": "3 tháng",
+        "4": "4 tháng",
+        "A": "C",
+        "Q": "Thời gian liền xương ữong gãy kín thân xương cánh tay ở người lớn nếu điều tri bó bột là bao nhiêu [cite: 133, 733]"
+      },
+      "124": {
+        "1": "Đâu xương gây chọc thủng da thành gãy hở",
+        "2": "Liên xương lệch. if",
+        "3": "Khớp giả",
+        "4": "Cốt hóa cơ cánh tay trước",
+        "A": "A",
+        "Q": "Trong các biến chứng dưới đây, biến chứng nào là biến chứng sớm tại chỗ toong gãy kín thân xương cánh tay. [cite: 134, 733]"
+      },
+      "125": {
+        "1": "Chậm liền xương, khớp giả",
+        "2": "Liền xương lệch",
+        "3": "Hạn che gấp duỗi khuỷu",
+        "4": "Tổn thương thần kinh quay",
+        "A": "D",
+        "Q": "Trong các biến chứng dưới đây, biến chứng nào là không phải là biến chứng muộn của gãy kín thân xương canh tay? [cite: 135, 733]"
+      },
+      "126": {
+        "1": "Chậm liền xương, khớp giả",
+        "2": "Liền xương lệch",
+        "3": "Nhiễm khuẩn vết mổ",
+        "4": "Gẫỹ nẹp, bật vít",
+        "A": "A",
+        "Q": "Trong các biến chứng dưới đây, biến chứng nào là không phải là biến chứng chỉ gặp ừong điều trị phẫu thuật gãy thân xương cánh tay? [cite: 136, 733]"
+      },
+      "127": {
+        "1": "Gãy kín thân xương cánh tay có kèm theo liệt thần kinh quay",
+        "2": "Gãy kín thân xương cánh tay di lệch lớn",
+        "3": "Gay kín thân xương cánh tay có kèm theo sốc chấn thương chưa ổn định",
+        "4": "Khớp giả",
+        "A": "A",
+        "Q": "Trong các trường hợp sau đây, trường hợp nào chỉ định mổ cấp cứu [cite: 137, 733]"
+      },
+      "128": {
+        "1": "Bàn tay rủ cổ cò",
+        "2": "Không giạng và duỗi được ngón cái",
+        "3": "",
+        "4": "Mất duỗi khuỷu tay",
+        "A": "D",
+        "Q": "Trong các triệu chứng dưới đây, triệu chứng nào không có khi tổn thương thần kinh quay ở rãnh xoắn [cite: 138, 733]"
+      },
+      "129": {
+        "1": "Giam đau rôi cô định băng hai nẹp đật ở mặt trong và mặt ngoài cánh tay rồi treo tay bất động",
+        "2": "Chỉ cô định bằng nẹp Crame cánh bàn tay",
+        "3": "Chỉ cẩn tiêm thuốc giảm đau và freo tay bất động",
+        "4": "Tiêm thuốc giảm đau và kháng sinh",
+        "A": "A",
+        "Q": "Cách sơ cứu nào ỉả đúng và đủ đối vói bệnh nhân gãy kín thân xương cánh tay? [cite: 139, 733]"
+      },
+      "130": {
+        "1": "Gãy kín thân xương cánh tay, có bệnh chẩy máu kéo dài",
+        "2": "Gãy hở thân xương cánh tay",
+        "3": "Gãy kín hai thân xương cánh tay có tổn thương mach máu",
+        "4": "Gãy kín thân xương cánh tay di lệch lớn",
+        "A": "A",
+        "Q": "Trong các trường hợp gãy kín thân xương cánh taỵ ở người lán dưới đây, trương hợp nào chọn phương pháp điều trị bảo tồn bằng bó bọt [cite: 140, 733]"
+      },
+      "131": {
+        "1": "Bó bột cẳng bàn tay",
+        "2": "Bó bột ngực - cánh bàn tay",
+        "3": "Bó bột từ 1/3 trên cánh tay đến khớp bàn ngón, bàn tay để sấp",
+        "4": "Bó bột tìr bả vai đến khớp bàn ngón tay, bàn tay để tư thế trung bình",
+        "A": "B",
+        "Q": "Trong điều trị gãy kín xương cánh tay bằng bó bột, trường hợp nào dưới đây là đúng [cite: 141, 733]"
+      },
+      "132": {
+        "1": "Cố định ổ gãy vững chắc",
+        "2": "Không phải bó bột, tập vận động sớm",
+        "3": "Phục hoi đúng hình thể giải phẫu của xương",
+        "4": "ít nguy cơ nhiễm khuẩn",
+        "A": "D",
+        "Q": "Đâu không phải là ưu điểm của phẫu thuật kết xương nẹp vít đối với gãy kín xương cánh tay ở ngưòi lớn [cite: 142, 733]"
+      },
+      "133": {
+        "1": "Phục hồi giải phẫu, cố định ổ gãy vững chắc, tập vận động sớm khớp vai và khóp khuỷu",
+        "2": "Dự phònp nguy Cơ nhiễm khuẩn, viêm xương",
+        "3": "Tránh biến chứng khớp giả",
+        "4": "Chông thoái hóa khớp",
+        "A": "A",
+        "Q": "Điều trị phẫu thuật kết xương nẹp vít điều trị gãy kín xương cánh tay ở người lớn nhằm mục đích nào dưới đây là sô 1 [cite: 143, 733]"
+      },
+      "134": {
+        "1": "Chảy máu tại vết mổ",
+        "2": "Biến chứng tổn thương mạch máu, thần kinh do phẫu thuật",
+        "3": "Nhiễm khuẩn vết mổ",
+        "4": "Gãy nẹp, bật vít",
+        "A": "D",
+        "Q": "Biến chứng nào sau đây là biến chứng muộn của phẫu thuật kết xương nẹp vít điều trị gãy kín thân xương cánh tay [cite: 144, 733]"
+      },
+      "135": {
+        "1": "Gãy xương bánh chè là gãy xương phạm khớp",
+        "2": "Gãy xương bánh chè chủ yếu do cơ chế chấn thương trực tiếp",
+        "3": "Gãy xương bánh chè chủ yếu do cơ chế chấn thương gián tiếp",
+        "4": "Gãy xương bánh chè thường có di lệch giãn cách",
+        "A": "C",
+        "Q": "Ý nào dưới đây không được coi là đặc điểm chung của gãy xương bánh chè thân xương đủi [cite: 146, 733]"
+      },
+      "136": {
+        "1": "Đau ehói ở mặt trước khóp gối.",
+        "2": "Không tự nhấc gót chân lên khỏi mặt giường trong tư thế gối duỗi",
+        "3": "Sưng nề vùng gối, mất các lõm tự nhiên",
+        "4": "Sờ thây khe giãn cách giữa 2 mảnh gãy",
+        "A": "A",
+        "Q": "Triệu chứng nào không phải là triệu chứng thực thể khi gãy kín xương bánh chè ? [cite: 147, 733]"
+      },
+      "137": {
+        "1": "Đứt gân cơ tứ đầu đùi",
+        "2": "Rách cánh bánh chè 2 bên",
+        "3": "Các thớ sợi mặt trước xương bánh chè bị rách đứt",
+        "4": "Gay xương bánh chè.",
+        "A": "A",
+        "Q": "Trọng gay kin xương banh chè, tôn thương nào dưới đây không có? [cite: 148, 733]"
+      },
+      "138": {
+        "1": "Dấu hiệu bập bềnh xương bánh chè dương tinh",
+        "2": "Sờ thấy khé giãn cách giữa 2 mảnh gãy",
+        "3": "Sờ có đĩểm đau chói cố định",
+        "4": "Khớp gối sưng nề mất các lõm tự nhiên",
+        "A": "A",
+        "Q": "Triệu chứng nào sau đây không phải là triệu chứng lâm sàng tại chỗ của gậy kín xương bánh chè [cite: 149, 733]"
+      },
+      "139": {
+        "1": "Nhiễm khuẩn xầt mổ",
+        "2": "Trồi đỉnh, đứt chỉ thép",
+        "3": "Khớp giả",
+        "4": "Hạn chế vận động khớp gối",
+        "A": "A",
+        "Q": "Trong các biến chứng dưới đây, biến chứng nào là biến chứng sớm trong điều tri phẫu thuật gãy kín xương bánh chè [cite: 150, 733]"
+      },
+      "140": {
+        "1": "Khớp giả",
+        "2": "Thoái hóa khóp lồi cầu đùi - bánh chè",
+        "3": "Hạn chế vận động khớp gối",
+        "4": "Ton thương thần kinh hông khoeo ngoài.",
+        "A": "D",
+        "Q": "Trong các biến chứng dưới đây, biến chứng nào là không phải là biến chứng muộn của gãy kín xương bánh chè [cite: 151, 733]"
+      },
+      "141": {
+        "1": "Cơ chế chấn thương",
+        "2": "Cơ chế chấn thương và triệu chứng lâm sàng",
+        "3": "Phim chụp khổp gối 2 tư thế thẳng và nghiêng",
+        "4": "Dựa vào cơ chế chấn thương, triệu chứng lâm sàng và phim chụp XQ khớp gối",
+        "A": "D",
+        "Q": "Chẩn đoán xác định gẵy kín xương bánh chè dựa đâu, chọn một ý đầy đủ và chính xác nhất? [cite: 152, 733]"
+      },
+      "142": {
+        "1": "Máu lẫn váng mỡ và không đông",
+        "2": "Máu không lẫn váng mỡ",
+        "3": "Máu đỏ tươi không lẫn váng mỡ",
+        "4": "Dịch lờ lờ máu cá và không có váng mỡ",
+        "A": "A",
+        "Q": "Gãy xương bánh chè có tràn máu khớp gối do máu từ ổ gẫy chảy vào trong khớp, dịch máu khớp gối khi chọc hứt ra thấy thế nào? [cite: 153, 733]"
+      },
+      "143": {
+        "1": "Do gãy xương bánh chè làm mất liên tục của hệ thống duỗi gối",
+        "2": "Do tổn thương hai cánh bánh chè",
+        "3": "Do bệnh nhân đau đớn",
+        "4": "Do đốt gân chằng bánh chè",
+        "A": "A",
+        "Q": "Trong gãy kín xương bánh chè, triệu chửng bệnh nhân không thể tự nhấc gót chân lên khỏi mặt giường trong tư thế duỗi gối là do đâu? [cite: 154, 733]"
+      },
+      "144": {
+        "1": "Giảm đau rồi cố định bằng nẹp ê ke gỗ từ 1/3 trên đùi đến bàn chân",
+        "2": "Chi cố định bằng haỉ nẹp từ nắp bẹn và mào chậu đến gót chân",
+        "3": "Giảm đau rồi cố định băng ba nẹp nẹp ngoài từ mào chậu đến mặt ngoài gót chân nẹp trong từ nếp bẹn, nẹp sau từ góc xương bả đến mặt trong và sau gót chân.",
+        "4": "Chi cần tiêm thuốc giảm đau và cho nằm trên cáng cứng là đủ",
+        "A": "A",
+        "Q": "Cách sơ cứu nào là đủng và đủ đối với bệrih nhân gãy kín xương bánh chè [cite: 155, 733]"
+      },
+      "145": {
+        "1": "Gãy hở xương bánh chè",
+        "2": "Gãy kín xương bánh chè di lệch lớn",
+        "3": "Khớp giả xương bánh chè",
+        "4": "Gãy kín xương bánh chè + gãy lồi cầu đùi",
+        "A": "A",
+        "Q": "Trong các trường hợp gãy xương bánh chè sau đây, trường hợp nào chỉ định mổ cấp cứu? [cite: 156, 733]"
+      },
+      "146": {
+        "1": "Gãy xương bánh chè di lệch giãn cách > 3 mm",
+        "2": "Gãy xương bánh chè di lệch dãn cách < 3 mm",
+        "3": "Gãy kín xương bánh chè di lệch chênh mặt khớp < l mm",
+        "4": "Gãy kín xương bánh chè không di lệch",
+        "A": "A",
+        "Q": "Trong các trường hợp gãy kín xương bánh chè dưới đây trường hợp nào chỉ định điều trị phẫu thuật ? [cite: 157, 733]"
+      },
+      "147": {
+        "1": "Gãy kín xương bánh chè thảnh nhiều mảnh cả theo chiều dọc và chiều ngang",
+        "2": "Gãy kin xương bánh chè có đường gãy ngang,",
+        "3": "Gãy kín cực dưới xương bánh chè.",
+        "4": "Gãy kín xương bánh chè không di lệch.",
+        "A": "B",
+        "Q": "Trong các trường hợp gãy kín xương bánh chè dưới đây, trường hợp nào chọn kết xươmg néo ép số 8 đơn thuần ? [cite: 158, 733]"
+      },
+      "148": {
+        "1": "Gãy kín xương bánh chè di lệch giãn cách < 3 mm hoặc di lệch chênh mặt khớp xương bánh chè < 1 mm",
+        "2": "Gãy kín xương bánh chè theo chiều dọc chênh mặt khớp > 1 mm",
+        "3": "Gãy kín bánh chè ở người lớn có kèm theo gãy kín thân xương đùi.",
+        "4": "Gay kín thân xương bánh chè có nhiều mảnh",
+        "A": "A",
+        "Q": "Trong các trường hợp sau đây, trường hợp nào chỉ định điều trị bảo tồn bằng chọc hút máu khớp gối và bó bột [cite: 159, 733]"
+      },
+      "149": {
+        "1": "Phục hồi lại hình thể giải phẫu và diện khớp xương bánh chè, cố định ổ gãy vững chắc, càng cho bệnh nhân tập vận gấp gối sớm càng ép hai mặt gãy áp khít với nhau giúp cho sự liền xương diễn ra nhanh hơn.",
+        "2": "Không phải bó bột, tập đi sớm, càng đi càng nhanh liền xương",
+        "3": "Phục hồi đúng hình thể giải phẫu của xương bánh chè",
+        "4": "cố định chắc ổ gãy, tránh phải bó bột.",
+        "A": "A",
+        "Q": "ưu điểm của phương pháp kết xương néo ép số 8 điều trị gãỹ bánh chè là gi? [cite: 160, 733]"
+      },
+      "150": {
+        "1": "Hai đinh Kứschner xuyên song song với nhau.",
+        "2": "Hai đinh Kirschner xuyên bắt chéo nhau.",
+        "3": "Hai đinh Kirschner xuyên chụm với nhau từ trên xuống dưới",
+        "4": "Hai đinh Kirchner xuyên vuông góc với nhau.",
+        "A": "A",
+        "Q": "Trong điều trị gãy kín xương bánh chè theo phương pháp kết xương néo ép số 8, hai đinh Kirschner phải xuyên như thế nào? [cite: 161, 733]"
+      },
+      "151": {
+        "1": "Viêm xương tủy xương là viêm mủ ở tổ chức xương và tủy xương",
+        "2": "Viêm xương tủy xương là viêm mủ ở tổ chức xương cứng",
+        "3": "Viêm xương tủy xương là viêm mủ tủy xương",
+        "4": "Viêm xương tủy xương là viêm mủ ở màng xương",
+        "A": "A",
+        "Q": "Trong các ý dưới đây, đâu là ý đúng [cite: 163, 733]"
+      },
+      "152": {
+        "1": "trattg nhiễm khuẩn cấp tính ở xương",
+        "2": "Là tình trạng nhiễm khuẩn mạn tính ở xương",
+        "3": "Là tình trạng nhiễm khuẩn bán cấp tính ở xương",
+        "4": "Là tình, trạng nhiễm khuẩn cấp tính hay mạn tính, ở xương",
+        "A": "D",
+        "Q": "Định nghĩa viêm xương tủy xương đường máu là gi ? [cite: 164, 733]"
+      },
+      "153": {
+        "1": "Tụ câu vàng và liên câu khuân tan máu",
+        "2": "Tụ cầu trắng và liên cầu khuân tan máu",
+        "3": "Tụ cầu vàng và trực khuẩn mủ xanh",
+        "4": "Liên cầu tan máu và trực khuấn mủ xanh",
+        "A": "A",
+        "Q": "Trong vỉêm xương tủy xương đường máu có hai loại vi khuân thường gặp nhất là [cite: 165, 733]"
+      },
+      "154": {
+        "1": "Trẻ em < 16 tuổi",
+        "2": "Thanh niên từ 16 tuổi trở lên",
+        "3": "Chỉ gặp ở người lớn",
+        "4": "Gặp ở người cao tuổi",
+        "A": "A",
+        "Q": "Viêm xương tủy xương đường máu cấp tính thường gặp ở đối tương nào sau đây? [cite: 166, 733]"
+      },
+      "155": {
+        "1": "Hai quá trình bồi đắp xương và diễn ra đồng thòi",
+        "2": "Quá trình phá hủy xương diễn ra trước",
+        "3": "Quá trình bồi đắp xương diễn ra trước.",
+        "4": "Quá trình phá hủy xương chi diễn ra ở giai đoạn cấp tính",
+        "A": "A",
+        "Q": "Viêm xương tủy xơơng đường máu gồm hai quá trình phá hủy xương và bồỉ đắp xưong. Diễn biến của hai quá trình này diễn ra như thế nào? [cite: 167, 733]"
+      },
+      "156": {
+        "1": "Hai giai đoạn cấp tính và bán cấp",
+        "2": "Hai giai đoạn cấp tính và mãn tính",
+        "3": "Ba giai đoạn : cấp tính, bán cấp và mạn tính",
+        "4": "Bổn giai đoạn: cẩp tính, mãn tính vá giai đoạn hồi phục",
+        "A": "A",
+        "Q": "Diễn bỉển lâm sàng của viêm xương tủy xương đường máu tiến triền qua mấy giai đoạn? [cite: 168, 733]"
+      },
+      "157": {
+        "1": "Khởi điểxn tại chỗ tiếp nối giữa đầu xương và thân xương",
+        "2": "Khởi điểm tại chỗ thân xương",
+        "3": "Khởi điểm ở ngay lớp dưới màng xưomg",
+        "4": "Khởi điểm ờ ngay dưới lớp sụn đầu xương",
+        "A": "A",
+        "Q": "Khởi phát ồ nhiễm khuẩn khu trú trong bệnh viêm xưong tủy xương đường máu bắt đầu từ đâu? [cite: 169, 733]"
+      },
+      "158": {
+        "1": "Xương bị thưa loãng xương mất chất vôi",
+        "2": "Xương bị mất nuôi dưỡng",
+        "3": "HÌnh thành mảnh xương chết",
+        "4": "Gồm cả ba hiện tượng trên",
+        "A": "D",
+        "Q": "Biểu hiện của hiện tương phá hủy xương trơng bênh viêm xương tủy xương đường máu giai đoạn cấp tính? [cite: 170, 733]"
+      },
+      "159": {
+        "1": "Ổ nhiễm khuẩn cấp tính ở tủy xương làm tăng áp lực ống tủy, viêm tắc mạch nuôi xương dẫn đến hoại tử xương và hình thành mảnh xương chết.",
+        "2": "Ổ nhiễm khuẩn cấp tính ở thành xương gây tắc mạch nuôi xương dẫn đến hoại tử xương và hình thành mảnh xương chết.",
+        "3": "Ổ nhiễm khuẩn cấp tính ở màng xương gây tắc mạch nuôi xương dẫn đến hoại tử xương và hình thành mảnh xương chết.",
+        "4": "Ổ nhiễm khuẩn cấp tính ở tủy xương gây tắc các tĩnh mạch trong ống tủy dẫn đến hoại tử xương và hình thành mảnh xương chết.",
+        "A": "A",
+        "Q": "Đâu là cơ chế hình thành mảnh xương chết trong viêm xương tủy xương đường máu: [cite: 171, 733]"
+      },
+      "160": {
+        "1": "Do độc tố vi khuẩn làm tổn thương nội mạc dẫn đến tắc các động mạch nuôi xương.",
+        "2": "Do độc tố vi khuẩn gây tắc các tĩnh mạch làm cho tủy xương bị phù nền chèn ép vào mạch máu nuôi xương.",
+        "3": "Độc tố vi khuẩn gây tắc đường bạch mạch trong tủy xương.",
+        "4": "Do ổ mủ trong tủy xương",
+        "A": "A",
+        "Q": "Đâu là nguyên nhân làm cho xương bị mất nuôi dưỡng trong viêm xương tủy xương đường máu giai đoạn cấp tính? [cite: 172, 733]"
+      },
+      "161": {
+        "1": "Xuất hiện sau khi sốt vài ngày, khu trú ở chỗ phát sinh ổ viêm xương tủy xương, ấn vào tại chỗ đau dữ dội và sờ thấy nóng.",
+        "2": "Đau xuất hiện trước khi sốt vài ngày, khu trú ở chỗ phát sinh ổ viêm xương tủy xương, ấn vào tại chỗ đau dữ dội và sờ thấy nóng.",
+        "3": "Đau xuất hiện cùng lúc với sốt, khu trú ở chỗ phát sinh ổ viêm xương tủy xương, ấn vào tại chỗ đau dữ dội và sờ thấy nóng.",
+        "4": "Đau xuất hiện sau khi sốt vài ngày, lúc đầu đau toàn bộ đoạn chi sau đó khu trú lại ở chỗ phát sinh ổ viêm xương tủy xương, ấn vào tại chỗ đau dữ dội và sờ thấy nóng.",
+        "A": "A",
+        "Q": "Trong các ý dưới đây, đâu là tính chất đau điển hình của viêm xương tủy xương đường máu giai đoạn cấp tính? [cite: 173, 733]"
+      },
+      "162": {
+        "1": "Hình ảnh phá hủy xương, có mảnh xương chết nằm trong ổ khuyết xương.",
+        "2": "Không phát hiện được tổn thương, đôi khi chỉ thấy thưa xương.",
+        "3": "Thấy hình ảnh ổ tiêu xương chạy suốt dọc đoạn xương bị viêm",
+        "4": "Thấy hình ảnh phản ứng cốt mạc dầy lên từ rất sớm.",
+        "A": "B",
+        "Q": "Trong những ngày đầu tiên của viêm xương tủy xương đường máu giai đoạn cấp tính, hình ảnh X Quang tại chỗ viêm xương như thế nào? [cite: 174, 733]"
+      },
+      "163": {
+        "1": "Mủ từ trong ống tủy theo các ống Have và ống Volkmann lan đến cốt mạc tạo thành ổ mủ dưới cốt mạc.",
+        "2": "Mủ từ tại chỗ thành xương bị hoại tử tụ lại dưới cốt mạc tạo thành ổ mủ dưới cốt mạc.",
+        "3": "Mủ hình thành ngay dưới cốt mạc tạo thành ổ mủ dưới cốt mạc.",
+        "4": "Ổ áp xe dưới cốt mạc là do mủ từ các cơ quan xung quanh ổ viêm bị hoại tử hình thành.",
+        "A": "A",
+        "Q": "Quá trình hình thành ổ áp xe dưới cốt mạc trong viêm xương tủy xương đường máu cấp tính như thế nào? [cite: 175, 733]"
+      },
+      "164": {
+        "1": "Mủ màu vàng đặc",
+        "2": "Mủ loãng đục có lẫn các hạt mỡ",
+        "3": "Mủ trắng loãng",
+        "4": "Mủ màu Socola",
+        "A": "B",
+        "Q": "Đặc điểm của mủ trong ổ áp xe dưới cốt mạc khi chọc hút như thế nào? [cite: 176, 733]"
+      },
+      "165": {
+        "1": "Ổ mủ dưới cốt mạc phá ra ngoài, bệnh nhân đỡ sốt, giảm đau, người cảm thấy dễ chịu.",
+        "2": "Ổ mủ dưới cốt mạc phá ra ngoài, bệnh nhân tiếp tục sốt cao, người cảm thấy mệt mỏi nhiều.",
+        "3": "Ổ mủ dưới cốt mạc phá ra ngoài, bệnh nhân đỡ sốt nhưng vẫn đau nhức nhiều tại chỗ.",
+        "4": "Ổ mủ dưới cốt mạc đặc lại thành một khối, sờ thấy chắc, giới hạn không rõ, bệnh nhân đỡ sốt, giảm đau, người cảm thấy dễ chịu.",
+        "A": "A",
+        "Q": "Triệu chứng lâm sàng của viêm xương tủy xương đường máu giai đoạn mạn tính là gì? [cite: 177, 733]"
+      },
+      "166": {
+        "1": "Chống nhiễm trùng nhiễm độc, tăng cường nuôi dưỡng, bất động chi thể bằng nẹp bột, kháng sinh theo kháng sinh đồ và phẫu thuật dẫn lưu mủ.",
+        "2": "Chống nhiễm trùng nhiễm độc, tăng cường nuôi dưỡng, bất động chi thể bằng nẹp bột, dùng kháng sinh theo kháng sinh đồ.",
+        "3": "Chống nhiễm trùng nhiễm độc, tăng cường nuôi dưỡng, dùng kháng sinh theo kháng sinh đồ, phẫu thuật dẫn lưu mủ và tập vận động sớm.",
+        "4": "Kháng sinh toàn thân theo kháng sinh đồ, tăng cường nuôi dưỡng, bất động chi thể bằng nẹp bột và phẫu thuật dẫn lưu mủ.",
+        "A": "A",
+        "Q": "Điều trị viêm xương tủy xương đường máu giai đoạn cấp tính như thế nào? [cite: 178, 733]"
+      },
+      "167": {
+        "1": "Để ổn định ổ viêm xương, chống nhiễm khuẩn lan rộng.",
+        "2": "Để phòng gãy xương bệnh lý.",
+        "3": "Để giảm đau nhức",
+        "4": "Để ổn định ổ viêm chống nhiễm khuẩn lan rộng và phòng tránh gãy xương bệnh lý.",
+        "A": "D",
+        "Q": "Tại sao trong điều trị viêm xương tủy xương đường máu giai đoạn cấp tính lại bất động chi bằng máng bột? [cite: 179, 733]"
+      },
+      "168": {
+        "1": "Phẫu thuật loại bỏ triệt để ổ viêm",
+        "2": "Phẫu thuật san bằng ổ khuyết xương và tạo nguồn nuôi dưỡng mới cho ổ viêm xương.",
+        "3": "Phẫu thuật chỉnh hình phục hồi về giải phẫu và chức năng của chi.",
+        "4": "Cả 3 mục tiêu trên.",
+        "A": "D",
+        "Q": "Điều trị phẫu thuật trong viêm xương tủy xương đường máu nhằm mục tiêu gì? [cite: 180, 733]"
+      },
+      "169": {
+        "1": "Cử động bất thường",
+        "2": "Điểm đau chói cố định",
+        "3": "Ngắn chi",
+        "4": "Lệch trục",
+        "A": "B",
+        "Q": "Trong các triệu chứng lâm sàng sau đây, triệu chứng nào không gặp trong khớp giả? [cite: 182, 733]"
+      },
+      "170": {
+        "1": "Quá trình liền xương trung bình mà ổ gãy vẫn chưa liền xương.",
+        "2": "Ổ gãy còn cử động bất thường",
+        "3": "Không đau tại ổ gãy",
+        "4": "Trên X Quang chưa thấy có hình ảnh can xương.",
+        "A": "C",
+        "Q": "Trong các yếu tố dưới đây, yếu tố nào không đủ tiêu chuẩn chẩn đoán chậm liền xương? [cite: 183, 733]"
+      },
+      "171": {
+        "1": "Quá thời gian liền xương trung bình mà ổ gãy vẫn chưa liền xương.",
+        "2": "Ổ gãy còn cử động bất thường",
+        "3": "Không còn đau tại ổ gãy",
+        "4": "Trên X Quang không thấy có hình ảnh can xương.",
+        "A": "A",
+        "Q": "Trong các yếu tố dưới đây, yếu tố nào không đúng với tiêu chuẩn chẩn đoán khớp giả? [cite: 184, 733]"
+      },
+      "172": {
+        "1": "Quá 2 lần thời gian liền xương trung bình mà ổ gãy vẫn chưa liền xương.",
+        "2": "Ổ gãy còn cử động bất thường.",
+        "3": "Còn đau nhiều tại ổ gãy.",
+        "4": "Trên X quang không thấy có hình ảnh can xương.",
+        "A": "C",
+        "Q": "Trong các yếu tố dưới đây, yếu tố nào không đúng với tiêu chuẩn chẩn đoán khớp giả? [cite: 185, 733]"
+      },
+      "173": {
+        "1": "Khe giãn cách giữa 2 đầu xương gãy rộng.",
+        "2": "Đầu xương có bọc tổ chức sụn giống như sụn khớp.",
+        "3": "Xung quanh được bọc bằng tổ chức xơ",
+        "4": "Không có cử động bất thường.",
+        "A": "D",
+        "Q": "Trong đặc điểm dưới đây, đặc điểm nào là của khớp giả thực thụ? [cite: 186, 733]"
+      },
+      "174": {
+        "1": "Không thấy hình ảnh can tại ổ gãy xương trên phim X Quang",
+        "2": "Đầu xương gãy xơ teo, nhọn như bút chì.",
+        "3": "Xung quanh là phần mềm xẹo xấu",
+        "4": "Mạch máu nuôi dưỡng ổ khớp giả phong phú.",
+        "A": "D",
+        "Q": "Trong các đặc điểm dưới đây, đặc điểm nào không phù hợp với khớp giả xơ teo? [cite: 187, 733]"
+      },
+      "175": {
+        "1": "Tình trạng phần mềm tại ổ khớp giả.",
+        "2": "Tình trạng nhiễm khuẩn tại ổ khớp giả.",
+        "3": "Tình trạng nuôi dưỡng tại đầu xương gãy.",
+        "4": "Thời gian từ lúc bị gãy xương đến khi được chẩn đoán là khớp giả.",
+        "A": "D",
+        "Q": "Trong các yếu tố dưới đây, yếu tố nào không dùng để phân loại khớp giả. [cite: 188, 733]"
+      },
+      "176": {
+        "1": "Bệnh nhân mắc các bệnh nội khoa mạn tính có liên quan đến chuyển hóa canxi.",
+        "2": "Tình trạng nhiễm khuẩn tại ổ khớp giả.",
+        "3": "Kéo liên tục gây dãn cách hai đầu gãy.",
+        "4": "Bó bột không liên tục và không đủ thời gian.",
+        "A": "A",
+        "Q": "Trong các nguyên nhân dưới đây, nguyên nhân nào không phải là nguyên nhân tại chỗ dẫn đến chậm liền xương – khớp giả? [cite: 189, 733]"
+      },
+      "177": {
+        "1": "Bệnh nhân mắc các bệnh nội khoa mạn tính có liên quan đến chuyển hóa canxi.",
+        "2": "Bệnh nhân đang nuôi con bằng sữa mẹ",
+        "3": "Bệnh nhân đang điều trị ung thư",
+        "4": "Gãy xương ở các vị trí có mạch máu nuôi dưỡng kém.",
+        "A": "D",
+        "Q": "Trong các nguyên nhân dưới đây, nguyên nhân nào không phải là nguyên nhân toàn thân dẫn đến chậm liền xương – khớp giả? [cite: 190, 733]"
+      },
+      "178": {
+        "1": "Bệnh nhân chậm liền xương đầu dưới xương quay.",
+        "2": "Bệnh nhân khớp giả thân xương đùi.",
+        "3": "Bệnh nhân khớp giả cổ xương đùi.",
+        "4": "Bệnh nhân khớp giả xương cánh tay.",
+        "A": "A",
+        "Q": "Trong các trường hợp dưới đây, trường hợp nào bó bột thêm một thời gian có thể liền xương? [cite: 191, 733]"
+      },
+      "179": {
+        "1": "Phương pháp ghép xương xốp tự thân",
+        "2": "Phương pháp kết xương bên trong bằng nẹp hoặc đinh nội tủy có chốt",
+        "3": "Phương pháp kết xương bên trong + ghép xương",
+        "4": "Phương pháp kết xương bằng khung cố định ngoài.",
+        "A": "D",
+        "Q": "Trong các phương pháp điều trị dưới đây, phương pháp chỉ áp dụng riêng cho khớp giả nhiễm khuẩn, viêm rò thân xương chầy? [cite: 192, 733]"
+      },
+      "180": {
+        "1": "Khớp giả nhiễm khuẩn điều trị hết viêm rò trên 6 tháng.",
+        "2": "Khớp giả điều trị hết viêm rò sau 3 tháng.",
+        "3": "Khớp giả nhiễm khuẩn hết viêm rò sau 1 tháng.",
+        "4": "Khớp giả nhiễm khuẩn kết xương bằng khung cố định ngoài không liền.",
+        "A": "A",
+        "Q": "Chỉ định điều trị kết xương bên trong đối với khớp giả nhiễm khuẩn là gì? [cite: 193, 733]"
+      },
+      "181": {
+        "1": "Mảnh ghép là xương mào chậu tự thân",
+        "2": "Mảnh ghép là xương mác tự thân",
+        "3": "Mảnh ghép là xương đồng loại bảo quản lạnh sâu.",
+        "4": "Mảnh ghép là xương đồng loại đông khô.",
+        "A": "A",
+        "Q": "Chỉ định điều trị ghép xương đối với ổ khớp giả vô khuẩn là rất tốt, trong các loại mảnh ghép dưới đây, loại nào là tốt nhất? [cite: 194, 733]"
+      }
+    },
+    "ngoai_bung": {
+      "name": "Ngoại bụng",
+      "1": {
+        "1": "Phầu thuật Park",
+        "2": "Phầu thuật Milligan- Morgan",
+        "3": "Phẫu thuật Whitehead",
+        "4": "Phẫu thuật Ferguson",
+        "A": "D",
+        "Q": "Phẫu thuật cắt từng búi tn khâu kín vết mổ là phẫu thuật?"
+      },
+      "2": {
+        "1": "Phẫu thuật Park",
+        "2": "Phầu thuật Milligan- Morgan",
+        "3": "Phẫu thuật Whitehead",
+        "4": "Phẫu thuật Ferguson",
+        "A": "B",
+        "Q": "Phẫu thuật cắt từng búi trĩ để hở vết mổ là phẫu thuật?"
+      },
+      "3": {
+        "1": "Phẫu thuật Milligan-Morgan",
+        "2": "Phầu thuật Ferguson",
+        "3": "Phau thuật Whitehead và Whitehead cải tiến BV 103",
+        "4": "Phẫu thuật Park",
+        "A": "C",
+        "Q": "Phẫu thuật cắt bỏ toàn bộ vòng trĩ là?"
+      },
+      "4": {
+        "1": "Phầu thuật Milligan - Morgan,Parks , Ferguson",
+        "2": "Phẫu thuật Longo, Whitehead và Whitehead cải tiến BV 103",
+        "3": "Tiêm xơ búi tri',Áp lạnh, Sóng siêu cao tần",
+        "4": "Phẫu thuật Barron",
+        "A": "A",
+        "Q": "Phẫu thuật cắt bỏ từng búi trĩ có các phương pháp?"
+      },
+      "5": {
+        "1": "Tăng áp lực tình mạch cửa",
+        "2": "Do táo bón",
+        "3": "Do cao huyết áp",
+        "4": "Không rõ nguyên nhân",
+        "A": "D",
+        "Q": "Nguyên nhân của trĩ vô căn (Trĩ bệnh)?"
+      },
+      "6": {
+        "1": "2 độ: độ I ,độ II",
+        "2": "3 độ: độ I ,độ II, độ III.",
+        "3": "4 độ :độ I,. độ II, độ III, độ IV",
+        "4": "5 độ: độ I,độ II,độ III,độ IVv,độ V",
+        "A": "C",
+        "Q": "Phân loại mức độ sa của trĩ nội hay được áp dụng?"
+      },
+      "7": {
+        "1": "2 loại: Trĩ nội, Trĩ ngoại",
+        "2": "3 loại :Trĩ nội ,trĩ ngoại ,trĩ hỗn hợp",
+        "3": "4 loại: Trĩ nội ,trĩ ngoại ,trĩ hỗn hợp,trĩ chảy máu",
+        "4": "5 loại:: Trĩ nội ,trĩ ngoại ,trĩ hỗn hợp, trĩ chảy máu, trĩ nghẹt",
+        "A": "B",
+        "Q": "Phân loại trĩ dựa theo vị trí giải phẫu?"
+      },
+      "8": {
+        "1": "Búi trĩ mềm, nhẵn ,ấn xẹp",
+        "2": "Búi trĩ cứng, đầu tròn ,có cuống",
+        "3": "Búi trĩ sần sùi như súp lơ, có dính máu theo găng",
+        "4": "Búi trĩ cứng ,nhẵn ,ấn không xẹp",
+        "A": "A",
+        "Q": "Thăm trực tràng sờ thấy búi trĩ?"
+      },
+      "9": {
+        "1": "Ngâm hậu môn, thuốc đạn, mỡ đặt, bôi hậu môn, thuốc Daflon , Ginkort",
+        "2": "Tiêm thuốc gây xơ hóa búi tri",
+        "3": "Thắt búi tri bằng vòng cao su (phương pháp Barron )",
+        "4": "Áp lạnh, chiếu tia hồng ngoại",
+        "A": "A",
+        "Q": "Phương pháp điều trị nội khoa trĩ nội?"
+      },
+      "10": {
+        "1": "Phân đen như bã cà phê",
+        "2": "Máu nhỏ giọt cuối bãi phân, hoặc thành tia như cắt tiết gà",
+        "3": "Máu sẫm màu lẫn phân",
+        "4": "Phân nhày mũi, màu máu cá",
+        "A": "B",
+        "Q": "Triệu chứng chảy máu do trĩ?"
+      },
+      "11": {
+        "1": "Đau đột ngột dữ dội vùng thượng vị, buôn nôn và nôn",
+        "2": "Đau vùng hạ sườn phải, sốt cao kèm theo rét run, vàng da, vàng mắt, nước tiểu vàng",
+        "3": "Đau vùng gan sốt cao, gan to và đau",
+        "4": "Đau bụng từng cơn, nôn, bí trung đại tiện, bụng chướng",
+        "A": "B",
+        "Q": "Triệu chửng lâm sàng chính của sỏi ống mật chủ?"
+      },
+      "12": {
+        "1": "Tiền sử lỵ amip",
+        "2": "Tiền sử đau, sot, vàng da nhiều đợt hoặc mô mật cũ",
+        "3": "Tiền sử nôn ra máu, ỉa phân đen nhiêu lân",
+        "4": "Tiền sử đau dạ dày tá tràng",
+        "A": "B",
+        "Q": "Trong bệnh sỏi ống mật chủ, bệnh nhân thường có tiền sử?"
+      },
+      "13": {
+        "1": "Thấm mật phúc mạc, viêm phúc mạc mật",
+        "2": "Tắc ruột do sỏi mật",
+        "3": "Áp xe gan vỡ ra ngoài da",
+        "4": "Viêm túi mật cấp do sỏi mật",
+        "A": "A",
+        "Q": "Các biến chứng cấp tính của sỏi ống mật chủ là?"
+      },
+      "14": {
+        "1": "Chụp X quang ổ bụng",
+        "2": "Chụp đường mật qua đường uống",
+        "3": "Siêu âm gan mật",
+        "4": "Chụp cắt lớp vi tính",
+        "A": "C",
+        "Q": "Phương pháp cận lâm sàng chẩn đoán sỏi mật tốt nhất là?"
+      },
+      "15": {
+        "1": "Chảy máu sau mổ",
+        "2": "Viêm phổi sau mổ",
+        "3": "Rò mật",
+        "4": "Nhiễm khuẩn vét mổ",
+        "A": "A",
+        "Q": "Các biến chứng nguy hiểm sau mổ sỏi đường mật là?"
+      },
+      "16": {
+        "1": "Do rối loạn chuyển hoá cholesterol",
+        "2": "Do yếu tố di truyền",
+        "3": "Do tan máu",
+        "4": "Nhiễm ký sinh trùng, đặc biệt là giun đũa, kèm theo nhiễm khuẩn đường mật",
+        "A": "D",
+        "Q": "Nguyên nhân hình thành sỏi đường mật ở Việt Nam thường là"
+      },
+      "17": {
+        "1": "Diễn biến cấp tính và tái diễn từng đợt xuất hiện và mất đi theo trình tư",
+        "2": "Các triệu chúng xuất hiện và mất đi không.có tính qui luật",
+        "3": "Có thể có sốt cao, rét run",
+        "4": "Đau vùng hạ sườn phải phải và luôn lan lên vai phải, ra sau lung",
+        "A": "A",
+        "Q": "Đặc điểm quan trọng nhất của tam chứng Charcot trong sỏi đường mật giúp phân biệt vớỉ vàng da tắc mật do u là"
+      },
+      "18": {
+        "1": "Giãn đường mật trong gan",
+        "2": "Hình tăng âm có bóng cản",
+        "3": "Dày thành đường mật kèm theo có hình ảnh của sỏi",
+        "4": "Hình tăng âm nằm trong ống mật có bóng cản âm và đường mật giãn",
+        "A": "D",
+        "Q": "Hình ảnh quan trọng giúp chẫn đoán tắc mật do sỏi trên siêu âm là"
+      },
+      "19": {
+        "1": "Da vàng sạm, thường có rối loạn tiêu hoá, phân bạc màu",
+        "2": "Vàng da tăc mật liền tục, tăng dần theo thời gian",
+        "3": "Sốt cao, sau đó xuât hiện đau dữ dội hạ sườn phải",
+        "4": "Tiền sử có giun chui ông mật hoặc đã được mổ sỏi mật trước đó, tam chứng Charcot câp tính và tái diễn nhiều đợt",
+        "A": "D",
+        "Q": "Biểu hiện lâm sàng chủ yếu để phân biệt vàng da tắc mật do sôi với vàng da tắc mật do u là"
+      },
+      "20": {
+        "1": "Các bệnh có vàng da",
+        "2": "Các bệnh vàng da tắc mật không do sỏi",
+        "3": "Các bệnh có đau vùng hạ sườn phải hoặc đau hạ sườn phải kèm theo sốt",
+        "4": "Tât cả các trường hợp trên",
+        "A": "D",
+        "Q": "Vàng da tăc mật do sỏi thường phải chẩn đoán phân biệt với các bệnh sau"
+      },
+      "21": {
+        "1": "Điểm cạnh ức phải ấn đau",
+        "2": "Ấn điểm túi mật không đau",
+        "3": "Hội chứng vàng da tắc mật",
+        "4": "Dấu hiệu Murphy (-)",
+        "A": "C",
+        "Q": "Triệu chứng lâm sàng quan trọng nhất để phân biệt sỏi ống mật chủ với sỏi túi mật là"
+      },
+      "22": {
+        "1": "Shock nhiễm khuẩn đường mật",
+        "2": "Viêm phúc mạc mật, thấm mật phúc mạc",
+        "3": "Viêm mủ và áp xe gan đường mật",
+        "4": "Suy gan cấp",
+        "A": "D",
+        "Q": "Các biến chứng cấp tính sau đây không phải do sỏi đường mật gây nên"
+      },
+      "23": {
+        "1": "Viêm chít hẹp đường mật",
+        "2": "Xơ gan mật",
+        "3": "Viêm tuy màn",
+        "4": "Thiểu mảu mãn tính",
+        "A": "D",
+        "Q": "Các biến chứng mạn tính sau đây không phải do sỏi đường mật gây nên"
+      },
+      "24": {
+        "1": "Ngàn ngừa và xừ trí các biến chứng, cứu sống tính mạng người bệnh",
+        "2": "Lav hết sỏi trong đường mật",
+        "3": "Điều trị triệu chủng",
+        "4": "Chổng nhiễm độc mật",
+        "A": "A",
+        "Q": "Mục đích chù yếu cùa các phương pháp điều trị cấp cứu sỏi đường mật là"
+      },
+      "25": {
+        "1": "Phòng ngừa biến chửng cấp tỉnh và mẫn tính",
+        "2": "Lấy hết sỏi, tạo lưu thông đường mật, hạn chế sót sỏi và tái phát sỏi",
+        "3": "Dự phòng sỏi tải phát",
+        "4": "Chống nhiễm khuẩn tái phát",
+        "A": "B",
+        "Q": "Mục đích chủ yếu của các phương pháp can thiệp ngoại khoa phiên (không cấp cứu) đối với sôi đường mệt là"
+      }
+    },
+    "ngoai_tiet_nieu": {
+      "name": "Ngoại tiết niệu",
+      "1": {
+        "1": "Chỉ xảy ra ở nam",
+        "2": "Do chấn thương trực tiếp",
+        "3": "Do vết thương",
+        "4": "Có thể xảy ra ở cả nam và nữ",
+        "A": "",
+        "Q": "Chấn thương niệu đạo trước, CHỌN CÂU SAI"
+      },
+      "2": {
+        "1": "Bí tiểu",
+        "2": "Chảy máu miệng sáo nhiều",
+        "3": "Không bí tiểu",
+        "4": "Tất cả đều sai",
+        "A": "",
+        "Q": "Chấn thương niệu đạo, đặt sonde niệu đạo bang quang khi"
+      },
+      "3": {
+        "1": "Trong phúc mạc",
+        "2": "Dưới phúc mạc",
+        "3": "Cả hai",
+        "4": "Có kèm vỡ ruột",
+        "A": "",
+        "Q": "Khi có gãy khung chậu, bang quang thường vỡ"
+      },
+      "4": {
+        "1": "Siêu âm",
+        "2": "Cystography",
+        "3": "CT Scanner",
+        "4": "Chụp bụng đứng không chuẩn bị",
+        "A": "",
+        "Q": "Cận lâm sàng giá trị nhất chẩn đoán vỡ bang quang"
+      },
+      "5": {
+        "1": "Vỡ trong phúc mạc >2cm",
+        "2": "Vỡ trong phúc mạc <2cm",
+        "3": "Vỡ ngoài phúc mạc >2cm",
+        "4": "Vỡ ngoài phúc mạc <2cm",
+        "A": "",
+        "Q": "Chỉ định phẫu thuật vỡ bang quang khi, NGOẠI TRỪ"
+      },
+      "6": {
+        "1": "Thận ít bị chảy máu khi tổn thương",
+        "2": "Thận nằm trong hố thận nên có thể hình thành khối máu tụ",
+        "3": "Có hai thận nên khi một thận bị vỡ thì không ảnh hưởng đến chức năng thận ,",
+        "4": "Thận nằm sâu nên ít bị tổn thương",
+        "A": "",
+        "Q": "Chấn thương thận kín có thể điều trị nội khoa vì:"
+      },
+      "7": {
+        "1": "Vật gây sát thương nhỏ",
+        "2": "Tổn thương thận nhỏ",
+        "3": "Tụ máu dưới bao",
+        "4": "Tất cả sai",
+        "A": "",
+        "Q": "Trong vết thương thận, trường hợp nào có thể điều trị nội khoa?"
+      },
+      "8": {
+        "1": "Khối máu tụ quanh thận không lớn",
+        "2": "Thận độc nhất",
+        "3": "Khi truyền máu, huyết áp bệnh nhân lên trở lại và sau đó ổn định",
+        "4": "Theo dõi những ngày sau nước tiểu trong dần và khối máu tụ không to ra",
+        "A": "",
+        "Q": "Trường hợp nào có chỉ định điều trị nội khoa, CHỌN CÂU SAI"
+      },
+      "9": {
+        "1": "Thận ứ nước",
+        "2": "Viêm thận",
+        "3": "Thận đa nang",
+        "4": "U thận",
+        "A": "",
+        "Q": "Thận to và căng hơn bình thường nên dễ bị vỡ trong trường hợp, CHỌN CÂU SAI"
+      },
+      "10": {
+        "1": "1,2,3",
+        "2": "1,3,4",
+        "3": "1,2,4",
+        "4": "1,2,3,4",
+        "A": "C",
+        "Q": "Chọn câu trả lời ĐÚNG: Các nguyên nhân gây chấn thương niệu đạo sau:,Tai nạn giao thông,Tai nạn lao động,Quan hệ tình dục sai tư thế,Do tai nạn trong điều trị"
+      },
+      "11": {
+        "1": "1,2,3",
+        "2": "1,3,4",
+        "3": "1,2,4",
+        "4": "1,2,3,4",
+        "A": "D",
+        "Q": "Chọn câu trả lời ĐÚNG: Các nguyên nhân gây chấn thương niệu đạo trước:,Tai nạn giao thông,Tai nạn lao động,Tai nạn sinh hoạt,Tai nạn trong điều trị"
+      },
+      "12": {
+        "1": "Cơ chế trực tiếp, niệu đạo bị kẹp giữa hai vật chứng.",
+        "2": "Cơ chế gián tiếp, niệu đạo bị khung chậu kéo căng.",
+        "3": "Cơ chế gián tiếp do vỡ khung chậu, di lệch khung chậu gây giằng xé, co kéo cân chậu.",
+        "4": "Cơ chế trực tiếp do dụng cụ y tế làm tổn thương niệu đạo trong các thủ thuật, phẫu thuật.",
+        "A": "C",
+        "Q": "Chọn câu trả lời ĐÚNG: Cơ chế chấn thương trong chấn thương niệu đạo sau là:"
+      },
+      "13": {
+        "1": "Cơ chế trực tiếp do niệu đạo bị mảnh xương mu đâm vào.",
+        "2": "Cơ chế trực tiếp do niệu đạo bị kẹp giữa bờ dưới khớp mu và vật cứng (ngã ngồi trên nền cứng)",
+        "3": "Cơ chế trực tiếp do các dụng cụ nong soi trực tràng.",
+        "4": "Cơ chế gián tiếp do vỡ khung chậu.",
+        "A": "B",
+        "Q": "Chọn câu trả lời ĐÚNG: Cơ chế chấn thương niệu đạo tầng sinh môn:"
+      },
+      "14": {
+        "1": "Chảy máu miệng sáo ngoài bãi đái, bí đái cấp, tụ máu bìu.",
+        "2": "Chảy máu miệng sáo ngoài bãi đái, đái máu, tụ máu tầng sinh môn.",
+        "3": "Chảy máu miệng sáo ngoài bãi đái, bí đái cấp (thường là bí đái muộn), tụ máu tầng sinh môn hình cánh bướm.",
+        "4": "Ít khi có shock chấn thương.",
+        "A": "C",
+        "Q": "Chọn câu trả lời ĐÚNG: Triệu chứng lâm sàng tại chỗ của chấn thương niệu đạo trước:"
+      },
+      "15": {
+        "1": "Toàn thân thường có shock chấn thương, tại chỗ có triệu chứng chảy máu miệng sáo ngoài bãi đái, bí đái cấp ngay và tụ máu quanh lỗ hậu môn.",
+        "2": "Toàn thân thường có shock chấn thương, tại chỗ có bí đái cấp và tụ máu tầng sinh môn hình cánh bướm.",
+        "3": "Toàn thân thường có shock, tại chỗ bí đái cấp, chảy máu miệng sáo ngoài bãi đái, không có cầu bàng quang.",
+        "4": "Ít khi có shock chấn thương",
+        "A": "A",
+        "Q": "Chọn câu trả lời ĐÚNG: Triệu chứng lâm sàng chấn thương niệu đạo sau:"
+      },
+      "16": {
+        "1": "Shock chấn thương là do có nhiều tổn thương kết hợp, nguyên nhân là do đau và rối loạn vận mạch.",
+        "2": "Shock chấn thương hay gặp do xương chậu bị vỡ.",
+        "3": "Shock chấn thương hay gặp do xương chậu bị vỡ và tổn thương bụng kết hợp.",
+        "4": "Shock chấn thương hay gặp do tổn thương vỡ xương chậu và các chấn thương nặng khác kết hợp. Cơ chế shock là do đau và mất máu.",
+        "A": "D",
+        "Q": "Chọn câu trả lời ĐÚNG: Trong chấn thương niệu đạo sau:"
+      },
+      "17": {
+        "1": "Chảy máu miệng sáo là triệu chứng điển hình, rầm rộ do lực chấn thương tác động trực tiếp vào niệu đạo.",
+        "2": "Máu chảy miệng sáo nhiều và sớm là do niệu đạo trước được bao quanh bởi vật xốp, khi chấn thương niệu đạo có kèm theo tổn thương vật xốp chứa nhiều máu. Niệu đạo trước gần miệng sáo nên máu chảy nhanh ra ngoài.",
+        "3": "Chảy máu miệng sáo thường kín đáo do máu chảy vào trong.",
+        "4": "Chảy máu miệng sáo thường ít vì chỉ có tổn thương thành niệu đạo đơn thuần.",
+        "A": "B",
+        "Q": "Chọn câu trả lời ĐÚNG: Đặc điểm triệu chứng lâm sàng tại chỗ của chấn thương niệu đạo trước:"
+      },
+      "18": {
+        "1": "Xuất hiện sớm ngay sau chấn thương.",
+        "2": "Xuất hiện muộn, chỉ bí đái cấp sau khi đã đi tiểu được 1 hoặc vài lần.",
+        "3": "Xuất hiện sớm hay gặp trong chấn thương niệu đạo sau, do đặc điểm tổn thương giải phẫu bệnh của chấn thương niệu đạo sau bị đứt hoàn toàn.",
+        "4": "Xuất hiện sớm ngay sau chấn thương trong trường hợp niệu đạo bị đứt hoàn toàn hoặc bị gập khúc, xuất hiện muộn khi niệu đạo bị đụng dập hay đứt một phần.",
+        "A": "D",
+        "Q": "Chọn câu trả lời ĐÚNG Nhất: Bí đái trong chấn thương niệu đạo có đặc điểm:"
+      },
+      "19": {
+        "1": "1,2,3",
+        "2": "1,3,4",
+        "3": "2,3,4",
+        "4": "1,2,4",
+        "A": "B",
+        "Q": "Chọn câu trả lời ĐÚNG: Tổn thương giải phẫu bệnh của niệu đạo trong chấn thương niệu đạo trước là:,Đụng dập niệu đạo,Niệu đạo bị căng kéo, gấp khúc.,Đứt một phần niệu đạo.,Đứt hoàn toàn niệu đạo."
+      },
+      "20": {
+        "1": "1,2,3",
+        "2": "1,3,4",
+        "3": "1,2,3,4",
+        "4": "2,3,4",
+        "A": "C",
+        "Q": "Chọn câu trả lời ĐÚNG: Tổn thương giải phẫu bệnh của niệu đạo trong chấn thương niệu đạo sau là:,Đụng dập niệu đạo,Niệu đạo bị căng kéo, gấp khúc.,Đứt một phần niệu đạo.,Đứt hoàn toàn niệu đạo."
+      },
+      "21": {
+        "1": "1,2",
+        "2": "1,2,4",
+        "3": "2,3",
+        "4": "3,4",
+        "A": "A",
+        "Q": "Chọn câu trả lời ĐÚNG: Các biến chứng của chấn thương niệu đạo sau:,Nhiễm trùng ổ dịch máu gây áp xe tiểu khung.,Hẹp niệu đạo.,Viêm rò bàng quang.,Áp xe bìu."
+      },
+      "22": {
+        "1": "1,2",
+        "2": "2,3,4",
+        "3": "1,2,3",
+        "4": "1,3,4",
+        "A": "C",
+        "Q": "Chọn câu trả lời ĐÚNG: Các biến chứng của chấn thương niệu đạo trước:,Nhiễm khuẩn ổ máu tụ, viêm tấy tầng sinh môn.,Hẹp niệu đạo.,Rò niệu đạo.,Rò bàng quang."
+      },
+      "23": {
+        "1": "Cơ chế chấn thương, chảy máu miệng sáo ngoài bãi đái, tụ máu tầng sinh môn.",
+        "2": "Cơ chế chấn thương, chảy máu miệng sáo ngoài bãi đái, bí đái cấp, chụp x quang khung chậu.",
+        "3": "Cơ chế chấn thương, bí đái cấp, tụ máu tầng sinh môn, chụp x quang khung chậu.",
+        "4": "Cơ chế chấn thương, chảy máu miệng sáo ngoài bãi đái rầm rộ, tụ máu tầng sinh môn hình cánh bướm, bí đái và chụp x quang niệu đạo có thuốc cản quang hoặc nội soi.",
+        "A": "D",
+        "Q": "Chọn câu trả lời ĐÚNG: Chẩn đoán chấn thương niệu đạo trước căn cứ vào:"
+      },
+      "24": {
+        "1": "Có vỡ khung chậu, bí đái cấp.",
+        "2": "Cơ chế chấn thương, vỡ khung chậu, có máu miệng sáo, không đặt được thông tiểu.",
+        "3": "Chụp niệu đạo bàng quang ngược dòng có thuốc thoát ra ngoài ở đoạn niệu đạo màng.",
+        "4": "Cơ chế chấn thương, lâm sàng có chảy máu miệng sáo ngoài bãi đái, bí đái cấp, có vỡ khung chậu và chụp niệu đạo bàng quang ngược dòng.",
+        "A": "D",
+        "Q": "Chọn câu trả lời ĐÚNG: Chẩn đoán chấn thương niệu đạo sau dựa vào:"
+      },
+      "25": {
+        "1": "1,2,",
+        "2": "1,3,",
+        "3": "1,2,",
+        "4": "2,3,",
+        "A": "C",
+        "Q": "Chọn câu trả lời ĐÚNG: Cần chẩn đoán phân biệt chấn thương niệu đạo sau với:,Chấn thương bàng quang.,Chấn thương niệu đạo trước.,Chấn thương thận.,Chấn thương dương vật."
+      },
+      "26": {
+        "1": "Chấn thương thận",
+        "2": "Chấn thương niệu đạo sau.",
+        "3": "Chấn thương bụng kín",
+        "4": "Chấn thương bìu đơn thuần.",
+        "A": "B",
+        "Q": "Chọn câu trả lời ĐÚNG: Cần chẩn đoán phân biệt chấn thương niệu đạo trước với:"
+      },
+      "27": {
+        "1": "Phòng và chống shock.",
+        "2": "Phòng và chống nhiễm khuẩn.",
+        "3": "Tiêm SAT",
+        "4": "Phát hiện và xử trí theo thứ tự ưu tiên các tổn thương kết hợp.",
+        "A": "C",
+        "Q": "Chọn câu trả lời sai: Nguyên tắc xử trí chấn thương niệu đạo:"
+      },
+      "28": {
+        "1": "Dẫn lưu bàng quang trên xương mu, đặt nòng niệu đạo khi bệnh nhân hết shock.",
+        "2": "Mổ nối niệu đạo ngay sau chấn thương.",
+        "3": "Dẫn lưu bàng quang trên mu đơn thuần.",
+        "4": "Đặt thông tiểu.",
+        "A": "A",
+        "Q": "Chọn câu trả lời ĐÚNG: Điều trị chấn thương niệu đạo sau tại tuyến chuyên khoa:"
+      },
+      "29": {
+        "1": "Dẫn lưu bàng quang trên mu.",
+        "2": "Đặt thông qua niệu đạo.",
+        "3": "Mổ nối niệu đạo tận tận.",
+        "4": "Không can thiệp gì.",
+        "A": "B",
+        "Q": "Chọn câu trả lời ĐÚNG Nhất: Điều trị chấn thương niệu đạo trước vẫn có thể đi tiểu được đến sớm trước 6 giờ:"
+      },
+      "30": {
+        "1": "1,2,3",
+        "2": "1,3,4",
+        "3": "1,2,4",
+        "4": "2,3,4",
+        "A": "C",
+        "Q": "Chọn câu trả lời ĐÚNG: Nguyên nhân chấn thương bàng quang:,Tai nạn giao thông,Tai nạn lao động,Vũ khí nóng.,Tai nạn điều trị."
+      },
+      "31": {
+        "1": "Cơ chế trực tiếp do mảnh xương chậu đâm vào bàng quang đang căng đầy nước tiểu.",
+        "2": "Cơ chế trực tiếp do lực chấn thương tác động vào bàng quang đang căng đầy nước tiểu.",
+        "3": "Cơ chế trực tiếp do tai biến tổn thương bàng quang trong mổ.",
+        "4": "Cơ chế gián tiếp do ngã cao.",
+        "A": "B",
+        "Q": "Chọn câu trả lời ĐÚNG: Cơ chế chấn thương bàng quang hay gặp nhất:"
+      },
+      "32": {
+        "1": "Tổn thương một phần thành bàng quang.",
+        "2": "Thủng bàng quang vào trong ổ phúc mạc.",
+        "3": "Thủng bàng quang ngoài ổ phúc mạc.",
+        "4": "Vỡ bàng quang vào tiểu khung.",
+        "A": "D",
+        "Q": "Chọn câu trả lời sai: Các phân loại tổn thương giải phẫu bệnh trong chấn thương bàng quang:"
+      },
+      "33": {
+        "1": "Đái máu",
+        "2": "Đái tăng lần",
+        "3": "Mót rặn",
+        "4": "Đái đục",
+        "A": "D",
+        "Q": "Chọn câu trả lời sai: Triệu chứng cơ năng tại chỗ của chấn thương bàng quang:"
+      },
+      "34": {
+        "1": "1,2",
+        "2": "2,3",
+        "3": "3,4",
+        "4": "1,3",
+        "A": "D",
+        "Q": "Chọn câu trả lời ĐÚNG: Các xét nghiệm cận lâm sàng giúp chẩn đoán chấn thương vỡ bàng quang vào trong ổ phúc mạc bao gồm:,Siêu âm ổ bụng,Chụp hệ tiết niệu không chuẩn bị,Chụp CT ổ bụng có tiêm thuốc cản quang.,Chụp bàng quang bơm hơi."
+      },
+      "35": {
+        "1": "1,2,3",
+        "2": "1,2,",
+        "3": "3,",
+        "4": "1,3,",
+        "A": "C",
+        "Q": "Chọn những câu trả lời ĐÚNG: Các biến chứng của chấn thương bàng quang vỡ vào ổ phúc mạc:,Rò bàng quang ruột.,Viêm ruột thừa.,Viêm phúc mạc.,Áp xe túi cùng Douglas"
+      },
+      "36": {
+        "1": "1,2",
+        "2": "1,2,3",
+        "3": "1,2,3,4",
+        "4": "1,3",
+        "A": "D",
+        "Q": "Chọn những câu trả lời ĐÚNG: Các biến chứng của vỡ bàng quang ngoài ổ phúc mạc:,Nhiễm khuẩn ổ dịch máu tạo ổ áp xe cạnh bàng quang.,Viêm phúc mạc.,Rò bàng quang.,Hẹp niệu đạo."
+      },
+      "37": {
+        "1": "Cơ chế chấn thương, lâm sàng có triệu chứng đái máu, siêu âm có nhiều dịch ổ bụng.",
+        "2": "Cơ chế chấn thương, lâm sàng có đái máu, đái ít, siêu âm có nhiều dịch ổ bụng.",
+        "3": "Cơ chế chấn thương, lâm sàng có đái máu, đái ít, mót rặn, siêu âm có dịch ổ bụng.",
+        "4": "Cơ chế chấn thương, lâm sàng có đái máu, chụp bàng quang bơm thuốc cản quang có thuốc thoát ra ngoài vào trong ổ bụng.",
+        "A": "D",
+        "Q": "Chọn câvu trả lời ĐÚNG Nhất: Chẩn đoán xác định chấn thương vỡ bàng quang vào trong ổ phúc mạc:"
+      },
+      "38": {
+        "1": "1,2",
+        "2": "1,2,3",
+        "3": "1,2,3,4",
+        "4": "2,3,4",
+        "A": "B",
+        "Q": "Chọn câu trả lời ĐÚNG: Nguyên tắc điều trị chấn thương bàng quang:,Phòng và chống shock.,Phòng và chống nhiễm khuẩn.,Phát hiện và xử trí các tổn thương kết hợp theo thứ tự ưu tiên.,Mổ khâu vết thương bàng quang."
+      },
+      "39": {
+        "1": "1,2",
+        "2": "1,2,3",
+        "3": "1,2,3,4",
+        "4": "2,3,4",
+        "A": "B",
+        "Q": "Chọn câu trả lời ĐÚNG: Chẩn đoán phân biệt chấn thương bàng quang:,Chấn thương bụng kín không có tổn thương bàng quang.,Chấn thương thận.,Chấn thương niệu đạo sau,Chấn thương ngực kín"
+      },
+      "40": {
+        "1": "3",
+        "2": "2,3",
+        "3": "1,3,4",
+        "4": "3,4",
+        "A": "D",
+        "Q": "Chọn câu trả lời ĐÚNG: Chỉ định điều trị ngoại khoa trong chấn thương bàng quang:,Chấn thương đụng dập bàng quang.,Chấn thương tổn thương một phần thành bàng quang.,Chấn thương vỡ bàng quang vào trong ổ bụng.,Chấn thương đứt rời cổ bàng quang"
+      },
+      "41": {
+        "1": "1,2,3",
+        "2": "1",
+        "3": "1,2",
+        "4": "1,2,3,4",
+        "A": "C",
+        "Q": "Chọn câu trả lời ĐÚNG: Các phương pháp mổ có thể áp dụng trong chấn thương vỡ bàng quang vào trong ổ phúc mạc:,\"Mổ mở khâu vết thương bàng quang, ngoài phúc mạc hóa bàng quang, dẫn lưu bàng quang trên xương mu. Dẫn lưu ổ bụng và khoang Retzius.\",\"Phẫu thuật nội soi khâu lỗ thủng bàng quang, lau rửa và dẫn lưu ổ bụng. Dẫn lưu bàng quang qua niệu đạo.\",Mổ mở khâu vết thương bàng quang. Lau rửa và dẫn lưu ổ bụng.,Mổ mở khâu vết thương bàng quang. Lau rửa ổ bụng. Dẫn lưu khoang trước bàng quang."
+      },
+      "42": {
+        "1": "Chỉ định mổ cấp cứu, khâu lỗ thủng bàng quang, dẫn lưu bàng quang trên xương mu và dẫn lưu khoang Retzius.",
+        "2": "Chỉ định mổ cấp cứu khâu lỗ thủng bàng quang. Dẫn lưu khoang trước bàng quang và dẫn lưu bàng quang qua niệu đạo.",
+        "3": "Đặt thông tiểu, theo dõi đánh giá mức độ tổn thương bàng quang và ổ dịch máu quanh bàng quang. Chỉ định phẫu thuật khâu lỗ thủng, dẫn lưu bàng quang trên xương mu, dẫn lưu khoang Retzius khi đường vỡ bàng quang lớn, ổ dịch máu quanh bàng quang nhiều hoặc khi có biến chứng nhiễm khuẩn.",
+        "4": "Đặt thông tiểu, điều trị bảo tồn bằng các thuốc kháng sinh, dãn cơ và cầm máu.",
+        "A": "C",
+        "Q": "Chọn câu trả lời ĐÚNG Nhất: Thái độ xử trí trước một trường hợp chấn thương vỡ bàng quang ngoài ổ phúc mạc:"
+      },
+      "43": {
+        "1": "Cơ chế gián tiếp",
+        "2": "Cơ chế trực tiếp",
+        "3": "Cơ chế xoắn vặn cuống thận",
+        "4": "Cơ chế tăng áp lực ổ bụng đột ngột",
+        "A": "B",
+        "Q": "Chọn đáp án ĐÚNG: cơ chế hay gặp trong chấn thương thận:"
+      },
+      "44": {
+        "1": "Vỡ xương chậu.",
+        "2": "Tăng áp lực ổ bụng đột ngột trong khi bệnh lý thận.",
+        "3": "Co kéo thận",
+        "4": "Co kéo cân cơ thắt lưng chậu",
+        "A": "B",
+        "Q": "Chọn đáp án ĐÚNG. Cơ chế gián tiếp trong chấn thương thận là do:"
+      },
+      "45": {
+        "1": "Tai nạn giao thông",
+        "2": "Tai nạn sinh hoạt",
+        "3": "Tai nạn lao động",
+        "4": "Tai nạn thể thao",
+        "A": "A",
+        "Q": "Chọn đáp án ĐÚNG. Nguyên nhân hay gặp nhất gây chấn thương thận trong thời bình là:"
+      },
+      "46": {
+        "1": "Cuối bãi",
+        "2": "Đầu bãi",
+        "3": "Toàn bãi",
+        "4": "Đầu bãi và cuối bãi",
+        "A": "C",
+        "Q": "Chọn đáp án ĐÚNG: Triệu chứng đái máu trong chấn thương thận là:"
+      },
+      "47": {
+        "1": "Cơ chế chấn thương, đau vùng thắt lưng, đái máu cuối bãi, căng gồ hố thận.",
+        "2": "Cơ chế chấn thương, đau vùng thắt lưng, đái máu đầu bãi, căng gồ hố thận.",
+        "3": "Cơ chế chấn thương, đau vùng hạ vị, đái máu toàn bãi, căng gồ hố thận.",
+        "4": "Cơ chế chấn thương, đau vùng thắt lưng, đái máu toàn bãi, căng gồ hố thận.",
+        "A": "D",
+        "Q": "Chọn đáp án ĐÚNG. Triệu chứng lâm sàng chẩn đoán chấn thương thận"
+      },
+      "48": {
+        "1": "2 độ",
+        "2": "3 độ",
+        "3": "4 độ",
+        "4": "5 độ",
+        "A": "D",
+        "Q": "Chọn đáp án ĐÚNG. Theo bảng phân độ chấn thương thận AAST,(Hiệp hội phẫu thuật chấn thương Hoa Kỳ - 2001) tổn thương thận được chia làm:"
+      },
+      "49": {
+        "1": "Tụ máu dưới bao",
+        "2": "Rách bao thận, tụ máu quanh thận không lan rộng. Đường vỡ nhu mô < 1cm.",
+        "3": "Rách bao thận, tụ máu quanh thận lan rộng. Đường vỡ nhu mô > 1cm",
+        "4": "Rách bao thận, tụ máu quanh thận không lan rộng. Đường vỡ nhu mô < 2cm.",
+        "A": "B",
+        "Q": "Chọn đáp án ĐÚNG.Tổn thương giải phẫu bệnh trong chấn thương thận độ 2 là:"
+      },
+      "50": {
+        "1": "Chấn thương cột sống",
+        "2": "Chấn thương ngực kín tràn máu tràn khí màng phổi.",
+        "3": "Chấn thương bàng quang",
+        "4": "Chấn thương tầng sinh môn",
+        "A": "C",
+        "Q": "Chọn đáp án ĐÚNG. Chẩn đoán phân biệt chấn thương thận với"
+      },
+      "51": {
+        "1": "Chụp UIV có nén",
+        "2": "Chụp UIV kết hợp bơm hơi sau phúc mạc",
+        "3": "Chụp UIV giỏ giọt tĩnh mạch liều cao không nén",
+        "4": "Chụp UIV thông thường",
+        "A": "C",
+        "Q": "Chọn đáp án ĐÚNG. Trong chấn thương thận kín nếu cần chụp UIV thì chụp theo phương pháp"
+      },
+      "52": {
+        "1": "Tụ máu dưới bao, đường vỡ sâu vào nhu mô < 1cm",
+        "2": "Tụ máu ngoài bao, đường vỡ sâu vào nhu mô < 1cm",
+        "3": "Tụ máu lớn sau phúc mạc, đường vỡ sâu vào nhu mô > 1cm",
+        "4": "Tụ máu lớn sau phúc mạc, đường vỡ sâu vào nhu mô > 1cm",
+        "A": "C",
+        "Q": "Theo phân độ của AAST (Hiệp hội phẫu thuật chấn thương Hoa Kỳ - 2001) tổn thương thận độ III là:"
+      },
+      "53": {
+        "1": "Áp xe ổ máu tụ tầng sinh môn",
+        "2": "Áp xe ổ máu tụ khoang Rettzius",
+        "3": "Áp xe ổ máu tụ sau phúc mạc",
+        "4": "Áp xe phúc mạc",
+        "A": "C",
+        "Q": "Chọn đáp án ĐÚNG. Biến chứng tại chỗ của chấn thương thận có thể gặp là:"
+      },
+      "54": {
+        "1": "Abcess thận, thận Matic, thận ứ niệu, đái  ra máu thứ phát.",
+        "2": "Thận ứ mủ, Abcess thận, thận xơ teo, đái mủ.",
+        "3": "Đái ra máu cuối bãi thứ phát, thận teo, viêm bàng quang.",
+        "4": "Abces thận, viêm thận mạn tính, thận ứ mủ, đái ra máu thứ phát.",
+        "A": "D",
+        "Q": "Biến chứng sớm tại thận sau chấn thương có thể gặp là:"
+      },
+      "55": {
+        "1": "Điều trị phẫu thuật",
+        "2": "Điều trị bảo tồn",
+        "3": "Điều trị can thiệp mạch",
+        "4": "Điều trị ít sang chấn",
+        "A": "B",
+        "Q": "Chọn đáp án ĐÚNG. Bệnh nhân chấn thương thận đơn thuần độ 1-2 áp dụng phương pháp điều trị nào:"
+      },
+      "56": {
+        "1": "Chấn thương thận độ IV-V, tụ máu lớn",
+        "2": "Chấn thương thận độ III",
+        "3": "Chấn thương thận huyết động ổn  định.",
+        "4": "Chấn thương thận II có tụ máu vừa.",
+        "A": "A",
+        "Q": "Chọn đáp án ĐÚNG. Chỉ định can thiệp phẫu thuật cấp cứu khi:"
+      },
+      "57": {
+        "1": "Nội soi đặt thông niệu quản",
+        "2": "Gây tắc mạch thận chọn lọc",
+        "3": "Chọc dẫn lưu thận",
+        "4": "Phẫu thuật nội soi",
+        "A": "B",
+        "Q": "Chọn đáp án ĐÚNG. Phương pháp điều trị can thiệp ít xâm lấn hay áp dụng trong chấn thương thận hiện nay là:"
+      },
+      "58": {
+        "1": "Dẫn lưu thận qua da",
+        "2": "Ngay lập tức đặt sonde Foley qua niệu đạo vào bàng quang để cố định và nối các phần bị thương",
+        "3": "Ngay lập tức tạo hình lại niệu đạo bị đứt sau khi bệnh nhân bước đầu ổn định",
+        "4": "Ngay lập tức thăm do xương chậu để kiểm soát chảy máu từ gãy xương chậu va dẫn lưu tụ máu vùng xương chậu,",
+        "5": "Ngay lập tức mở bàng quang dẫn lưu trên xương mu,",
+        "A": "",
+        "Q": "Người đi bộ bị đâm bởi xe ô tô đi tốc độ cao. Chụp xq tại phòng cấp cứu, gồm cả chụp xq niệu ngược dòng , có gãy xương chậu kèm đứt niệu đạo màng. Xử tri bao gồm:"
+      },
+      "59": {
+        "1": "Thắt niệu quản tổn thương va mở thận cùng bên",
+        "2": "Cắt thận cùng bên",
+        "3": "Đặt sonde dẫn lưu từ niệu quản ra thành bụng",
+        "4": "Đặt dẫn lưu cạnh vết rách mà không cần thao tác thêm",
+        "5": "Đưa đầu gần niệu quản lên da như mở niệu quản,",
+        "A": "",
+        "Q": "Trong quá trình phẫu thuật bệnh nhân nặng trong tình trạng không ổn định, niệu quản trái rách > 50% chu vi. Nếu tình trạng của bệnh nhân cảm thấy quá nghiêm trọng không cho phép đủ thời gian để sửa chữa, các phương pháp thay thế bao gồm:"
+      },
+      "60": {
+        "1": "Điều trị bảo tồn bao gồm lợi tiểu và cả giảm đau sẽ không khả quan",
+        "2": "Chụp thận, niệu quản, bàng quang (KUB) nên được sử dụng để theo dõi bệnh nhân",
+        "3": "Phân tích nước tiểu gần như luôn luôn thấy được tiểu máu vi thể",
+        "4": "Sau khi điều trị đợt cấp này, bệnh này sẽ hiếm khi tái phát",
+        "5": "BUN va creatinine dự kiến tăng cao",
+        "A": "",
+        "Q": "Một người đàn ông 36 tuổi đến phòng cấp cứu vì cơn đau quặn niệu. X quang thấy có 1 viên sỏi 5cm. Mệnh đề nào sau đây liên quan đến rối loạn này?"
+      }
+    },
+    "ngoai_long_nguc": {
+      "name": "Ngoại lồng ngực",
+      "1": {
+        "1": "Cắt ¼ tuyến vú",
+        "2": "Cắt bán phần tuyến vú",
+        "3": "Cắt 1/3 tuyến vú",
+        "4": "Cắt toàn bộ khối u",
+        "A": "D",
+        "Q": "Phương pháp phẫu thuật bệnh u xơ tuyến vú là:"
+      },
+      "2": {
+        "1": "Cắt bán phần tuyến vú, để lại núm vú.",
+        "2": "Cắt toàn bộ tuyến vú, để lại núm vú.",
+        "3": "Cắt toàn bộ tuyến vú và núm vú.",
+        "4": "Cắt bán phần tuyến vú, cắt núm vú.",
+        "A": "B",
+        "Q": "Phương pháp phẫu thuật điều trị bệnh phì đại tuyến vú nam giới là:"
+      },
+      "3": {
+        "1": "Hay gặp của tuyến vú, ở tuổi từ 20-4",
+        "2": "Ít gặp của tuyến vú, ở tuổi từ 15-20",
+        "3": "Hay gặp của tuyến vú, ở tuổi từ 50-60.",
+        "4": "Ít gặp của tuyến vú, ở tuổi từ 50-60",
+        "A": "A",
+        "Q": "U xơ tuyến vú là bệnh lành tính:"
+      },
+      "4": {
+        "1": "Ngoại khoa",
+        "2": "Nội khoa",
+        "3": "Hóa chất",
+        "4": "Xạ trị",
+        "A": "B",
+        "Q": "Phẫu thuật điều trị xơ nang tuyến vú chủ yếu là:"
+      },
+      "5": {
+        "1": "Có giá trị loại trừ",
+        "2": "Có giá trị quyết định",
+        "3": "Có giá trị định hướng",
+        "4": "Là căn cứ để cắt vú",
+        "A": "C",
+        "Q": "Để chẩn đoán ung thư vú xét nghiệm chọc hút tế bào bằng kim nhỏ"
+      },
+      "6": {
+        "1": "Patey",
+        "2": "Halsted",
+        "3": "Auchincloss",
+        "4": "Scalone",
+        "A": "A",
+        "Q": "Phẫu thuật cắt toàn bộ tuyến vú, cả núm vú và quầng vú, bảo tồn hai cơ ngực, vét hạch nách cùng bên thành một khối là phẫu thuật."
+      },
+      "7": {
+        "1": "Patey",
+        "2": "Halsted",
+        "3": "Auchincloss",
+        "4": "Scalone",
+        "A": "B",
+        "Q": "Phẫu thuật cắt toàn bộ tuyến vú, cùng với vạt da rộng, cắt hai cơ ngực, nạo toàn bộ hạch nách cùng bên thành một khối là phương pháp."
+      },
+      "8": {
+        "1": "Các vết lắng đọng calci bờ tua gai, hình ảnh các ống tuyến vú bị cắt cụt, xoắn vặn, có khối đặc tuyến vú, da vùng khối u và núm vú dày lên.",
+        "2": "Có đám mass ở vú, các nốt vôi hóa đơn thuần, da vùng khối u và núm vú mỏng.",
+        "3": "Có khối u ở vú, tổn thương là một khối dầy có tỷ trọng cao, da vùng khối u và núm vú mỏng.",
+        "4": "Có khối u ở vú, các ống tuyến vú bị giãn, các nốt vôi hóa đơn thuần, da vùng khối u và núm vú mỏng.",
+        "A": "A",
+        "Q": "Hình ảnh điển hình của ung thư vú trên X quang chụp vú tia mềm là:"
+      },
+      "9": {
+        "1": "Khối u ở ¼ trên trong, đường kính 5-7 cm, xâm lấn tại chỗ, có hạch nách cùng bên.",
+        "2": "Khối u ở ¼ trên ngoài, đường kính 3-5 cm, xâm lấn tại chỗ, chưa có di căn hạch nách cùng bên.",
+        "3": "Có một khối u, đường kính < 3cm, không xâm lấn tại chỗ, chưa có di căn hạch nách cùng bên.",
+        "4": "Khối u ở ¼ dưới trong, đường kính >7 cm, xâm lấn tại chỗ, có di căn hạch nách cùng bên.",
+        "A": "C",
+        "Q": "Ung thư vú có chỉ định điều trị phẫu thuật bảo tồn khi:"
+      },
+      "10": {
+        "1": "¼ dưới - ngoài",
+        "2": "¼ trên - trong",
+        "3": "¼ trên - ngoài",
+        "4": "¼ dưới - trong",
+        "A": "C",
+        "Q": "Trong bệnh u xơ tuyến vú, vị trí khối u có tỷ lệ lớn nhất là nằm ở:"
+      },
+      "11": {
+        "1": "Có giá trị loại trừ",
+        "2": "Có giá trị quyết định",
+        "3": "Có giá trị định hướng",
+        "4": "Là căn cứ để cắt tuyến giáp",
+        "A": "B",
+        "Q": "Để chẩn đoán ung thư tuyến giáp xét nghiệm chọc hút tế bào bằng kim nhỏ"
+      },
+      "12": {
+        "1": "Mắt lồi, tay run, bướu giáp đa nhân.",
+        "2": "Mắt lồi, mạch nhanh thường xuyên, bướu giáp to lan tỏa.",
+        "3": "Mắt lồi, gầy sút cân, bướu giáp đa nhân.",
+        "4": "Mắt lồi, mạch nhanh, bướu giáp đa nhân.",
+        "A": "B",
+        "Q": "Tam chứng điển hình trong bệnh Basedow do Carl Von Basedow mô tả là:"
+      },
+      "13": {
+        "1": "Thể nhú",
+        "2": "Thể nang",
+        "3": "Thể không biệt hóa",
+        "4": "Thể tủy",
+        "A": "A",
+        "Q": "Trong các thể ung thư tuyến giáp, thể có tiên lượng tốt nhất là:"
+      },
+      "14": {
+        "1": "Cắt gần hoàn toàn một thùy tuyến giáp.",
+        "2": "Cắt gần hoàn toàn tuyến giáp, để lại 15-20 gram.",
+        "3": "Cắt hoàn toàn tuyến giáp",
+        "4": "Cắt gần hoàn toàn tuyến giáp, để lại 3-6 gram.",
+        "A": "D",
+        "Q": "Hiện nay tại Việt Nam, phương pháp phẫu thuật thường dùng để điều trị bệnh Basedow là:"
+      },
+      "15": {
+        "1": "Cắt gần hoàn toàn tuyến giáp, để lại 3-6 gram.",
+        "2": "Cắt gần hoàn toàn tuyến giáp, để lại 15-20 gram.",
+        "3": "Cắt hoàn toàn tuyến giáp",
+        "4": "Cắt gần hoàn toàn một thùy tuyến giáp.",
+        "A": "B",
+        "Q": "Hiện nay tại Việt Nam, phương pháp phẫu thuật thường dùng để điều trị bệnh Bướu giáp đơn thuần là:"
+      },
+      "16": {
+        "1": "U có đường kính > 5cm nhỏ hơn 7 cm, khoang màng phổi dính ít.",
+        "2": "U có đường kính < 5cm, khoang màng phổi không dính.",
+        "3": "U có đường kính > 7cm nhỏ hơn 9 cm, khoang màng phổi dính vừa.",
+        "4": "U có đường kính > 9cm, khoang màng phổi dính nhiều.",
+        "A": "B",
+        "Q": "Chỉ định phẫu thuật nội soi u trung thất khi:"
+      },
+      "17": {
+        "1": "Có sự thông thương giữa khoang màng phổi và môi trường bên ngoài qua vết thương.",
+        "2": "Có sự thông thương giữa khoang màng phổi và phế quản qua vết thương.",
+        "3": "Khí chỉ có thể đi một chiều từ bên ngoài vào khoang màng phổi mà không ra được.",
+        "4": "Khí chỉ có thể đi một chiều từ phế quản vào khoang màng phổi.",
+        "A": "A",
+        "Q": "Vết thương tràn khí màng phổi mở là:"
+      },
+      "18": {
+        "1": "Áp xe phổi",
+        "2": "Máu đông màng phổi",
+        "3": "Mủ màng phổi",
+        "4": "Giãn phế quản",
+        "A": "D",
+        "Q": "Vết thương thấu ngực không gặp biến nào:"
+      },
+      "19": {
+        "1": "Điểm Heller",
+        "2": "Điểm Marfan",
+        "3": "Điểm Musset",
+        "4": "Điểm Petrov",
+        "A": "B",
+        "Q": "Vị trí chọc hút màng tim dưới mũi ức là:"
+      },
+      "20": {
+        "1": "Liên sườn VI-VII đường nách giữa.",
+        "2": "Liên sườn II đường giữa đòn",
+        "3": "Liên sườn V đường giữa đòn",
+        "4": "Liên sườn II đường nách sau",
+        "A": "A",
+        "Q": "Vị trí thông thường đặt dẫn lưu máu khoang màng phổi là:"
+      }
+    }
+  }
+}
