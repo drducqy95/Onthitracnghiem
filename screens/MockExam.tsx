@@ -36,18 +36,50 @@ const MockExam: React.FC = () => {
   }, []);
 
   const handleStartExam = async (config: ExamConfig) => {
-    const questionSets: Question[][] = [];
-    for (const sc of config.subjects) {
-      const allQ = await db.getQuestionsBySubjectRecursive(sc.subjectId);
-      const shuffled = allQ.sort(() => 0.5 - Math.random()).slice(0, sc.count);
-      if (shuffled.length === 0) {
-        alert(`Môn ${sc.subjectName} chưa có câu hỏi!`);
-        return;
-      }
-      questionSets.push(shuffled);
+  const allSubjectQuestions: Question[][] = [];
+  
+  // 1. Tải toàn bộ câu hỏi của các môn trong kỳ thi
+  for (const sc of config.subjects) {
+    const allQ = await db.getQuestionsBySubjectRecursive(sc.subjectId);
+    const shuffled = allQ.sort(() => 0.5 - Math.random()).slice(0, sc.count);
+    
+    if (shuffled.length === 0) {
+      alert(`Môn ${sc.subjectName} chưa có câu hỏi!`);
+      return;
     }
-    startSession(config.name, config.subjects, questionSets);
-  };
+    allSubjectQuestions.push(shuffled);
+  }
+
+  // 2. Lấy dữ liệu của môn ĐẦU TIÊN (index 0)
+  const firstSubjectQuestions = allSubjectQuestions[0];
+  const firstSubjectConfig = config.subjects[0];
+
+  // 3. Cập nhật Store đồng bộ
+  // Chúng ta sử dụng setState trực tiếp để đảm bảo currentSession và currentQuiz 
+  // được khởi tạo cùng lúc với dữ liệu môn đầu tiên
+  useStore.setState({
+    currentSession: {
+      name: config.name,
+      configs: config.subjects,
+      currentIndex: 0,
+      results: [],
+      // Chúng ta chưa đưa hết allSubjectQuestions vào đây vì Quiz.tsx 
+      // sẽ cộng dồn allQuestions sau khi hoàn thành mỗi môn
+      allQuestions: [], 
+      allUserAnswers: {}
+    },
+    currentQuiz: {
+      questions: firstSubjectQuestions, // Môn đầu tiên có dữ liệu ngay lập tức
+      userAnswers: {},
+      timeLeft: firstSubjectConfig.time * 60,
+      totalTime: firstSubjectConfig.time * 60,
+      isFinished: false
+    }
+  });
+
+  // 4. Chuyển màn hình
+  setScreen('QUIZ');
+};
 
   const handleStartSelfSelect = async (s: Subject) => {
     const allQ = await db.getQuestionsBySubjectRecursive(s.id);
