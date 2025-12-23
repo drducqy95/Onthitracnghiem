@@ -1,0 +1,7 @@
+{
+  "name": "Ôn thi trắc nghiệm",
+  "description": "A professional mobile-first quiz application for medical students, featuring offline support, exam tracking, and AI-powered explanations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
