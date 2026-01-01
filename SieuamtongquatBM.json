@@ -1,0 +1,2581 @@
+{
+    "Siêu âm tổng quát 3 tháng": {
+        "Tổng quát": {
+            "1": {
+                "1": "Lớp chéo ngang",
+                "2": "Lớp cắt dọc",
+                "3": "Lớp chéo quặt ngược",
+                "4": "Lớp cắt dọc liên sườn",
+                "A": "C",
+                "Q": "Siêu âm Tổng quát: Lớp cắt trên hình là "
+            },
+            "2": {
+                "1": "Dây chằng tĩnh mạch",
+                "2": "Dây chằng liềm",
+                "3": "Túi mật",
+                "4": "Tĩnh mạch của trái và các nhánh của nó",
+                "A": "A",
+                "Q": "Siêu âm Tổng quát: Hình ảnh vị trí mũi tên chỉ là "
+            },
+            "3": {
+                "1": "Dạ dày",
+                "2": "Cơ thành bụng",
+                "3": "Gan trái",
+                "4": "Tụy",
+                "A": "A",
+                "Q": "Siêu âm Tổng quát: Vị trí A là "
+            },
+            "4": {
+                "1": "ĐM lách",
+                "2": "ĐM gan chung",
+                "3": "ĐM thân tạng",
+                "4": "ĐM mạc treo tràng trên",
+                "A": "D",
+                "Q": "Siêu âm Tổng quát: Vị trí B là "
+            },
+            "5": {
+                "1": "Túi mật",
+                "2": "Đầu tụy",
+                "3": "TM chủ dưới",
+                "4": "TM mạc treo tràng trên",
+                "A": "C",
+                "Q": "Siêu âm Tổng quát: Vị trí C là"
+            },
+            "6": {
+                "1": "Hạch sau phúc mạc",
+                "2": "TM chủ bụng",
+                "3": "ĐM chủ bụng",
+                "4": "ĐM mạc treo tràng trên",
+                "A": "C",
+                "Q": "Siêu âm Tổng quát: Vị trí D là"
+            },
+            "7": {
+                "1": "Thăm khám siêu âm có hiệu quả nhất khi bệnh nhân nhịn ăn trước 6 giờ",
+                "2": "Khí trong ruột ảnh hưởng không đáng kể đến sự truyền của sóng âm",
+                "3": "Nước có thể giúp quan sát tụy tốt hơn",
+                "4": "Thận thấy rõ hơn khi bệnh nhân uống nhiều nước",
+                "A": "B",
+                "Q": "Đặc điểm nào là KHÔNG ĐÚNG khi chuẩn bị bệnh nhân trước siêu âm [cite: 167, 168, 169]"
+            },
+            "8": {
+                "1": "Bề mặt đầu dò áp hoàn toàn trên mặt da",
+                "2": "Đầu dò chếch theo hướng mà nó ghi nhận phần lớn các cấu trúc cần thấy trong ổ bụng không bị ảnh hưởng bởi xương sườn, ruột, dạ dày hoặc phổi",
+                "3": "Điều chỉnh độ sáng chung đúng",
+                "4": "Thay đổi tần số âm đúng",
+                "A": "B",
+                "Q": "“Cửa sổ âm” đúng nghĩa nhất là"
+            },
+            "9": {
+                "1": "Thấy rõ khi có dịch ổ bụng",
+                "2": "Đi từ cơ hoành đến gan trái",
+                "3": "Là dải tăng âm ngăn cách phân thùy IV và III",
+                "4": "Không phân chia gan thành thùy trái và thùy phải",
+                "A": "D",
+                "Q": "Đặc điểm nào KHÔNG ĐÚNG đối với dây chằng liềm"
+            },
+            "Name": "Siêu âm Tổng quát"
+        },
+        "Siêu âm tuyến giáp": {
+            "1": {
+                "1": "Động mạch cảnh",
+                "2": "Tĩnh mạch cảnh",
+                "3": "Nang tuyến giáp",
+                "4": "U máu",
+                "A": "A",
+                "Q": "Vị trí được khoanh tròn trên hình là: (Cấu trúc hình tròn, thành dày, không xẹp trên lát cắt ngang)"
+            },
+            "2": {
+                "1": "Động mạch cảnh",
+                "2": "Tĩnh mạch cảnh",
+                "3": "Nang tuyến giáp",
+                "4": "U máu",
+                "A": "B",
+                "Q": "Vị trí được khoanh tròn trên hình là: (Cấu trúc hình bầu dục, thành mỏng, dễ ấn xẹp)"
+            },
+            "3": {
+                "1": "Sử dụng đầu dò phẳng và tần số cao ≥ 5MHz",
+                "2": "Bệnh nhân nằm kê gối dưới đầu",
+                "3": "Thực hiện di chuyển đầu dò hướng ngang hoặc dọc",
+                "4": "Bệnh nhân không cần chuẩn bị đặc biệt trước thăm khám",
+                "A": "B",
+                "Q": "Ý nào sau đây KHÔNG phù hợp trong thăm khám siêu âm tuyến giáp"
+            },
+            "4": {
+                "1": "Nhu mô tuyến giáp tăng âm so với cơ",
+                "2": "Nhu mô tuyến giáp đồng âm so với cơ",
+                "3": "Nhu mô tuyến giáp giảm âm",
+                "4": "Nhu mô tuyến giáp có âm không đồng nhất",
+                "A": "A",
+                "Q": "Ý nào sau đây phù hợp với ảnh siêu âm tuyến giáp bình thường"
+            },
+            "5": {
+                "1": "Luôn quan sát thấy tuyến cận giáp trên siêu âm",
+                "2": "Eo tuyến giáp dày khoảng 2-3mm",
+                "3": "Thể tích tuyến giáp có thể tăng ở giai đoạn mang thai và tuổi dậy thì",
+                "4": "Tĩnh mạch cảnh hình bầu dục dễ ấn xẹp",
+                "A": "A",
+                "Q": "Ý nào sau đây KHÔNG phù hợp với siêu âm vùng cổ - tuyến giáp"
+            },
+            "6": {
+                "1": "Tuyến giáp giảm kích thước",
+                "2": "Tuyến giáp có thể tăng âm",
+                "3": "Tuyến giáp có thể giảm âm",
+                "4": "Tăng sinh mạch máu trên Doppler màu",
+                "A": "D",
+                "Q": "Hình ảnh siêu âm tuyến giáp trên bệnh nhân cường giáp (Basedow) có thể thấy"
+            },
+            "7": {
+                "1": "Hình trống âm, có tăng âm phía sau",
+                "2": "Hình trống âm, bên trong có thể thấy nốt tăng âm dạng đuôi sao chổi",
+                "3": "Hình trống âm, có vách dày không đều",
+                "4": "Hình trống âm, bên trong có các vẩn âm",
+                "A": "C",
+                "Q": "Nang tuyến giáp có đặc điểm nào ÁC TÍNH nhất trên siêu âm"
+            },
+            "8": {
+                "1": "Hình tăng âm",
+                "2": "Trục lớn hướng trước sau (chiều cao lớn hơn chiều rộng)",
+                "3": "Có viền giảm âm xung quanh",
+                "4": "Vôi hóa lớn",
+                "A": "B",
+                "Q": "Dấu hiệu nào sau đây trên siêu âm KHÔNG phù hợp gợi ý tính chất lành tính của nốt đặc tuyến giáp"
+            },
+            "9": {
+                "1": "Tăng sinh mạch bên trong",
+                "2": "Hình tăng âm",
+                "3": "Có viền giảm âm",
+                "4": "Bờ nét",
+                "A": "B",
+                "Q": "Ý nào sau đây KHÔNG điển hình với Adenoma tuyến giáp"
+            },
+            "10": {
+                "1": "Nốt thường giảm âm",
+                "2": "Thường có vôi vi thể bên trong",
+                "3": "Đường bờ không đều",
+                "4": "Tăng sinh mạch xung quanh",
+                "A": "D",
+                "Q": "Dấu hiệu nào sau đây KHÔNG phù hợp trên siêu âm trong tổn thương ác tính tuyến giáp"
+            },
+            "11": {
+                "1": "Tổn thương tuyến giáp gặp ở nam giới có nguy cơ ác tính cao",
+                "2": "Tổn thương có bờ mờ",
+                "3": "Nang thành dày, nụ sùi, tăng sinh mạch",
+                "4": "Ung thư thể tủy là hay gặp nhất",
+                "A": "D",
+                "Q": "Ý nào sau đây ÍT phù hợp với tổn thương ác tính tuyến giáp"
+            },
+            "12": {
+                "1": "Là viêm tuyến giáp hay gặp",
+                "2": "Tuyến tăng âm",
+                "3": "Tuyến giáp tăng kích thước",
+                "4": "Giai đoạn muộn tuyến teo lại xơ hóa",
+                "A": "B",
+                "Q": "Ý nào sau đây KHÔNG phù hợp với viêm tuyến giáp tự miễn Hashimoto"
+            },
+            "13": {
+                "1": "Hay gặp hơn viêm tuyến giáp Hashimoto",
+                "2": "Tổn thương giảm âm thường nằm ở phần ngoài mỗi thùy",
+                "3": "Tổn thương có ranh giới rõ",
+                "4": "Tổn thương thường một bên",
+                "A": "A",
+                "Q": "Viêm tuyến giáp De Quervain có đặc điểm nào"
+            },
+            "14": {
+                "1": "Bờ giới hạn rõ",
+                "2": "Vi vôi hóa",
+                "3": "Gợi ý tổn thương ác tính",
+                "4": "Gợi ý tổn thương lành tính",
+                "A": "D",
+                "Q": "Hình tổn thương tuyến giáp có cấu trúc dạng bọt biển (sponge-like) phù hợp với"
+            },
+            "15": {
+                "1": "Hình giảm âm",
+                "2": "Có vi vôi hóa",
+                "3": "Có viền giảm âm xung quanh",
+                "4": "Gợi ý ác tính cao",
+                "A": "D",
+                "Q": "Hình tổn thương tuyến giáp giảm âm, trục đứng, có vi vôi hóa phù hợp với"
+            },
+            "16": {
+                "1": "Giảm âm",
+                "2": "Đồng âm",
+                "3": "Hỗn hợp âm",
+                "4": "Tăng âm",
+                "A": "A",
+                "Q": "Dạng cấu trúc âm nào sau đây hay gặp nhất trong ung thư tuyến giáp"
+            },
+            "Name": "Siêu âm tuyến giáp"
+        },
+        "Siêu âm gan": {
+            "1": {
+                "1": "Gan phải",
+                "2": "Gan trái",
+                "3": "Thùy đuôi",
+                "4": "Bao gan",
+                "A": "D",
+                "Q": "Siêu âm Gan: Vị trí 1 trên hình là:"
+            },
+            "2": {
+                "1": "Gan phải",
+                "2": "Gan trái",
+                "3": "Thùy đuôi",
+                "4": "Mỏm gan",
+                "A": "D",
+                "Q": "Siêu âm Gan: Vị trí 2 trên hình là:"
+            },
+            "3": {
+                "1": "Tĩnh mạch cửa",
+                "2": "Động mạch gan trái",
+                "3": "Tĩnh mạch lách",
+                "4": "Tĩnh mạch gan trái",
+                "A": "D",
+                "Q": "Siêu âm Gan: Vị trí 3 trên hình là:"
+            },
+            "4": {
+                "1": "Tĩnh mạch chủ dưới",
+                "2": "Động mạch chủ bụng",
+                "3": "Tĩnh mạch cửa",
+                "4": "Tĩnh mạch lách",
+                "A": "D",
+                "Q": "Siêu âm Gan: Vị trí 4 trên hình là:"
+            },
+            "5": {
+                "1": "Thùy đuôi",
+                "2": "Rốn gan",
+                "3": "Hạ phân thùy VI",
+                "4": "Tĩnh mạch chủ dưới",
+                "A": "D",
+                "Q": "Siêu âm Gan: Vị trí 5 trên hình là:"
+            },
+            "6": {
+                "1": "Gan phải",
+                "2": "Lách",
+                "3": "Gan trái",
+                "4": "Tụy",
+                "A": "D",
+                "Q": "Siêu âm Gan: Vị trí 1 trên hình là:"
+            },
+            "7": {
+                "1": "Tĩnh mạch cửa",
+                "2": "Động mạch gan",
+                "3": "Ống mật chủ",
+                "4": "Không có đáp án đúng",
+                "A": "C",
+                "Q": "Đây là hình cắt qua nhu mô gan gần rốn gan, vị trí 1 là:"
+            },
+            "8": {
+                "1": "Tĩnh mạch gan",
+                "2": "Động mạch gan",
+                "3": "Ống mật chủ",
+                "4": "Không có đáp án đúng",
+                "A": "C",
+                "Q": "Đây là hình cắt qua nhu mô gan gần rốn gan, vị trí 3 là:"
+            },
+            "9": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Nang gan đơn thuần: Tăng cường âm phía sau."
+            },
+            "10": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Nang gan đơn thuần: Thành nang có thể dày không đều."
+            },
+            "11": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Nang gan đơn thuần: Nang thường nằm cạnh đường mật."
+            },
+            "12": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Nang gan đơn thuần: Có thể có âm vang trong nang khi có biến chứng bội nhiễm hoặc chảy máu."
+            },
+            "13": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "U máu trong gan: Có thế là cấu trúc đồng âm hay giảm âm."
+            },
+            "14": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "U máu trong gan: Tăng cường âm phía sau giúp phân biệt với ung thư gan."
+            },
+            "15": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "U máu trong gan: Thường nằm ở trung tâm gan."
+            },
+            "16": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "U máu trong gan: Có viền giảm âm xung quanh."
+            },
+            "17": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Khối ung thư biểu mô tế bào gan: Dễ chẩn đoán vì khối có cấu trúc âm không đều."
+            },
+            "18": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Khối ung thư biểu mô tế bào gan: Gây giãn đường mật trong gan."
+            },
+            "19": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Khối ung thư biểu mô tế bào gan: Thường có huyết khối tĩnh mạch gan."
+            },
+            "20": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Khối ung thư biểu mô tế bào gan: Khối nhỏ cần phân biệt với các u lành tính hoặc di căn."
+            },
+            "21": {
+                "1": "Dây chằng tĩnh mạch (d/c gan-dạ dày) ở bờ trước",
+                "2": "Thân tĩnh mạch cửa nằm phía dưới của thuỳ đuôi",
+                "3": "Tĩnh mạch chủ dưới nằm phía sau của thuỳ đuôi",
+                "4": "Động mạch chủ bụng ở bờ trên",
+                "A": "D",
+                "Q": "Thuỳ đuôi có những yếu tố nhận dạng sau, TRỪ:"
+            },
+            "22": {
+                "1": "Tăng âm đồng nhất",
+                "2": "Gan lách to",
+                "3": "Tăng âm dọc theo khoảng cửa",
+                "4": "Nhu mô gan giảm hoặc đồng âm lan toả",
+                "A": "D",
+                "Q": "Hình ảnh siêu âm hay gặp nhất trên bệnh nhân viêm gan là:"
+            },
+            "23": {
+                "1": "Bề mặt có những nốt và có dịch ổ bụng",
+                "2": "Thay đổi cấu trúc âm của nhu mô gan",
+                "3": "Tăng tưới máu trong nhu mô gan",
+                "4": "Đảo chiều dòng chảy tĩnh mạch cửa",
+                "A": "A",
+                "Q": "Xơ gan mạn thấy rõ nhất trên siêu âm khi:"
+            },
+            "Name": "Siêu âm gan"
+        },
+        "Siêu âm tụy": {
+            "1": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Siêu âm Tụy: Cửa sổ thăm khám tụy là dạ dày"
+            },
+            "2": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Siêu âm Tụy: Tĩnh mạch lách nằm sau thân và đuôi tụy"
+            },
+            "3": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Siêu âm Tụy: Hình ảnh viêm tụy mạn là tụy to, nhu mô giảm âm không đều"
+            },
+            "4": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Siêu âm Tụy: U tụy thường gây giãn ống mật chủ và ống tụy"
+            },
+            "5": {
+                "1": "Động mạch lách nằm ở bờ trên tụy",
+                "2": "Động mạch mạc treo tràng trên nằm ở bờ sau của thân tụy",
+                "3": "Tĩnh mạch mạc treo tràng trên nằm ở trước móc tụy và sau thân tụy",
+                "4": "Tĩnh mạch lách ở bờ dưới của đầu tụy",
+                "A": "D",
+                "Q": "Các mốc giải phẫu sau dùng để xác định vùng của tụy trên siêu âm, TRỪ:"
+            },
+            "6": {
+                "1": "Nhu mô tăng âm hơn so với gan",
+                "2": "Nhu mô giảm âm hơn so với gan",
+                "3": "Tụy phù biểu hiện nhu mô giảm âm",
+                "4": "Bờ tụy khó nhận dạng có hình thùy múi",
+                "A": "A",
+                "Q": "Viêm tụy cấp giai đoạn sớm, siêu âm có thể thấy những thay đổi sau, TRỪ:"
+            },
+            "7": {
+                "1": "Tụy nằm sâu trong phúc mạc, sau dạ dày",
+                "2": "Tụy nằm trong khoang cạnh thận trước, sau dạ dày, sau phúc mạc thành sau",
+                "3": "Tụy nằm trong khoang cạnh thận sau, sau dạ dày",
+                "4": "Tụy nằm trong khoang ngoài phúc mạc, sau dạ dày",
+                "A": "B",
+                "Q": "Vị trí giải phẫu của tụy:"
+            },
+            "8": {
+                "1": "Tụy > gan > thận > lách",
+                "2": "Lách > tụy > gan > thận",
+                "3": "Tụy > lách > gan > thận",
+                "4": "Lách > gan > thận > tụy",
+                "A": "C",
+                "Q": "Ở người trưởng thành bình thường, đậm độ âm của các tạng giảm dần theo thứ tự:"
+            },
+            "9": {
+                "1": "Tụy được hình thành từ nụ bụng và trung tràng (midgut)",
+                "2": "Tụy được hình thành từ nụ bụng và nụ lưng trong thời kỳ phôi",
+                "3": "Di tích nụ bụng có thể là vùng giảm âm ở đầu tụy",
+                "4": "Di tích nụ lưng có thể là vùng giảm âm ở đầu tụy",
+                "A": "B",
+                "Q": "Sự hình thành tụy trong thời kỳ phôi thai:"
+            },
+            "10": {
+                "1": "Dịch viêm luôn tràn vào ổ bụng và khoang màng phổi",
+                "2": "Chỉ khu trú ở khoang sau phúc mạc",
+                "3": "Tràn dịch khoang màng phổi có thể do rò ống tụy",
+                "4": "Phần lớn các trường hợp có tụ dịch tạo thành nang giả",
+                "A": "C",
+                "Q": "Trong viêm tụy cấp tính:"
+            },
+            "11": {
+                "1": "Viêm tụy cấp luôn gây to tụy toàn bộ, nhu mô giảm âm",
+                "2": "Viêm tụy cấp có thể gây to tụy khu trú",
+                "3": "Viêm tụy cấp có thể thấy hình ảnh tụy bình thường",
+                "4": "Viêm tụy cấp không gây giãn ống tụy",
+                "A": "C",
+                "Q": "Đặc điểm siêu âm của viêm tụy cấp:"
+            },
+            "12": {
+                "1": "Nang giả tụy có vách, dịch trống âm",
+                "2": "Nang giả tụy hình thành sau đợt khởi phát 4 tuần do hình thành biểu mô phủ",
+                "3": "Nang giả tụy không tự tiêu đi theo tiến triển tự nhiên",
+                "4": "Nang giả tụy có thể tiêu đi theo tiến triển tự nhiên",
+                "A": "D",
+                "Q": "Đặc điểm của nang giả tụy:"
+            },
+            "13": {
+                "1": "Thường ở thân tụy, gây tắc ống tụy chính",
+                "2": "Có thể gây tắc ống tụy chính và ống tụy phụ (dấu hiệu ống kép)",
+                "3": "Thường ở đầu tụy và gây tắc ống mật chủ và ống tụy (dấu hiệu ống kép)",
+                "4": "Khi siêu âm thấy tắc tĩnh mạch lách sau tụy có thể gợi ý đến ung thư tụy",
+                "A": "C",
+                "Q": "Đặc điểm của ung thư biểu mô tuyến tụy:"
+            },
+            "14": {
+                "1": "Mô tụy teo, ống tụy thường giãn hình chuỗi hạt",
+                "2": "Có thể có giả phình động mạch lách kèm theo",
+                "3": "Có thể có ổ viêm khu trú, thường ở đuôi tụy",
+                "4": "Có thể có ổ viêm khu trú ở đầu tụy gây dấu hiệu ống kép",
+                "A": "A",
+                "Q": "Đặc điểm của viêm tụy mạn tính:"
+            },
+            "15": {
+                "1": "Xuất hiện ở đầu tụy dạng khối giảm âm có nhiều hốc nhỏ",
+                "2": "Xuất hiện ở đầu tụy dạng khối đặc giảm âm",
+                "3": "Xuất hiện ở đầu tụy dạng khối tăng âm bên trong có nhiều hốc nhỏ",
+                "4": "Xuất hiện ở đầu tụy dưới dạng nang (điển hình có hốc lớn)",
+                "A": "C",
+                "Q": "Đặc điểm của u tuyến nang thanh dịch:"
+            },
+            "16": {
+                "1": "Thường ở đuôi tụy, lành tính",
+                "2": "Thường ở đuôi tụy, bên trong có vách chia thành vài hốc lớn",
+                "3": "Thường là nang lớn ở đầu tụy, bên trong luôn có nụ sùi",
+                "4": "Thường ở đầu tụy, bên trong có vách chia thành vài hốc lớn",
+                "A": "B",
+                "Q": "Đặc điểm của u tuyến nang nhầy:"
+            },
+            "17": {
+                "1": "U có kích thước nhỏ khi biểu hiện triệu chứng, ít mạch máu",
+                "2": "U có kích thước to khi biểu hiện triệu chứng do giàu mạch máu",
+                "3": "U có kích thước nhỏ khi biểu hiện triệu chứng, giàu mạch máu",
+                "4": "Cần bổ trợ bằng siêu âm nội soi hoặc siêu âm trong mổ",
+                "A": "C",
+                "Q": "Đặc điểm của u nội tiết thể hoạt động:"
+            },
+            "18": {
+                "1": "Kích thước thường nhỏ, không triệu chứng",
+                "2": "Kích thước thường to, phát hiện khi có dấu hiệu chèn ép",
+                "3": "Kích thước thường nhỏ, giàu mạch máu",
+                "4": "Kích thước thường nhỏ, nhiều khối",
+                "A": "B",
+                "Q": "Đặc điểm của u nội tiết thể không hoạt động:"
+            },
+            "19": {
+                "1": "U nguyên bào tụy thường phát hiện ở trẻ gái sau dậy thì",
+                "2": "U đặc giả nhú thường phát triển ở trẻ gái sau dậy thì",
+                "3": "Các khối u này thường lớn",
+                "4": "Các khối u này thường có đậm độ âm đồng nhất",
+                "A": "B",
+                "Q": "Đặc điểm của u đặc giả nhú tụy:"
+            },
+            "20": {
+                "1": "Thời điểm dẫn lưu thường vào tuần thứ 2-3 sau khởi phát",
+                "2": "Thời điểm dẫn lưu thường vào tuần thứ 5-6 sau khởi phát",
+                "3": "Chỉ định với mọi nang có vẩn tăng âm",
+                "4": "Chỉ định với những nang gây đau hoặc không nhỏ đi khi theo dõi",
+                "A": "D",
+                "Q": "Chỉ định dẫn lưu nang giả tụy:"
+            },
+            "21": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Viêm tụy cấp có thể chỉ xảy ra ở rãnh tá-tụy"
+            },
+            "22": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Viêm tụy mạn không gây huyết khối tĩnh mạch lách"
+            },
+            "23": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Dấu hiệu ống kép có thể gặp trong viêm tụy mạn tính"
+            },
+            "24": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "U lymphô nguyên phát thường xảy ra ở tụy"
+            },
+            "25": {
+                "1": "Viêm tụy cấp khu trú",
+                "2": "U tụy",
+                "3": "Vùng tụy giảm âm nguồn gốc nụ bụng",
+                "4": "Nang giả tụy",
+                "A": "A",
+                "Q": "Chẩn đoán hình ảnh vùng đầu tụy giảm âm trên bệnh nhân đau bụng cấp:"
+            },
+            "26": {
+                "1": "Viêm tụy cấp",
+                "2": "U hay bệnh lý lan tỏa (lymphoma tụy)",
+                "3": "Tụy bình thường (gan nhiễm mỡ)",
+                "4": "Viêm tụy mạn",
+                "A": "A",
+                "Q": "Chẩn đoán hình ảnh tụy to toàn bộ, nhu mô giảm âm:"
+            },
+            "27": {
+                "1": "Tụy nhiễm mỡ",
+                "2": "Lymphoma tụy",
+                "3": "Viêm tụy cấp",
+                "4": "U vùng đuôi tụy",
+                "A": "A",
+                "Q": "Chẩn đoán hình ảnh nhu mô tụy tăng âm đồng nhất mạnh:"
+            },
+            "28": {
+                "1": "Chấn thương rách thân tụy",
+                "2": "Tụ máu mặt trước tụy",
+                "3": "Nang thân tụy và dạ dày chứa đầy dịch",
+                "4": "Viêm tụy có ổ hoại tử thân tụy, nang giả tụy",
+                "A": "A",
+                "Q": "Chẩn đoán hình ảnh khối dịch lớn vùng thân tụy sau chấn thương:"
+            },
+            "29": {
+                "1": "Viêm tụy mạn tính",
+                "2": "Viêm tụy mạn tính có khối đầu tụy",
+                "3": "U đầu tụy",
+                "4": "U đường mật",
+                "A": "C",
+                "Q": "Chẩn đoán hình ảnh khối đặc vùng đầu tụy gây giãn ống tụy và ống mật chủ:"
+            },
+            "30": {
+                "1": "U hạch",
+                "2": "Xơ hóa sau phúc mạc",
+                "3": "Ung thư biểu mô tụy",
+                "4": "Giả phình động mạch chủ bụng",
+                "A": "C",
+                "Q": "Chẩn đoán hình ảnh khối giảm âm vùng tụy xâm lấn mạch máu:"
+            },
+            "31": {
+                "1": "Nang giả tụy chảy máu",
+                "2": "Áp xe tụy",
+                "3": "U nang nhầy tụy",
+                "4": "Ung thư biểu mô tụy",
+                "A": "A",
+                "Q": "Chẩn đoán hình ảnh khối dạng nang có vẩn âm bên trong sau viêm tụy cấp:"
+            },
+            "32": {
+                "1": "Hạch quanh tụy",
+                "2": "Di căn tụy",
+                "3": "Ung thư biểu mô tụy",
+                "4": "U tụy nội tiết (thể không hoạt động)",
+                "A": "C",
+                "Q": "Chẩn đoán phổ biến nhất của khối đặc khu trú tại tụy:"
+            },
+            "Name": " Siêu âm tụy"
+        },
+        "Siêu âm lách": {
+            "1": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Siêu âm Lách: Nhu mô lách thường tăng âm hơn so với nhu mô gan "
+            },
+            "2": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Siêu âm Lách: Lách là cửa sổ để thăm khám đuôi tụy "
+            },
+            "3": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Siêu âm Lách: Phì đại lưỡi thùy gan trái có thể nhầm với nhu mô lách "
+            },
+            "4": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Siêu âm Lách: Lách to khi đường kính dọc trên 10cm"
+            },
+            "5": {
+                "1": "Bệnh nhân nằm ngửa, đầu dò đặt dọc theo đường nách giữa ở các khoang liên sườn cuối",
+                "2": "Bệnh nhân nằm ngửa, đầu dò đặt ở mặt cắt vành khoang liên sườn cuối, bệnh nhân hít vào mạnh",
+                "3": "Bệnh nhân nằm ngửa, đầu dò đặt ở mặt cắt vành khoang liên sườn cuối, bệnh nhân hít vào vừa đủ",
+                "4": "Mặt cắt ngang qua lách giúp định vị tổn thương ở phía trước hoặc sau",
+                "A": "C",
+                "Q": "Mặt cắt tốt nhất để khảo sát toàn diện lách bằng đầu dò rẻ quạt là "
+            },
+            "6": {
+                "1": "Chiều dài nhỏ hơn 13cm",
+                "2": "Nhỏ hơn 12cm",
+                "3": "Nhỏ hơn 11cm",
+                "4": "Chiều rộng nhỏ hơn 7cm",
+                "A": "A",
+                "Q": "Lách ở người trưởng thành bình thường, 95% có"
+            },
+            "7": {
+                "1": "Bề ngang của lách bằng bề ngang của thận trái trên cùng mặt cắt",
+                "2": "Góc lách tù, mất hình thái lõm ở rốn lách",
+                "3": "Chỉ cần một số đo kích thước tăng nhẹ",
+                "4": "Khi có hai số đo kích thước tăng",
+                "A": "B",
+                "Q": "Những dấu hiệu sau đây cho phép chẩn đoán lách to [cite: 81, 82]"
+            },
+            "8": {
+                "1": "Tăng áp lực tĩnh mạch cửa, bệnh bạch cầu cấp, bệnh hồng cầu hình liềm giai đoạn tiến triển",
+                "2": "Tăng áp lực tĩnh mạch cửa, u lympho bào, bệnh tự miễn có đông máu rải rác trong lòng mạch",
+                "3": "Các bệnh nhiễm khuẩn, bệnh bạch cầu cấp, u lympho bào",
+                "4": "Bệnh tự miễn có đông máu rải rác, bệnh hồng cầu hình liềm, các bệnh nhiễm khuẩn",
+                "A": "C",
+                "Q": "Nguyên nhân lách to [cite: 82]"
+            },
+            "9": {
+                "1": "Điển hình biểu hiện là hình chêm (đáy ở trung tâm, đỉnh hướng ra ngoại vi), giảm âm, trong giai đoạn cấp",
+                "2": "Điển hình là hình chêm (đáy ở ngoại vi, đỉnh hướng vào trung tâm), giảm âm ở giai đoạn cấp và mạn tính",
+                "3": "Đặc điểm chung nhất là giảm âm ở cả giai đoạn cấp tính và mạn tính",
+                "4": "Có thể chỉ là một ổ hoặc một vùng giảm âm, vô mạch trong giai đoạn cấp",
+                "A": "B",
+                "Q": "Đặc điểm hình ảnh nhồi máu lách"
+            },
+            "10": {
+                "1": "Tổn thương hình “mắt bò”, hoặc ổ áp xe đơn độc điển hình",
+                "2": "Hình “vòng trong vòng”, hoặc nốt nhỏ giảm âm",
+                "3": "Hình “mắt bò”, nốt nhỏ giảm âm, ổ tăng âm kính 2-5cm",
+                "4": "Hình “vòng trong vòng”, nốt nhỏ giảm âm, ổ áp xe đơn độc điển hình",
+                "A": "B",
+                "Q": "Áp xe lách do Candida albicans thường có những hình ảnh sau"
+            },
+            "11": {
+                "1": "Nang bạch mạch thường ở trung tâm lách",
+                "2": "Nang bạch mạch thường ở sát bao lách",
+                "3": "Nang bạch mạch thường có vách dở dang (giống cột cơ tim)",
+                "4": "Nang biểu bì thường không có vách",
+                "A": "B",
+                "Q": "Chọn ý đúng về nang lách [cite: 84]"
+            },
+            "12": {
+                "1": "Khối tròn, ranh giới rõ, tăng hoặc giảm âm, có nhiều vách xơ đồng tâm có mạch máu",
+                "2": "Khối tròn, ranh giới rõ, tăng hoặc giảm âm, có nhiều vách xơ đồng tâm không có mạch máu",
+                "3": "Khối tròn, ranh giới rõ, tăng hoặc giảm âm, có nhiều vách xơ hướng tâm có mạch máu",
+                "4": "Khối tròn, ranh giới rõ, tăng hoặc giảm âm, có nhiều vách xơ hướng tâm không có mạch máu",
+                "A": "C",
+                "Q": "Tăng sản khu trú dạng nốt ở lách có hình ảnh khá đặc trưng sau"
+            },
+            "13": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Hình ảnh u lympho của lách: Dạng thâm nhiễm lan tỏa"
+            },
+            "14": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Hình ảnh u lympho của lách: Các nốt dạng ổ nhỏ (hay dạng hạt kê)"
+            },
+            "15": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Hình ảnh u lympho của lách: Nhiều nốt lớn"
+            },
+            "16": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Hình ảnh u lympho của lách: Khối đặc, kích thước lớn"
+            },
+            "17": {
+                "1": "Tìm tổn thương di căn lách là không quan trọng (khoảng 5%)",
+                "2": "Tổn thương di căn lách thường đơn độc, giảm âm",
+                "3": "Tổn thương di căn lách thường nhiều khối, tăng âm",
+                "4": "Tìm tổn thương di căn lách là quan trọng vì liên quan đến phương pháp điều trị",
+                "A": "D",
+                "Q": "Di căn lách [cite: 85, 86]"
+            },
+            "18": {
+                "1": "Độ phản âm giống nhu mô lách trong vòng 48-72 giờ sau chấn thương",
+                "2": "Độ phản âm giống nhu mô lách trong vòng 12-24 giờ sau chấn thương",
+                "3": "Độ phản âm giống nhu mô lách trong vòng 24-48 giờ sau chấn thương",
+                "4": "Độ phản âm giống nhu mô lách trong vòng 6-12 giờ sau chấn thương",
+                "A": "C",
+                "Q": "Máu tụ quanh lách có đặc điểm"
+            },
+            "19": {
+                "1": "Nhu mô tăng âm là dạng hay gặp nhất",
+                "2": "Nhu mô không đồng đều là dạng hay gặp nhất",
+                "3": "Nhu mô có đường giảm âm là dạng hay gặp nhất",
+                "4": "Nhu mô có đường tăng âm là dạng hay gặp nhất",
+                "A": "C",
+                "Q": "Rách nhu mô lách trên siêu âm"
+            },
+            "20": {
+                "1": "Dịch máu đọng ở 3 chỗ trũng nhất có chiều dày lớn hơn hoặc bằng 20 mm",
+                "2": "Dịch máu đọng ở 3 chỗ trũng nhất có chiều dày lớn hơn hoặc bằng 30 mm",
+                "3": "Dịch máu đọng ở 3 chỗ trũng nhất có chiều dày lớn hơn hoặc bằng 2 mm",
+                "4": "Dịch máu đọng ở 3 chỗ trũng nhất có chiều dày lớn hơn hoặc bằng 3 mm",
+                "A": "B",
+                "Q": "Chảy máu trong chấn thương bụng kín, lượng dịch được xác định là NHIỀU khi"
+            },
+            "21": {
+                "1": "Thường hình liềm và nhìn thấy rõ bao lách bọc ngoài",
+                "2": "Thường hình liềm và không thấy được bao lách, bờ trong rập khuôn theo bờ lách",
+                "3": "Không cần phân biệt với tụ máu quanh lách",
+                "4": "Có thể giống với áp xe lách",
+                "A": "B",
+                "Q": "Đặc điểm máu tụ dưới bao lách"
+            },
+            "22": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Tổn thương dạng nang mắc phải ở lách: Nang sau chấn thương"
+            },
+            "23": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Tổn thương dạng nang mắc phải ở lách: Nang giả tụy"
+            },
+            "24": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Tổn thương dạng nang mắc phải ở lách: Giả phình động mạch lách"
+            },
+            "25": {
+                "1": "Máu tụ dưới hoành trái (máu tụ quanh lách)",
+                "2": "Áp xe dưới hoành trái",
+                "3": "Thùy trái gan bao phủ lách",
+                "4": "Xẹp góc sườn hoành phổi trái",
+                "A": "A",
+                "Q": "Chẩn đoán phù hợp với hình ảnh khối dịch bao quanh lách sau chấn thương"
+            },
+            "26": {
+                "1": "Bệnh nhiễm khuẩn (lao, nấm Candida...)",
+                "2": "U lympho bào tổn thương lách dạng kê",
+                "3": "Sarcoidosis",
+                "4": "Di căn lách",
+                "A": "A",
+                "Q": "Chẩn đoán phù hợp với lách có nhiều nốt tăng âm nhỏ rải rác"
+            },
+            "27": {
+                "1": "U máu",
+                "2": "Di căn lách từ ung thư biểu mô đại tràng",
+                "3": "U lympho bào",
+                "4": "Hamartoma",
+                "A": "B",
+                "Q": "Chẩn đoán phù hợp với lách có nhiều khối tăng âm, giảm âm ở trung tâm"
+            },
+            "28": {
+                "1": "Chấn thương đụng dập",
+                "2": "Ổ viêm nhiễm khuẩn",
+                "3": "Nhồi máu lách (dấu hiệu vạch sáng)",
+                "4": "Áp xe lách",
+                "A": "C",
+                "Q": "Chẩn đoán phù hợp với lách có vùng giảm âm hình chêm đáy ở ngoại vi"
+            },
+            "29": {
+                "1": "Di căn",
+                "2": "U lympho bào (thể nốt giảm âm)",
+                "3": "Nấm candida",
+                "4": "Áp xe lách đa ổ",
+                "A": "B",
+                "Q": "Chẩn đoán phù hợp với lách to có nhiều nốt giảm âm ranh giới rõ"
+            },
+            "Name": "Siêu âm lách"
+        },
+        "Siêu âm cơ xương khớp": {
+            "1": {
+                "1": "Phần mềm, cơ, gân",
+                "2": "Khớp",
+                "3": "Màng xương",
+                "4": "Tủy xương",
+                "A": "D",
+                "Q": "Siêu âm Cơ xương khớp: Chỉ định nào sau đây KHÔNG thuộc phạm vi siêu âm thông thường [cite: 152]"
+            },
+            "2": {
+                "1": "Độ phân giải không gian cao hơn CLVT hoặc CHT",
+                "2": "Độ tương phản cao hơn CLVT hoặc CHT",
+                "3": "Có thể đánh giá tính chất tăng sinh mạch của tổn thương",
+                "4": "Có thể đánh giá tổn thương ở vỏ xương",
+                "A": "B",
+                "Q": "Siêu âm Cơ xương khớp: Chọn ý SAI [cite: 152, 153]"
+            },
+            "3": {
+                "1": "Đầu dò cong tần số cao",
+                "2": "Đầu dò cong tần số thấp",
+                "3": "Đầu dò phẳng tần số cao",
+                "4": "Đầu dò phẳng tần số thấp",
+                "A": "C",
+                "Q": "Đầu dò thông dụng nhất trong siêu âm cơ xương khớp là [cite: 153]"
+            },
+            "4": {
+                "1": "U cơ nguyên phát",
+                "2": "U cơ thứ phát",
+                "3": "U mỡ trong cơ",
+                "4": "Tất cả các ý trên",
+                "A": "D",
+                "Q": "Khối đặc, giảm âm trong cơ có thể là [cite: 153]"
+            },
+            "5": {
+                "1": "U mỡ",
+                "2": "U xơ thần kinh",
+                "3": "Nang bì (dermoid cyst)",
+                "4": "Nang thượng bì (epidermoid cyst)",
+                "A": "C",
+                "Q": "Các khối u thường gặp trong tổ chức dưới da, TRỪ (theo bối cảnh siêu âm vùng cổ/mặt thường gặp hơn) [cite: 153]"
+            },
+            "6": {
+                "1": "Đau khớp vai khi vận động",
+                "2": "Giả liệt khớp vai",
+                "3": "Cứng khớp vai",
+                "4": "Viêm gân do lắng đọng tinh thể",
+                "A": "A",
+                "Q": "Dạng bệnh lý khớp vai thường gặp nhất trên lâm sàng là [cite: 154]"
+            },
+            "7": {
+                "1": "Gân cơ trên gai",
+                "2": "Gân cơ dưới gai",
+                "3": "Gân cơ dưới vai",
+                "4": "Gân cơ tròn bé",
+                "A": "A",
+                "Q": "Gân hay bị tổn thương nhất trong mũ cơ xoay là [cite: 154]"
+            },
+            "8": {
+                "1": "Độ dày khoang dịch ở túi cùng trước cổ xương đùi > 7mm",
+                "2": "Chênh lệch khoang dịch ở khớp háng hai bên > 1mm",
+                "3": "Cứ quan sát thấy dịch khớp háng là chẩn đoán tràn dịch",
+                "4": "Không có tiêu chuẩn rõ ràng",
+                "A": "A",
+                "Q": "Tiêu chuẩn chẩn đoán tràn dịch khớp háng trên siêu âm là [cite: 154]"
+            },
+            "9": {
+                "1": "Đau khớp háng sau khi viêm đường hô hấp trên",
+                "2": "Trẻ đau khớp háng kèm tràn dịch khớp háng",
+                "3": "Hình ảnh X-quang khớp háng bình thường",
+                "4": "Đau khớp háng, khỏi hoàn toàn sau 2 tuần",
+                "A": "B",
+                "Q": "Tiêu chuẩn quan trọng nhất trong chẩn đoán viêm khớp háng thoáng qua ở trẻ nhỏ là [cite: 155, 156]"
+            },
+            "10": {
+                "1": "Gân tăng kích thước",
+                "2": "Gân giảm âm",
+                "3": "Tụ dịch quanh gân",
+                "4": "Tất cả các ý trên",
+                "A": "D",
+                "Q": "Tiêu chuẩn chẩn đoán viêm gân bao gồm [cite: 156]"
+            },
+            "11": {
+                "1": "Tràn dịch khớp",
+                "2": "Dịch khớp không trong",
+                "3": "Dày bao hoạt dịch",
+                "4": "Tất cả các ý trên",
+                "A": "D",
+                "Q": "Các dấu hiệu chẩn đoán viêm bao hoạt dịch khớp bao gồm [cite: 156]"
+            },
+            "12": {
+                "1": "Tổ chức dưới da",
+                "2": "Cơ",
+                "3": "Gân",
+                "4": "Xương",
+                "A": "D",
+                "Q": "Cấu trúc có bề mặt tăng âm mạnh kèm bóng cản sạch trên siêu âm là [cite: 157]"
+            },
+            "13": {
+                "1": "Cơ trên gai, dưới gai, dưới vai, tròn bé",
+                "2": "Cơ trên gai, dưới gai, nhị đầu, tròn bé",
+                "3": "Cơ trên gai, dưới gai, tam đầu, dưới vai",
+                "4": "Cơ trên gai, nhị đầu, dưới gai, dưới vai",
+                "A": "A",
+                "Q": "Bốn cơ cấu tạo nên mũ cơ xoay khớp vai gồm [cite: 157]"
+            },
+            "14": {
+                "1": "Cơ",
+                "2": "Gân",
+                "3": "Dây chằng",
+                "4": "Tổ chức dưới da",
+                "A": "B",
+                "Q": "Cấu trúc mũi tên chỉ vào dải tăng âm nối cơ vào xương là [cite: 157]"
+            },
+            "15": {
+                "1": "Cơ",
+                "2": "Gân",
+                "3": "Dây chằng",
+                "4": "Tổ chức dưới da",
+                "A": "C",
+                "Q": "Cấu trúc tăng âm nối hai đầu xương với nhau trên siêu âm là [cite: 157]"
+            },
+            "16": {
+                "1": "Nang thượng bì",
+                "2": "U xơ thần kinh",
+                "3": "Hạch",
+                "4": "U mỡ",
+                "A": "C",
+                "Q": "Hình ảnh siêu âm khối hình bầu dục, có rốn tăng âm, giảm âm ngoại vi hướng tới [cite: 157]"
+            },
+            "17": {
+                "1": "Nang thượng bì",
+                "2": "U xơ thần kinh",
+                "3": "Hạch",
+                "4": "U mỡ",
+                "A": "D",
+                "Q": "Hình ảnh siêu âm khối tăng âm nhẹ, nằm trong lớp mỡ dưới da, giới hạn rõ hướng tới [cite: 157]"
+            },
+            "18": {
+                "1": "Áp xe trong cơ",
+                "2": "U cơ",
+                "3": "Nang đơn thuần trong cơ",
+                "4": "Khối máu tụ trong cơ giai đoạn bán cấp",
+                "A": "A",
+                "Q": "Hình ảnh siêu âm khối hỗn hợp âm, thành dày, có dịch mủ hướng tới [cite: 158]"
+            },
+            "19": {
+                "1": "Đứt toàn phần gân cơ trên gai",
+                "2": "Đứt bán phần gân cơ trên gai",
+                "3": "Viêm gân vôi hóa",
+                "4": "Viêm gân",
+                "A": "C",
+                "Q": "Hình ảnh siêu âm cắt dọc gân cơ trên gai thấy nốt tăng âm kèm bóng cản hướng tới [cite: 158]"
+            },
+            "20": {
+                "1": "Nang trong cơ",
+                "2": "Kén Baker",
+                "3": "Áp xe trong cơ",
+                "4": "Phình mạch",
+                "A": "B",
+                "Q": "Hình ảnh siêu âm vùng hố khoeo thấy khối dạng nang nằm giữa cơ bán màng và cơ bụng chân là [cite: 158]"
+            },
+            "Name": "Siêu âm cơ xương khớp"
+        },
+        "Siêu âm đường mật": {
+            "1": {
+                "1": "Túi mật",
+                "2": "Nang gan",
+                "3": "Tĩnh mạch lách",
+                "4": "Tĩnh mạch chủ dưới",
+                "A": "C",
+                "Q": "Siêu âm Đường mật: Vị trí 3 trên hình là "
+            },
+            "2": {
+                "1": "Tĩnh mạch gan",
+                "2": "Động mạch gan",
+                "3": "Ống mật chủ",
+                "4": "Tĩnh mạch cửa",
+                "A": "B",
+                "Q": "Đây là hình cắt qua nhu mô gan gần rốn gan, vị trí 2 là "
+            },
+            "3": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Đường mật trong gan giãn chứng tỏ có bít tắc "
+            },
+            "4": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Sỏi đường mật luôn có bóng cản "
+            },
+            "5": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Giãn đường mật thấp thường do sỏi, u đường mật, u thân tuỵ, u bóng Vater "
+            },
+            "6": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Hơi đường mật cần phân biệt với sỏi nhỏ đường mật "
+            },
+            "7": {
+                "1": "Túi mật luôn căng to",
+                "2": "Thành túi mật dày đều, có thể có hình hai bờ",
+                "3": "Luôn tìm được thấy sỏi kẹt cổ túi mật",
+                "4": "Có thể thấy sỏi không có bóng cản",
+                "A": "B",
+                "Q": "Đặc điểm của viêm túi mật cấp trên siêu âm là "
+            },
+            "8": {
+                "1": "2 đoạn",
+                "2": "3 đoạn",
+                "3": "4 đoạn",
+                "4": "5 đoạn",
+                "A": "B",
+                "Q": "Về giải phẫu đường mật ngoài gan được phân chia thành mấy đoạn [cite: 94, 95]"
+            },
+            "9": {
+                "1": "Đường mật ngoại vi trong gan",
+                "2": "Đường mật ở rốn gan",
+                "3": "Đường mật ngoài gan",
+                "4": "Cả trong và ngoài gan",
+                "A": "A",
+                "Q": "Trên người bình thường siêu âm không thể quan sát thấy [cite: 95, 96]"
+            },
+            "10": {
+                "1": "Tăng âm",
+                "2": "Bóng cản",
+                "3": "Không di động khi thay đổi tư thế",
+                "4": "Lắng đọng ở phần thấp",
+                "A": "C",
+                "Q": "Dấu hiệu nào sau đây KHÔNG PHẢI của sỏi túi mật trên siêu âm [cite: 97, 98]"
+            },
+            "11": {
+                "1": "Sỏi nhỏ < 3 mm",
+                "2": "Sỏi lơ lửng trong dịch mật đặc",
+                "3": "Sỏi lấp đầy túi mật",
+                "4": "Sỏi có “đuôi sao chổi”",
+                "A": "D",
+                "Q": "Dấu hiệu nào sau đây KHÔNG PHẢI là hình ảnh sỏi túi mật [cite: 99, 100, 101]"
+            },
+            "12": {
+                "1": "Dày thành túi mật",
+                "2": "Sỏi túi mật",
+                "3": "Dịch ở giường túi mật",
+                "4": "Áp xe túi mật",
+                "A": "D",
+                "Q": "Hình ảnh nào không có trên ảnh siêu âm viêm túi mật cấp đơn thuần [cite: 101, 102, 103]"
+            },
+            "13": {
+                "1": "Polyp cholesterol",
+                "2": "Adenoma",
+                "3": "Sỏi túi mật",
+                "4": "U túi mật",
+                "A": "A",
+                "Q": "Hình ảnh cấu trúc tăng âm bám thành túi mật, không bóng cản, không di động là [cite: 103]"
+            },
+            "14": {
+                "1": "Tăng âm hình đường ray hoặc hình tròn",
+                "2": "Đường mật trong gan giãn",
+                "3": "Có hơi trong đường mật",
+                "4": "Bóng cản",
+                "A": "D",
+                "Q": "Dấu hiệu nào KHÔNG PHẢI của giun đường mật [cite: 104, 105, 106]"
+            },
+            "15": {
+                "1": "Hình ảnh khối",
+                "2": "Giảm âm không đồng nhất, tăng âm",
+                "3": "Giãn đường mật phía thượng lưu",
+                "4": "Tất cả các ý trên",
+                "A": "C",
+                "Q": "Đặc điểm quan trọng nhất trên siêu âm của u đường mật là [cite: 106]"
+            },
+            "16": {
+                "1": "Loại 1 : dưới ngã ba",
+                "2": "Loại 2 : đúng vị trí ngã ba rốn gan",
+                "3": "Loại 3: lên nhánh gan phải hoặc trái",
+                "4": "Loại 4: lan lên cả hai nhánh phải và trái",
+                "A": "C",
+                "Q": "Theo phân loại Bismuth, u đường mật loại 3 có đặc điểm [cite: 107]"
+            },
+            "17": {
+                "1": "Thể dày thành gây hẹp đều lòng mạch",
+                "2": "Thể thâm nhiễm",
+                "3": "Thể khối",
+                "4": "Tất cả các ý trên",
+                "A": "A",
+                "Q": "Thể nào sau đây thuộc các thể của ung thư đường mật [cite: 107, 108]"
+            },
+            "18": {
+                "1": "Giãn đường mật trong gan",
+                "2": "Túi mật căng, dày thành",
+                "3": "Sỏi trong ống cổ túi mật",
+                "4": "Tất cả các ý trên",
+                "A": "C",
+                "Q": "Dấu hiệu điển hình nhất của hội chứng Mirizzi trên siêu âm là [cite: 109]"
+            },
+            "19": {
+                "1": "Giãn khu trú ống mật chủ",
+                "2": "Đường mật trong gan không giãn",
+                "3": "Túi mật không giãn",
+                "4": "Tất cả các ý trên",
+                "A": "A",
+                "Q": "Hình ảnh siêu âm của nang ống mật chủ đơn thuần [cite: 110, 111]"
+            },
+            "20": {
+                "1": "Giun OMC",
+                "2": "Huyết khối tĩnh mạch cửa",
+                "3": "U đầu tụy",
+                "4": "Sỏi đường mật trong gan",
+                "A": "D",
+                "Q": "Hình ảnh cấu trúc tăng âm có bóng cản nằm trong đường mật gan phải là [cite: 113]"
+            },
+            "21": {
+                "1": "K túi mật",
+                "2": "Sỏi túi mật",
+                "3": "U cơ tuyến túi mật",
+                "4": "Viêm túi mật",
+                "A": "C",
+                "Q": "Hình ảnh dày thành túi mật khu trú kèm các hốc nhỏ trống âm (xoang Rokitansky-Aschoff) là [cite: 113]"
+            },
+            "Name": "Siêu âm đường mật"
+        },
+        "Siêu âm tiêu hóa": {
+            "1": {
+                "1": "Bóng cản ống tiêu hóa",
+                "2": "Bóng cản soi",
+                "3": "Bóng cản xương sườn",
+                "4": "Nhiễu ảnh",
+                "A": "C",
+                "Q": "Siêu âm Tiêu hóa: Vị trí 4 trên hình là: [cite: 40]"
+            },
+            "2": {
+                "1": "Thành ống tiêu hóa có cấu trúc dạng 5 lớp tăng, giảm âm xen kẽ nhau",
+                "2": "Bình thường các lớp phân cách nhau rõ rệt, không tăng sinh mạch",
+                "3": "Thành ống tiêu hóa bình thường dày từ 5-10mm",
+                "4": "Thành ống tiêu hóa bình thường dày 3-5mm",
+                "A": "D",
+                "Q": "Giải phẫu siêu âm ống tiêu hóa: Chọn câu đúng nhất về độ dày thành bình thường: [cite: 40, 41]"
+            },
+            "3": {
+                "1": "Phải ép mạnh đề đẩy hơi trong các quai ruột",
+                "2": "Luôn ép từ từ tăng dần",
+                "3": "Nhằm đánh giá khả năng ấn xẹp",
+                "4": "Nhằm đẩy hơi trong các quai ruột ra xa và giảm khoảng cách giữa đầu dò và quai ruột: [cite: 41]",
+                "A": "D",
+                "Q": "Kỹ thuật ép đầu dò trong siêu âm tiêu hóa có mục đích chính là:"
+            },
+            "4": {
+                "1": "Nhu động của đại tràng có thể dễ dàng quan sát trên siêu âm",
+                "2": "Đại tràng thường chứa nhiều nước và khẩu kính lớn hơn nên dễ đánh giá thành",
+                "3": "Trên siêu âm, nếu giảm nhu động đại tràng đồng nghĩa bệnh lý",
+                "4": "Ung thư đại tràng hay gặp nhất là ung thư biểu mô tuyến: [cite: 41, 42]",
+                "A": "D",
+                "Q": "Chọn câu đúng về đặc điểm đại tràng trên siêu âm:"
+            },
+            "5": {
+                "1": "Nhu động của ruột non rất dễ quan sát trên siêu âm",
+                "2": "Ung thư biểu mô tuyến là u ác tính hay gặp nhất của ruột non",
+                "3": "Ruột non thường ấn xẹp dễ dàng trên siêu âm: [cite: 43]",
+                "4": "Ung thư cơ trơn là loại thường gặp nhất",
+                "A": "C",
+                "Q": "Đặc điểm của ruột non trên siêu âm là:"
+            },
+            "6": {
+                "1": "Dày lành tính thường dày nhiều và đều",
+                "2": "Dày ác tính thường dày nhiều và không đều: [cite: 43]",
+                "3": "Dày khu trú thường do u",
+                "4": "Siêu âm rất khó phát hiện dày thành ruột do vướng hơi",
+                "A": "B",
+                "Q": "Trong bệnh lý dày thành ống tiêu hóa:"
+            },
+            "7": {
+                "1": "Thường phát hiện khó trên siêu âm khi phát triển ra ngoài",
+                "2": "Thường khó chẩn đoán nguồn gốc ống tiêu hóa khi phát triển ra ngoài: [cite: 43, 44]",
+                "3": "Thường chẩn đoán dễ khi phát triển vào trong lòng ruột",
+                "4": "Thường chẩn đoán dễ nhất khi phát triển trong thành ruột",
+                "A": "B",
+                "Q": "Đối với các khối u thành ruột:"
+            },
+            "8": {
+                "1": "Đường kính <6mm, ấn xẹp, không đau: [cite: 44]",
+                "2": "Cấu trúc lớp phân cách nhau rõ rệt và tăng sinh mạch",
+                "3": "Trong lòng không có sỏi (nếu có sỏi phân nên nghĩ đến viêm ruột thừa)",
+                "4": "Thường chứa khí",
+                "A": "A",
+                "Q": "Hình ảnh ruột thừa bình thường trên siêu âm:"
+            },
+            "9": {
+                "1": "ĐK ngang >6mm, thành dày >3mm, ấn không xẹp, dấu hiệu Mac Burney (+): [cite: 44, 45]",
+                "2": "Lòng ruột thừa chứa khí, thành RT tăng sinh mạch",
+                "3": "Hay kèm thâm nhiễm mỡ vùng hố chậu phải",
+                "4": "Hay kèm dày thành manh tràng và hồi tràng đoạn cuối",
+                "A": "A",
+                "Q": "Hình ảnh viêm ruột thừa đơn thuần trên siêu âm:"
+            },
+            "10": {
+                "1": "Nhìn chung không cần chẩn đoán phân biệt trên siêu âm",
+                "2": "Có thể nhầm lẫn với các cấu trúc hình ống vùng hố chậu phải như vòi trứng giãn, hồi tràng…",
+                "3": "Không cần phân biệt với viêm hồi tràng vì hồi tràng có khẩu kính lớn",
+                "4": "Cần phân biệt dày thành ruột thừa do tiếp xúc ổ viêm: [cite: 45, 46]",
+                "A": "D",
+                "Q": "Trong chẩn đoán phân biệt viêm ruột thừa:"
+            },
+            "11": {
+                "1": "Hình cắt ngang có nhiều vòng tròn đồng tâm, cắt dọc có hình bánh sandwich: [cite: 47]",
+                "2": "Đa số trường hợp thấy hạch bên trong khối lồng",
+                "3": "Có thể thấy mạch bên trong khối lồng",
+                "4": "Không bao giờ thấy mỡ bên trong khối lồng",
+                "A": "A",
+                "Q": "Hình ảnh lồng ruột trên siêu âm:"
+            },
+            "12": {
+                "1": "Chỉ gặp ở ruột non",
+                "2": "Hay gặp nhất ở góc hồi manh tràng: [cite: 47]",
+                "3": "Lồng ruột người lớn thường mạn tính hoặc bán cấp và hay do u",
+                "4": "Nguyên nhân thường gặp nhất ở trẻ em là do viêm hạch mạc treo",
+                "A": "B",
+                "Q": "Bệnh lý lồng ruột:"
+            },
+            "13": {
+                "1": "Đặc trưng là tổn thương trên nhiều đoạn cách biệt nhau: [cite: 47, 48]",
+                "2": "Tổn thương thường chỉ một vị trí",
+                "3": "Hay gây hẹp lòng ruột, tạo các đường dò, áp xe",
+                "4": "Mỡ xung quanh thường không bị tổn thương",
+                "A": "A",
+                "Q": "Bệnh lý Crohn ống tiêu hóa:"
+            },
+            "14": {
+                "1": "Vị trí hay gặp nhất của ung thư biểu mô tuyến ống tiêu hóa là đoạn cuối hồi tràng",
+                "2": "U lymphoma hay gây hẹp lòng ruột, tắc ruột",
+                "3": "U lymphoma đôi khi khó phân biệt với ung thư biểu mô tuyến",
+                "4": "GIST hay gặp ở dạ dày và ruột non: [cite: 49, 50]",
+                "A": "D",
+                "Q": "U ống tiêu hóa:"
+            },
+            "15": {
+                "1": "U lymphoma",
+                "2": "U mô đệm (GIST)",
+                "3": "Ung thư biểu mô tuyến: [cite: 50]",
+                "4": "Ung thư cơ trơn",
+                "A": "C",
+                "Q": "Loại u ác tính ống tiêu hóa hay gặp nhất là:"
+            },
+            "16": {
+                "1": "Hay gặp nhất ở đại tràng",
+                "2": "Hay gặp nhất ở dạ dày: [cite: 50]",
+                "3": "Hay gặp nhất ở ruột non",
+                "4": "Hay gặp nhất ở thực quản",
+                "A": "B",
+                "Q": "Lymphoma ống tiêu hóa:"
+            },
+            "17": {
+                "1": "Hình ảnh lồng ruột",
+                "2": "Hình ảnh hạch trong khối lồng",
+                "3": "Hình ảnh mạch máu trong khối lồng",
+                "4": "Lồng ruột do u mỡ: [cite: 51]",
+                "A": "D",
+                "Q": "Hình ảnh siêu âm cắt ngang vùng khối lồng thấy cấu trúc tăng âm giống mỡ bên trong gợi ý:"
+            },
+            "18": {
+                "1": "Dày thành thực quản lan tỏa không đều",
+                "2": "Dày thành đều do viêm thực quản",
+                "3": "U thực quản gây hẹp lòng thực quản: [cite: 51]",
+                "4": "U thực quản xâm lấn rộng ra ngoài thực quản",
+                "A": "C",
+                "Q": "Siêu âm thực quản:"
+            },
+            "19": {
+                "1": "Dày thành không đều nghĩ đến di u ác tính",
+                "2": "Dày nhẹ thành tương đối đều, nghĩ đến nguyên nhân lành tính",
+                "3": "Dày thành gây hẹp lòng dạ dày: [cite: 51]",
+                "4": "Dày thành và xâm lấn ra tổ chức xung quanh",
+                "A": "C",
+                "Q": "Siêu âm dạ dày thấy hình ảnh dày thành và hẹp lòng:"
+            },
+            "20": {
+                "1": "Hình ruột thừa bình thường",
+                "2": "Viêm ruột thừa",
+                "3": "Ruột thừa viêm muộn, không còn tăng sinh mạch: [cite: 52]",
+                "4": "Viêm ruột thừa vỡ",
+                "A": "C",
+                "Q": "Hình ảnh siêu âm ruột thừa to, thành mất cấu trúc lớp và không thấy tín hiệu mạch gợi ý:"
+            },
+            "21": {
+                "1": "Hình dạ dày bình thường",
+                "2": "Dày thành không đều gây hẹp lòng dạng u ác tính",
+                "3": "Dày thành không đều và mất cấu trúc lớp: [cite: 52]",
+                "4": "Dày thành nhưng còn cấu trúc lớp",
+                "A": "C",
+                "Q": "Hình ảnh siêu âm dạ dày gợi ý u ác tính khi:"
+            },
+            "22": {
+                "1": "Các khối u mạc treo",
+                "2": "Các khối viêm mạc treo",
+                "3": "Nhiều hạch viêm mạc treo",
+                "4": "Nhiều hạch mạc treo: [cite: 52]",
+                "A": "D",
+                "Q": "Hình ảnh siêu âm ổ bụng thấy nhiều cấu trúc hình bầu dục, giảm âm vùng mạc treo là:"
+            },
+            "23": {
+                "1": "Ổ dịch đơn thuần hố chậu phải",
+                "2": "Thâm nhiễm mỡ hố chậu phải",
+                "3": "Ổ dịch hố chậu phải và hình tăng âm có bóng cản bên trong",
+                "4": "Áp xe ruột thừa: [cite: 52, 53]",
+                "A": "D",
+                "Q": "Bệnh nhân nam đau hố chậu phải ngày 3, sốt, siêu âm thấy ổ dịch hỗn hợp vùng ruột thừa nghĩ đến:"
+            },
+            "24": {
+                "1": "Dày thành dạ dày nhưng không hẹp lòng",
+                "2": "Dày đều thành dạ dày dạng tổn thương lành tính",
+                "3": "Dày thành dạ dày không đều, hẹp lòng dạng tổn thương ác tính: [cite: 53]",
+                "4": "Dày thành dạ dày kèm thâm nhiễm mỡ mạc treo dạng viêm",
+                "A": "C",
+                "Q": "Siêu âm dạ dày thấy dày thành khu trú, mất cấu trúc lớp, lòng hẹp gợi ý:"
+            },
+            "25": {
+                "1": "Ổ dịch hố chậu phải kèm thâm nhiễm xung quanh dạng áp xe",
+                "2": "Thâm nhiễm viêm hố chậu phải",
+                "3": "Ổ dịch và khí hố chậu phải dạng áp xe: [cite: 53, 54]",
+                "4": "Hình ảnh viêm ruột thừa",
+                "A": "C",
+                "Q": "Siêu âm hố chậu phải ở bệnh nhân đau bụng sốt thấy vùng dịch kèm các bóng khí nhỏ gợi ý:"
+            },
+            "26": {
+                "1": "Ổ dịch hố chậu phải kèm thâm nhiễm xung quanh dạng áp xe",
+                "2": "Tổn thương dạng khối viêm ruột thừa: [cite: 54, 55]",
+                "3": "Ổ dịch và khí hố chậu phải dạng áp xe",
+                "4": "Hình ảnh viêm ruột thừa",
+                "A": "B",
+                "Q": "Hình ảnh siêu âm hố chậu phải thấy đám thâm nhiễm bao quanh ruột thừa dày thành:"
+            },
+            "27": {
+                "1": "Hình ảnh viêm ruột thừa vỡ",
+                "2": "Hình ảnh áp xe ruột thừa",
+                "3": "Hình ảnh đám viêm ruột thừa",
+                "4": "Hình ảnh viêm ruột thừa có sỏi phân: [cite: 55]",
+                "A": "D",
+                "Q": "Siêu âm thấy ruột thừa to, trong lòng có nốt tăng âm kèm bóng cản mạnh là:"
+            },
+            "28": {
+                "1": "Hình ảnh lồng ruột, có hạch mạc treo",
+                "2": "Hình ảnh lồng ruột: [cite: 55]",
+                "3": "Hình lồng ruột do u mỡ mạc treo",
+                "4": "Hình lồng ruột do u",
+                "A": "B",
+                "Q": "Bệnh nhi đau bụng cấp, siêu âm thấy hình bia bắn ở hố chậu phải:"
+            },
+            "29": {
+                "1": "Hình ảnh lồng ruột, có hạch mạc treo",
+                "2": "Hình ảnh lồng ruột",
+                "3": "Hình lồng ruột do u: [cite: 55, 56]",
+                "4": "Hình lồng ruột do u mỡ mạc treo",
+                "A": "C",
+                "Q": "Bệnh nhân lớn tuổi, đau bụng, tắc ruột bán cấp, siêu âm thấy khối lồng thường do:"
+            },
+            "30": {
+                "1": "Dày thành dạ dày nhưng không hẹp lòng",
+                "2": "Dày đều thành dạ dày dạng tổn thương lành tính",
+                "3": "Dày thành dạ dày không đều, hẹp lòng dạng tổn thương ác tính: [cite: 56]",
+                "4": "Dày thành dạ dày kèm thâm nhiễm mỡ mạc treo dạng viêm",
+                "A": "C",
+                "Q": "Siêu âm dạ dày ở người già gầy sút, thấy dày thành vùng hang vị:"
+            },
+            "31": {
+                "1": "Hình ảnh viêm ruột thừa: [cite: 56, 57]",
+                "2": "Hình ảnh viêm ruột thừa vỡ",
+                "3": "Hình ảnh đám viêm ruột thừa",
+                "4": "Hình ảnh viêm ruột thừa có sỏi phân",
+                "A": "A",
+                "Q": "Đau hố chậu phải có sốt, siêu âm thấy cấu trúc hình ống, đầu tịt, đường kính 8mm, ấn không xẹp:"
+            },
+            "Name": "Siêu âm tiêu hóa"
+        },
+        "Siêu âm thận tiết niệu": {
+            "1": {
+                "1": "Thận phải",
+                "2": "Thận trái",
+                "3": "Tuyến thượng thận",
+                "4": "Đuôi tụy",
+                "A": "A",
+                "Q": "Siêu âm hệ tiết niệu: Vị trí 2 trên hình (cắt dọc/vành vùng mạn sườn phải) là:"
+            },
+            "2": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Hệ tiết niệu: Sỏi đài bể thận và niệu quản luôn gây giãn các đài thận[cite: 114, 115]."
+            },
+            "3": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Hệ tiết niệu: Nang thận thường gặp ở vùng xoang thận[cite: 115]."
+            },
+            "4": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Hệ tiết niệu: Đánh giá thận ứ nước dựa vào kích thước thận[cite: 115, 116]."
+            },
+            "5": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Hệ tiết niệu: Phì đại cột Bertin có thể nhầm với tháp thận[cite: 116]."
+            },
+            "6": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Hệ tiết niệu: U thận thường là khối có cấu trúc đặc âm không đều và có dấu hiệu đè đẩy (lồi bờ thận, giãn đài bể thận)[cite: 116]."
+            },
+            "7": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Hệ tiết niệu: Nang thận có vách sùi có thể là u thận dạng nang[cite: 116]."
+            },
+            "8": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Hệ tiết niệu: Hình ảnh viêm thận mạn: thận hai bên kích thước nhỏ, nhu mô mỏng đậm âm và giãn đài bể thận[cite: 116]."
+            },
+            "9": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Viêm bàng quang biểu hiện: thành dày không đều, có thể có túi thừa, sỏi, và luôn gây ứ nước thận[cite: 116]."
+            },
+            "10": {
+                "1": "Cơ thắt lưng nằm phía ngoài cột sống và phía trong thận",
+                "2": "Động mạch thận phải nằm sau tĩnh mạch chủ dưới",
+                "3": "Động mạch thận trái ở phía trước động mạch chủ bụng",
+                "4": "Tĩnh mạch thận trái ở phía trước động mạch chủ bụng và phía sau của động mạch mạc treo tràng trên",
+                "A": "C",
+                "Q": "Đặc điểm nào KHÔNG ĐÚNG đối với các cấu trúc giải phẫu thận[cite: 117, 118, 119, 120]:"
+            },
+            "11": {
+                "1": "Khối u nhu mô thận",
+                "2": "Khối u đường bài xuất",
+                "3": "Hình ảnh thận đôi",
+                "4": "Phì đại trụ Bertin",
+                "A": "D",
+                "Q": "Bệnh nhân siêu âm tình cờ phát hiện, vị trí mũi tên trên hình vẽ cắt dọc qua thận phải là[cite: 121]:"
+            },
+            "12": {
+                "1": "Phì đại trụ Bertin",
+                "2": "Viêm thận",
+                "3": "U đường bài xuất",
+                "4": "Thận đôi",
+                "A": "D",
+                "Q": "Bệnh nhân siêu âm tình cờ, hình cắt dọc qua thận trái thấy hai khối xoang thận tách biệt là[cite: 121]:"
+            },
+            "13": {
+                "1": "Niệu quản khổng lồ",
+                "2": "Túi thừa bàng quang",
+                "3": "Sa lồi niệu quản",
+                "4": "Nang ống Muller",
+                "A": "C",
+                "Q": "Bệnh nhân đau thắt lưng, siêu âm bàng quang thấy cấu trúc dạng nang lồi vào lòng bàng quang tại vị trí lỗ niệu quản là[cite: 121, 122]:"
+            },
+            "14": {
+                "1": "Sa lồi niệu quản",
+                "2": "Túi thừa bàng quang",
+                "3": "Túi thừa niệu quản",
+                "4": "Nang ống Muller",
+                "A": "A",
+                "Q": "Bệnh nhân siêu âm tình cờ, hình cắt ngang bàng quang thấy cấu trúc túi nước trong lòng bàng quang[cite: 122]:"
+            },
+            "15": {
+                "1": "Máu cục bàng quang",
+                "2": "Sỏi bàng quang",
+                "3": "U bàng quang",
+                "4": "Khối viêm khu trú",
+                "A": "C",
+                "Q": "Bệnh nhân trung niên đái máu, siêu âm bàng quang thấy khối sùi bám thành, có tín hiệu mạch là[cite: 122]:"
+            },
+            "16": {
+                "1": "Nang buồng trứng trái",
+                "2": "Ứ dịch vòi trứng trái",
+                "3": "Niệu quản khổng lồ",
+                "4": "Sa lồi niệu quản",
+                "A": "D",
+                "Q": "Bệnh nhân trẻ gái siêu âm có giãn đài bể thận trái, siêu âm bàng quang thấy cấu trúc dạng nang ở vùng tam giác bàng quang[cite: 122, 123]:"
+            },
+            "17": {
+                "1": "U bàng quang",
+                "2": "Bàng quang thần kinh",
+                "3": "Viêm bàng quang mạn tính",
+                "4": "Dày thành bàng quang thứ phát do phì đại tiền liệt tuyến",
+                "A": "B",
+                "Q": "Bệnh nhân nam liệt hai chi dưới, đi tiểu không tự chủ, siêu âm bàng quang thành dày, nhiều hốc nhỏ là[cite: 123]:"
+            },
+            "18": {
+                "1": "U thận (RCC)",
+                "2": "U cơ mỡ mạch",
+                "3": "U đường bài xuất",
+                "4": "Nấm nhu mô thận",
+                "A": "B",
+                "Q": "Siêu âm tình cờ thấy khối tăng âm rất mạnh, giới hạn rõ tại vỏ thận là[cite: 123, 124]:"
+            },
+            "19": {
+                "1": "Giãn đài bể thận (ứ nước thận)",
+                "2": "Nang cạnh bể thận",
+                "3": "Thận đa nang",
+                "4": "U dạng nang",
+                "A": "B",
+                "Q": "Siêu âm thấy cấu trúc trống âm nằm tại vùng xoang thận, không thông với các đài thận là[cite: 124]:"
+            },
+            "20": {
+                "1": "Nang cạnh bể thận",
+                "2": "Giãn đài bể thận (ứ nước thận)",
+                "3": "Thận đa nang",
+                "4": "U dạng nang bể thận",
+                "A": "B",
+                "Q": "Bệnh nhân đau thắt lưng, siêu âm thấy các cấu trúc trống âm thông với nhau tại rốn thận là[cite: 124]:"
+            },
+            "21": {
+                "1": "Thận đa nang di truyền trội",
+                "2": "Thận đa nang di truyền lặn",
+                "3": "Nhiều nang thận",
+                "4": "Nang cạnh bể thận",
+                "A": "A",
+                "Q": "Bệnh nhân nam trẻ, tăng huyết áp, siêu âm hai thận to, có rất nhiều nang kích thước khác nhau là[cite: 124, 125]:"
+            },
+            "22": {
+                "1": "Thận to nhiều vi vôi hóa",
+                "2": "Thận đa nang di truyền trội",
+                "3": "Thận đa nang di truyền lặn",
+                "4": "Viêm thận bể thận cấp",
+                "A": "C",
+                "Q": "Bệnh nhân nhi, xơ gan, siêu âm hai thận to, nhu mô tăng âm đồng nhất mất phân biệt tủy vỏ là[cite: 125]:"
+            },
+            "23": {
+                "1": "Sỏi thận hai bên",
+                "2": "Vôi hóa nhu mô vỏ thận",
+                "3": "Vôi hóa nhu mô tủy thận",
+                "4": "Bệnh thận nhiễm bột",
+                "A": "C",
+                "Q": "Siêu âm thấy các tháp thận (tủy thận) tăng âm mạnh, có bóng cản là hình ảnh của[cite: 125]:"
+            },
+            "24": {
+                "1": "Nang cạnh bể thận",
+                "2": "Bể thận ngoài xoang",
+                "3": "Hội chứng chỗ nối bể thận-niệu quản",
+                "4": "Loạn sản thận dạng nang",
+                "A": "B",
+                "Q": "Siêu âm thấy bể thận giãn lớn nằm ngoài xoang thận, các đài thận không giãn là[cite: 125, 126]:"
+            },
+            "25": {
+                "1": "Sỏi thận",
+                "2": "U đường bài xuất (TCC)",
+                "3": "Nhiễm nấm đường bài xuất",
+                "4": "Máu cục bể thận",
+                "A": "B",
+                "Q": "Bệnh nhân trung niên đái máu, siêu âm bể thận thấy khối đặc giảm âm, không di động là[cite: 126]:"
+            },
+            "26": {
+                "1": "Nằm sấp",
+                "2": "Nằm nghiêng",
+                "3": "Nằm ngửa hai chân duỗi thẳng",
+                "4": "Nằm ngửa hai chân co",
+                "A": "B",
+                "Q": "Siêu âm thận tư thế bệnh nhân hay gặp nhất là[cite: 126, 127]:"
+            },
+            "27": {
+                "1": "Mặt cắt dọc",
+                "2": "Mặt cắt vành",
+                "3": "Mặt cắt chéo",
+                "4": "Mặt cắt ngang",
+                "A": "B",
+                "Q": "Mặt cắt thường sử dụng nhất để siêu âm thận (đường liên sườn/mạn sườn) là[cite: 127]:"
+            },
+            "28": {
+                "1": "Giảm âm hơn",
+                "2": "Đồng âm",
+                "3": "Tăng âm hơn",
+                "4": "Kém phân biệt",
+                "A": "A",
+                "Q": "Siêu âm thận bình thường, tháp thận thường có đậm độ âm thế nào so với vỏ thận[cite: 127, 128]:"
+            },
+            "29": {
+                "1": "Chiều ngang",
+                "2": "Chiều dài",
+                "3": "Bề dày nhu mô",
+                "4": "Diện cắt ngang",
+                "A": "B",
+                "Q": "Siêu âm kích thước thận để đánh giá bệnh lý thường sử dụng số đo nào nhất[cite: 128]:"
+            },
+            "30": {
+                "1": "Dấu ấn vào xoang thận từ ngoài vào",
+                "2": "Cấu trúc âm tương tự nhu mô tủy thận",
+                "3": "Kích thước thường không quá 3cm",
+                "4": "Thường có vị trí nơi nối 1/3 giữa và dưới thận",
+                "A": "B",
+                "Q": "Siêu âm biến thể phì đại trụ Bertin gồm các tiêu chuẩn sau, chọn ý SAI[cite: 128, 129, 130]:"
+            },
+            "31": {
+                "1": "2",
+                "2": "3",
+                "3": "4",
+                "4": "5",
+                "A": "B",
+                "Q": "Giải phẫu siêu âm niệu quản chia làm mấy đoạn (trên, giữa, dưới)[cite: 130, 131]:"
+            },
+            "32": {
+                "1": "Gặp ở trẻ sơ sinh và trẻ nhỏ",
+                "2": "Thường biểu hiện suy thận",
+                "3": "Siêu âm hai thận to ra, thường giảm âm",
+                "4": "Các nang thường có kích thước lớn",
+                "A": "A",
+                "Q": "Chẩn đoán bệnh thận đa nang di truyền lặn trên siêu âm thường gặp ở[cite: 131, 132, 133]:"
+            },
+            "33": {
+                "1": "Thường gặp nhiều khối cả hai bên thận",
+                "2": "Siêu âm điển hình có hình tăng âm đồng nhất, tương tự mỡ xoang thận",
+                "3": "Đa phần gây đái máu",
+                "4": "Nếu gặp nhiều cả hai bên thường phối hợp với xơ cứng củ",
+                "A": "B",
+                "Q": "Đặc điểm điển hình nhất của u mỡ cơ mạch (Angiomyolipoma) trên siêu âm là[cite: 137, 138, 139]:"
+            },
+            "34": {
+                "1": "> 10cm",
+                "2": "> 11cm",
+                "3": "> 12cm",
+                "4": "> 13cm",
+                "A": "C",
+                "Q": "Trên siêu âm, chẩn đoán thận to ở người trưởng thành khi kích thước dọc thận[cite: 136, 137]:"
+            },
+            "Name": "Siêu âm thận tiết niệu"
+        },
+        "Siêu âm sản phụ khoa": {
+            "1": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Vách trong suốt là cấu trúc trống âm, hình vuông, hoặc hình chữ nhật, nằm ở 1/3 trước đường giữa (liềm não) [cite: 1]"
+            },
+            "2": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Vách trong suốt có thể quan sát thấy dễ dàng ở tuần thứ 18 qua siêu âm đường bụng"
+            },
+            "3": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Dãn não thất được định nghĩa khi kích thước não thất bên  > 10mm"
+            },
+            "4": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Khi kích thước não thất bên lớn hơn hoặc bằng 12 mm, được gọi là giãn não thất nặng"
+            },
+            "5": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Nang đám rối mạch mạc thường xuất hiện khi thai 18-20 tuần, và thường kèm theo bất thường nhiễm sắc thể"
+            },
+            "6": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Kích thước túi thai tăng trung bình 2 mm/ngày ở giai đoạn 5-8 tuần đầu thai kỳ [cite: 2]"
+            },
+            "7": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Không được dùng mode Doppler xung để nghe tim thai khi thai  < 10 \\text{ tuần} [cite: 2]"
+            },
+            "8": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Số lượng túi noãn hoàng thường tương đương với số túi ối trong trường hợp đa thai ở giai đoạn sớm [cite: 2]"
+            },
+            "9": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Túi thai là một vòng tròn trống âm được viền bởi một lớp giảm âm nằm trong lớp màng rụng của nội mạc tử cung"
+            },
+            "10": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Khi chiều dài đầu mông lớn hơn hoặc bằng 4mm, mà không thấy tim thai, có thể chẩn đoán thai lưu"
+            },
+            "11": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Độ mờ da gáy được đo khi chiều dài đầu mông từ 45mm - 84mm, hoặc tuổi thai từ 11 tuần 0 ngày đến 13 tuần 6 ngày"
+            },
+            "12": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Đo độ mờ da gáy và làm Double test có giá trị sàng lọc tốt hơn Triple test"
+            },
+            "13": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Xét nghiệm Triple test được thực hiện từ 11-13 tuần 6 ngày [cite: 3]"
+            },
+            "14": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Doppler động mạch rốn cho phép đánh giá xem có tình trạng suy thai hay không [cite: 3]"
+            },
+            "15": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Chỉ số não/rốn luôn  > 1 trong thời kỳ thai nghén nếu thai nhi phát triển bình thường [cite: 3, 4]"
+            },
+            "16": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Trong siêu âm thai quý 2 và quý 3, luôn luôn làm Doppler động mạch não giữa và động mạch rốn để phát hiện những trường hợp suy thai [cite: 4]"
+            },
+            "17": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Chức năng nước ối: giúp sự trưởng thành của hệ tiêu hóa và hệ hô hấp [cite: 4]"
+            },
+            "18": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Định nghĩa thiểu ối khi AFI từ 0 - 6 \\text{ cm} và khoang ối lớn nhất  \\leq 2 \\text{ cm} [cite: 4]"
+            },
+            "19": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Trục của tim: 45 \\degree \\pm 10 \\degree [cite: 4]"
+            },
+            "20": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Tim thai bình thường: van ba lá bám thấp hơn van hai lá [cite: 4]"
+            },
+            "21": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Hai động mạch rốn chạy dọc bàng quang, có thể quan sát dễ dàng qua siêu âm Doppler [cite: 4, 5]"
+            },
+            "22": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Hậu môn có thể quan sát dễ dàng khi thai từ 18 tuần trở lên [cite: 5]"
+            },
+            "23": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Chẩn đoán não lộn ngoài khi thấy một phần cấu trúc não thai nhi nằm bên ngoài hộp sọ [cite: 5]"
+            },
+            "24": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Ở mặt cắt 3 mạch máu tim thai, kích thước động mạch chủ luôn lớn hơn động mạch phổi [cite: 5]"
+            },
+            "25": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Hình ảnh lạc nội mạc tử cung trong cơ là những cấu trúc giảm âm, có bờ rõ, nằm trong lớp cơ tử cung [cite: 5]"
+            },
+            "26": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Khi trong buồng tử cung không thấy túi ối,beta HCG > 1000 mUI/ml, có thể nghi ngờ chửa ngoài tử cung"
+            },
+            "27": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "B",
+                "Q": "Niêm mạc tử cung của người phụ nữ mãn kinh thường nhỏ hơn 8mm"
+            },
+            "28": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Đo độ mờ da gáy như hình sau là chính xác"
+            },
+            "29": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Cấu trúc của nang buồng trứng sau đây gợi ý đến u nang bì buồng trứng"
+            },
+            "30": {
+                "1": "Đúng",
+                "2": "Sai",
+                "A": "A",
+                "Q": "Hình ảnh cấu trúc dưới đây nghĩ nhiều đến ứ nước vòi tử cung [cite: 6]"
+            },
+            "31": {
+                "1": "Não thất bên",
+                "2": "Nang đám rối mạch mạc",
+                "3": "Đám rối mạch mạc của não thất bên",
+                "4": "Đồi thị",
+                "A": "C",
+                "Q": "Cấu trúc mũi tên dưới đây là gì? [cite: 6]"
+            },
+            "32": {
+                "1": "Bể lớn",
+                "2": "Tiểu não",
+                "3": "Thùy nhộng",
+                "4": "Não thất IV",
+                "A": "B",
+                "Q": "Cấu trúc mũi tên dưới đây là gì? [cite: 7]"
+            },
+            "33": {
+                "1": "Thể chai",
+                "2": "Thùy nhộng",
+                "3": "Não thất bên",
+                "4": "Đồi thị",
+                "A": "A",
+                "Q": "Hình ảnh mũi tên dưới đây là gì? [cite: 7]"
+            },
+            "34": {
+                "1": "Túi mật",
+                "2": "Dạ dày",
+                "3": "Tĩnh mạch rốn đoạn trong bụng",
+                "4": "Động mạch chủ bụng",
+                "A": "C",
+                "Q": "Cấu trúc mũi tên là gì? [cite: 7]"
+            },
+            "35": {
+                "1": "1 mm/ngày",
+                "2": "2 mm/ngày",
+                "3": "2,5 mm/ngày",
+                "4": "3 mm/ngày",
+                "A": "A",
+                "Q": "Giai đoạn đầu từ tuần 6 đến tuần thứ 9, chiều dài đầu mông tăng trung bình: [cite: 7]"
+            },
+            "36": {
+                "1": "Dấu hiệu chữ T",
+                "2": "Dấu hiệu chữ U",
+                "3": "Dấu hiệu Lamda",
+                "4": "Dấu hiệu chữ Y",
+                "A": "C",
+                "Q": "Dấu hiệu để nhận biết song thai 2 bánh rau trong giai đoạn đầu thai kỳ là: [cite: 7]"
+            },
+            "37": {
+                "1": "Nguy cơ sản khoa là như nhau khi so sánh với song thai 2 bánh rau",
+                "2": "Nguy cơ sản khoa thấp hơn song thai 2 bánh rau",
+                "3": "Nguy cơ đẻ non cao hơn song thai 2 bánh rau",
+                "4": "Nguy cơ dị tật thấp hơn song thai 2 bánh rau",
+                "A": "C",
+                "Q": "Song thai 1 bánh rau có đặc điểm: [cite: 7, 8]"
+            },
+            "38": {
+                "1": "Có RI luôn thấp hơn RI động mạch rốn",
+                "2": "Là dấu hiệu nhận biết có tổn thương chức năng bánh rau",
+                "3": "Dùng để khảo sát xem thai có dấu hiệu thiếu máu hay không",
+                "4": "Là dấu hiệu sớm của thai chậm phát triển",
+                "A": "C",
+                "Q": "Động mạch não giữa có đặc điểm: [cite: 8]"
+            },
+            "39": {
+                "1": "Chỉ số trở kháng động mạch tử cung tăng lên trong quá trình thai nghén",
+                "2": "Có liên quan đến nguy cơ tiền sản giật",
+                "3": "Dấu hiệu vết khuyết tiền tâm trương luôn xuất hiện ở quý II",
+                "4": "Cả b và c",
+                "A": "B",
+                "Q": "Động mạch tử cung có đặc điểm: [cite: 8, 9]"
+            },
+            "40": {
+                "1": "Chiều dài đầu mông  > 4mm mà không có tim thai",
+                "2": "Chiều dài đầu mông  > 5mm mà không có tim thai",
+                "3": "Chiều dài trung bình túi thai  > 25mm mà không có phôi thai",
+                "4": "Các tiêu chuẩn trên đều sai",
+                "A": "D",
+                "Q": "Chẩn đoán thai lưu khi: [cite: 9]"
+            },
+            "41": {
+                "1": "Thai nhi bình thường",
+                "2": "Thai nhi có nguy cơ thấp với dị tật tim",
+                "3": "Thai nhi có nguy cơ thấp với bất thường nhiễm sắc thể",
+                "4": "Cần làm thêm xét nghiệm double test",
+                "A": "C",
+                "Q": "Độ mờ da gáy 1,3mm, ta có thể kết luận là: [cite: 9, 10]"
+            },
+            "42": {
+                "1": "Thấy xương gò má",
+                "2": "Thai nằm ở tư thế trung gian",
+                "3": "Phóng to để thấy đầu thai nhi và 1/3 trên lồng ngực",
+                "4": "Câu b và c",
+                "A": "D",
+                "Q": "Độ mờ da gáy đo đúng khi: [cite: 10]"
+            },
+            "43": {
+                "1": "Thoát vị hoành",
+                "2": "Bất sản thận",
+                "3": "Dãn não thất",
+                "4": "Thoát vị cột sống",
+                "A": "A",
+                "Q": "Độ mờ da gáy có thể tăng trong các trường hợp sau: [cite: 10]"
+            },
+            "44": {
+                "1": "Chiều dài đầu mông",
+                "2": "Đường kính lưỡng đỉnh",
+                "3": "Chiều dài xương đùi",
+                "4": "3 câu trên là sai",
+                "A": "A",
+                "Q": "Để biết chính xác tuổi thai ở quý I thai kỳ, ta dựa vào: [cite: 10, 11]"
+            },
+            "45": {
+                "1": "Dãn bể thận 2 bên",
+                "2": "Dãn não thất bên",
+                "3": "Mất xương mũi",
+                "4": "Dày nếp da gáy",
+                "A": "B",
+                "Q": "Trong các dấu hiệu sau, dấu hiệu nào thai nhi KHÔNG CÓ tăng nguy cơ với hội chứng Down: [cite: 11]"
+            },
+            "46": {
+                "1": "Cân nặng thai nhi nằm dưới đường bách phân vị thứ 10",
+                "2": "Cân nặng thai nhi nằm dưới đường bách phân vị thứ 3",
+                "3": "Doppler động mạch tử cung bất thường",
+                "4": "3 đáp án trên là sai",
+                "A": "A",
+                "Q": "Định nghĩa thai chậm phát triển khi:"
+            },
+            "47": {
+                "1": " \\leq 20mm",
+                "2": " \\leq 30mm",
+                "3": " \\leq 40mm",
+                "4": " \\leq 50mm",
+                "A": "D",
+                "Q": "Thiểu ối được định nghĩa khi chỉ số ối:"
+            },
+            "48": {
+                "1": "lớn hơn hoặc bằng 200mm",
+                "2": "lớn hơn hoặc bằng 220mm",
+                "3": "lớn hơn hoặc bằng 250mm",
+                "4": "lớn hơn hoặc bằng 260mm",
+                "A": "C",
+                "Q": "Đa ối được định nghĩa khi chỉ số ối:"
+            },
+            "49": {
+                "1": "Van 2 lá",
+                "2": "Lỗ bầu dục",
+                "3": "Van động mạch chủ",
+                "4": "Động mạch chủ ngực",
+                "A": "C",
+                "Q": "Qua mặt cắt bốn buồng tim, ta không nhìn thấy:"
+            },
+            "50": {
+                "1": "Bệnh đảo gốc động mạch",
+                "2": "Bệnh kênh nhĩ thất",
+                "3": "Bệnh thất phải 2 đường ra",
+                "4": "Câu a và b",
+                "A": "B",
+                "Q": "Qua mặt cắt bốn buồng tim, ta có thể phát hiện ra:"
+            },
+            "51": {
+                "1": "Thông liên thất",
+                "2": "Thông liên nhĩ",
+                "3": "Hẹp động mạch phổi",
+                "4": "Câu a và b",
+                "A": "C",
+                "Q": "Siêu âm Sản khoa: Qua mặt cắt 3 mạch máu, ta có thể phát hiện ra: [cite: 13]"
+            },
+            "52": {
+                "1": "Có tĩnh mạch chủ trên đổ vào",
+                "2": "Có tĩnh mạch chủ dưới đổ vào",
+                "3": "Có tĩnh mạch phổi đổ vào",
+                "4": "Dòng chảy hướng từ nhĩ trái sang nhĩ phải",
+                "A": "C",
+                "Q": "Siêu âm Sản khoa: Đặc điểm nhĩ trái khi tim thai bình thường là: [cite: 13]"
+            },
+            "53": {
+                "1": "Động mạch chủ đi ra từ thất phải",
+                "2": "Có dải điều hòa",
+                "3": "Xoang vành đổ vào",
+                "4": "Đáp án B và C",
+                "A": "D",
+                "Q": "Siêu âm Sản khoa: Đặc điểm của thất phải thai nhi: [cite: 13]"
+            },
+            "54": {
+                "1": "Thất phải thành dày",
+                "2": "Không nhìn thấy động mạch phổi",
+                "3": "Có thông liên thất",
+                "4": "Không kèm theo bất thường nhiễm sắc thể",
+                "A": "C",
+                "Q": "Siêu âm Sản khoa: Đặc điểm của Tứ chứng Fallot: [cite: 13]"
+            },
+            "55": {
+                "1": "Thoát vị tủy sống thể đóng",
+                "2": "Trisomi 21",
+                "3": "Bất sản thể chai",
+                "4": "Hẹp khớp sọ",
+                "A": "D",
+                "Q": "Siêu âm Sản khoa: Hình ảnh đầu thai nhi thay đổi trong bệnh lý sau: [cite: 13]"
+            },
+            "56": {
+                "1": "Thoát vị não – màng não",
+                "2": "Thoát vị cột sống thể mở",
+                "3": "Thoát vị cột sống thể đóng",
+                "4": "Bất sản thể chai",
+                "A": "B",
+                "Q": "Siêu âm Sản khoa: Đầu thai nhi hình quả chanh, tiểu não hình quả chuối nghĩ nhiều đến: [cite: 14]"
+            },
+            "57": {
+                "1": "Thực quản",
+                "2": "Lách",
+                "3": "Não thất bên",
+                "4": "Điểm cốt hóa đầu dưới xương đùi",
+                "A": "A",
+                "Q": "Siêu âm Sản khoa: Cấu trúc nào thường không nhìn thấy được trên siêu âm quý 2: [cite: 14]"
+            },
+            "58": {
+                "1": "Thoát vị hoành",
+                "2": "Teo thực quản",
+                "3": "Quan sát dạ dày sau 30 phút",
+                "4": "Câu a và b",
+                "A": "D",
+                "Q": "Siêu âm Sản khoa: Không thấy hình ảnh dạ dày trong ổ bụng thai nhi thường do: [cite: 14]"
+            },
+            "59": {
+                "1": "Bất sản thận 1 bên",
+                "2": "Thận lạc chỗ",
+                "3": "Thận móng ngựa",
+                "4": "Có thể a hoặc b",
+                "A": "D",
+                "Q": "Siêu âm Sản khoa: Không thấy hình ảnh thận 1 bên ở vị trí hố thận gợi ý: [cite: 14]"
+            },
+            "60": {
+                "1": "Chỉ được chẩn đoán khi thai  > 28 tuần",
+                "2": "Chỉ được chẩn đoán khi thai  > 20 tuần",
+                "3": "Cần bàng quang căng để nhìn rõ mép bánh rau",
+                "4": "Nếu nghi ngờ, cần siêu âm đầu dò âm đạo để xác định",
+                "A": "D",
+                "Q": "Siêu âm Sản khoa: Trong chẩn đoán rau tiền đạo: [cite: 15]"
+            },
+            "61": {
+                "1": "Vách trong suốt",
+                "2": "Thể chai",
+                "3": "Não thất bên",
+                "4": "Đồi thị",
+                "A": "B",
+                "Q": "Siêu âm Sản khoa: Trên mặt cắt đo đường kính lưỡng đỉnh (BPD), cấu trúc nào KHÔNG quan sát thấy: [cite: 15]"
+            },
+            "62": {
+                "1": "Thùy nhộng",
+                "2": "Tiểu não",
+                "3": "Não thất bên",
+                "4": "Bể lớn",
+                "A": "C",
+                "Q": "Siêu âm Sản khoa: Cấu trúc nào sau đây KHÔNG thuộc vùng hố sau: [cite: 15]"
+            },
+            "63": {
+                "1": "Túi mật",
+                "2": "Hai thận",
+                "3": "Động mạch chủ bụng",
+                "4": "Tĩnh mạch chủ dưới",
+                "A": "B",
+                "Q": "Siêu âm Sản khoa: Trên lát cắt đo chu vi bụng (AC), cấu trúc nào KHÔNG quan sát thấy: [cite: 15]"
+            },
+            "64": {
+                "1": "1",
+                "2": "2",
+                "3": "3",
+                "4": "4",
+                "A": "C",
+                "Q": "Siêu âm Sản khoa: Cấu trúc dây rốn bình thường có mấy mạch máu: [cite: 15]"
+            },
+            "65": {
+                "1": "Nang bì",
+                "2": "Nang xuất huyết",
+                "3": "Nang dạng nội mạc tử cung",
+                "4": "Nang đặc",
+                "A": "D",
+                "Q": "Siêu âm Phụ khoa: Nang buồng trứng nào sau đây có nguy cơ ác tính nhất: [cite: 16]"
+            },
+            "66": {
+                "1": "Cơ tử cung dày đều",
+                "2": "Ranh giới không rõ",
+                "3": "Có thể tăng âm hoặc giảm âm so với lớp cơ xung quanh",
+                "4": "Phổ Doppler thường có tín hiệu mạch ở trung tâm",
+                "A": "C",
+                "Q": "Siêu âm Phụ khoa: Đặc điểm của U xơ tử cung: [cite: 16]"
+            },
+            "67": {
+                "1": "Ranh giới tổn thương rõ ràng",
+                "2": "Thành cơ tử cung dày, không cân xứng",
+                "3": "Hay gặp ở phụ nữ trẻ, chưa có thai",
+                "4": "Câu B và D (bao gồm cả thành cơ dày không cân xứng)",
+                "A": "D",
+                "Q": "Siêu âm Phụ khoa: Đặc điểm của Lạc nội mạc tử cung trong cơ (Adenomyosis): [cite: 16]"
+            },
+            "68": {
+                "1": "Thường có thành phần tăng âm trong nang",
+                "2": "Có nhiều thùy và nhú",
+                "3": "Nang đặc",
+                "4": "Thường mất sau vài chu kỳ kinh",
+                "A": "D",
+                "Q": "Siêu âm Phụ khoa: Nang buồng trứng cơ năng có đặc điểm: [cite: 17]"
+            },
+            "69": {
+                "1": "Hút thuốc",
+                "2": "Dụng cụ tử cung",
+                "3": "Tiền sử u nang buồng trứng",
+                "4": "Sau khi thực hiện kỹ thuật IVF",
+                "A": "C",
+                "Q": "Yếu tố nào sau đây KHÔNG PHẢI là nguy cơ của thai ngoài tử cung: [cite: 17]"
+            },
+            "70": {
+                "1": "Cấu trúc hình ống, chứa dịch tăng âm, hình chữ S, V, U",
+                "2": "Cấu trúc hình ống chứa dịch trống âm, gấp khúc tạo vách ngăn không hoàn toàn",
+                "3": "Cấu trúc hình ống, thành dày, chứa dịch tăng âm",
+                "4": "Câu A và C",
+                "A": "B",
+                "Q": "Siêu âm Phụ khoa: Hình ảnh điển hình của ứ nước vòi trứng là: [cite: 17]"
+            },
+            "71": {
+                "1": "Mép bánh rau cách lỗ trong cổ tử cung  < 2 \\text{ cm}",
+                "2": "Mép bánh rau cách lỗ trong cổ tử cung  < 1 \\text{ cm}",
+                "3": "Siêu âm đầu dò âm đạo là cần thiết để chẩn đoán",
+                "4": "Chỉ chẩn đoán khi thai  > 32 tuần",
+                "A": "A",
+                "Q": "Rau tiền đạo được chẩn đoán xác định dựa trên tiêu chí nào: [cite: 18]"
+            },
+            "72": {
+                "1": "Hay gặp ở những người mổ đẻ cũ",
+                "2": "Tăng nguy cơ rau bong non",
+                "3": "Tăng nguy cơ thai nhỏ hơn tuổi thai",
+                "4": "Hay gặp trong song thai",
+                "A": "D",
+                "Q": "Dây rau bám màng có đặc điểm: [cite: 18]"
+            },
+            "73": {
+                "1": "Dãn não thất",
+                "2": "Mất vách trong suốt",
+                "3": "Tiểu não hình chuối",
+                "4": "Tăng kích thước bể lớn",
+                "A": "B",
+                "Q": "Dấu hiệu thường gặp nhất trong bất sản thể chai là: [cite: 18]"
+            },
+            "74": {
+                "1": "Là dấu hiệu điển hình của hội chứng Down",
+                "2": "Tăng nguy cơ hội chứng Down",
+                "3": "Dãn não thất nặng khi kích thước lớn hơn hoặc bằng 14mm",
+                "4": "Cần kiểm tra xem có nhiễm trùng bào thai hay không",
+                "A": "D",
+                "Q": "Khi phát hiện dãn não thất bên, cần lưu ý: [cite: 19]"
+            },
+            "75": {
+                "1": "Thường mất đi sau 26 tuần",
+                "2": "Cần chọc ối để kiểm tra nhiễm sắc thể nếu nang to trên 5mm",
+                "3": "Không tăng nguy cơ bất thường NST nếu đơn thuần và mẹ  < 35 tuổi",
+                "4": "Tăng nguy cơ dãn não thất",
+                "A": "A",
+                "Q": "Nang đám rối mạch mạc ở thai nhi có đặc điểm: [cite: 20]"
+            },
+            "76": {
+                "1": "Thường nhỏ hơn 120 \\text{ l/p}",
+                "2": "Thường xuất hiện khi CRL lớn hơn hoặc bằng 3mm",
+                "3": "Nên đo tim thai bằng Doppler xung",
+                "4": "Khi CRL lớn hơn hoặc bằng 7mm mà không tim thai, có thể chẩn đoán thai lưu",
+                "A": "D",
+                "Q": "Đặc điểm tim thai quý đầu thai kỳ: [cite: 20]"
+            },
+            "77": {
+                "1": " > 160 \\text{ l/p}",
+                "2": " < 110 \\text{ l/p}",
+                "3": " < 120 \\text{ l/p}",
+                "4": " > 180 \\text{ l/p}",
+                "A": "B",
+                "Q": "Nhịp tim thai được coi là bất thường (nhịp chậm) khi: [cite: 20]"
+            },
+            "78": {
+                "1": "Nguyên nhân có thể do nhiễm trùng bào thai",
+                "2": "Âm vang của ruột lớn hơn âm vang xương bên cạnh",
+                "3": "Tăng nguy cơ bất thường nhiễm sắc thể",
+                "4": "Có thể gặp trong thai chậm phát triển",
+                "A": "A",
+                "Q": "Ruột non tăng âm vang ở thai nhi có thể do: [cite: 21]"
+            },
+            "79": {
+                "1": "Đồi thị 2 bên",
+                "2": "Tiểu não",
+                "3": "Vách trong suốt",
+                "4": "Thể chai",
+                "A": "A",
+                "Q": "Ở mặt cắt ngang não thai nhi qua đồi thị, cấu trúc quan sát thấy đầu tiên là: [cite: 21]"
+            },
+            "80": {
+                "1": "Luôn có ý nghĩa bệnh lý",
+                "2": "Được chẩn đoán khi kích thước bể lớn lớn hơn hoặc bằng 10mm",
+                "3": "Phải đánh giá cấu trúc thùy nhộng hố sau",
+                "4": "Nên chọc ối để loại trừ bất thường nhiễm sắc thể",
+                "A": "B",
+                "Q": "Tăng kích thước bể lớn được xác định khi: [cite: 21]"
+            },
+            "81": {
+                "1": "Van 2 lá",
+                "2": "Động mạch phổi",
+                "3": "Tĩnh mạch phổi",
+                "4": "Lỗ bầu dục",
+                "A": "A",
+                "Q": "Mặt cắt 4 buồng tim thai nhi quan sát rõ nhất cấu trúc nào: [cite: 22]"
+            },
+            "82": {
+                "1": "Ống động mạch",
+                "2": "Cung động mạch chủ",
+                "3": "Van động mạch chủ",
+                "4": "Tĩnh mạch chủ trên",
+                "A": "A",
+                "Q": "Mặt cắt 3 mạch máu tim thai có thể quan sát thấy: [cite: 22]"
+            },
+            "83": {
+                "1": "Túi mật",
+                "2": "Dạ dày",
+                "3": "Động mạch chủ bụng",
+                "4": "Tuyến thượng thận",
+                "A": "A",
+                "Q": "Mặt cắt ngang bụng thai nhi (AC) thường thấy: [cite: 22]"
+            },
+            "84": {
+                "1": "Thoát vị hoành",
+                "2": "Bệnh phổi biệt lập",
+                "3": "Bệnh phổi tuyến nang",
+                "4": "Thiểu sản phổi",
+                "A": "B",
+                "Q": "Tổn thương tăng âm vang của phổi thường gặp trong: [cite: 22]"
+            },
+            "85": {
+                "1": "Teo thực quản",
+                "2": "Mẹ bị tiểu đường",
+                "3": "Bất sản thận",
+                "4": "Tắc tá tràng",
+                "A": "B",
+                "Q": "Nguyên nhân gây đa ối thường gặp nhất ở mẹ là: [cite: 23]"
+            },
+            "86": {
+                "1": "Teo thực quản",
+                "2": "Thai chậm phát triển",
+                "3": "Thận lạc chỗ",
+                "4": "Van niệu đạo sau",
+                "A": "B",
+                "Q": "Thiểu ối thường đi kèm với tình trạng lý nào của thai: [cite: 23]"
+            },
+            "87": {
+                "1": "Có ý nghĩa bánh rau bị tổn thương chức năng",
+                "2": "Thường xảy ra từ quý 2 thai kỳ",
+                "3": "Chỉ có ý nghĩa đánh giá độ trưởng thành của thai",
+                "4": "Không liên quan đến chỉ số trở kháng động mạch rốn",
+                "A": "C",
+                "Q": "Độ canxi hóa bánh rau có ý nghĩa: [cite: 23]"
+            },
+            "88": {
+                "1": "Thai nhiễm trùng",
+                "2": "Thai bị bất thường nhiễm sắc thể",
+                "3": "Thai bình thường",
+                "4": "Thoát vị hoành",
+                "A": "B",
+                "Q": "Độ mờ da gáy tăng có nguy cơ cao nhất với: [cite: 23]"
+            },
+            "89": {
+                "1": "Sàng lọc quý 1, thai có nguy cơ cao với hội chứng Down",
+                "2": "Mẹ trên 40 tuổi",
+                "3": "Dị tật tim thai nhi",
+                "4": "Tiền sử sinh con Down",
+                "A": "A",
+                "Q": "Chọc ối được chỉ định ưu tiên trong trường hợp: [cite: 24]"
+            },
+            "90": {
+                "1": "Thai vô sọ",
+                "2": "Không phân chia não trước",
+                "3": "Dãn não thất",
+                "4": "Bất sản thể chai",
+                "A": "A",
+                "Q": "Dị tật hệ thần kinh nào có thể phát hiện được sớm trong quý 1: [cite: 24]"
+            },
+            "91": {
+                "1": "Mẹ bị tiểu đường",
+                "2": "Thai mắc hội chứng Down",
+                "3": "Thai chậm phát triển",
+                "4": "Loạn sản sụn",
+                "A": "D",
+                "Q": "Xương đùi thai nhi ngắn mức độ nặng thường gặp trong: [cite: 24]"
+            },
+            "92": {
+                "1": "Có thể sinh đôi cùng noãn",
+                "2": "Có dấu hiệu chữ T trên siêu âm giai đoạn đầu",
+                "3": "Nguy cơ sản khoa là như nhau với song thai 1 bánh rau",
+                "4": "Nếu 1 thai chết, thai còn lại có nguy cơ cao bị tổn thương",
+                "A": "A",
+                "Q": "Song thai 2 bánh rau, 2 buồng ối có đặc điểm: [cite: 24]"
+            },
+            "93": {
+                "1": "Có dấu hiệu chữ T trên siêu âm giai đoạn đầu",
+                "2": "Nguy cơ đẻ non cao hơn song thai 2 bánh rau",
+                "3": "50% xảy ra hội chứng truyền máu",
+                "4": "Cân nặng 2 thai lệch nhau > 10% nghĩ đến hội chứng truyền máu",
+                "A": "A",
+                "Q": "Dấu hiệu siêu âm đặc trưng của song thai 1 bánh rau là: [cite: 25]"
+            },
+            "94": {
+                "1": "Thai có nguy cơ chậm phát triển",
+                "2": "Thai tăng nguy cơ chết lưu",
+                "3": "Tăng nguy cơ bất thường nhiễm sắc thể",
+                "4": "Cần chọc ối",
+                "A": "C",
+                "Q": "Hình ảnh một động mạch rốn đơn độc làm tăng nguy cơ: [cite: 25]"
+            },
+            "95": {
+                "1": "Cần sử dụng Doppler để phân biệt với thai nhỏ hơn tuổi thai",
+                "2": "Cần đình chỉ thai nghén khi không thấy nước ối",
+                "3": "Cần chọc ối để tìm nguyên nhân nếu thai chậm phát triển sớm",
+                "4": "Vòng bụng thường lớn hơn vòng đầu",
+                "A": "A",
+                "Q": "Khi chẩn đoán thai chậm phát triển trong tử cung: [cite: 25]"
+            },
+            "96": {
+                "1": "Không thấy hình ảnh thai nhi",
+                "2": "Bánh rau dày, có nhiều vùng trống âm",
+                "3": "Nồng độ beta HCG bình thường",
+                "4": "Gây chảy máu âm đạo quý đầu thai kỳ",
+                "A": "B",
+                "Q": "Đặc điểm siêu âm điển hình của chửa trứng bán phần: [cite: 26]"
+            },
+            "97": {
+                "1": "\beta \\text{-HCG} > 1000 mUI/ml, không thấy túi ối trong tử cung",
+                "2": "Hình ảnh cấu trúc hình nhẫn nằm cạnh tử cung",
+                "3": "Máu trong ổ bụng, que thử thai dương tính",
+                "4": "Khi có hình ảnh túi ối trong tử cung, có thể loại trừ thai ngoài tử cung",
+                "A": "B",
+                "Q": "Dấu hiệu siêu âm trực tiếp gợi ý thai ngoài tử cung là: [cite: 26]"
+            },
+            "98": {
+                "1": "Có hình ảnh “gương mờ”",
+                "2": "Có hình ảnh tăng âm dạng hạt",
+                "3": "Có hình ảnh tăng âm kèm bóng cản",
+                "4": "Nang trống âm, có vách",
+                "A": "C",
+                "Q": "Hình ảnh siêu âm của u nang bì buồng trứng (Teratoma): [cite: 27]"
+            },
+            "99": {
+                "1": "Tử cung thành dày không đều",
+                "2": "Cơ tử cung có những vùng giảm âm ranh giới rõ",
+                "3": "Có nang trống âm nhỏ trong cơ tử cung",
+                "4": "Những đường kẻ sọc kèm bóng cản",
+                "A": "A",
+                "Q": "Hình ảnh siêu âm hướng tới lạc nội mạc tử cung trong cơ: [cite: 27]"
+            },
+            "100": {
+                "1": "Cấu trúc giảm âm trong cơ tử cung, ranh giới rõ",
+                "2": "Có nang trống âm nhỏ trong cơ tử cung",
+                "3": "Có tăng sinh mạch máu trong khối",
+                "4": "Thường là khối u lành tính",
+                "A": "A",
+                "Q": "Đặc điểm siêu âm phổ biến nhất của U xơ tử cung là: [cite: 27, 28]"
+            },
+            "Name": "Siêu âm sản phụ khoa"
+        },
+        "Siêu âm vú": {
+            "1": {
+                "1": "Tuổi dậy thì phần xơ tuyến phát triển tăng âm",
+                "2": "Phụ nữ mãn kinh có thoái hóa mỡ nên giảm âm",
+                "3": "Phụ nữ mãn kinh dùng thuốc hóc môn Estrogen nên nhu mô giảm âm",
+                "4": "Người trẻ phần xơ mỏng",
+                "A": "D",
+                "Q": "Siêu âm Tuyến vú: Ý nào sau đây KHÔNG phù hợp?"
+            },
+            "2": {
+                "1": "Hình A",
+                "2": "Hình B",
+                "3": "Hình C",
+                "A": "A",
+                "Q": "Hình nào sau đây phù hợp nhất với tuyến vú ở phụ nữ tuổi sinh đẻ?"
+            },
+            "3": {
+                "1": "Góc ¼ trên ngoài vú có thể có hạch nhỏ",
+                "2": "Cấu trúc giảm âm",
+                "3": "Phần tủy giảm âm và phần vỏ tăng âm",
+                "4": "Giới hạn không rõ",
+                "A": "A",
+                "Q": "Đặc điểm nào sau phù hợp với hạch bình thường vùng nách và vú?"
+            },
+            "4": {
+                "1": "Nang vú đơn thuần",
+                "2": "Giãn ống dẫn sữa",
+                "3": "U xơ tuyến vú",
+                "4": "Áp xe vú",
+                "A": "A",
+                "Q": "Hình rỗng âm (anechoic) trong vú có thể gặp trong trường hợp nào?"
+            },
+            "5": {
+                "1": "Ung thư vú",
+                "2": "Xơ sẹo",
+                "3": "Vôi",
+                "4": "Nang tuyến",
+                "A": "C",
+                "Q": "Nốt tổn thương cản âm (shadowing) trong vú có thể gặp trong:"
+            },
+            "6": {
+                "1": "Hình giảm âm",
+                "2": "Chiều rộng/chiều cao <1",
+                "3": "Thường giới rõ",
+                "4": "Thường không có vôi bên trong",
+                "A": "B",
+                "Q": "Đặc điểm nào sau đây KHÔNG phù hợp với U xơ tuyến vú điển hình?"
+            },
+            "7": {
+                "1": "Hay gặp nữ 20-30T",
+                "2": "Khối chắc, di động",
+                "3": "Dải xơ xung quanh hội tụ",
+                "4": "Có thể thấy bóng cản bờ hai bên",
+                "A": "C",
+                "Q": "Ý nào sau đây KHÔNG phù hợp với U xơ tuyến vú điển hình?"
+            },
+            "8": {
+                "1": "Có vi vôi hóa",
+                "2": "Có viền tăng âm xung quanh",
+                "3": "Có thâm nhiễm tăng âm tới tổ chức dưới da",
+                "4": "Cấu trúc xơ xung quanh bị đè đẩy",
+                "A": "D",
+                "Q": "Đặc điểm nào sau đây KHÔNG phù hợp với tổn thương ác tính tuyến vú?"
+            },
+            "9": {
+                "1": "Hình giảm âm",
+                "2": "Có viền tăng âm xung quanh",
+                "3": "Bờ đều",
+                "4": "Gợi ý tổn thương ác tính",
+                "A": "D",
+                "Q": "Siêu âm Tuyến vú: Ý nào sau đây phù hợp với hình ảnh tổn thương ác tính?"
+            },
+            "10": {
+                "1": "Hình hút âm phía sau",
+                "2": "Hình hút âm phía bờ hai bên",
+                "3": "Bờ giới hạn rõ",
+                "4": "Dạng lành tính u xơ tuyến",
+                "A": "A",
+                "Q": "Ý nào sau đây phù hợp với hình ảnh siêu âm vú có bóng cản lưng?"
+            },
+            "11": {
+                "1": "Vôi hóa bên trong",
+                "2": "Bờ nét",
+                "3": "Bờ không đều",
+                "4": "Có tăng âm xung quanh dạng thâm nhiễm",
+                "A": "C",
+                "Q": "Ý nào sau đây phù hợp với hình ảnh siêu âm vú gợi ý tính chất ác tính?"
+            },
+            "12": {
+                "1": "Hình giảm âm, có tăng âm phía sau",
+                "2": "Dịch bên trong có vẩn âm, không đồng nhất",
+                "3": "Thường không đau khi ấn đầu dò",
+                "4": "Thường có hạch to phản ứng kèm theo",
+                "A": "B",
+                "Q": "Viêm áp xe vú có đặc điểm nào sau đây?"
+            },
+            "Name": "Siêu âm vú"
+        },
+        "Nhiễu siêu âm": {
+            "1": {
+                "1": "Sóng siêu âm phản hồi gián đoạn trên một mặt phẳng ngăn cách",
+                "2": "Mỗi lần phản hồi tạo ra vệt sóng gần hơn vệt trước",
+                "3": "Các vệt sóng phản hồi không song song",
+                "4": "Sóng phản hồi khi hai cấu trúc có trở kháng âm khác nhau",
+                "A": "A",
+                "Q": "Đặc điểm nào sau đây phù hợp với nhiễu ảnh do phản xạ nhiều lần (Reverberation)?"
+            },
+            "2": {
+                "1": "Phản hồi nhiều lần trong một cấu trúc dễ phản xạ",
+                "2": "Gặp với bọt khí",
+                "3": "Thành mạch",
+                "4": "Cholesterol",
+                "A": "C",
+                "Q": "Ý nào sau đây KHÔNG phù hợp với dấu hiệu đuôi sao chổi (Comet tail)?"
+            },
+            "3": {
+                "1": "Gặp mặt phân cách rất phản xạ và thẳng",
+                "2": "Do những sóng phụ gây ra",
+                "3": "Ảnh soi gương đối bên với cơ hoành",
+                "4": "Hay gặp trong u máu",
+                "A": "D",
+                "Q": "Ý nào sau đây KHÔNG phù hợp với nhiễu ảnh soi gương (Mirror image)?"
+            },
+            "4": {
+                "1": "Khi tốc độ dẫn truyền sóng siêu âm trong các mô khác nhau",
+                "2": "U mỡ có thể gây nhiễu ảnh này",
+                "3": "Trên ảnh thấy đường bờ mất liên tục",
+                "4": "Ảnh đường bờ sẽ gần hơn nếu cấu trúc phía trước sóng âm truyền chậm",
+                "A": "A",
+                "Q": "Ý nào sau đây phù hợp với nhiễu ảnh biến dạng đường bờ?"
+            },
+            "5": {
+                "1": "Khi sóng âm tới cấu trúc có trở kháng cao",
+                "2": "Bề mặt tăng âm dạng cung hoặc bán nguyệt",
+                "3": "Vùng sau giảm âm",
+                "4": "Khí có gây nhiễu ảnh này",
+                "A": "C",
+                "Q": "Nhiễu ảnh bóng cản lưng (Acoustic shadowing) có đặc điểm:"
+            },
+            "6": {
+                "1": "Do chùm sóng âm không vuông góc với mặt phân cách",
+                "2": "Gặp tại vị trí rìa",
+                "3": "Tạo hình tăng âm phía sau",
+                "4": "Thể hiện cấu trúc có vỏ, thành dày",
+                "A": "C",
+                "Q": "Ý nào sau đây KHÔNG phù hợp với bóng cản bờ (Edge shadowing)?"
+            },
+            "7": {
+                "1": "Cấu trúc bên trong không suy giảm chùm sóng âm",
+                "2": "Gặp thành phần dịch bên trong",
+                "3": "Gặp trong cấu trúc xơ",
+                "4": "Gặp trong cấu trúc mỡ",
+                "A": "C",
+                "Q": "Ý nào sau đây KHÔNG phù hợp với dấu hiệu tăng sáng phía sau (Posterior enhancement)?"
+            },
+            "8": {
+                "1": "Khi sóng trở về đầu dò không theo đường thẳng",
+                "2": "Trên siêu âm hay gặp tại vị trí thành bên bàng quang",
+                "3": "Hình ảnh siêu âm không giống với hình vẩn âm",
+                "4": "Hạn chế bằng cách tăng Gain khi làm siêu âm",
+                "A": "B",
+                "Q": "Nhiễu ảnh do sóng phản hồi chậm (Side lobe artifact) có đặc điểm:"
+            },
+            "9": {
+                "1": "Chọn vị trí và đầu dò thích hợp tùy tạng thăm khám",
+                "2": "Bôi gel tốt",
+                "3": "Dịch chuyển đầu dò tránh vuông góc với bờ tạng cần thăm khám",
+                "4": "Hình nhiễu ảnh luôn tồn tại trên các hướng thăm khám",
+                "A": "A",
+                "Q": "Ý nào sau đây phù hợp nhất để hạn chế tối đa nhiễu ảnh khi siêu âm?"
+            },
+            "Name": "Nhiễu siêu âm"
+        }
+    }
+}
